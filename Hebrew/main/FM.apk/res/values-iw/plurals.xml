@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="notification_rec_content">
+    <item quantity="other">%d הקלטות FM</item>
+    <item quantity="one">הקלטת FM אחת</item>
+  </plurals>
+  <plurals name="toast_channel_searched">
+    <item quantity="other">%1$d תחנות נסרקו</item>
+    <item quantity="one">תחנה אחת נסרקה</item>
+  </plurals>
+</resources>

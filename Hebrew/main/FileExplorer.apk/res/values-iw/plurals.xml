@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="backup_message_wechat_video">
+    <item quantity="other">תוקפם של %1$d סרטונים בשיחות WeChat עומד לפוג. לגבות בזיכרון הפנימי של מכשירך?</item>
+    <item quantity="one">תוקף וידאו אחד בשיחות WeChat עומד לפוג. לגבות בזיכרון הפנימי של מכשירך?</item>
+  </plurals>
+  <plurals name="days">
+    <item quantity="other">%1$d ימים</item>
+    <item quantity="one">יום אחד</item>
+    <item quantity="two">יומיים</item>
+  </plurals>
+  <plurals name="days_ago">
+    <item quantity="other">לפני %1$d ימים</item>
+    <item quantity="one">לפני יום אחד</item>
+    <item quantity="two">לפני יומיים</item>
+  </plurals>
+  <plurals name="delete_files_confirm">
+    <item quantity="other">מחיקת %1$d קבצים</item>
+    <item quantity="one">מחיקת קובץ אחד</item>
+  </plurals>
+  <plurals name="delete_folders_confirm">
+    <item quantity="other">" ו-%1$d תיקיות?"</item>
+    <item quantity="one">" ותיקיה אחת?"</item>
+  </plurals>
+  <plurals name="directory_item_count">
+    <item quantity="other">%d פריטים</item>
+    <item quantity="one">פריט אחד</item>
+  </plurals>
+  <plurals name="file_count">
+    <item quantity="other">%1$d פריטים</item>
+    <item quantity="one">פריט אחד</item>
+  </plurals>
+  <plurals name="file_notify_title">
+    <item quantity="other">%1$d קבצים התקבלו מ-%2$s</item>
+    <item quantity="one">קובץ אחד התקבל מ-%2$s</item>
+  </plurals>
+  <plurals name="file_notify_title_wechat_sticker">
+    <item quantity="other">%1$d מדבקות WeChat חדשות היום</item>
+    <item quantity="one">מדבקת WeChat חדשה אחת היום</item>
+  </plurals>
+  <plurals name="file_notify_title_wechat_video">
+    <item quantity="other">%1$d קבצים התקבלו מ-WeChat</item>
+    <item quantity="one">קובץ אחד התקבל מ-WeChat</item>
+  </plurals>
+  <plurals name="file_notify_title_wechat_video_auto_backup">
+    <item quantity="other">%1$d סירטווני WeChat גובו.</item>
+    <item quantity="one">וידאו WeChat אחד גובה.</item>
+  </plurals>
+  <plurals name="file_notify_title_wechat_video_expire">
+    <item quantity="other">תוקפם של %1$d סרטוני WeChat עומד לפוג</item>
+    <item quantity="one">תוקף וידאו אחד של WeChat עומד לפוג</item>
+  </plurals>
+  <plurals name="follow_count">
+    <item quantity="other">%1$s עוקבים</item>
+    <item quantity="one">עוקב אחד</item>
+  </plurals>
+  <plurals name="follower_num">
+    <item quantity="other">עוקבים</item>
+    <item quantity="one">עוקב</item>
+  </plurals>
+  <plurals name="found_new_files">
+    <item quantity="other">נמצאו %1$d קבצים חדשים</item>
+    <item quantity="one">נמצא קובץ חדש אחד</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="other">%1$d שעות</item>
+    <item quantity="one">שעה אחת</item>
+    <item quantity="two">שעתיים</item>
+  </plurals>
+  <plurals name="hours_ago">
+    <item quantity="other">לפני %1$d שעות</item>
+    <item quantity="one">לפני שעה אחת</item>
+    <item quantity="two">לפני שעתיים</item>
+  </plurals>
+  <plurals name="items_file">
+    <item quantity="other">(%1$d פריטים)</item>
+    <item quantity="one">(פריט אחד)</item>
+  </plurals>
+  <plurals name="items_picture">
+    <item quantity="other">(%1$d פריטים)</item>
+    <item quantity="one">(פריט אחד)</item>
+  </plurals>
+  <plurals name="mins">
+    <item quantity="other">%1$d דקות</item>
+    <item quantity="one">דקה אחת</item>
+  </plurals>
+  <plurals name="mins_ago">
+    <item quantity="other">לפני %1$d דקות</item>
+    <item quantity="one">לפני דקה אחת</item>
+  </plurals>
+  <plurals name="number_of_comment">
+    <item quantity="other">%1$s תגובות</item>
+    <item quantity="one">תגובה אחת</item>
+  </plurals>
+  <plurals name="number_of_comment_flow">
+    <item quantity="other">%1$s הערות</item>
+    <item quantity="one">הערה אחת</item>
+  </plurals>
+  <plurals name="numSelectedFile">
+    <item quantity="other">%1$d נבחרו</item>
+    <item quantity="one">אחד נבחר</item>
+  </plurals>
+  <plurals name="remote_video_update">
+    <item quantity="other">נמצאו %1$s סרטונים חדשים</item>
+    <item quantity="one">נמצא וידאו חדש אחד</item>
+  </plurals>
+  <plurals name="search_head_hint_app">
+    <item quantity="other">קבצים קשורים ליישום \"%1$s\" (%2$d פריטים)</item>
+    <item quantity="one">קבצים קשורים ליישום \"%1$s\" (פריט אחד)</item>
+  </plurals>
+  <plurals name="search_head_hint_file">
+    <item quantity="other">קבצים קשורים ל\"%1$s\" (%2$d פריטים)</item>
+    <item quantity="one">קבצים קשורים ל\"%1$s\" (פריט אחד)</item>
+  </plurals>
+  <plurals name="search_head_hint_tag">
+    <item quantity="other">קבצים קשורים לתגית \"%1$s\" (%2$d פריטים)</item>
+    <item quantity="one">קבצים קשורים לתגית \"%1$s\" (פריט אחד)</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="other">%1$d שניות</item>
+    <item quantity="one">שניה אחת</item>
+  </plurals>
+  <plurals name="user_follow_me_items">
+    <item quantity="other">עוקבים</item>
+    <item quantity="one">עוקב</item>
+  </plurals>
+  <plurals name="user_sign_limt">
+    <item quantity="other">באפשרותך להזין %d תוים</item>
+    <item quantity="one">באפשרותך להזין תו אחד</item>
+  </plurals>
+  <plurals name="user_upload_items">
+    <item quantity="other">סרטונים</item>
+    <item quantity="one">וידאו</item>
+  </plurals>
+  <plurals name="video_ad_download_tip">
+    <item quantity="other">הורדות</item>
+    <item quantity="one">הורדה</item>
+  </plurals>
+  <plurals name="video_count">
+    <item quantity="other">%1$s סרטונים</item>
+    <item quantity="one">וידאו אחד</item>
+  </plurals>
+  <plurals name="video_num">
+    <item quantity="other">%1$s סרטונים</item>
+    <item quantity="one">וידאו אחד</item>
+  </plurals>
+  <plurals name="video_play_num">
+    <item quantity="other">%1$s צפיות</item>
+    <item quantity="one">צפייה אחת</item>
+  </plurals>
+</resources>

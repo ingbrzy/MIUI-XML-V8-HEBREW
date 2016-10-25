@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="interview_record_scenes_entries">
+    <item>מוזיקה</item>
+    <item>קול</item>
+    <item>ראיון</item>
+  </string-array>
+  <string-array name="hd_record_scenes_entries">
+    <item>מוזיקה</item>
+    <item>קול</item>
+    <item>ראיון</item>
+    <item>HD</item>
+  </string-array>
+  <string-array name="record_quality_entries">
+    <item>גבוהה</item>
+    <item>רגילה</item>
+    <item>נמוכה</item>
+  </string-array>
+  <string-array name="record_scenes_entries">
+    <item>מוזיקה</item>
+    <item>קול</item>
+  </string-array>
+  <string-array name="record_scenes_summaries">
+    <item>הקלט דרך 2 ערוצים, האזן לצליל סטראופוני באוזניות</item>
+    <item>לאיכות טובה יותר, קרב את המיקרופון למקור הצליל</item>
+    <item>הצב את הטלפון בין 2 אנשים על מנת להקליט את שניהם באופן ברור</item>
+    <item>המרחק היעיל המירבי מהמיקרופון הוא 10 מטרים</item>
+  </string-array>
+</resources>

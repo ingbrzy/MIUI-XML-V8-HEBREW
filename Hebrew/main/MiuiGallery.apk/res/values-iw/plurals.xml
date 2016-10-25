@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="add_to_album_cloud_photo_count_tip">
+    <item quantity="other">%d תמונות ענן נוספו, כבה את \"הצג אלבומים מקומיים בלבד\" על מנת להציגן.</item>
+    <item quantity="one">תמונת ענן אחת נוספה, כבה את \"הצג אלבומים מקומיים בלבד\" על מנת להציגה.</item>
+  </plurals>
+  <plurals name="age_day">
+    <item quantity="other">%d ימים</item>
+    <item quantity="one">יום אחד</item>
+    <item quantity="two">יומיים</item>
+  </plurals>
+  <plurals name="age_month">
+    <item quantity="other">%d חודשים</item>
+    <item quantity="one">חודש אחד</item>
+  </plurals>
+  <plurals name="age_year">
+    <item quantity="other">%d שנים</item>
+    <item quantity="one">שנה אחת</item>
+  </plurals>
+  <plurals name="album_already_share_user_count">
+    <item quantity="other">שותף עם %d אנשים</item>
+    <item quantity="one">שותף עם אדם אחד</item>
+  </plurals>
+  <plurals name="album_count">
+    <item quantity="other">%d תמונות</item>
+    <item quantity="one">תמונה אחת</item>
+  </plurals>
+  <plurals name="album_count_and_size">
+    <item quantity="other">%1$d פריטים | %2$s</item>
+    <item quantity="one">פריט אחד | %2$s</item>
+  </plurals>
+  <plurals name="album_item_msg_format">
+    <item quantity="other">(%d פריטים)</item>
+    <item quantity="one">(פריט אחד)</item>
+  </plurals>
+  <plurals name="baby_album_sharer_recommand_new_pictures">
+    <item quantity="other">%1$d תמונות של %2$s תתווספנה</item>
+    <item quantity="one">תמונה %1$d של %2$s תתווסף</item>
+  </plurals>
+  <plurals name="baby_album_sharer_recommand_old_pictures">
+    <item quantity="other">%1$d תמונות של %2$s תתווספנה</item>
+    <item quantity="one">תמונה %1$d של %2$s תתווסף</item>
+  </plurals>
+  <plurals name="backup_waiting">
+    <item quantity="other">%1$d פריטים ממתינים לגיבוי</item>
+    <item quantity="one">פריט אחד ממתין לגיבוי</item>
+  </plurals>
+  <plurals name="backuped">
+    <item quantity="other">%1$d פריטים גובו</item>
+    <item quantity="one">פריט אחד גובה</item>
+  </plurals>
+  <plurals name="cloud_space_full">
+    <item quantity="other">Mi Cloud מלא. %1$d פריטים ממתינים לגיבוי</item>
+    <item quantity="one">Mi Cloud מלא. פריט אחד ממתין לגיבוי</item>
+  </plurals>
+  <plurals name="custom_select_title_items_selected">
+    <item quantity="other">%d פריטים נבחרו</item>
+    <item quantity="one">פריט אחד נבחר</item>
+  </plurals>
+  <plurals name="delete_media_msg_format">
+    <item quantity="other">למחוק %1$d פריטים %2$s?</item>
+    <item quantity="one">למחוק פריט אחד %2$s?</item>
+  </plurals>
+  <plurals name="delete_photo_msg_format">
+    <item quantity="other">למחוק את %1$d התמונות הללו %2$s?</item>
+    <item quantity="one">למחוק תמונה זו %2$s?</item>
+  </plurals>
+  <plurals name="delete_video_msg_format">
+    <item quantity="other">למחוק את %1$d הסרטונים הללו %2$s?</item>
+    <item quantity="one">למחוק סרטון זה %2$s?</item>
+  </plurals>
+  <plurals name="download_error">
+    <item quantity="other">לא ניתן היה להוריד %1$d קבצים</item>
+    <item quantity="one">לא ניתן היה להוריד קובץ אחד</item>
+  </plurals>
+  <plurals name="fast_share_auto_render_failed">
+    <item quantity="other">דולגו %1$d תמונות שלא ניתן היה להציג.</item>
+    <item quantity="one">דולגה תמונה אחת שלא ניתן היה להציג.</item>
+  </plurals>
+  <plurals name="ignore_faces_alert_msg">
+    <item quantity="other">לא להציג אנשים אלה?</item>
+    <item quantity="one">לא להציג אדם זה?</item>
+  </plurals>
+  <plurals name="local_space_full">
+    <item quantity="other">אין מספיק נפח אחסון מקומי. %1$d פריטים ממתינים לגיבוי</item>
+    <item quantity="one">אין מספיק נפח אחסון מקומי. פריט אחד ממתין לגיבוי</item>
+  </plurals>
+  <plurals name="more_face">
+    <item quantity="other">%1$s תמונות מתוך %2$s>></item>
+    <item quantity="one">תמונה %1$s מתוך %2$s>></item>
+  </plurals>
+  <plurals name="network_unsatisfied">
+    <item quantity="other">שגיאת רשת. %1$d פריטים ממתינים לגיבוי</item>
+    <item quantity="one">שגיאת רשת. פריט אחד ממתין לגיבוי</item>
+  </plurals>
+  <plurals name="number_of_images_to_upload">
+    <item quantity="other">%1$d תמונות ממתינות לגיבוי</item>
+    <item quantity="one">תמונה אחת ממתינה לגיבוי</item>
+  </plurals>
+  <plurals name="number_of_images_and_videos_to_upload">
+    <item quantity="other">%1$d פריטים ממתינים לגיבוי</item>
+    <item quantity="one">פריט אחד ממתין לגיבוי</item>
+  </plurals>
+  <plurals name="number_of_videos_to_upload">
+    <item quantity="other">%1$d סרטונים ממתינים לגיבוי</item>
+    <item quantity="one">סרטון אחד ממתין לגיבוי</item>
+  </plurals>
+  <plurals name="number_of_uploading_images">
+    <item quantity="other">מגבה %1$d תמונות…</item>
+    <item quantity="one">מגבה תמונה…</item>
+  </plurals>
+  <plurals name="number_of_uploading_images_and_videos">
+    <item quantity="other">מגבה %1$d פריטים…</item>
+    <item quantity="one">מגבה פריט אחד…</item>
+  </plurals>
+  <plurals name="number_of_uploading_videos">
+    <item quantity="other">מגבה %1$d סרטונים…</item>
+    <item quantity="one">מגבה סרטון…</item>
+  </plurals>
+  <plurals name="picker_all_image_need_download">
+    <item quantity="other">התמונות שנבחרו אינן על המכשיר, להוריד באמצעות שימוש בנתונים סלולריים?</item>
+    <item quantity="one">התמונה שנבחרה אינה על המכשיר, להוריד באמצעות שימוש בנתונים סלולריים?</item>
+  </plurals>
+  <plurals name="picker_all_image_will_download">
+    <item quantity="other">התמונות שנבחרו אינן על מכשיר. תתבצע הורדה.</item>
+    <item quantity="one">התמונה שנבחרה אינה על המכשיר. תתבצע הורדה.</item>
+  </plurals>
+  <plurals name="picker_all_origin_need_download">
+    <item quantity="other">התמונות שנבחרו (%dMB) אינן על המכשיר, להוריד באמצעות שימוש בנתונים סלולריים?</item>
+    <item quantity="one">התמונה שנבחרה (%dMB) אינה על המכשיר, להוריד באמצעות שימוש בנתונים סלולריים?</item>
+  </plurals>
+  <plurals name="picker_cancel_confirm_message">
+    <item quantity="other">לבטל את הורדת %d התמונות הנותרות?</item>
+    <item quantity="one">לבטל את הורדת התמונה הנותרת?</item>
+  </plurals>
+  <plurals name="picker_no_network_retry_image_confirm_message">
+    <item quantity="other">לא ניתן היה להוריד %1$d תמונות, התחבר לרשת ונסה שוב</item>
+    <item quantity="one">לא ניתן היה להוריד את התמונה, התחבר לרשת ונסה שוב</item>
+  </plurals>
+  <plurals name="picker_no_network_retry_origin_confirm_message">
+    <item quantity="other">לא ניתן היה להוריד %1$d תמונות (%2$dMB), התחבר לרשת ונסה שוב</item>
+    <item quantity="one">לא ניתן היה להוריד את התמונה (%2$dMB), התחבר לרשת ונסה שוב</item>
+  </plurals>
+  <plurals name="picker_retry_image_confirm_message">
+    <item quantity="other">לא ניתן היה להוריד %1$d תמונות, לנסות שוב?</item>
+    <item quantity="one">לא ניתן היה להוריד את התמונה, לנסות שוב?</item>
+  </plurals>
+  <plurals name="picker_retry_origin_confirm_message">
+    <item quantity="other">לא ניתן היה להוריד %1$d תמונות (%2$dMB), לנסות שוב?</item>
+    <item quantity="one">לא ניתן היה להוריד את התמונה (%2$dMB), לנסות שוב?</item>
+  </plurals>
+  <plurals name="picker_skip_unavailable_images">
+    <item quantity="other">דולגו %d תמונות שאינן על המכשיר.</item>
+    <item quantity="one">דולגה תמונה אחת שאינה על המכשיר.</item>
+  </plurals>
+  <plurals name="sync_off">
+    <item quantity="other">הסנכרון כבוי. %1$d פריטים ממתינים לגיבוי</item>
+    <item quantity="one">הסנכרון כבוי. פריט אחד ממתין לגיבוי</item>
+  </plurals>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="action_name_translate">
+    <item>בהירות תצוגה מירבית</item>
+    <item>תדירות CPU מירבית</item>
+    <item>מצב תצוגה</item>
+    <item>CPU בשימוש</item>
+    <item>חיבור נתונים</item>
+    <item>אפשר מיקום</item>
+    <item>ההתראה הראשונה</item>
+    <item>הודעות מסך נעילה</item>
+    <item>להגביל חיבורים של נתוני רקע</item>
+  </string-array>
+  <string-array name="action_param_translate">
+    <item>אף אחד</item>
+    <item>ברירת מחדל</item>
+    <item>תמונה</item>
+    <item>סרט קולנוע</item>
+    <item>חיסכון בסוללה</item>
+    <item>איזון</item>
+    <item>ביצועים</item>
+    <item>מופעל</item>
+    <item>מופסק</item>
+    <item>מיידי</item>
+    <item>אחרי 10 דקות</item>
+    <item>אחרי 30 דקות</item>
+    <item>כאשר התצוגה כבויה</item>
+  </string-array>
+  <string-array name="app_groups">
+    <item>במצב זה</item>
+    <item>לא נבחר</item>
+    <item>במצבים אחרים שנבחרו</item>
+  </string-array>
+  <string-array name="event_name_translate">
+    <item>היישום פועל בקידמה</item>
+    <item>תצוגה דלוקה</item>
+    <item>כיבוי תצוגה</item>
+    <item>כיבוי תצוגה לאחר 10 דקות</item>
+    <item>מסך מלא</item>
+    <item>צא ממצב מסך מלא</item>
+    <item>היישום פועל ברקע</item>
+    <item>טלפון בטעינה</item>
+    <item>טלפון אינו נטען</item>
+    <item>הטלפון במצב לא פעיל</item>
+  </string-array>
+  <string-array name="group_name_translate">
+    <item>ברירת מחדל</item>
+    <item>מצב הסתר</item>
+    <item>מצב קריאה</item>
+    <item>מצב מדיה</item>
+  </string-array>
+  <string-array name="hmode_app_groups">
+    <item>מותאם אישית</item>
+    <item>חיסכון בסוללה</item>
+  </string-array>
+  <string-array name="power_checker_group_prefix">
+    <item>כעת</item>
+    <item>ברקע</item>
+    <item>לאחרונה</item>
+  </string-array>
+  <string-array name="power_checker_recent_group_titles">
+    <item>מניעת שינה של הליבה</item>
+    <item>מניעת שינה</item>
+    <item>סריקת רשת אלחוטית</item>
+    <item>GPS</item>
+    <item>CPU</item>
+    <item>הער</item>
+  </string-array>
+  <string-array name="power_checker_running_group_titles">
+    <item>חוסם מצב שינה עמוקה</item>
+    <item>חוסם מצב שינה</item>
+    <item>מחפש אחר רשת אלחוטית</item>
+    <item>משתמש ב-GPS</item>
+    <item>משתמש ב-CPU</item>
+    <item>מעיר את המכשיר בתדירות גבוהה</item>
+  </string-array>
+</resources>

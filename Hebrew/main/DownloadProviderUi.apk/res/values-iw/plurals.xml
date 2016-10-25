@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="sniff_find_resource">
+    <item quantity="other">נמצאו %d פריטים</item>
+    <item quantity="one">נמצא פריט אחד</item>
+  </plurals>
+  <plurals name="numberOfItemsAvailable">
+    <item quantity="other">למחוק %d פריטים?</item>
+    <item quantity="one">למחוק פריט זה?</item>
+  </plurals>
+  <plurals name="sniff_find_result">
+    <item quantity="other">נמצאו %d תוצאות</item>
+    <item quantity="one">נמצאה תוצאה אחת</item>
+  </plurals>
+</resources>

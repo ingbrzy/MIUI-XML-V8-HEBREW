@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_label">מנהל ההורדות</string>
+  <string name="auto_restart_under_wifi">Wi-Fi יוריד את הקובץ באופן אוטומטי</string>
+  <string name="button_cancel_download">ביטול</string>
+  <string name="button_download_now">הורד עכשיו</string>
+  <string name="button_queue_for_wifi">תור</string>
+  <string name="button_start_now">התחל כעת</string>
+  <string name="button_wait_for_wifi">המתן</string>
+  <string name="dialog_insufficient_space_on_cache">אין מספיק מקום באחסון הורדות פנימי</string>
+  <string name="dialog_insufficient_space_on_external">אין מספיק מקום על אחסון חיצוני</string>
+  <string name="dialog_not_show_again">אל תציג שוב</string>
+  <string name="download_apk_desktop_installing">מתקין</string>
+  <string name="download_apk_desktop_pause">הופסק</string>
+  <string name="download_apk_desktop_pending">ממתין</string>
+  <string name="download_apk_desktop_running">מוריד</string>
+  <string name="download_error">נכשל</string>
+  <string name="download_no_application_title">לא ניתן לפתוח את הקובץ</string>
+  <string name="download_queued">בתור</string>
+  <string name="download_remaining">%s נותרו</string>
+  <string name="download_running">מתבצע</string>
+  <string name="download_running_percent">מתבצע, %d%%</string>
+  <string name="download_unknown_title"><ללא כותרת&lt;</string>
+  <string name="enter_garbage_clean">נקה אחסון פנימי.</string>
+  <string name="insufficient_space">אין מספיק מקום באחסון הפנימי של המכשיר</string>
+  <string name="mobile_recommended_title">שימוש ברשת נתונים סלולרי</string>
+  <string name="notif_text_engine_off">שירות האצת הורדות Xunlei כבוי.</string>
+  <string name="notif_text_engine_on">מאיץ…</string>
+  <string name="notif_title_file_size">%1$d סה\"כ</string>
+  <string name="notif_title_multiple_downloading">ההורדה %1$d קבצים</string>
+  <string name="notif_title_single_downloading">ההורדה %1$s</string>
+  <string name="notification_download_complete">ההורדה הושלמה</string>
+  <string name="notification_download_failed">לא ניתן להוריד</string>
+  <string name="notification_download_failed_more">לא ניתן להוריד %1$d פריטים</string>
+  <string name="notification_download_success_more">%1$d הורדו</string>
+  <string name="notification_need_wifi_for_size">גודל ההורדה מחייב חיבור Wi-Fi</string>
+  <string name="notification_paused_in_background">מושהה ברקע.</string>
+  <string name="notify_disabled_net_by_app">חיבור אינטרנט הוגבל ע\"י יישום האבטחה</string>
+  <string name="notify_install_guide_forward_text">פתח</string>
+  <string name="notify_install_guide_msg">הותקן בהצלחה</string>
+  <string name="notify_install_guide_title">%s הותקן בהצלחה</string>
+  <string name="notify_only_wifi_download">ממתין לחיבור רשת אלחוטית</string>
+  <string name="paused_waiting_for_network">מחכה לרשת</string>
+  <string name="permdesc_accessAllDownloads">מאשרת ליישום להציג ולשנות את כל ההורדות שהופעלו ע\"י יישום כלשהו במערכת.</string>
+  <string name="permdesc_downloadCacheNonPurgeable">מאשרת ליישום להוריד קבצים למטמון ההורדות שלא ניתן למחוק באופן אוטומטי כאשר דרוש למנהל ההורדות שטח נוסף.</string>
+  <string name="permdesc_downloadCompletedIntent">מאשרת ליישום לשלוח התראות לגבי הורדות שהסתיימו. יישומים זדוניים עלולים לנצל אפשרות זו כדי לבלבל יישומים אחרים המורידים קבצים.</string>
+  <string name="permdesc_downloadManager">מאשרת ליישום לגשת למנהל ההורדות ולהשתמש בו לצורך הורדת קבצים. יישומים זדוניים עלולים לנצל אפשרות זו כדי לשבש הורדות ולגשת למידע פרטי.</string>
+  <string name="permdesc_downloadManagerAdvanced">מאשרת ליישום לגשת לפונקציות המתקדמות של מנהל ההורדות. יישומים זדוניים עלולים לנצל אפשרות זו כדי לשבש הורדות ולגשת למידע פרטי.</string>
+  <string name="permdesc_downloadWithoutNotification">מאשרת ליישום להוריד קבצים דרך מנהל ההורדות מבלי להציג התראות כלשהן בפני המשתמש.</string>
+  <string name="permdesc_seeAllExternal">מאשרת ליישום לראות את כל ההורדות לאמצעי אחסון מסוג USB, בלי קשר ליישום שהוריד אותן.</string>
+  <string name="permlab_accessAllDownloads">גישה לכל הורדות המערכת</string>
+  <string name="permlab_downloadCacheNonPurgeable">שמירת מקום במטמון ההורדות</string>
+  <string name="permlab_downloadCompletedIntent">שליחת התראות על הורדות</string>
+  <string name="permlab_downloadManager">גישה למנהל ההורדות</string>
+  <string name="permlab_downloadManagerAdvanced">פונקציות מתקדמות של מנהל ההורדות</string>
+  <string name="permlab_downloadWithoutNotification">הורדת קבצים ללא התראה</string>
+  <string name="permlab_seeAllExternal">ראיית כל ההורדות לאמצעי אחסון מסוג USB</string>
+  <string name="privacy_notif_content">לחץ להצגת פרטים.</string>
+  <string name="privacy_notif_title">מאיץ ההורדות של Xunlei פועל</string>
+  <string name="privacy_tip_cancel">בטל</string>
+  <string name="privacy_tip_content">להשתמש ב-Xunlei Accelerator כדי להאיץ מהירות הורדות? כתובת אתר של ההורדה תשלח לשרת Xunlei. פרטי חשבון Mi יישלחו כדי לבדוק האם קיימים מנויים פעילים לשירות זה.</string>
+  <string name="privacy_tip_ok">אישור</string>
+  <string name="privacy_tip_title">השתמש בשירות Xunlei?</string>
+  <string name="recommended_file_size_download_in_mobile">השתמש ב-%s של נתונים סלולריים להורדת קובץ זה?</string>
+  <string name="recommended_no_file_size_download_in_mobile">השתמש בחיבור הנתונים הסלולרי על מנת להוריד קובץ זה?</string>
+  <string name="root_downloads">הורדות</string>
+  <string name="task_already_exist">המשימה כבר קיימת</string>
+  <string name="warning_tip_cancel">הורדה</string>
+  <string name="warning_tip_content">אינך מחובר לרשת Wi-Fi. שימוש בחיבור נתונים סלולרי להשלמת ההורדה יגדיל את צריכת הנתונים. חריגה ממסגרת תכנית הגלישה שלך עלולה להיות כרוכה בחיובים נוספים.</string>
+  <string name="warning_tip_ok">מושהה</string>
+  <string name="warning_tip_title">אזהרת שימוש בנתונים</string>
+  <string name="wifi_recommended_body" formatted="false">"הפעלת הורדה זו, שגודלה %s, עשויה לקצר את חיי הסוללה שלך ו/או לגרום לניצול מופרז של חיבור הנתונים הסלולרי שלך, אשר עשוי להיות כרוך בחיוב מצד ספק השירות שלך, בהתאם לתוכנית הנתונים שלך.
+
+לחץ על %s כדי להתחיל הורדה זו בפעם הבאה שתתחבר לרשת Wi-Fi."</string>
+  <string name="wifi_recommended_title">להוסיף לתור כדי להוריד מאוחר יותר?</string>
+  <string name="wifi_required_body" formatted="false">"עליך להשתמש ב-Wi-Fi כדי להשלים הורדה זו, שגודלה %s.
+ 
+ גע ב-%s  כדי להפעיל את ההורדה בפעם הבאה שתתחבר לרשת Wi-Fi."</string>
+  <string name="wifi_required_title">ההורדה גדולה מדי לרשת הנתונים של המפעיל</string>
+  <string name="xl_speedup_experience_notify_context">המהירות מואצת עבור כל הורדה כשאתה חבר ב-Xunlei</string>
+  <string name="xl_speedup_experience_notify_title">חברות Xunlei</string>
+  <string name="xl_speedup_notify_button_experience">נסה בחינם</string>
+  <string name="xl_speedup_notify_button_member">הפוך לחבר רשום</string>
+</resources>

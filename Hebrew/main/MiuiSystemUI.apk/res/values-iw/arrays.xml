@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="aqi_title_prefix">
+    <item>מדד זיהום אוויר %1$s</item>
+    <item>מדד זיהום אוויר %1$s</item>
+    <item>מדד זיהום אוויר %1$s</item>
+    <item>מדד זיהום אוויר %1$s</item>
+    <item>מדד זיהום אוויר %1$s</item>
+    <item>מדד זיהום אוויר %1$s</item>
+    <item>מדד זיהום אוויר %1$s</item>
+  </string-array>
+  <string-array name="weather_type">
+    <item>בהיר</item>
+    <item>מעונן</item>
+    <item>קודר</item>
+    <item>ערפילי</item>
+    <item>סופת גשמים כבדה</item>
+    <item>מבול</item>
+    <item>סופת גשמים</item>
+    <item>סופת ברקים</item>
+    <item>ממטר</item>
+    <item>גשם כבד</item>
+    <item>גשם חלש</item>
+    <item>גשם קל</item>
+    <item>שלג מעורב בגשם</item>
+    <item>סופת שלגים</item>
+    <item>שלג</item>
+    <item>שלג כבד</item>
+    <item>שלג חלש</item>
+    <item>שלג קל</item>
+    <item>סופת חול חזקה</item>
+    <item>סופת חול</item>
+    <item>חול</item>
+    <item>סוער</item>
+    <item>ברד</item>
+    <item>אבק</item>
+    <item>אובך</item>
+    <item>גשם מקפיא</item>
+    <item></item>
+  </string-array>
+  <string-array name="wifi_status">
+    <item></item>
+    <item>סורק…</item>
+    <item>מתחבר…</item>
+    <item>מאמת…</item>
+    <item>‏משיג כתובת IP…</item>
+    <item>מחובר</item>
+    <item>מושהה</item>
+    <item>מתנתק…</item>
+    <item>מנותק</item>
+    <item>נכשל</item>
+    <item>חסומה</item>
+    <item>נמנע זמנית מחיבור חלש</item>
+  </string-array>
+  <string-array name="wifi_status_with_ssid">
+    <item></item>
+    <item>סורק…</item>
+    <item>מתחבר אל %1$s…</item>
+    <item>מאמת עם %1$s…</item>
+    <item>‏משיג כתובת IP מ-%1$s…</item>
+    <item>מחובר אל %1$s</item>
+    <item>מושהה</item>
+    <item>מתנתק מרשת %1$s…</item>
+    <item>מנותק</item>
+    <item>נכשל</item>
+    <item>חסומה</item>
+    <item>נמנע זמנית מחיבור חלש</item>
+  </string-array>
+</resources>

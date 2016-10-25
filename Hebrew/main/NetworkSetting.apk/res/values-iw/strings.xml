@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="available_networks">רשתות זמינות</string>
+  <string name="connect_later">לא ניתן להתחבר לרשת זו כרגע. נסה שוב מאוחר יותר.</string>
+  <string name="dialog_message">יציאה תגרום לעצירת החיפוש, בטוח שברצונך לצאת?</string>
+  <string name="disconnect_data_confirm">שירות נתונים ינותק באופן זמני. האם אתה בטוח?</string>
+  <string name="network_forbidden">(אסור)</string>
+  <string name="network_query_error">אירעה שגיאה בעת החיפוש.</string>
+  <string name="no_network">לא נמצאו רשתות.</string>
+  <string name="not_allowed">כרטיס ה-SIM שלך לא מאשר התחברות לרשת זו.</string>
+  <string name="progress_scanning">מחפש…</string>
+  <string name="quit_mention">אזהרה!</string>
+  <string name="register_automatically">רישום אוטומטי…</string>
+  <string name="register_on_network">רישום ל-%1$s…</string>
+  <string name="registration_done">רשום ברשת.</string>
+  <string name="roamingTextSearching">מחפש שירות</string>
+  <string name="search_networks">חפש רשתות</string>
+  <string name="select_automatically">בחר אוטומטית</string>
+  <string name="sum_select_automatically">בחר רשת מועדפת אוטומטית</string>
+  <string name="timeout_message">לא נמצאו רשתות זמינות.</string>
+</resources>

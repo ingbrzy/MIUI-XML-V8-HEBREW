@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="actionbar_unread_messages">
+    <item quantity="other">%1$d הודעות חדשות</item>
+    <item quantity="one">הודעה חדשה אחת</item>
+  </plurals>
+  <plurals name="confirm_archive_conversation">
+    <item quantity="other">להעביר %1$d שיחות לארכיון?</item>
+    <item quantity="one">להעביר שיחה אחת לארכיון?</item>
+  </plurals>
+  <plurals name="confirm_delete_conversation">
+    <item quantity="other">למחוק %1$d שיחות?</item>
+    <item quantity="one">למחוק שיחה אחת?</item>
+  </plurals>
+  <plurals name="confirm_delete_conversation_with_sub">
+    <item quantity="other">השיחה מכילה מספר הודעות, למחוק בכל מקרה?</item>
+    <item quantity="one">השיחה מכילה מספר הודעות, למחוק בכל מקרה?</item>
+  </plurals>
+  <plurals name="contact_num_selected">
+    <item quantity="other">%d פריטים נבחרו</item>
+    <item quantity="one">פריט אחד נבחר</item>
+  </plurals>
+  <plurals name="conversation_archived">
+    <item quantity="other">%1$d שיחות הועברו לארכיון.</item>
+    <item quantity="one">שיחה אחת הועברה לארכיון.</item>
+  </plurals>
+  <plurals name="conversation_deleted">
+    <item quantity="other">%1$d שיחות נמחקו.</item>
+    <item quantity="one">שיחה אחת נמחקה.</item>
+  </plurals>
+  <plurals name="conversation_folder_changed">
+    <item quantity="other">התיקיות שונו</item>
+    <item quantity="one">התיקיה שונתה.</item>
+  </plurals>
+  <plurals name="conversation_muted">
+    <item quantity="other">התעלם מ-%1$d שיחות.</item>
+    <item quantity="one">התעלם משיחה אחת.</item>
+  </plurals>
+  <plurals name="conversation_not_important">
+    <item quantity="other">הוסר סימון כחשוב מ-%1$d שיחות.</item>
+    <item quantity="one">הוסר סימון כחשוב משיחה אחת.</item>
+  </plurals>
+  <plurals name="conversation_not_spam">
+    <item quantity="other">הוסר סימון כספאם מ-%1$d שיחות.</item>
+    <item quantity="one">הוסר סימון כספאם משיחה אחת.</item>
+  </plurals>
+  <plurals name="conversation_phished">
+    <item quantity="other">%1$d שיחות דווחו כתרמית.</item>
+    <item quantity="one">שיחה אחת דווחה כתרמית.</item>
+  </plurals>
+  <plurals name="conversation_spammed">
+    <item quantity="other">%1$d שיחות דווחו כספאם.</item>
+    <item quantity="one">שיחה אחת דווחה כספאם.</item>
+  </plurals>
+  <plurals name="draft">
+    <item quantity="other">טיוטות</item>
+    <item quantity="one">טיוטה</item>
+  </plurals>
+  <plurals name="empty_folder_dialog_message">
+    <item quantity="other">%1$d הודעות תמחקנה לצמיתות.</item>
+    <item quantity="one">הודעה אחת תמחק לצמיתות.</item>
+  </plurals>
+  <plurals name="move_conversation">
+    <item quantity="other">העבר %1$d שיחות</item>
+    <item quantity="one">העבר שיחה אחת</item>
+  </plurals>
+  <plurals name="new_incoming_messages_many">
+    <item quantity="other">%1$d הודעות חדשות</item>
+    <item quantity="one">הודעה חדשה אחת</item>
+  </plurals>
+  <plurals name="num_selected">
+    <item quantity="other">%d פריטים נבחרו</item>
+    <item quantity="one">פריט אחד נבחר</item>
+  </plurals>
+  <plurals name="show_messages_read">
+    <item quantity="other">%1$d הודעות ישנות</item>
+    <item quantity="one">הודעה ישנה אחת</item>
+  </plurals>
+</resources>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="availability">
+    <item>לא פנוי</item>
+    <item>זמין</item>
+    <item>לא סופי</item>
+  </string-array>
+  <string-array name="buttons_list">
+    <item>יום</item>
+    <item>שבוע</item>
+    <item>חודש</item>
+    <item>סדר יום</item>
+  </string-array>
+  <string-array name="change_response_labels">
+    <item>אירוע זה בלבד</item>
+    <item>כל האירועים בסדרה</item>
+  </string-array>
+  <string-array name="delete_repeating_labels">
+    <item>רק אירוע זה</item>
+    <item>אירוע זה ואירועים עתידיים</item>
+    <item>כל האירועים</item>
+  </string-array>
+  <string-array name="delete_repeating_labels_no_selected">
+    <item>אירוע זה ואירועים עתידיים</item>
+    <item>כל האירועים</item>
+  </string-array>
+  <string-array name="miui_preferences_default_reminder_labels">
+    <item>ללא תזכורת</item>
+    <item>בשעת האירוע</item>
+    <item>5 דקות לפני</item>
+    <item>10 דקות לפני</item>
+    <item>15 דקות לפני</item>
+    <item>30 דקות לפני</item>
+    <item>שעה לפני</item>
+    <item>יום לפני</item>
+    <item>יומיים לפני</item>
+    <item>שבוע לפני</item>
+  </string-array>
+  <string-array name="miui_reminder_minutes_labels">
+    <item>ללא תזכורת</item>
+    <item>בשעת האירוע</item>
+    <item>5 דקות לפני</item>
+    <item>10 דקות לפני</item>
+    <item>15 דקות לפני</item>
+    <item>30 דקות לפני</item>
+    <item>שעה לפני</item>
+    <item>יום לפני</item>
+    <item>יומיים לפני</item>
+    <item>שבוע לפני</item>
+  </string-array>
+  <string-array name="ordinal_labels">
+    <item>ראשון</item>
+    <item>שני</item>
+    <item>שלישי</item>
+    <item>רביעי</item>
+    <item>אחרון</item>
+  </string-array>
+  <string-array name="prefEntries_alerts_vibrateWhen">
+    <item>תמיד</item>
+    <item>רק כאשר הצלצול מושתק</item>
+    <item>לעולם לא</item>
+  </string-array>
+  <string-array name="preferences_default_reminder_labels">
+    <item>ללא</item>
+    <item>0 דקות</item>
+    <item>דקה אחת</item>
+    <item>5 דקות</item>
+    <item>10 דקות</item>
+    <item>15 דקות</item>
+    <item>20 דקות</item>
+    <item>25 דקות</item>
+    <item>30 דקות</item>
+    <item>45 דקות</item>
+    <item>שעה אחת</item>
+    <item>שעתיים</item>
+    <item>3 שעות</item>
+    <item>12 שעות</item>
+    <item>24 שעות</item>
+    <item>יומיים</item>
+    <item>שבוע אחד</item>
+  </string-array>
+  <string-array name="preferences_week_start_day_labels">
+    <item>ברירת מחדל של מיקום</item>
+    <item>יום שבת</item>
+    <item>יום ראשון</item>
+    <item>יום שני</item>
+  </string-array>
+  <string-array name="quick_response_defaults">
+    <item>אאחר רק בכמה דקות.</item>
+    <item>אגיע בערך עוד 10 דקות.</item>
+    <item>תתחילו בלעדי.</item>
+    <item>סליחה, לא אצליח להגיע. נצטרך לקבוע מועד חדש.</item>
+  </string-array>
+  <string-array name="reminder_methods_labels">
+    <item>התראה</item>
+    <item>דוא\"ל</item>
+    <item>SMS</item>
+    <item>התראה</item>
+  </string-array>
+  <string-array name="reminder_minutes_labels">
+    <item>0 דקות</item>
+    <item>דקה אחת</item>
+    <item>5 דקות</item>
+    <item>10 דקות</item>
+    <item>15 דקות</item>
+    <item>20 דקות</item>
+    <item>25 דקות</item>
+    <item>30 דקות</item>
+    <item>45 דקות</item>
+    <item>שעה אחת</item>
+    <item>שעתיים</item>
+    <item>3 שעות</item>
+    <item>12 שעות</item>
+    <item>24 שעות</item>
+    <item>יומיים</item>
+    <item>שבוע אחד</item>
+  </string-array>
+  <string-array name="repeat_choose_day">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>11</item>
+    <item>12</item>
+    <item>13</item>
+    <item>14</item>
+    <item>15</item>
+    <item>16</item>
+    <item>17</item>
+    <item>18</item>
+    <item>19</item>
+    <item>20</item>
+    <item>21</item>
+    <item>22</item>
+    <item>23</item>
+    <item>24</item>
+    <item>25</item>
+    <item>26</item>
+    <item>27</item>
+    <item>28</item>
+    <item>29</item>
+    <item>30</item>
+    <item>31</item>
+  </string-array>
+  <string-array name="repeat_choose_end">
+    <item>לעולם לא</item>
+    <item>שעה</item>
+    <item>בכל</item>
+  </string-array>
+  <string-array name="repeat_choose_month">
+    <item>ינו</item>
+    <item>פבר</item>
+    <item>מרץ</item>
+    <item>אפר</item>
+    <item>מאי</item>
+    <item>יונ</item>
+    <item>יול</item>
+    <item>אוג</item>
+    <item>ספט</item>
+    <item>אוק</item>
+    <item>נוב</item>
+    <item>דצמ</item>
+  </string-array>
+  <string-array name="repeat_choose_week_left">
+    <item>הראשון</item>
+    <item>השני</item>
+    <item>השלישי</item>
+    <item>הרביעי</item>
+    <item>האחרון</item>
+  </string-array>
+  <string-array name="repeat_choose_week_right">
+    <item>שני-שישי</item>
+    <item>סוף שבוע</item>
+    <item>כל השבוע</item>
+  </string-array>
+  <string-array name="repeat_choose_weekday">
+    <item>ב</item>
+    <item>ג</item>
+    <item>ד</item>
+    <item>ה</item>
+    <item>ו</item>
+    <item>ש</item>
+    <item>א</item>
+  </string-array>
+  <string-array name="repeat_frequency_spinner">
+    <item>יום</item>
+    <item>שבוע</item>
+    <item>חודש</item>
+    <item>שנה</item>
+  </string-array>
+  <string-array name="repeat_frequency_spinner_plural">
+    <item>ימים</item>
+    <item>שבועות</item>
+    <item>חודשים</item>
+    <item>שנים</item>
+  </string-array>
+  <string-array name="response_labels1">
+    <item>אין תגובה</item>
+    <item>כן</item>
+    <item>אולי</item>
+    <item>לא</item>
+  </string-array>
+  <string-array name="timezone_labels">
+    <item>איי מרשל</item>
+    <item>האי מידוויי</item>
+    <item>הוואי</item>
+    <item>אלסקה</item>
+    <item>שעון האוקיינוס השקט</item>
+    <item>טיחואנה</item>
+    <item>אריזונה</item>
+    <item>"צ'יוואווה"</item>
+    <item>שעון אזור ההרים</item>
+    <item>מרכז אמריקה</item>
+    <item>שעון מרכז</item>
+    <item>מקסיקו סיטי</item>
+    <item>"ססקאצ'וון"</item>
+    <item>בוגוטה</item>
+    <item>שעון החוף המזרחי</item>
+    <item>ונצואלה</item>
+    <item>אזור זמן אטלנטי (ברבדוס)</item>
+    <item>אזור זמן אטלנטי (קנדה)</item>
+    <item>מאנוס</item>
+    <item>סנטיאגו</item>
+    <item>ניופאונדלנד</item>
+    <item>ברזיליה</item>
+    <item>בואנוס איירס</item>
+    <item>גרינלנד</item>
+    <item>מונטווידאו</item>
+    <item>מרכז-אטלנטי</item>
+    <item>האיים האזורים</item>
+    <item>איי קייפ ורדה</item>
+    <item>קזבלנקה</item>
+    <item>לונדון, דבלין</item>
+    <item>אמסטרדם, ברלין</item>
+    <item>בלגרד</item>
+    <item>בריסל</item>
+    <item>סרייבו</item>
+    <item>וינדהוק</item>
+    <item>שעון מערב אפריקה</item>
+    <item>עמאן, ירדן</item>
+    <item>אתונה, איסטנבול</item>
+    <item>ביירות, לבנון</item>
+    <item>קהיר</item>
+    <item>הלסינקי</item>
+    <item>ירושלים</item>
+    <item>מינסק</item>
+    <item>הארארה</item>
+    <item>בגדד</item>
+    <item>מוסקבה</item>
+    <item>כוויית</item>
+    <item>ניירובי</item>
+    <item>טהרן</item>
+    <item>באקו</item>
+    <item>טביליסי</item>
+    <item>ירוואן</item>
+    <item>דובאי</item>
+    <item>קאבול</item>
+    <item>"איסלמבאד, קאראצ'י"</item>
+    <item>אורל</item>
+    <item>יקטרינבורג</item>
+    <item>כלכותה</item>
+    <item>סרי לנקה</item>
+    <item>קטמנדו</item>
+    <item>אסטנה</item>
+    <item>יאנגון</item>
+    <item>קרסנויארסק</item>
+    <item>בנגקוק</item>
+    <item>"בייג'ינג"</item>
+    <item>הונג קונג</item>
+    <item>אירקוטסק</item>
+    <item>קואלה לומפור</item>
+    <item>"פרת'"</item>
+    <item>טייפה</item>
+    <item>סיאול</item>
+    <item>טוקיו, אוסקה</item>
+    <item>יקוטסק</item>
+    <item>אדלייד</item>
+    <item>דארווין</item>
+    <item>בריסביין</item>
+    <item>הובארט</item>
+    <item>סידני, קנברה</item>
+    <item>ולדיווסטוק</item>
+    <item>גואם</item>
+    <item>מגדן</item>
+    <item>אוקלנד</item>
+    <item>"פיג'י"</item>
+    <item>טונגה</item>
+  </string-array>
+  <string-array name="travel_reminder_minutes_labels">
+    <item>3 שעות לפני</item>
+    <item>4 שעות לפני</item>
+    <item>5 שעות לפני</item>
+    <item>6 שעות לפני</item>
+    <item>יום לפני</item>
+  </string-array>
+  <string-array name="visibility">
+    <item>ברירת מחדל</item>
+    <item>פרטי</item>
+    <item>ציבורי</item>
+  </string-array>
+  <string-array name="widget_style_list">
+    <item>שקוף</item>
+    <item>רקע לבן</item>
+  </string-array>
+</resources>

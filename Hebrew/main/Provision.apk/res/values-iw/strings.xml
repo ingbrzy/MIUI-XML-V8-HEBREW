@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="agree">מסכים</string>
+  <string name="agree_terms">קראתי ואני מסכים לתנאי השירות ומדיניות הפרטיות.</string>
+  <string name="app_name">אספקה</string>
+  <string name="back">הקודם</string>
+  <string name="congratulation_label">אתה מוכן לצאת לדרך!</string>
+  <string name="congratulation_title">ההתקנה הושלמה</string>
+  <string name="content_description_complete">הסתיים</string>
+  <string name="content_description_language_picker">בחר שפה</string>
+  <string name="content_description_start">התחלה</string>
+  <string name="desc_fingerprint">השתמש בטביעת האצבע שלך על מנת לבטל את נעילת המכשיר, על מנת לאמת עסקאות Mi Pay, או על מנת להיכנס ליישומים ושירותים.</string>
+  <string name="desc_international_fingerprint">השתמש בטביעת האצבע שלך לביטול נעילת המכשיר, או על מנת להיכנס ליישומים ושירותים.</string>
+  <string name="disagree">ביטול</string>
+  <string name="ime_privacy_policy">מדיניות הפרטיות של המקלדת הנבחרת</string>
+  <string name="ime_privacy_policy_no_network">אין גישה לאינטרנט. עיין במדיניות הפרטיות של המקלדת הנבחרת ב-%s.</string>
+  <string name="input_method_category">בחר את מקלדת ברירת המחדל אשר תשמש אותך לכתיבת הודעות, פתקים, וכל דבר אחר. שים לב כי תוכל להתקין מקלדות צד שלישי מאוחר יותר.</string>
+  <string name="input_method_setting">בחר מקלדת</string>
+  <string name="install_preinstall_app">טוען יישומים…</string>
+  <string name="locale_picker_title">בחר את האזור שלך</string>
+  <string name="miui_privacy_policy_no_network">אין גישה לאינטרנט. עיין במדיניות הפרטיות ב-%s.</string>
+  <string name="miui_terms_no_network">אין גישה לאינטרנט. עיין בתנאי השירות ב-%s.</string>
+  <string name="multisim_settings_category">הגדרות כרטיס ה-SIM</string>
+  <string name="multisim_settings_title">שני סימים הופעלו</string>
+  <string name="next">הבא</string>
+  <string name="next_fingerprint">הבא</string>
+  <string name="other_settings">הגדרות נוספות</string>
+  <string name="other_settings_auto_update">עדכן באופן אוטומטי</string>
+  <string name="other_settings_auto_update_summary">מערכת MIUI תבחר את הזמן המתאים ביותר להורדה והתקנה של עדכונים.</string>
+  <string name="other_settings_location">גישה למיקום</string>
+  <string name="other_settings_location_summary">התר ליישומים לאתר במדויק את המיקום שלך בעזרת GPS</string>
+  <string name="other_settings_mifg_online_content">טפט קרוסלה</string>
+  <string name="other_settings_mifg_online_content_summary">קבל טפטים חדשים ישירות למסך הנעילה שלך באופן קבוע.</string>
+  <string name="other_settings_upload_debug_log_summary">המידע שאנו אוספים יעזור באיתור וניתוח הבעיות במערכת ועשוי להכיל מידע אישי. לא יעשה שימוש בנתונים על מנת לזהות אותך באופן אישי.</string>
+  <string name="other_settings_upload_debug_log_title">שלח נתוני אבחון באופן אוטומטי</string>
+  <string name="other_settings_user_experience">משוב משתמש</string>
+  <string name="other_settings_user_experience_summary">עזור לנו לשפר את המוצרים והשירותים שלנו ע\"י שליחת נתונים אנונימית.</string>
+  <string name="pref_title_data_slot">כרטיס ה-SIM המועדף לנתונים</string>
+  <string name="pref_title_voice_slot">כרטיס ה-SIM המועדף לשיחות</string>
+  <string name="privacy_policy">מדיניות הפרטיות</string>
+  <string name="provision_inputmethod_policy_description">צפה במדיניות הפרטיות של המקלדת הנבחרת</string>
+  <string name="provision_inputmethod_policy_description1">מדיניות הפרטיות</string>
+  <string name="setting_locale">מגדיר אזור…</string>
+  <string name="shut_down">כבה</string>
+  <string name="sim_card_detecting">מחפש כרטיס SIM…</string>
+  <string name="sim_card_detecting_title">בדיקת כרטיס SIM</string>
+  <string name="sim_card_detection">הכנס כרטיס SIM</string>
+  <string name="sim_card_detection_info">"לא ניתן להגדיר את חשבון Xiaomi ללא כרטיס ה-SIM. אתה צריך כרטיס SIM כדי להשתמש בסנכרון חשבון, מעקב אחר הטלפון וכו'."</string>
+  <string name="sim_dectection_next">המשך</string>
+  <string name="sim_redetection">בדוק כרטיס SIM שוב</string>
+  <string name="skip_underline">דלג על שלב זה</string>
+  <string name="summary_not_set">לא הוגדר</string>
+  <string name="terms_of_use">תנאי השימוש</string>
+  <string name="terms_of_use_label">"הפרטיות שלך חשובה לנו מאוד. אנא קרא את תנאי השירות ומדיניות הפרטיות שלנו על מנת להבין איזה מידע אנו אוספים, כיצד אנו משתמשים בו, ואילו אפשרויות עומדות בפניך.
+
+עליך להסכים לתנאי השירות ומדיניות הפרטיות שלנו על מנת שתוכל להשתמש ב-MIUI. עליך להתחבר לאינטרנט על מנת להפעיל את 'שירותי Mi', את Mi Home ואת 'איתור המכשיר'."</string>
+  <string name="title_fingerprint">הוסף את טביעת האצבע שלך</string>
+  <string name="user_agreement">הסכם משתמש</string>
+  <string name="welcome">ברוכים הבאים</string>
+</resources>

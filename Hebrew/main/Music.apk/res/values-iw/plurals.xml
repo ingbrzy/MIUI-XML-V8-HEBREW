@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="artist_list_fragment_item_count_format">
+    <item quantity="other">%d שירים</item>
+    <item quantity="one">שיר אחד</item>
+  </plurals>
+  <plurals name="comment_count">
+    <item quantity="other">%d תגובות</item>
+    <item quantity="one">תגובה אחת</item>
+  </plurals>
+  <plurals name="dialog_delete_descript">
+    <item quantity="other">מחק %d שירים?</item>
+    <item quantity="one">מחק שיר אחד?</item>
+  </plurals>
+  <plurals name="dialog_remove_descript">
+    <item quantity="other">הסר %d שירים?</item>
+    <item quantity="one">הסר שיר אחד?</item>
+  </plurals>
+  <plurals name="download_finished">
+    <item quantity="other">&lt;font color=\"red\">%d שירים&lt;/font> ירדו</item>
+    <item quantity="one">&lt;font color=\"red\">שיר אחד&lt;/font> ירד</item>
+  </plurals>
+  <plurals name="download_running">
+    <item quantity="other">&lt;font color=\"red\">%d שירים&lt;/font> בתהליך הורדה</item>
+    <item quantity="one">&lt;font color==\"red\">שיר אחד&lt;/font> בתהליך הורדה</item>
+  </plurals>
+  <plurals name="folder_songs_count">
+    <item quantity="other">%d שירים</item>
+    <item quantity="one">שיר אחד</item>
+  </plurals>
+  <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+    <item quantity="other">באפשרותך להוריד %d שירי פרימיום בלבד לחודש זה. שדרג את חבילת הפרימיום שלך על מנת להוריד עוד.</item>
+  </plurals>
+  <plurals name="Nalert_msg_vip_songs_for_download_limited">
+    <item quantity="other">באפשרותך להוריד %d שירי פרימיום בלבד לחודש זה. בכל זאת להוריד את השירים שנבחרו?</item>
+  </plurals>
+  <plurals name="Nartists_count">
+    <item quantity="other">%d אמנים</item>
+    <item quantity="one">אמן אחד</item>
+  </plurals>
+  <plurals name="Nexpired_remind">
+    <item quantity="other">%d ימים נותרו</item>
+    <item quantity="one">יום אחד נותר</item>
+    <item quantity="two">יומיים נותרו</item>
+  </plurals>
+  <plurals name="Ngroups_count">
+    <item quantity="other">%d להקות</item>
+    <item quantity="one">להקה אחת</item>
+  </plurals>
+  <plurals name="Nnew_local_audios">
+    <item quantity="other">%d שירים נוספו</item>
+    <item quantity="one">שיר אחד נוסף</item>
+  </plurals>
+  <plurals name="Nnew_tracks_count">
+    <item quantity="other">%d חדשים</item>
+    <item quantity="one">חדש אחד</item>
+  </plurals>
+  <plurals name="NPlaylist_delete_confirm">
+    <item quantity="other">למחוק %d רשימות השמעה?</item>
+    <item quantity="one">למחוק רשימת השמעה אחת?</item>
+  </plurals>
+  <plurals name="Ntracks_count">
+    <item quantity="other">%d שירים</item>
+    <item quantity="one">שיר אחד</item>
+  </plurals>
+  <plurals name="Ntracks_search_result">
+    <item quantity="other">%d שירים נמצאו</item>
+    <item quantity="one">שיר אחד נמצא</item>
+  </plurals>
+  <plurals name="Ntracks_similar_count">
+    <item quantity="other">%d שירים דומים</item>
+    <item quantity="one">שיר דומה אחד</item>
+  </plurals>
+  <plurals name="NTrackstoDownload">
+    <item quantity="other">%d שירים יורדו</item>
+    <item quantity="one">שיר אחד יורד</item>
+  </plurals>
+  <plurals name="Ntracks_add_to_playlist">
+    <item quantity="other">%d שירים נוספו לרשימת ההשמעה</item>
+    <item quantity="one">השיר נוסף לרשימת ההשמעה</item>
+  </plurals>
+  <plurals name="Ntracks_remove_from_playlist">
+    <item quantity="other">%d שירים הוסרו מרשימת ההשמעה</item>
+    <item quantity="one">השיר הוסר מרשימת ההשמעה</item>
+  </plurals>
+  <plurals name="multichoice_title">
+    <item quantity="other">%d פריטים נבחרו</item>
+    <item quantity="one">פריט אחד נבחר</item>
+  </plurals>
+  <plurals name="Nquit_warning">
+    <item quantity="other">הנגן יעצור בעוד %d דקות</item>
+    <item quantity="one">הנגן יעצור בעוד דקה אחת</item>
+  </plurals>
+  <plurals name="reader_count">
+    <item quantity="other">%d עוקבים</item>
+    <item quantity="one">עוקב אחד</item>
+  </plurals>
+  <plurals name="send_songs_toast">
+    <item quantity="other">%d שירים יישלחו</item>
+    <item quantity="one">שיר אחד יישלח</item>
+  </plurals>
+  <plurals name="song_already_favorite">
+    <item quantity="other">השירים כבר הוגדרו כמועדפים.</item>
+    <item quantity="one">השיר כבר הוגדר כמועדף.</item>
+  </plurals>
+</resources>

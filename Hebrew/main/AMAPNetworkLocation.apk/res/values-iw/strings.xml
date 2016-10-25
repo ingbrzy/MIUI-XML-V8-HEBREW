@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="agree">מסכים</string>
+  <string name="app_label">מיקום רשת</string>
+  <string name="disagree">מסרב</string>
+  <string name="location_warning_do_not_show_again">אל תציג שוב</string>
+  <string name="location_warning_message">אשר לשירות המיקום של AutoNavi לאסוף מידע אנונימי אודות מיקומך. חלק מהמידע עלול להישמר על מכשירך, ואיסוף המידע עלול להתרחש גם כשאין יישומים פועלים.</string>
+  <string name="location_warning_title">הסכמה לאיסוף מיקום</string>
+  <string name="persmission_close">סגור</string>
+  <string name="persmission_message">כדי לפעול כראוי, שירות זה זקוק להרשאות נוספות. אנא אשר הרשאות אלו כשתתבקש.</string>
+  <string name="persmission_message2">כדי לפעול כראוי, שירות זה זקוק להרשאות גישה לשטח האחסון שלך. אנא אשר הרשאות אלו כשתתבקש.</string>
+  <string name="persmission_message3">כדי לפעול כראוי, שירות זה זקוק להרשאות גישה למיקום שלך. אנא אשר הרשאות אלו כשתתבקש.</string>
+  <string name="persmission_message4">כדי לפעול כראוי, שירות זה זקוק להרשאות גישה לטלפון שלך. אנא אשר הרשאות אלו כשתתבקש.</string>
+  <string name="persmission_message5">"כדי לפעול כראוי, שירות זה זקוק להרשאות נוספות. באפשרותך לנהל את ההרשאות של 'מיקום רשת' ב'הגדרות'."</string>
+  <string name="persmission_message6">"כדי לפעול כראוי, שירות זה זקוק להרשאות גישה למיקום שלך. באפשרותך לנהל את ההרשאות של 'מיקום רשת' ב'הגדרות'."</string>
+  <string name="persmission_message7">"כדי לפעול כראוי, שירות זה זקוק להרשאות גישה לטלפון שלך. באפשרותך לנהל את ההרשאות של 'מיקום רשת' ב'הגדרות'."</string>
+  <string name="persmission_message8">"כדי לפעול כראוי, שירות זה זקוק להרשאות גישה לשטח האחסון שלך. באפשרותך לנהל את ההרשאות של 'מיקום רשת' ב'הגדרות'."</string>
+  <string name="persmission_notification_text">הקש כדי לאשר</string>
+  <string name="persmission_notification_title">"'מיקום רשת' זקוק להרשאות"</string>
+  <string name="persmission_ok">אישור</string>
+  <string name="persmission_settings">הגדרות</string>
+</resources>

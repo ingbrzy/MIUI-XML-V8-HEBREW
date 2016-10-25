@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="apk_clean_menu">
+    <item>נקה</item>
+    <item>התקן יישום זה</item>
+    <item>הצג בתיקיה</item>
+  </string-array>
+  <string-array name="app_clean_menu">
+    <item>הסר</item>
+  </string-array>
+  <string-array name="auto_alert_apps_time">
+    <item>בכל שבוע</item>
+    <item>כל 15 ימים</item>
+    <item>כל 30 ימים</item>
+  </string-array>
+  <string-array name="auto_clean_size">
+    <item>100 מגה</item>
+    <item>300 מגה</item>
+    <item>500 מגה</item>
+    <item>"1 ג'יגה"</item>
+  </string-array>
+  <string-array name="auto_clean_time">
+    <item>כל יום</item>
+    <item>כל 3 ימים</item>
+    <item>בכל שבוע</item>
+  </string-array>
+  <string-array name="auto_process_mode">
+    <item>הצג</item>
+    <item>אל תציג</item>
+    <item>הצג מאוחר יותר</item>
+  </string-array>
+  <string-array name="cache_clean_menu">
+    <item>נקה את הקובץ הזה</item>
+    <item>הצג מיקום קובצים</item>
+  </string-array>
+  <string-array name="cache_sort_type">
+    <item>גודל</item>
+    <item>שם</item>
+  </string-array>
+  <string-array name="empty_floder_clean_menu">
+    <item>נקה</item>
+  </string-array>
+  <string-array name="installed_app_sort_type">
+    <item>הכי בשימוש</item>
+    <item>גודל</item>
+  </string-array>
+  <string-array name="large_file_sort_type">
+    <item>גודל</item>
+    <item>שם</item>
+  </string-array>
+  <string-array name="long_add_app_menu">
+    <item>הוסף יישום לחריגים</item>
+  </string-array>
+  <string-array name="long_add_menu">
+    <item>הוסף לחריגים</item>
+  </string-array>
+  <string-array name="trash_clean_menu">
+    <item>נקה קובץ זה</item>
+    <item>הצג את מיקום הקובץ</item>
+  </string-array>
+  <string-array name="video_clean_menu">
+    <item>נקה את הקובץ הזה</item>
+    <item>פתח</item>
+  </string-array>
+</resources>

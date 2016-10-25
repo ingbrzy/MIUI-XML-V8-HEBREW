@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="power_config_ultimate_on_count">
+    <item quantity="other">%1$d צעדים למעבר למצב אולטימטיבי</item>
+    <item quantity="one">צעד אחד למעבר למצב אולטימטיבי</item>
+  </plurals>
+  <plurals name="power_config_ultimate_off_count">
+    <item quantity="other">%1$d צעדים על מנת להשבית את מצב אולטימטיבי</item>
+    <item quantity="one">צעד אחד על מנת להשבית את מצב אולטימטיבי</item>
+  </plurals>
+  <plurals name="power_config_ultimate_unlock_count">
+    <item quantity="other">סיים %1$d שלבים לביטול נעילת כל הפריטים</item>
+    <item quantity="one">סיים שלב אחד לביטול נעילת כל הפריטים</item>
+  </plurals>
+</resources>

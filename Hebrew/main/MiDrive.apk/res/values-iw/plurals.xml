@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="days">
+    <item quantity="other">%1$d ימים</item>
+    <item quantity="one">יום אחד</item>
+    <item quantity="two">יומיים</item>
+  </plurals>
+  <plurals name="days_ago">
+    <item quantity="other">לפני %1$d ימים</item>
+    <item quantity="one">לפני יום אחד</item>
+    <item quantity="two">לפני יומיים</item>
+  </plurals>
+  <plurals name="des_running_trans">
+    <item quantity="other">%1$d קבצים לא הועברו.</item>
+    <item quantity="one">קובץ אחד לא הועבר.</item>
+  </plurals>
+  <plurals name="delete_files_confirm">
+    <item quantity="other">מחק %1$d קבצים</item>
+    <item quantity="one">מחק קובץ אחד</item>
+  </plurals>
+  <plurals name="delete_folders_confirm">
+    <item quantity="other">" ו-%1$d תיקיות?"</item>
+    <item quantity="one">" ותיקיה אחת?"</item>
+  </plurals>
+  <plurals name="directory_item_count">
+    <item quantity="other">%d פריטים</item>
+    <item quantity="one">פריט אחד</item>
+  </plurals>
+  <plurals name="file_count">
+    <item quantity="other">" %1$d פריטים"</item>
+    <item quantity="one">" פריט אחד"</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="other">%1$d שעות</item>
+    <item quantity="one">שעה אחת</item>
+    <item quantity="two">שעתיים</item>
+  </plurals>
+  <plurals name="hours_ago">
+    <item quantity="other">לפני %1$d שעות</item>
+    <item quantity="one">לפני שעה אחת</item>
+    <item quantity="two">לפני שעתיים</item>
+  </plurals>
+  <plurals name="items_file">
+    <item quantity="other">" (%1$d פריטים)"</item>
+    <item quantity="one">" (פריט אחד)"</item>
+  </plurals>
+  <plurals name="items_picture">
+    <item quantity="other">" (%1$d פריטים)"</item>
+    <item quantity="one">" (פריט אחד)"</item>
+  </plurals>
+  <plurals name="mins">
+    <item quantity="other">%1$d דקות</item>
+    <item quantity="one">דקה אחת</item>
+  </plurals>
+  <plurals name="mins_ago">
+    <item quantity="other">לפני %1$d דקות</item>
+    <item quantity="one">לפני דקה אחת</item>
+  </plurals>
+  <plurals name="numSelectedFile">
+    <item quantity="other">%1$d נבחרו</item>
+    <item quantity="one">אחד נבחר</item>
+  </plurals>
+  <plurals name="seconds">
+    <item quantity="other">%1$d שניות</item>
+    <item quantity="one">שניה אחת</item>
+  </plurals>
+  <plurals name="ui_bar_txt_download_progress">
+    <item quantity="other">נותר להוריד %1$d קבצים</item>
+    <item quantity="one">נותר להוריד קובץ אחד</item>
+  </plurals>
+  <plurals name="ui_bar_txt_transport_progress">
+    <item quantity="other">נותר להעביר %1$d קבצים</item>
+    <item quantity="one">נותר להעביר קובץ אחד</item>
+  </plurals>
+  <plurals name="ui_bar_txt_upload_progress">
+    <item quantity="other">נותר להעלות %1$d קבצים</item>
+    <item quantity="one">נותר להעלות קובץ אחד</item>
+  </plurals>
+</resources>

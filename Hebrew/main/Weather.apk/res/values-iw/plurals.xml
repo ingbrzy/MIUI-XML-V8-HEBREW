@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="activity_main_update_time_in_one_day">
+    <item quantity="other">לפני %d שעות</item>
+    <item quantity="one">לפני שעה אחת</item>
+    <item quantity="two">לפני שעתיים</item>
+  </plurals>
+  <plurals name="activity_main_update_time_in_one_hour">
+    <item quantity="other">לפני %d דקות</item>
+    <item quantity="one">לפני דקה אחת</item>
+  </plurals>
+  <plurals name="activity_main_update_time_one_day_ago">
+    <item quantity="other">לפני %d ימים</item>
+    <item quantity="one">לפני יום %d</item>
+    <item quantity="two">לפני יומיים</item>
+  </plurals>
+  <plurals name="view_realtime_clear">
+    <item quantity="other">בהיר</item>
+  </plurals>
+</resources>

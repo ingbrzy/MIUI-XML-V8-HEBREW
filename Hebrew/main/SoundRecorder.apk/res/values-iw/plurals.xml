@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="local_records_count">
+    <item quantity="other">%d פריטים</item>
+    <item quantity="one">פריט אחד</item>
+  </plurals>
+  <plurals name="record_downloading_complete_count">
+    <item quantity="other">%d ההקלטות ירדו</item>
+    <item quantity="one">ההקלטה אחת ירדה</item>
+  </plurals>
+  <plurals name="unsynced_records_count">
+    <item quantity="other">%d לא סונכרנו</item>
+    <item quantity="one">אחד לא סונכרן</item>
+  </plurals>
+</resources>

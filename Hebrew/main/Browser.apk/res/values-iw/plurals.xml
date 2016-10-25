@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="adblock_rules_number_text">
+    <item quantity="other">%d פריטים נחסמו</item>
+    <item quantity="one">פריט אחד נחסם</item>
+  </plurals>
+  <plurals name="find_on_page_matches">
+    <item quantity="other">%d התאמות</item>
+    <item quantity="one">התאמה אחת</item>
+  </plurals>
+  <plurals name="last_num_days">
+    <item quantity="other">ב-%d הימים האחרונים</item>
+    <item quantity="one">ביום האחרון</item>
+    <item quantity="two">ביומיים האחרונים</item>
+  </plurals>
+  <plurals name="matches_found">
+    <item quantity="other">%1$d מתוך %2$d</item>
+    <item quantity="one">התאמה אחת</item>
+  </plurals>
+  <plurals name="v5_edit_mode_title">
+    <item quantity="other">%1$d נבחרו</item>
+    <item quantity="one">אחת נבחרה</item>
+  </plurals>
+  <plurals name="video_download_clear_info">
+    <item quantity="other">הסרת %1$d סרטונים הצליחה.</item>
+    <item quantity="one">הסרת סרטון אחד הצליחה.</item>
+  </plurals>
+  <plurals name="video_download_clear_prompt">
+    <item quantity="other">לנקות %1$d סרטונים?</item>
+    <item quantity="one">לנקות סרטון אחד?</item>
+  </plurals>
+  <plurals name="video_history_clear_info">
+    <item quantity="other">%1$d פריטים נמחקו מההיסטוריה.</item>
+    <item quantity="one">פריט אחד נמחק מההיסטוריה.</item>
+  </plurals>
+  <plurals name="video_history_clear_prompt">
+    <item quantity="other">למחוק %1$d פריטים מההיסטוריה?</item>
+    <item quantity="one">למחוק פריט אחד מההיסטוריה?</item>
+  </plurals>
+  <plurals name="video_subtitle_last_message">
+    <item quantity="other">נותרו %d דקות</item>
+    <item quantity="one">נותרה דקה אחת</item>
+  </plurals>
+</resources>

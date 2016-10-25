@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="emailAddressTypes">
+    <item>בית</item>
+    <item>עבודה</item>
+    <item>אחר</item>
+    <item>מותאם אישית</item>
+  </string-array>
+  <string-array name="fingerprint_acquired_vendor">
+    <item>נסה שוב</item>
+    <item></item>
+    <item></item>
+    <item>כסה את סורק תביעות האצבע לחלוטין והפעל לחץ</item>
+    <item></item>
+    <item>כסה את סורק תביעות האצבע לחלוטין והפעל לחץ</item>
+    <item>כסה את סורק תביעות האצבע לחלוטין והפעל לחץ</item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item>כסה את סורק תביעות האצבע לחלוטין והפעל לחץ</item>
+    <item>כסה את סורק תביעות האצבע לחלוטין והפעל לחץ</item>
+    <item>מהר מדי! לא ניתן היה לזהות את טביעת האצבע</item>
+    <item>הזז את האצבע מעט ונסה שוב</item>
+    <item>הסר את האצבע מהסורק והנח אותה שוב</item>
+    <item>השאר את האצבע על הסורק זמן רב יותר</item>
+    <item></item>
+    <item></item>
+  </string-array>
+  <string-array name="imAddressTypes">
+    <item>בית</item>
+    <item>עבודה</item>
+    <item>אחר</item>
+    <item>בהתאמה אישית</item>
+  </string-array>
+  <string-array name="organizationTypes">
+    <item>עבודה</item>
+    <item>אחר</item>
+    <item>מותאם אישית</item>
+  </string-array>
+  <string-array name="phoneTypes">
+    <item>בית</item>
+    <item>נייד</item>
+    <item>עבודה</item>
+    <item>פקס בעבודה</item>
+    <item>פקס בבית</item>
+    <item>זימונית</item>
+    <item>אחר</item>
+    <item>מותאם אישית</item>
+  </string-array>
+  <string-array name="postalAddressTypes">
+    <item>בית</item>
+    <item>עבודה</item>
+    <item>אחר</item>
+    <item>מותאם אישית</item>
+  </string-array>
+</resources>

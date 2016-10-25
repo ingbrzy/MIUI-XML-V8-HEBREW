@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="ble_profile_mi_band">
+    <item>רטט בזמן צלצול</item>
+    <item>רטט בזמן קבלת הודעה</item>
+    <item>רטט בזמן התרעה</item>
+  </string-array>
+  <string-array name="ble_profile_mi_key">
+    <item>צלם תמונה</item>
+    <item>מצא טלפון</item>
+    <item>מצא Mi Key</item>
+  </string-array>
+</resources>

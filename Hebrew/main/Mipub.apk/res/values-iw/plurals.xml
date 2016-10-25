@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="confirm_delete_conversation">
+    <item quantity="other">למחוק את %1$s השיחות שנבחרו?</item>
+    <item quantity="one">למחוק שיחה זו?</item>
+  </plurals>
+</resources>

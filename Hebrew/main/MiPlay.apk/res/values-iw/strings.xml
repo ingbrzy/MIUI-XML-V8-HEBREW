@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="cancel">ביטול</string>
+  <string name="enable_wifi_btn">הפעל</string>
+  <string name="enable_wifi_message">הפעל את החיבור לרשתות האלחוטיות וחבר מכשירים בקרבת מקום.</string>
+  <string name="enable_wifi_title">הפעל חיבור רשתות אלחוטיות</string>
+  <string name="media_feature_projection">שיקוף מסך</string>
+  <string name="media_status_error">שגיאה</string>
+  <string name="media_status_started">מחובר</string>
+  <string name="media_status_starting">מתחבר…</string>
+  <string name="media_status_stopped">עצר</string>
+  <string name="media_status_stopping">עוצר…</string>
+  <string name="noti_projection_status_desc_on">שיקוף מסך פועל</string>
+  <string name="noti_projection_status_title">הצגה אלחוטית MiPlay</string>
+  <string name="prjection_title">תצוגה אלחוטית</string>
+  <string name="search_for_devices">רענן</string>
+  <string name="wifi_display_autonomous_go">אפשר GO אוטונומי</string>
+  <string name="wifi_display_certification_heading">תעודה</string>
+  <string name="wifi_display_details">הגדרות תצוגה</string>
+  <string name="wifi_display_enable_menu_item">"הפעל את 'תצוגה אלחוטית'"</string>
+  <string name="wifi_display_listen_channel">ערוץ האזנה</string>
+  <string name="wifi_display_listen_mode">אפשר מצב האזנה</string>
+  <string name="wifi_display_no_devices_found">לא ניתן היה למצוא מכשירים בקרבת מקום.</string>
+  <string name="wifi_display_operating_channel">ערוץ הפעלה</string>
+  <string name="wifi_display_options_done">בוצע</string>
+  <string name="wifi_display_options_forget">שכח</string>
+  <string name="wifi_display_options_name">שם</string>
+  <string name="wifi_display_options_title">"אפשרויות 'תצוגה אלחוטית'"</string>
+  <string name="wifi_display_pause">השהה</string>
+  <string name="wifi_display_resume">המשך</string>
+  <string name="wifi_display_session_info">מידע על הסשן</string>
+  <string name="wifi_display_settings_title">הקרנה</string>
+  <string name="wifi_display_status_connected">מחובר</string>
+  <string name="wifi_display_status_connecting">מתחבר</string>
+  <string name="wifi_display_status_in_use">בשימוש</string>
+  <string name="wifi_display_status_not_available">לא זמין</string>
+  <string name="wifi_display_wps_config">תצורת WPS</string>
+</resources>

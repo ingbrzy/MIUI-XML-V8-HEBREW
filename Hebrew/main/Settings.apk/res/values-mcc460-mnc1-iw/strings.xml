@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="radioInfo_menu_viewADN">הצג את ספר הטלפונים של כרטיס ה-USIM</string>
+  <string name="security_settings_summary">"הגדר 'המיקום שלי', ביטול נעילת המסך, נעילת כרטיס USIM, נעילת אחסון תעודות"</string>
+  <string name="sim_change_failed_enable_sim_lock">"לא ניתן לשנות USIM PIN.
+ אפשר נעילת USIM."</string>
+  <string name="sim_change_succeeded">USIM PIN שונה בהצלחה</string>
+  <string name="sim_disable_sim_lock">בטל נעילת כרטיס USIM</string>
+  <string name="sim_enable_sim_lock">נעל כרטיס USIM</string>
+  <string name="sim_enter_new">USIM PIN חדש</string>
+  <string name="sim_enter_old">USIM PIN ישן</string>
+  <string name="sim_lock_change_not_supported">"לא ניתן לשנות את נעילת ה-USIM.
+ USIM אינו תומך בו."</string>
+  <string name="sim_lock_failed">"לא ניתן לשנות את מצב נעילת כרטיס ה-USIM.
+ייתכן כי ה-PIN שגוי."</string>
+  <string name="sim_lock_settings">הגדרות נעילת כרטיס USIM</string>
+  <string name="sim_lock_settings_category">הגדר נעילת כרטיס USIM</string>
+  <string name="sim_lock_settings_title">נעילת כרטיס USIM</string>
+  <string name="sim_pin_change">שנה USIM PIN</string>
+  <string name="sim_pin_toggle">נעל כרטיס USIM</string>
+</resources>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="app_check_title_text">
+    <item quantity="other">%d פריטים יכולים להתייעל</item>
+    <item quantity="one">פריט אחד יכול להתייעל</item>
+  </plurals>
+  <plurals name="cache_check_content">
+    <item quantity="other">מגן על %d יישומים</item>
+    <item quantity="one">מגן על יישום אחד</item>
+  </plurals>
+  <plurals name="deep_clean_auto_memory_clean">
+    <item quantity="other">בעוד %1$d דקות</item>
+    <item quantity="one">בעוד דקה אחת</item>
+  </plurals>
+  <plurals name="find_applications">
+    <item quantity="other">חפש בין %d יישומים</item>
+    <item quantity="one">חפש בין יישום אחד</item>
+  </plurals>
+  <plurals name="found_apps_title">
+    <item quantity="other">נמצאו %d יישומים</item>
+    <item quantity="one">יישום אחד נמצא</item>
+  </plurals>
+  <plurals name="hints_apps_perm_count">
+    <item quantity="other">%d הרשאות</item>
+    <item quantity="one">הרשאה אחת</item>
+  </plurals>
+  <plurals name="hints_auto_start_disable_title">
+    <item quantity="other">%d יישומים לא רשאים לבצע התחלה אוטומטית</item>
+    <item quantity="one">יישום אחד לא רשאי לבצע התחלה אוטומטית</item>
+  </plurals>
+  <plurals name="hints_auto_start_enable_title">
+    <item quantity="other">%d יישומים יכולים לבצע התחלה אוטומטית</item>
+    <item quantity="one">יישום אחד יכול לבצע התחלה אוטומטית</item>
+  </plurals>
+  <plurals name="hints_get_root_disable_title">
+    <item quantity="other">ל-%d יישומים אין הרשאות Root</item>
+    <item quantity="one">ליישום אחד אין הרשאות Root</item>
+  </plurals>
+  <plurals name="hints_get_root_enable_title">
+    <item quantity="other">ל-%d יישומים יש הרשאות Root</item>
+    <item quantity="one">ליישום אחד יש הרשאות Root</item>
+  </plurals>
+  <plurals name="hints_install_apps_interval">
+    <item quantity="other">היה בשימוש לפני %d ימים</item>
+    <item quantity="one">היה בשימוש אתמול</item>
+    <item quantity="two">היה בשימוש שלשום</item>
+  </plurals>
+  <plurals name="hints_permission_apps_count">
+    <item quantity="other">%d יישומים</item>
+    <item quantity="one">יישום אחד</item>
+  </plurals>
+  <plurals name="hints_roaming_disable_title">
+    <item quantity="other">%d יישומים לא יכולים להשתמש בנדידת נתונים</item>
+    <item quantity="one">יישום אחד לא יכול להשתמש בנדידת נתונים</item>
+  </plurals>
+  <plurals name="hints_roaming_enable_title">
+    <item quantity="other">%d יישומים יכולים להשתמש בנדידת נתונים</item>
+    <item quantity="one">יישום אחד יכול להשתמש בנדידת נתונים</item>
+  </plurals>
+  <plurals name="hints_roaming_found_app_count_title">
+    <item quantity="other">נמצאו %d יישומים</item>
+    <item quantity="one">נמצא יישום אחד</item>
+  </plurals>
+  <plurals name="hints_traffic_disable_title">
+    <item quantity="other">עוקב אחר צריכת הנתונים של %d יישומים</item>
+    <item quantity="one">עוקב אחר צריכת הנתונים של יישום אחד</item>
+  </plurals>
+  <plurals name="hints_traffic_enable_title">
+    <item quantity="other">לא קיים מעקב אחר צריכת הנתונים של %d יישומים</item>
+    <item quantity="one">לא קיים מעקב אחר צריכת הנתונים של יישום אחד</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="other">על הסיסמה להכיל %d אותיות לפחות.</item>
+    <item quantity="one">על הסיסמה להכיל אות אחת לפחות.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="other">על הסיסמה להכיל %d אותיות קטנות לפחות.</item>
+    <item quantity="one">על הסיסמה להכיל אות קטנה אחת לפחות.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="other">על הסיסמה להכיל %d סימנים לפחות בנוסף לאותיות.</item>
+    <item quantity="one">על הסיסמה להכיל סימן אחד לפחות בנוסף לאותיות.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="other">על הסיסמה להכיל %d ספרות לפחות.</item>
+    <item quantity="one">על הסיסמה להכיל ספרה אחת לפחות.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="other">על הסיסמה להכיל %d סמלים מיוחדים לפחות.</item>
+    <item quantity="one">על הסיסמה להכיל סמל מיוחד אחד לפחות.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="other">על הסיסמה להכיל %d אותיות גדולות לפחות.</item>
+    <item quantity="one">על הסיסמה להכיל אות גדולה אחת לפחות.</item>
+  </plurals>
+  <plurals name="notification_apps">
+    <item quantity="other">%d יישומים מכילים סיכוני פרטיות</item>
+    <item quantity="one">יישום אחד מכיל סיכוני פרטיות</item>
+  </plurals>
+  <plurals name="number_locked">
+    <item quantity="other">%d יישומים נעולים</item>
+    <item quantity="one">יישום אחד נעול</item>
+  </plurals>
+  <plurals name="number_to_lock">
+    <item quantity="other">%d יישומים לא נעולים</item>
+    <item quantity="one">יישום אחד לא נעול</item>
+  </plurals>
+  <plurals name="power_center_battery_day">
+    <item quantity="other">"%d ימים "</item>
+    <item quantity="one">"יום אחד "</item>
+    <item quantity="two">"יומיים "</item>
+  </plurals>
+  <plurals name="power_center_battery_hour">
+    <item quantity="other">"%d שעות "</item>
+    <item quantity="one">"שעה אחת "</item>
+    <item quantity="two">"שעתיים "</item>
+  </plurals>
+  <plurals name="power_center_battery_minute">
+    <item quantity="other">"%d דקות "</item>
+    <item quantity="one">"דקה אחת "</item>
+  </plurals>
+  <plurals name="quick_optimize_issue_count">
+    <item quantity="other">%d בעיות סוללה</item>
+    <item quantity="one">בעיית סוללה אחת</item>
+  </plurals>
+  <plurals name="quick_optimize_issue_found">
+    <item quantity="other">%d בעיות סוללה התגלו</item>
+    <item quantity="one">בעיית סוללה אחת התגלתה</item>
+  </plurals>
+  <plurals name="quick_optimize_summary_text">
+    <item quantity="other">%d בעיות סוללה נפתרו</item>
+    <item quantity="one">בעיית סוללה אחת נפתרה</item>
+  </plurals>
+  <plurals name="search_app_count_txt_na">
+    <item quantity="other">חפש %d יישומים</item>
+    <item quantity="one">חפש יישום אחד</item>
+  </plurals>
+  <plurals name="section_clear_acc_item_right_tips">
+    <item quantity="other">%d יישומים נעולים ממתינים להסרה</item>
+    <item quantity="one">יישום נעול אחד ממתין להסרה</item>
+  </plurals>
+  <plurals name="section_security_defend_item_right_tips">
+    <item quantity="other">%d וירוסים נמחקו</item>
+    <item quantity="one">וירוס אחד נמחק</item>
+  </plurals>
+  <plurals name="sp_back_title_text">
+    <item quantity="other">%s סיכוני תשלומים</item>
+    <item quantity="one">סיכון תשלומים אחד</item>
+  </plurals>
+  <plurals name="sp_monitored_apps_count">
+    <item quantity="other">%s יישומי תשלומים מוגנים</item>
+    <item quantity="one">יישום תשלומים אחד מוגן</item>
+  </plurals>
+  <plurals name="sp_monitored_apps_list_group_disable">
+    <item quantity="other">%s יישומים אינם מוגנים</item>
+    <item quantity="one">יישום אחד אינו מוגן</item>
+  </plurals>
+  <plurals name="sp_monitored_apps_list_group_enable">
+    <item quantity="other">%s יישומים מוגנים</item>
+    <item quantity="one">יישום אחד מוגן</item>
+  </plurals>
+  <plurals name="summary_app_update">
+    <item quantity="other">עדכונים זמינים ל-%d יישומים.</item>
+    <item quantity="one">עדכון זמין ליישום אחד.</item>
+  </plurals>
+  <plurals name="system_check_content">
+    <item quantity="other">%1$d פריטים מאובטחים</item>
+    <item quantity="one">פריט אחד מאובטח</item>
+  </plurals>
+</resources>

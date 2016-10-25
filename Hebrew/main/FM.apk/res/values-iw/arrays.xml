@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="cfg_rf">
+    <item>הגדר delta FM RSSI</item>
+    <item>הגדר סף אות</item>
+    <item>סטטיסטיקה RF</item>
+  </string-array>
+  <string-array name="presetlist_edit_category">
+    <item>שנה שם</item>
+    <item>בחר אוטומטי</item>
+    <item>מחיקה</item>
+  </string-array>
+  <string-array name="regional_band_entries">
+    <item>צפון אמריקה</item>
+    <item>אֵירוֹפָּה</item>
+    <item>יפן</item>
+    <item>יפן (רחב)</item>
+    <item>אוֹסטְרַלִיָה</item>
+    <item>אוֹסְטְרֵיָה</item>
+    <item>בלגיה</item>
+    <item>בְּרָזִיל</item>
+    <item>סין</item>
+    <item>"צ'כיה"</item>
+    <item>דנמרק</item>
+    <item>פינלנד</item>
+    <item>צָרְפַת</item>
+    <item>גֶרמָנִיָה</item>
+    <item>יָוָן</item>
+    <item>הונג קונג</item>
+    <item>הוֹדוּ</item>
+    <item>אירלנד</item>
+    <item>אִיטַלִיָה</item>
+    <item>קוריאה</item>
+    <item>מקסיקו</item>
+    <item>הולנד</item>
+    <item>ניו זילנד</item>
+    <item>נורווגיה</item>
+    <item>פולין</item>
+    <item>פּוֹרטוּגָל</item>
+    <item>רוּסִיָה</item>
+    <item>סינגפור</item>
+    <item>סלובקיה</item>
+    <item>סְפָרַד</item>
+    <item>שווייץ</item>
+    <item>שוודיה</item>
+    <item>טייוואן</item>
+    <item>טורקיה</item>
+    <item>בריטניה</item>
+    <item>ארצות הברית</item>
+  </string-array>
+  <string-array name="regional_band_summary">
+    <item>צפון אמריקה</item>
+    <item>אירופה</item>
+    <item>יפן</item>
+    <item>יפן 2</item>
+    <item>אוסטרליה</item>
+    <item>אוסטריה</item>
+    <item>בלגיה</item>
+    <item>ברזיל</item>
+    <item>סין (87.0 Mhz עד 108.0 Mhz ל-100 kHz)</item>
+    <item>"צ'כיה (87.5 Mhz עד 108.0 Mhz ל-100 kHz)"</item>
+    <item>דנמרק (87.5 Mhz עד 108.0 Mhz עבור כל 50 kHz)</item>
+    <item>פינלנד (87.5 Mhz עד 108.0 Mhz ל-100 Khz)</item>
+    <item>צרפת (87.5 Mhz עד 108.0 Mhz ל-100 kHz)</item>
+    <item>גרמניה (87.5 Mhz עד 108.0 Mhz עבור כל 50 kHz)</item>
+    <item>יוון (87.5 Mhz עד 108.0 Mhz עבור כל 50 kHz)</item>
+    <item>הונג קונג (87.5 Mhz עד 108.0 Mhz ל-100 kHz)</item>
+    <item>הודו (91.0 Mhz עד 106.4 Mhz ל-100 kHz)</item>
+    <item>אירלנד (87.5 Mhz עד 108.0 Mhz עבור כל 50 kHz)</item>
+    <item>איטליה (87.5 Mhz עד 108.0 Mhz עבור כל 50 kHz)</item>
+    <item>קוריאה (87.5 Mhz עד 108.0 Mhz לכל 200 kHz)</item>
+    <item>מקסיקו (88.1 Mhz עד 107.9 Mhz לכל 200 kHz)</item>
+    <item>הולנד (87.5 Mhz עד 108.0 Mhz ל-100 kHz)</item>
+    <item>ניו זילנד (88.0 Mhz עד 107.0 Mhz ל-100 kHz)</item>
+    <item>נורבגיה (87.5 Mhz עד 108.0 Mhz ל-100 kHz)</item>
+    <item>פולין (88.0 Mhz עד 108.0 Mhz עבור כל 50 kHz)</item>
+    <item>פורטוגל (87.5 Mhz עד 108.0 Mhz עבור כל 50 kHz)</item>
+    <item>רוסיה (87.5 Mhz עד 108.0 Mhz ל-100 kHz)</item>
+    <item>סינגפור (88.0 Mhz עד 108.0 Mhz ל-100 kHz)</item>
+    <item>סלובקיה (87.5 Mhz עד 108.0 Mhz ל-100 kHz)</item>
+    <item>ספרד (87.5 Mhz עד 108.0 Mhz ל-100 kHz)</item>
+    <item>שוויץ (87.5 Mhz עד 108.0 Mhz ל-100 kHz)</item>
+    <item>שוודיה (87.5 Mhz עד 108.0 Mhz ל-100 kHz)</item>
+    <item>טייוואן (87.5 Mhz עד 108.0 Mhz ל-100 kHz)</item>
+    <item>טורקיה (87.5 Mhz עד 108.0 Mhz ל-100 kHz)</item>
+    <item>בריטניה (87.5 Mhz עד 108.0 Mhz ל-100 kHz)</item>
+    <item>ארצות הברית (88.1 Mhz עד 107.9 Mhz לכל 200 kHz)</item>
+  </string-array>
+  <string-array name="rf_cfg">
+    <item>קבל פרמטרים תחנה נוכחיים</item>
+    <item>קבל את הפרמטרים של התחנה חוזרים 20 פעמים</item>
+    <item>קבל פרמטרים של תחנת חיפוש</item>
+    <item>לקבלת הגדרות סריקת להקת FM</item>
+    <item>הגדר פרמטרים לחיפוש FM</item>
+  </string-array>
+  <string-array name="search_category_rbds_entries">
+    <item>כל התחנות</item>
+    <item>להיטים</item>
+    <item>קלאסי</item>
+    <item>רוק קלאסי</item>
+    <item>צעירים</item>
+    <item>קאנטרי</item>
+    <item>חירום</item>
+    <item>ניסיון חירום</item>
+    <item>שפה זרה</item>
+    <item>מידע</item>
+    <item>"ג'אז"</item>
+    <item>חדשות</item>
+    <item>נוסטלגיה</item>
+    <item>50-70</item>
+    <item>אישי</item>
+    <item>ציבורי</item>
+    <item>מוזיקת דת</item>
+    <item>שיחות על דת</item>
+    <item>"רית'ם אנד בלוז"</item>
+    <item>רוק</item>
+    <item>מוזיקת רקע</item>
+    <item>רוק רך</item>
+    <item>"רית'ם אנד בלוז רך"</item>
+    <item>ספורט</item>
+    <item>דיבורים</item>
+    <item>טופ 40</item>
+    <item>מזג אוויר</item>
+  </string-array>
+  <string-array name="search_category_rds_entries">
+    <item>כל התחנות</item>
+    <item>תרבות</item>
+    <item>שיחת היום</item>
+    <item>ילדים</item>
+    <item>מוזיקת קאנטרי</item>
+    <item>דוקומנטרי</item>
+    <item>דרמה</item>
+    <item>מוזיקת אווירה</item>
+    <item>השכלה</item>
+    <item>חירום</item>
+    <item>ניסיון חירום</item>
+    <item>כלכלה</item>
+    <item>פולק</item>
+    <item>מידע</item>
+    <item>"מוזיקת ג'אז"</item>
+    <item>קלאסי קל</item>
+    <item>פנאי</item>
+    <item>חדשות</item>
+    <item>מוזיקת עולם</item>
+    <item>מוזיקה אחרת</item>
+    <item>מוזיקה עתיקה</item>
+    <item>טלפון ב</item>
+    <item>מוזיקת פופ</item>
+    <item>דָת</item>
+    <item>מוזיקת רוק</item>
+    <item>מדע</item>
+    <item>קלאסיקות חמורות</item>
+    <item>רווחה</item>
+    <item>ספורט</item>
+    <item>טיול</item>
+    <item>מגוון</item>
+    <item>מזג אוויר</item>
+  </string-array>
+  <string-array name="sleep_duration_values">
+    <item>15 דקות</item>
+    <item>30 דקות</item>
+    <item>45 דקות</item>
+    <item>1 שעה</item>
+  </string-array>
+  <string-array name="stats_options">
+    <item>הגדרות נוספות</item>
+    <item>הגדר פרמטרים לחיפוש FM</item>
+    <item>סטטיסטיקה RF</item>
+  </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="fw_blocked_count_call">
+    <item quantity="other">%d שיחות</item>
+    <item quantity="one">שיחה אחת</item>
+  </plurals>
+  <plurals name="fw_blocked_count_sms">
+    <item quantity="other">%d הודעות טקסט</item>
+    <item quantity="one">הודעת טקסט אחת</item>
+  </plurals>
+</resources>

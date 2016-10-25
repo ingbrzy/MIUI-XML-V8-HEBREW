@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="dirty_contacts_count">
+    <item quantity="other">%d אנשי קשר</item>
+    <item quantity="one">איש קשר אחד</item>
+  </plurals>
+  <plurals name="dirty_image_count">
+    <item quantity="other">%d תמונות</item>
+    <item quantity="one">תמונה אחת</item>
+  </plurals>
+  <plurals name="dirty_mms_count">
+    <item quantity="other">%d הודעות</item>
+    <item quantity="one">הודעה אחת</item>
+  </plurals>
+  <plurals name="dirty_note_count">
+    <item quantity="other">%d פתקים</item>
+    <item quantity="one">פתק אחד</item>
+  </plurals>
+</resources>
