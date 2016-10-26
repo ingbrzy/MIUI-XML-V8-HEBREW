@@ -4,8 +4,6 @@
   <string name="cabl_enable_summary_off">התאורה האחורית לא תשתנה בהתאם לתוכן</string>
   <string name="cabl_enable_summary_on">התאורה האחורית תשתנה בהתאם לתוכן</string>
   <string name="cabl_enable_title">אפשר תאורה אחורית המסתגלת לתוכן</string>
-  <string name="cabl_info_default">לא ידוע</string>
-  <string name="cabl_level_default">אוטומטית</string>
   <string name="cabl_levels_summary">איכות ברמה נמוכה יותר תגרום ל-CABL לחסוך בחיי סוללה עד כמה שניתן מבלי לפגוע משמעותית בתוכן המוצג. איכות ברמה אוטומטית תגרום ל-CABL למקסם את החיסכון בחיי הסוללה בהתבסס על גילוי אוטומטי של סוג התוכן המוצג.</string>
   <string name="cabl_levels_title">רמת איכות חזותית</string>
   <string name="cabl_settings_title">הגדרות תאורה אחורית המסתגלת לתוכן</string>

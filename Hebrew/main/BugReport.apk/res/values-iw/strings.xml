@@ -22,7 +22,6 @@
   <string name="cta_dialog_content">יישום זה זקוק לחיבור לאינטרנט על מנת לפעול כראוי.</string>
   <string name="cta_dialog_title">חיבור לאינטרנט</string>
   <string name="cta_not_show_again">אל תציג שוב</string>
-  <string name="default_text_view">תצוגת טקסט</string>
   <string name="description">תאר את הבעיה</string>
   <string name="dialog_ask_delete">מחק</string>
   <string name="dialog_ask_quit">יציאה</string>

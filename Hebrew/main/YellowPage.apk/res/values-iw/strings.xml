@@ -274,7 +274,6 @@
   <string name="more_express_numbers">מספרים מהירים נוספים</string>
   <string name="navigation_search_all_cities">כל הערים</string>
   <string name="navigation_search_automatically_positioned_city">עיר הנוכחי</string>
-  <string name="navigation_search_default_hint">חיפוש מיקום</string>
   <string name="navigation_search_hot_cities">לינקים מהירים</string>
   <string name="navigation_search_no_city_list">לא נמצא דבר</string>
   <string name="navigation_search_positioning">באיתור…</string>
@@ -325,7 +324,6 @@
   <string name="quick_yellow_page_tab_phones">טלפון</string>
   <string name="recharge_actual_price">מחיר:</string>
   <string name="recharge_charge_range">מחיר: RMB %1$s-%2$s</string>
-  <string name="recharge_charge_value">מחיר: RMB %s</string>
   <string name="recharge_history">היסטוריה Top-up</string>
   <string name="recharge_history_empty">רוקן</string>
   <string name="recharge_input_phone_title">הזן את מספר הטלפון (China Mobile, China Unicom, או סין טלקום)</string>

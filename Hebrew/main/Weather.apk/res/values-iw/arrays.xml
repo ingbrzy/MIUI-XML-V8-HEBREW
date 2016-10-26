@@ -8,14 +8,6 @@
     <item>מדד זיהום אוויר %1$s</item>
     <item>מדד זיהום אוויר %1$s</item>
   </string-array>
-  <string-array name="aqi_value">
-    <item>טוב</item>
-    <item>משביע רצון</item>
-    <item>מזוהם באופן בינוני</item>
-    <item>דל</item>
-    <item>דל מאוד</item>
-    <item>חמור</item>
-  </string-array>
   <string-array name="hot_city">
     <item>"בייג'ינג"</item>
     <item>שאנגחאי</item>

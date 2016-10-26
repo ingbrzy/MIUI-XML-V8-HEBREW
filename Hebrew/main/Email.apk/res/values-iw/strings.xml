@@ -385,7 +385,6 @@
   <string name="forward_attribution_no_headers">---------- הודעה שהועברה ----------</string>
   <string name="forward_download_failed_ticker">לא ניתן היה להעביר קובץ מצורף אחד או יותר.</string>
   <string name="forward_download_failed_title">הקובץ המצורף לא הועבר</string>
-  <string name="forward_subject_label">העבר:</string>
   <string name="from_heading">"מ: "</string>
   <string name="general_preference_confirm_delete_label">אישור לפני מחיקה</string>
   <string name="general_preference_confirm_send_label">אישור לפני שליחה</string>
@@ -716,12 +715,7 @@
   <string name="reply_add_bodycontent">להוסיף טקסט תגובה מהירה לתוכן ההודעה?</string>
   <string name="reply_all">השב לכולם</string>
   <string name="reply_attribution" formatted="false">%s כתב/ה בתאריך %s:</string>
-  <string name="reply_subject_label">השב:</string>
   <string name="report_phishing">דווח על דיוג</string>
-  <string name="report_rendering_improvement">נראה טוב</string>
-  <string name="report_rendering_improvement_desc">הודעה זו נראת טוב.</string>
-  <string name="report_rendering_problem">נראה רע</string>
-  <string name="report_rendering_problem_desc">הודעה זו נראת רע.</string>
   <string name="report_spam">דווח כספאם</string>
   <string name="request_entity_large">הקובץ גדול מדי</string>
   <string name="request_permission_activity">בקשת הרשאה</string>
@@ -847,7 +841,6 @@
   <string name="wait_for_manual_sync_body">"חשבון זה לא הוגדר לסנכרון אוטומטי.
 לחץ "סנכרן כעת על מנת לסנכרן דואר פעם אחת, או שנה את הגדרות הסנכרון על מנת להגדיר סנכרון אוטומטי של דואר בחשבון זה.</string>
   <string name="wait_for_sync_title">מחכה לסנכרון</string>
-  <string name="wait_help_context">המתן</string>
   <string name="widget_all_mail">כל הדואר</string>
   <string name="widget_other_views">אחר</string>
   <string name="wipe_account_fail_description">אפשר</string>

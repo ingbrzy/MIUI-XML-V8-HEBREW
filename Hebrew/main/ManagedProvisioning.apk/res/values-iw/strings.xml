@@ -11,8 +11,6 @@
   <string name="continue_provisioning_notify_text">גע כדי להמשיך בהגדרת פרופיל העבודה שלך</string>
   <string name="continue_provisioning_notify_title">ההצפנה הושלמה</string>
   <string name="copying_certs">‏מגדיר אישורי CA</string>
-  <string name="default_managed_profile_name">פרופיל עבודה</string>
-  <string name="default_owned_device_username">משתמש של מכשיר עבודה</string>
   <string name="delete_profile">מחיקה</string>
   <string name="delete_profile_title">האם להסיר את פרופיל העבודה?</string>
   <string name="device_owner_cancel_cancel">ביטול</string>

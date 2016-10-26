@@ -20,7 +20,6 @@
   <string name="connected_peripheral">מחובר אל %1$s</string>
   <string name="connecting_peripheral">מתחבר אל %1$s</string>
   <string name="could_not_use_app">לא ניתן היה להשתמש ב-%1$s.</string>
-  <string name="default_pay_app_removed">"השירות שבחרת עבור 'לחץ ושלם' הוסר. לבחור שירות אחר?"</string>
   <string name="device">מכשיר</string>
   <string name="disconnected_peripheral">התנתק מ-%1$s</string>
   <string name="disconnecting_peripheral">מתנתק מ-%1$s</string>

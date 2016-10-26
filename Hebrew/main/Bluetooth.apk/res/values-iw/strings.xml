@@ -86,7 +86,6 @@
   <string name="map_auth_notif_ticker">בקשת אימות של Obex</string>
   <string name="map_auth_notif_title">קוד הפעלה</string>
   <string name="map_authentication_timeout_message">תם הזמן הקצוב להזנת קוד הפעלה עם %1$s</string>
-  <string name="map_defaultname">דיבורית לרכב</string>
   <string name="map_localPhoneName">השם שלי</string>
   <string name="map_session_key_dialog_header">דרוש קוד הפעלה של Bluetooth</string>
   <string name="map_session_key_dialog_title">הקלד קוד הפעלה עבור %1$s</string>

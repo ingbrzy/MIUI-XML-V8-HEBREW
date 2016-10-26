@@ -17,7 +17,6 @@
   <string name="cit_audio_cali_playing">לחץ על לחצן כידי לבצע כיול</string>
   <string name="cit_audio_cali_summary">כיול רמקול PA</string>
   <string name="cit_audio_cali_title">בדיקת כיול רמקול PA</string>
-  <string name="cit_audio_cali_valueF0">:FO</string>
   <string name="cit_audio_calibrating">מתבצע כיול</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">בדיקת מיקרופון אחורי</string>
   <string name="cit_audio_lb_frontmic_to_speaker_title">בדיקת מיקרופון קדמי</string>

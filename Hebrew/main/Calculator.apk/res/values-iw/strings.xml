@@ -133,8 +133,6 @@
   <string name="tax_unemployment">אבטלה</string>
   <string name="tax_update_time_format">נתונים בשנה %s, מסופק ע\"י HeXun</string>
   <string name="title_bar">ממיר אורך</string>
-  <string name="unit_data_default_area_0">מ\"ר</string>
-  <string name="unit_data_default_area_1">סמ\"ר</string>
   <string name="unit_data_display_area_acre">אקר</string>
   <string name="unit_data_display_area_are">עשירית דונם (Are)</string>
   <string name="unit_data_display_area_ha">הקטר</string>

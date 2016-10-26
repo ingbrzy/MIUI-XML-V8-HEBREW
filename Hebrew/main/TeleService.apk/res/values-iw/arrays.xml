@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="call_barring_incoming_display_values">
-    <item>כבה</item>
-    <item>נדידה</item>
-    <item>הכל</item>
-  </string-array>
-  <string-array name="call_barring_outgoing_display_values">
-    <item>כבה</item>
-    <item>חסימת נדידת שיחות</item>
-    <item>חסימת שיחות בינלאומיות</item>
-    <item>חסימת שיחות יוצאות</item>
-  </string-array>
   <string-array name="cdma_system_select_choices">
     <item>בית בלבד</item>
     <item>אוטומטי</item>
-  </string-array>
-  <string-array name="clir_display_values">
-    <item>רשת ברירת מחדל</item>
-    <item>הסתר מספר</item>
-    <item>הצג מספר</item>
   </string-array>
   <string-array name="dtmf_tone_entries">
     <item>רגיל</item>

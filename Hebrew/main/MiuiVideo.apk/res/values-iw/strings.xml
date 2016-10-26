@@ -223,7 +223,6 @@
   <string name="not_buy_vip">ללא VIP</string>
   <string name="not_exist_openid">משיג את פרטי החשבון, אנא המתן…</string>
   <string name="not_login">לא מחובר</string>
-  <string name="notification_default_title">סרטון לא מקוון</string>
   <string name="notification_sub_title">בסה\"כ %d משימות הורדה הושלמו</string>
   <string name="notification_ticker_text">הורדת סרטון לא מקוון הושלמה</string>
   <string name="notification_title">הודרת \"%1$s\" הושלמה</string>
