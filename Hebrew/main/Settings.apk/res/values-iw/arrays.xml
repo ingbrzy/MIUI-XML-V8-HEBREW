@@ -208,13 +208,13 @@
     <item>הטלת צללית</item>
     <item>בולט</item>
     <item>שקוע</item>
-  <string-array name="captioning_font_size_selector_titles">
+  </string-array>
+    <string-array name="captioning_font_size_selector_titles">
     <item>קטן מאוד</item>
     <item>קטן</item>
     <item>רגיל</item>
     <item>גדול</item>
     <item>גדול מאוד</item>
-  </string-array>
   </string-array>
   <string-array name="captioning_preset_selector_titles">
     <item>ברירות המחדל של היישום</item>
