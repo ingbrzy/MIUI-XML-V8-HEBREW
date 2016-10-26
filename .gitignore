@@ -31,8 +31,4 @@ Thumbs.db
 ######################
 *.log
 *.sql
-<<<<<<< HEAD
 *.sqlite
-=======
-*.sqlite
->>>>>>> origin/master
