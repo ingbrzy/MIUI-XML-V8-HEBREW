@@ -44,7 +44,7 @@
   <string name="change_wallpaper">שנה</string>
   <string name="children_folder_title">ילדים</string>
   <string name="children_mode_exit">יציאה</string>
-  <string name="children_mode_tips_message">לא קיים יישום ב'מצב ילדים'. אנא בחר יישום.</string>
+  <string name="children_mode_tips_message">"לא קיים יישום ב'מצב ילדים'. אנא בחר יישום."</string>
   <string name="children_mode_tips_title">אנא בחר יישום</string>
   <string name="choose_wallpaper">בחר טפט</string>
   <string name="chooser_wallpaper">בחר טפט חדש</string>

@@ -6,8 +6,8 @@
   <string name="can_not_dial_vt_while_voice_prompt">לא ניתן לבצע שיחת וידאו במהלך ביצוע שיחה קולית</string>
   <string name="can_not_dial_while_vt_prompt">לא ניתן לחייג במהלך שיחת וידאו</string>
   <string name="change_default_dialer_dialog_title">"לשנות את יישום ברירת המחדל של 'חייגן'?"</string>
-  <string name="change_default_dialer_no_previous_app_set_text">להשתמש ב-%s כיישום 'חייגן' ברירת המחדל שלך?</string>
-  <string name="change_default_dialer_with_previous_app_set_text">להשתמש ב-%1$s במקום ב-%2$s כיישום 'חייגן' ברירת המחדל שלך?</string>
+  <string name="change_default_dialer_no_previous_app_set_text">"להשתמש ב-%s כיישום 'חייגן' ברירת המחדל שלך?"</string>
+  <string name="change_default_dialer_with_previous_app_set_text">"להשתמש ב-%1$s במקום ב-%2$s כיישום 'חייגן' ברירת המחדל שלך?"</string>
   <string name="dial_conference_fail_prompt">לא ניתן לבצע שיחת ועידה באופן ישיר מפני שהרשת הנוכחית אינה תומכת ב-VoLTE.</string>
   <string name="dial_vt_fail_prompt">הרשת הנוכחית אינה תומכת ב-VoLTE. להחליף לשיחה קולית רגילה?</string>
   <string name="duplicate_video_call_not_allowed">לא ניתן להוסיף את השיחה ברגע זה.</string>

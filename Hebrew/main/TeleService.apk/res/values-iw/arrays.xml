@@ -17,15 +17,6 @@
     <item>סינית</item>
     <item>עברית</item>
   </string-array>
-  <string-array name="list_language_entries">
-    <item>אנגלית</item>
-    <item>צרפתית</item>
-    <item>ספרדית</item>
-    <item>יפנית</item>
-    <item>קוריאנית</item>
-    <item>סינית</item>
-    <item>עברית</item>
-  </string-array>
   <string-array name="preferred_network_mode_choices">
     <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
     <item>TD-SCDMA, GSM/WCDMA, CDMA ו-EvDo</item>

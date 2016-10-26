@@ -1189,7 +1189,7 @@
   <string name="wifi_p2p_invitation_sent_title">ההזמנה נשלחה</string>
   <string name="wifi_p2p_invitation_to_connect_title">הזמנה להתחבר</string>
   <string name="wifi_p2p_to_message">אל:</string>
-  <string name="wifi_p2p_turnon_message">‏הפעל Wi-Fi ישיר. פעולה זו תכבה את 'הנקודה החמה הניידת'.</string>
+  <string name="wifi_p2p_turnon_message">"‏הפעל Wi-Fi ישיר. פעולה זו תכבה את 'הנקודה החמה הניידת'."</string>
   <string name="wifi_watchdog_network_disabled">‏אין אפשרות להתחבר ל-Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" אינו מחובר היטב לאינטרנט."</string>
   <string name="wireless_display_route_description">צג אלחוטי</string>

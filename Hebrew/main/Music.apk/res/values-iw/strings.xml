@@ -673,7 +673,7 @@
   <string name="start_to_download">מוריד…</string>
   <string name="start_to_play">נגן</string>
   <string name="start_to_use">"פתח את 'מוזיקה'"</string>
-  <string name="start_update">עדכון לגרסה העדכנית ביותר של יישום ה'מוזיקה'.</string>
+  <string name="start_update">"עדכון לגרסה העדכנית ביותר של יישום ה'מוזיקה'."</string>
   <string name="storage_internal">אחסון פנימי</string>
   <string name="storage_sd_card">כרטיס זיכרון</string>
   <string name="storage_usb">אחסון USB</string>
