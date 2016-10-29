@@ -51,6 +51,9 @@
     <item>כאשר המכשיר נעול או לאחר יציאה מיישום</item>
     <item>כאשר המכשיר נעול או דקה אחת לאחר יציאה מיישום</item>
   </string-array>
+  <string-array name="long_add_menu">
+    <item>"הוסף ל'חריגים'"</item>
+  </string-array>
   <string-array name="mi_service_traffic_type">
     <item>"שימוש בנתונים "</item>
     <item>"שימוש ב-Wi-Fi "</item>

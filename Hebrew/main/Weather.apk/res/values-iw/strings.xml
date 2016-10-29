@@ -40,6 +40,7 @@
   <string name="button_exit">יציאה</string>
   <string name="button_not_allow">ביטול</string>
   <string name="button_sure_abandon">לבטל שינויים?</string>
+  <string name="change_alert">בדוק את חיבורך לרשת ונסה שנית</string>
   <string name="close">סגור</string>
   <string name="commercial">מסחרי</string>
   <string name="common_loading_text">רק רגע…</string>

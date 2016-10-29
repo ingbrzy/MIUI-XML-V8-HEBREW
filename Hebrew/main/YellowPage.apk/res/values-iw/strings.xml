@@ -314,7 +314,7 @@
   <string name="payment_failed_common_problems">אירעה שגיאה במהלך תשלום</string>
   <string name="payment_unknown_status_summary">בדוק את החיבור הרשת שלך ונסה שוב.</string>
   <string name="payment_unknown_status_title">לא ניתן היה לאשר את סטטוס התשלום</string>
-  <string name="phone_event_setting_notice_text">באמצעות תכונה זואתה מסכים לתנאים שלנו %1$s ו%2$s.</string>
+  <string name="phone_event_setting_notice_text">ע\"י שימוש בתכונה זו אתה מסכים ל-%1$s וה-%2$s שלנו.</string>
   <string name="phone_event_setting_notice_text_with_contacts_permission">ע\"י שימוש בתכונה זו אתה מסכים ל-%1$s וה-%2$s שלנו. נדרשת גישה לאנשי הקשר שלך.</string>
   <string name="photo_count">%d סה\"כ</string>
   <string name="pull_to_refresh_pull_label">משוך לרענון…</string>

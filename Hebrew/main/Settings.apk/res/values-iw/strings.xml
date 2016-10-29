@@ -332,7 +332,8 @@
   <string name="band_mode_succeeded">עבר בהצלחה</string>
   <string name="band_mode_title">‏הגדר רצועת GSM/UMTS</string>
   <string name="baseband_version">גרסת פס בסיס</string>
-  <string name="batch_delete_saved_network">למחוק את הרשת השמורה: %s?</string>
+  <string name="batch_delete_saved_network">למחוק את הרשת שנבחרה: %s?</string>
+  <string name="batch_delete_saved_networks">למחוק את כל הרשתות שנבחרו?</string>
   <string name="battery_action_app_details">פרטי היישום</string>
   <string name="battery_action_app_settings">הגדרות היישום</string>
   <string name="battery_action_bluetooth">‏הגדרות Bluetooth</string>
@@ -1060,7 +1061,6 @@
   <string name="device_info_not_available">לא זמין</string>
   <string name="device_info_settings">סטטוס הטלפון</string>
   <string name="device_internal_memory">זיכרון פנימי</string>
-  <string name="device_memory">RAM</string>
   <string name="device_miui_version">גרסת MIUI</string>
   <string name="device_name">שם המכשיר</string>
   <string name="device_name_input_error">לא ניתן היה לשמור את שם המכשיר</string>
@@ -2054,7 +2054,8 @@
   <string name="multi_touch_points_preference">הגדרה זו תיכנס לתוקף לאחר שתאתחל את המכשיר</string>
   <string name="music_audio_effect_optimize">הגדרות שמע</string>
   <string name="music_audio_effect_optimize_summary">הגדרות התקני שמע</string>
-  <string name="music_audio_effect_optimize_summary_with_hifi">הגדרות שמע והתקני שמע</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">הגדרות Dirac, HD Sound, אוזניות והגדרות שמע נוספות</string>
+  <string name="music_audio_effect_optimize_summary_with_hifi">הגדרות Dirac, Hi-Fi, אוזניות והגדרות שמע נוספות</string>
   <string name="music_audio_effect_settings">הגדרות אפקטים</string>
   <string name="music_dirac_control">מקסם איכות שמע</string>
   <string name="music_dirac_mode_capsule">קפסולת Mi</string>
@@ -2068,6 +2069,7 @@
   <string name="music_dolby_mode_off">מופסק</string>
   <string name="music_equalizer">אקולייזר</string>
   <string name="music_equalizer_summary">התאמת עוצמות ייחודיות לסגנונות מוזיקה שונים</string>
+  <string name="music_hd_title">שמע HD Sound</string>
   <string name="music_headphone_settings">בחר בסוג אוזניות</string>
   <string name="music_headset_button_settings">הקצאת כפתורים</string>
   <string name="music_headset_calibrate">הקצאת כפתורים</string>
@@ -2087,7 +2089,6 @@
   <string name="music_headset_settings">אוזניות &amp; אפקטי שמע</string>
   <string name="music_hifi_summary">הפחת רכש ועיוות והגבר איכות שמע</string>
   <string name="music_hifi_title">שמע Hi-Fi</string>
-  <string name="music_hifi_volume">עוצמת Hi-Fi</string>
   <string name="music_mi_effect_summary">"השתמש ב'מגבר צלילים Mi' בעת שימוש ברמקולים"</string>
   <string name="music_mi_effect_title">מגבר צלילים Mi</string>
   <string name="musicfx_title">אפקטים מוזיקליים</string>
@@ -2832,8 +2833,8 @@
   <string name="screen_key_press_action">פונקצית טריגר</string>
   <string name="screen_locking_sounds_title">צלילי נעילת מסך</string>
   <string name="screen_never_timeout_title">לעולם אל תישן</string>
-  <string name="screen_on_proximity_sensor_summary">נעל באופן אוטומטי בעת הכנסה לכיס</string>
-  <string name="screen_on_proximity_sensor_title">מנע חיוג מהכיס</string>
+  <string name="screen_on_proximity_sensor_summary">נעל מחוות מגע בעת הכנסה לכיס</string>
+  <string name="screen_on_proximity_sensor_title">מצב כיס</string>
   <string name="screen_optimize">ניגודיות</string>
   <string name="screen_paper_mode_adjust_level">עוצמה</string>
   <string name="screen_paper_mode_apps_loading">רק רגע…</string>
@@ -3660,8 +3661,8 @@
   <string name="touch_sensitive_title">מצב כפפות</string>
   <string name="touch_sensitive_turn_off_cancel">ביטול</string>
   <string name="touch_sensitive_turn_off_confirm">אישור</string>
-  <string name="touch_sensitive_turn_off_summary">"לכבות גם את אפשרות 'מנע חיוג מהכיס'?"</string>
-  <string name="touch_sensitive_turn_off_title">"מצב 'כפפות' כבוי"</string>
+  <string name="touch_sensitive_turn_off_summary">"לכבות גם את אפשרות 'מצב כיס'?"</string>
+  <string name="touch_sensitive_turn_off_title">"מצב כפפות' כבוי'"</string>
   <string name="touch_sounds_title">צלילי מגע</string>
   <string name="touch_title">מגע</string>
   <string name="track_frame_time">‏עיבוד פרופיל ב-GPU</string>
@@ -4094,6 +4095,8 @@
   <string name="wait_for_debugger_summary">יישום שנוקו בה הבאגים ממתין למנקה הבאגים לצירוף לפני ביצוע</string>
   <string name="wakeup_for_keyguard_notification_title">הער את מסך הנעילה בקבלת התראות</string>
   <string name="wallpaper_attributions">טפטים</string>
+  <string name="wallpaper_attributions_values">"ספקי צילומי לווין:
+2014© CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">מסך הבית</string>
   <string name="wallpaper_live">טפט חי</string>
   <string name="wallpaper_lockscreen">מסך הנעילה</string>

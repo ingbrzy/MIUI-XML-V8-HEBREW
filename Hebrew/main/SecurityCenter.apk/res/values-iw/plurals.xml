@@ -40,6 +40,14 @@
     <item quantity="other">ל-%d יישומים יש הרשאות Root</item>
     <item quantity="one">ליישום אחד יש הרשאות Root</item>
   </plurals>
+  <plurals name="hints_handle_item_text_risk_number">
+    <item quantity="other">%d סיכונים,</item>
+    <item quantity="one">סיכון אחד,</item>
+  </plurals>
+  <plurals name="hints_handle_item_text_virus_number">
+    <item quantity="other">%d סוסים טרויאניים,</item>
+    <item quantity="one">סוס טרויאני אחד,</item>
+  </plurals>
   <plurals name="hints_install_apps_interval">
     <item quantity="other">היה בשימוש לפני %d ימים</item>
     <item quantity="one">היה בשימוש אתמול</item>
@@ -60,6 +68,14 @@
   <plurals name="hints_roaming_found_app_count_title">
     <item quantity="other">נמצאו %d יישומים</item>
     <item quantity="one">נמצא יישום אחד</item>
+  </plurals>
+  <plurals name="hints_scan_result_danger">
+    <item quantity="other">%d סיכונים נמצאו, תקנם כעת</item>
+    <item quantity="one">סיכון אחד נמצא, תקנו כעת</item>
+  </plurals>
+  <plurals name="hints_scan_result_virus_number">
+    <item quantity="other">%d סיכונים</item>
+    <item quantity="one">סיכון אחד</item>
   </plurals>
   <plurals name="hints_traffic_disable_title">
     <item quantity="other">עוקב אחר צריכת הנתונים של %d יישומים</item>
@@ -93,6 +109,10 @@
     <item quantity="other">על הסיסמה להכיל %d אותיות גדולות לפחות.</item>
     <item quantity="one">על הסיסמה להכיל אות גדולה אחת לפחות.</item>
   </plurals>
+  <plurals name="million">
+    <item quantity="other">הורד ע\"י %1$d אנשים</item>
+    <item quantity="one">הורד ע\"י אדם אחד</item>
+  </plurals>
   <plurals name="notification_apps">
     <item quantity="other">%d יישומים מכילים סיכוני פרטיות</item>
     <item quantity="one">יישום אחד מכיל סיכוני פרטיות</item>
@@ -104,6 +124,14 @@
   <plurals name="number_to_lock">
     <item quantity="other">%d יישומים לא נעולים</item>
     <item quantity="one">יישום אחד לא נעול</item>
+  </plurals>
+  <plurals name="people">
+    <item quantity="other">הורד ע\"י %1$d אנשים</item>
+    <item quantity="one">הורד ע\"י אדם אחד</item>
+  </plurals>
+  <plurals name="people_million">
+    <item quantity="other">הורד ע\"י %1$d אנשים</item>
+    <item quantity="one">הורד ע\"י אדם אחד</item>
   </plurals>
   <plurals name="power_center_battery_day">
     <item quantity="other">"%d ימים "</item>
@@ -159,6 +187,10 @@
     <item quantity="other">%s יישומים מוגנים</item>
     <item quantity="one">יישום אחד מוגן</item>
   </plurals>
+  <plurals name="sp_settings_exception_count">
+    <item quantity="other">%d חריגים</item>
+    <item quantity="one">חריג אחד</item>
+  </plurals>
   <plurals name="summary_app_update">
     <item quantity="other">עדכונים זמינים ל-%d יישומים.</item>
     <item quantity="one">עדכון זמין ליישום אחד.</item>
@@ -166,5 +198,9 @@
   <plurals name="system_check_content">
     <item quantity="other">%1$d פריטים מאובטחים</item>
     <item quantity="one">פריט אחד מאובטח</item>
+  </plurals>
+  <plurals name="view_num">
+    <item quantity="other">%1$d צפיות</item>
+    <item quantity="one">צפייה אחת</item>
   </plurals>
 </resources>

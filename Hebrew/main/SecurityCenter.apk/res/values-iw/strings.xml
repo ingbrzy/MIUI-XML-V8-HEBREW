@@ -22,6 +22,7 @@
   <string name="activity_title_apps_manager">יישומים</string>
   <string name="activity_title_auto_start_manager">הפעלה אוטומטית</string>
   <string name="activity_title_create_shortcut">נהל קיצורי דרך</string>
+  <string name="activity_title_deep_clean">ניקוי עמוק</string>
   <string name="activity_title_default_apps_manager">יישומי ברירת מחדל</string>
   <string name="activity_title_garbage_cleanup">מנקה</string>
   <string name="activity_title_license_manager">הרשאות</string>
@@ -46,6 +47,7 @@
   <string name="activity_title_virus">וירוס</string>
   <string name="activity_title_virus_detail">פירוט הוירוס</string>
   <string name="activity_title_virus_settings">הגדרות</string>
+  <string name="activity_title_white_list">חריגים</string>
   <string name="adb_install_no_network">התחבר לרשת ונסה שוב</string>
   <string name="adb_install_open">מאפשר…</string>
   <string name="adb_install_open_error">לא ניתן היה לאפשר, בדוק את החיבור שלך לרשת</string>
@@ -91,6 +93,8 @@
   <string name="app_check_sub_title_text">ייעל יישומים על מנת לפתור בעיות סוללה</string>
   <string name="app_detail">פרטים</string>
   <string name="app_install_intercept">חסום התקנה</string>
+  <string name="app_install_tips_go_to">פתח</string>
+  <string name="app_install_tips_install_success">%1$s הותקנו בהצלחה</string>
   <string name="app_mobile">סלולרי</string>
   <string name="app_name">נועל היישומים</string>
   <string name="app_name_na">שימוש בנתונים</string>
@@ -221,6 +225,7 @@
   <string name="bind_xiaomi_account_success">חשבון Mi נוסף בהצלחה</string>
   <string name="bind_xiaomi_account_summary">הוסף חשבון Mi על מנת לאפס את סיסמתך</string>
   <string name="bind_xiaomi_account_title">הוסף חשבון Mi</string>
+  <string name="booster_immediately">הגבר</string>
   <string name="boot_reminder">תזמן את הפעלת המכשיר שלך</string>
   <string name="boot_time">יופעל ב-%1$s</string>
   <string name="boot_time_day">יופעל בעוד %1$d ימים ב-%2$s</string>
@@ -244,6 +249,7 @@
   <string name="btn_text_optimize_now">ייעל</string>
   <string name="btn_text_power_cleanup">ניקוי עמוק</string>
   <string name="btn_text_power_consume_suggest_optimize">ייעול</string>
+  <string name="btn_text_quick_antivirus">תקן</string>
   <string name="btn_text_quick_cleanup">נקה</string>
   <string name="btn_text_quick_optimize">ייעול</string>
   <string name="btn_text_quick_save_power">צנן</string>
@@ -259,6 +265,7 @@
   <string name="button_text_cleanup">לנקות</string>
   <string name="button_text_clear">נקה</string>
   <string name="button_text_create_shortcut">"צור קיצור דרך ב'מסך הבית'"</string>
+  <string name="button_text_delete_from_virus_white_list">הסר</string>
   <string name="button_text_deny">דחה</string>
   <string name="button_text_disconnect_now">התנתק</string>
   <string name="button_text_fix">תקן</string>
@@ -266,6 +273,7 @@
   <string name="button_text_ignore">התעלם</string>
   <string name="button_text_ignore_alert_title">התעלם מהתראה זו?</string>
   <string name="button_text_known">אישור</string>
+  <string name="button_text_let_me_select">הבנתי</string>
   <string name="button_text_next_step">הבא</string>
   <string name="button_text_next_step_timer">השלב הבא (%d)</string>
   <string name="button_text_open_now">פתח</string>
@@ -278,6 +286,8 @@
   <string name="button_text_update_now">עדכן</string>
   <string name="button_text_view">ייעול</string>
   <string name="button_text_view_power">צפה</string>
+  <string name="buy_immediately">קנה</string>
+  <string name="buy_traffic_pack">קנה נתונים נוספים</string>
   <string name="cache_header_title">נקה %1$d קבצים המאוחסנים במטמון בחינם %2$s של השטח</string>
   <string name="call_and_contact">שיחות ואנשי קשר</string>
   <string name="cancal_to_setting_fingerprint">בטל</string>
@@ -300,6 +310,7 @@
   <string name="card_main_netcheck_action">בדוק</string>
   <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
   <string name="card_main_netcheck_title">בדיקת רשת</string>
+  <string name="card_main_overscroll_tips">אבטחה במיטבה</string>
   <string name="card_main_paysafe_action">הפעל</string>
   <string name="card_main_paysafe_summary">סרוק אחר סיכונים אפשריים בסביבת התשלום</string>
   <string name="card_main_paysafe_title">אבטחת תשלום</string>
@@ -320,6 +331,10 @@
   <string name="choose">בחר</string>
   <string name="clean_immediately">הסר</string>
   <string name="cleaned">הוסר</string>
+  <string name="clear_bigfiles">מחק קבצים גדולים, תמונות כפולות, ופריטים מיותרים אחרים</string>
+  <string name="clear_garbage">נקה אשפה כדי לפנות מקום</string>
+  <string name="clear_immediately">נקה כעת</string>
+  <string name="close">סגור</string>
   <string name="cmcc_app_check_dialog_message">הפעל מחדש את המכשיר כדי להשלים תיקון.</string>
   <string name="cmcc_app_check_dialog_negative">מאוחר יותר</string>
   <string name="cmcc_app_check_dialog_positive">הפעלה מחדש עַכשָׁיו</string>
@@ -414,6 +429,7 @@
   <string name="downloading">מוריד</string>
   <string name="empty_app">אין יישומים</string>
   <string name="empty_title_auto_start_list">אין יישום להפעלה אוטומטית.</string>
+  <string name="empty_title_garbage_virus_white_list">השאר את התוצאות ברשימה כדי לדלג עליהם בסריקה הבאה</string>
   <string name="empty_title_manual_item_white_list">אין חריגים.</string>
   <string name="empty_title_perm_apps">אין יישומים עם ההרשאה זו.</string>
   <string name="empty_title_permission_apps_list">אין יישומים.</string>
@@ -458,6 +474,7 @@
   <string name="firewall_rule_group_title_wifi">רשת אלחוטית</string>
   <string name="firewall_service_network_blocked">השימוש ברשתות %2$s ע\"י %1$s הוגבל</string>
   <string name="five_percent_total_pkg">%s (5%% של נתונים חודשיים)</string>
+  <string name="flow_rank_title">שימוש בנתונים</string>
   <string name="foreground_traffic">חזית %s</string>
   <string name="forget_password_button_text"><u>שכחתי את הסיסמה</u></string>
   <string name="forget_pattern"><u>שכחת את התבנית?</u></string>
@@ -466,10 +483,14 @@
   <string name="free_time_traffic_settings">מגבלת נתונים בשפל</string>
   <string name="free_time_traffic_title">הזן מגבלת נתונים בשפל</string>
   <string name="free_traffic_settings">הגדרות שימוש בנתונים בשפל</string>
+  <string name="garbage_clean_detail">פירוט</string>
   <string name="gateway_exception_summary">בדוק את הנתב שלך ונסה שוב.</string>
   <string name="gateway_exception_summary2">לא ניתן להתחבר לשרת</string>
   <string name="gateway_exception_title">בדוק נתב</string>
+  <string name="go_to">המשך</string>
   <string name="go_to_setting_fingerprint">הגדרות</string>
+  <string name="goto_set">הגדר</string>
+  <string name="handle_bar_summary_wifi_unknown">לא ידוע</string>
   <string name="handle_bar_title_apps">יישומים</string>
   <string name="handle_bar_title_paysms">הודעות</string>
   <string name="handle_bar_title_system">מערכת</string>
@@ -482,6 +503,7 @@
   <string name="hide_mode_summary_text">נהל את פעילות הרקע של יישומים על מנת לחסוך בסוללה</string>
   <string name="hide_mode_title_text">"מצב 'הסתרה'"</string>
   <string name="hints_auto_start_warning_info">אם תגביל התחול אוטומטית, יישומים ושירותים מסוימים לא יוכלו לקבל התראות.</string>
+  <string name="hints_cleanning_done">הסריקה הושלמה בהצלחה</string>
   <string name="hints_cleanning_text">מנקה…</string>
   <string name="hints_handle_item_text_risk">סיכונים: %d</string>
   <string name="hints_handle_item_text_safe">בטוח</string>
@@ -509,9 +531,12 @@
   <string name="hints_risk_app_list_item_summary">סיכון (יישום)</string>
   <string name="hints_risk_descx_title">תאור:</string>
   <string name="hints_risk_name_title">סיכון:</string>
+  <string name="hints_scan_progress">נסרק: %d</string>
+  <string name="hints_scan_result_phone_safe">הכל נראה כשורה</string>
   <string name="hints_scan_result_risk">סיכונים שזוהו</string>
   <string name="hints_scan_result_safe">בטוח</string>
   <string name="hints_scan_result_virus">אותרו וירוסים</string>
+  <string name="hints_scanning">סורק…</string>
   <string name="hints_scanning_text">סורק…</string>
   <string name="hints_scanning_virus_by_cloud">סריקת ענן מתמשכת…</string>
   <string name="hints_unknown_virus_name">לא ידוע</string>
@@ -524,6 +549,8 @@
   <string name="hints_virus_name_title">וירוס:</string>
   <string name="hints_virus_scan_result_descx">יישום זה הוא סיכון חמור לביטחונו של מכשירך.</string>
   <string name="history_details_title">פרטי ההיסטוריה</string>
+  <string name="hot">פופולרי</string>
+  <string name="hot_today">פופולרי היום</string>
   <string name="info_and_call">שיחות והודעות</string>
   <string name="information_setting">"הגדרות של 'עדכונים'"</string>
   <string name="input_aviable_traffic">הגדר מגבלת שימוש בנתונים</string>
@@ -605,6 +632,8 @@
   <string name="lockscreen_glogin_checking_password">בודק…</string>
   <string name="lockscreen_glogin_password_hint">סיסמא</string>
   <string name="lockscreen_glogin_submit_button">היכנס</string>
+  <string name="long_click_dialog_summary">"השאר את התוצאות ברשימה כדי להוסיף אותם ל'חריגים'"</string>
+  <string name="long_click_dialog_title">שים לב</string>
   <string name="main_activity_content_summary_root">הרשאות Root</string>
   <string name="main_activity_content_summary_update">עדכון מערכת</string>
   <string name="main_activity_content_title_scanning">סורק…</string>
@@ -707,6 +736,7 @@
  2. אם עדכנת את החבילת גלישה שלך, הפעל מחדש את המכשיר ונסה שנית.
 
  3. האות של רשת הספק שלך עשוי להיות חלש במיקום הנוכחי שלך."</string>
+  <string name="network_not_available">לא ניתן להתחבר לרשת</string>
   <string name="network_operator_exception_summary">לא ניתן להפעיל את כרטיס ה-SIM. ודא שכרטיס ה-SIM מוכנס כראוי וכי התכנית הניידת הופעלה ע\"י הספק שלך.</string>
   <string name="network_permission_exception_tips">אתה לא יכול להשתמש באינטרנט הסלולרי כדי להתחבר לרשת</string>
   <string name="network_roaming_exception_tips">אתה לא יכול להשתמש באינטרנט הסלולרי כדי להתחבר לרשת במצב נדידה.</string>
@@ -742,7 +772,10 @@
   <string name="networkchanged_exception_summary">החיבור לרשת השתנה. אנא בדוק שוב.</string>
   <string name="networkchanged_exception_title">חיבור השתנה</string>
   <string name="never">פעם אחת</string>
+  <string name="news_change">שנה</string>
   <string name="next_step_button">הבא</string>
+  <string name="no_network">לא ניתן היה להתחבר לרשת, נסה שוב מאוחר יותר</string>
+  <string name="no_network_btn">נסה שוב</string>
   <string name="none_mi_service_app_detail">רוקן</string>
   <string name="notification_battery_consume_abnormal_summary">%2$s מהסוללה התרוקנו במהלך %1$d הדקות האחרונות</string>
   <string name="notification_battery_consume_abnormal_title">הסוללה מתרוקנת מהר מדי</string>
@@ -771,6 +804,8 @@
   <string name="ok">אישור</string>
   <string name="ok_button">אישור</string>
   <string name="open">פתח</string>
+  <string name="open_app">פתח</string>
+  <string name="open_browser">פתח בדפדפן</string>
   <string name="open_now">אפשר ליישום להשתמש באינטרנט הסלולרי</string>
   <string name="operator_diagnostic">אבחון ספק הרשת</string>
   <string name="optimize_result_button_cloudspace">הוסף שטח אחסון בענן</string>
@@ -846,6 +881,7 @@
   <string name="permit_running_network">נתוני רקע</string>
   <string name="person_hotpot">נקודות חמות ניידות</string>
   <string name="pkg_traffic">הגדר מגבלת שימוש בנתונים</string>
+  <string name="please_continue_keep">השאר</string>
   <string name="pm_auto_start_by_other">מופעלות בהתחלה</string>
   <string name="pm_auto_start_by_other_app">אפשר ליישום להפעיל יישומים אחרים</string>
   <string name="pm_auto_start_by_system">התחל יישומים</string>
@@ -1056,11 +1092,13 @@
   <string name="pref_category_title_reference_settings">הגדרות נוספות</string>
   <string name="pref_category_title_securitycenter_settings">כללי</string>
   <string name="pref_category_title_virus_lib_auto_update">עדכון אוטומטי של הגדרות</string>
+  <string name="pref_category_title_virus_white_list">חריגים</string>
   <string name="pref_check_network_diagnostics">בדוק את חיבור האינטרנט של המכשיר</string>
   <string name="pref_connect_settings_enable_background">אפשר נתוני רקע</string>
   <string name="pref_connect_settings_enable_background_hint">אפשר ליישומים להשתמש בנתונים סלולריים גם בעת שאינך משתמש בהם</string>
   <string name="pref_connect_settings_exceed_limit">הגדר מגבלת שימוש בנתונים בשיא</string>
   <string name="pref_connect_settings_exceed_limit_hint">כבה את חיבור הנתונים הסלולרי בהגעה לתקרת השימוש בשיא שהוגדרה</string>
+  <string name="pref_content_virus_white_list_none">אין פריטים</string>
   <string name="pref_daily_adjust">הגדר מגבלת נתונים בשיא</string>
   <string name="pref_daily_traffic">מגבלת נתונים בשיא</string>
   <string name="pref_data_usage_ignore_settings">התעלם מהשימוש בנתונים</string>
@@ -1093,6 +1131,7 @@
   <string name="pref_specified_adjust">הגדר מגבלת שימוש בנתונים מותאמת אישית</string>
   <string name="pref_specified_traffic_settings">הגדרת מגבלת שימוש בנתונים</string>
   <string name="pref_summary_lock_screen_memory_clean">נקה באופן אוטומטי כאשר המכשיר נעול</string>
+  <string name="pref_summary_virus_white_list">מנע ניקוי עבור היישומים שנבחרו</string>
   <string name="pref_title_declaration">כתב ויתור חשוב</string>
   <string name="pref_title_diagnostics_show_float_notification">התראות צפות</string>
   <string name="pref_title_lock_screen_memory_clean">נקה במסך הנעילה</string>
@@ -1102,6 +1141,7 @@
   <string name="pref_title_traffic_limit_number">גודל</string>
   <string name="pref_title_traffic_speed_state">הצג את מהירות החיבור של הרשת</string>
   <string name="pref_title_update_notification">התראות שימוש בנתונים</string>
+  <string name="pref_title_virus_white_list">חריגים</string>
   <string name="pref_version">גרסה %s</string>
   <string name="pref_warning_values">רמת אזהרה אודות שימוש בנתונים</string>
   <string name="pref_whitelist_setting">חריגי נדידת נתונים</string>
@@ -1141,6 +1181,7 @@
   <string name="recently_reject_message_one">דחה את %1$s בקשות התקנה</string>
   <string name="recommend_app">יישומים מומלצים</string>
   <string name="recommend_news">מקורות מומלצים</string>
+  <string name="recommended">מומלצים</string>
   <string name="reject_all">להגביל הכל</string>
   <string name="reject_countdown">דחה (%d)</string>
   <string name="reject_usb_install">התקנה של היישומים הבאים באמצעות USB נדחתה</string>
@@ -1230,8 +1271,11 @@
   <string name="security_scan_card_clean_now">סרוק</string>
   <string name="security_scan_optimizing">מייעל…</string>
   <string name="see_detail">פרטים</string>
+  <string name="see_more">עוד</string>
   <string name="select_pattern">בחר תבנית</string>
   <string name="set_applock_password">הגדר סיסמה</string>
+  <string name="set_immediately">הגדר</string>
+  <string name="seton_immediately">הדלק</string>
   <string name="Setting_lock">הגדרות</string>
   <string name="setting_privacy_password">"הגדר את סיסמת 'נועל היישומים'"</string>
   <string name="settings">הגדרות שימוש בנתונים</string>
@@ -1250,6 +1294,7 @@
   <string name="settings_title_payment_security">הגדרות אבטחת תשלומים</string>
   <string name="settings_title_permission">הגדרת הרשאות</string>
   <string name="Settings_title_power_center">הגדרות סוללה</string>
+  <string name="share">שתף</string>
   <string name="show_traffic_dialog_message">"מידע על השימוש בנתונים שלך יוצג בלוח ההתראות. ניתן להפעיל תכונה זו או לבטל בכל עת ב'צריכת נתונים' > 'הגדרות'"</string>
   <string name="show_traffic_dialog_title">הצג נתוני שימוש בלוח ההתראות</string>
   <string name="showpattern">הצג תבנית</string>
@@ -1269,6 +1314,8 @@
   <string name="sorted_button">מיין לפי</string>
   <string name="sorted_dialog_title">מיין לפי</string>
   <string name="sp_back_title_text_zero">אבטחה</string>
+  <string name="sp_button_text_ignore_alert_title">להתעלם מהפריט המסומן?</string>
+  <string name="sp_empty_title_sign_exception">"לחץ לחיצה ארוכה על פריט היישום בעמוד התוצאות כדי להוסיפו ל'חריגים'"</string>
   <string name="sp_monitored_apps_count_zero">אף יישום תשלומים אינו מוגן</string>
   <string name="sp_monitored_apps_list_title">הגדרות ניטור</string>
   <string name="sp_network_privacy_dialog_message">"יישום ה'אבטחה' אינו יכול לבדוק תשלומים כיוון שהגבלת את החיבור לאינטרנט. לאפשר ל'אבטחה' להתחבר לאינטרנט?"</string>
@@ -1276,6 +1323,14 @@
   <string name="sp_safe_score_text">התשלום מאובטח</string>
   <string name="sp_scan_item_monitor">ניטור תשלומים</string>
   <string name="sp_scan_item_url_antispam">הגנה מפני קישורים זדוניים</string>
+  <string name="sp_settings_check_item_summary_sign_exception">נהל חריגי חתימה</string>
+  <string name="sp_settings_check_item_summary_virus_exception">נהל חריגי וירוס</string>
+  <string name="sp_settings_check_item_title_sign_exception">חריגי חתימה</string>
+  <string name="sp_settings_check_item_title_update">עדכוני מערכת</string>
+  <string name="sp_settings_check_item_title_virus_exception">חריגי וירוס</string>
+  <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
+  <string name="sp_settings_exception_count_zero">אין חריגים</string>
+  <string name="sp_settings_group_title_check_item">בדוק הגדרות הפריטים</string>
   <string name="sp_settings_group_title_ime">הגדרות אבטחת IME</string>
   <string name="sp_settings_group_title_omit">פריטים שהושמטו</string>
   <string name="sp_settings_info_input_method">משתמש בשיטת קלט של המערכת ביישומי תשלום</string>
@@ -1284,9 +1339,12 @@
   <string name="sp_settings_plugin_monitor_title">ניטור תוספות של תשלומים</string>
   <string name="sp_settings_root_title_omit">בדוק הרשאות Root</string>
   <string name="sp_settings_title_input_method">אבטחת IME</string>
+  <string name="sp_toast_removed_from_sign_white_list">"הוסר מ'חריגים'. הפריט ייסרק בסריקה הבאה."</string>
   <string name="spinner_title">%1$s - נתונים סלולריים: %2$s</string>
+  <string name="sponsored">בחסות</string>
   <string name="st_title_mode_choose_group">בחר פרופיל</string>
   <string name="start_diagnostic_botton">התחל</string>
+  <string name="start_downloading_app">מתחיל הורדה: %1$s</string>
   <string name="start_install">התקן כעת</string>
   <string name="stop_app_button">עצור</string>
   <string name="suffix_pay_risk_count_bottom">סיכונים</string>
@@ -1352,6 +1410,9 @@
   <string name="tc_diagnostic_brand_error_notification_title">סוג רשת שגוי</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>תוצאה: מותג מפעיל שגוי&lt;br/>&lt;br/>הגדר מותג: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>מותג נוחכי: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_complete">בוצע</string>
+  <string name="tc_diagnostic_fragment_default">"אודות האיבחון:
+1. המכשיר יתחבר לרשת ספק השירות, ישלח הודעה בחינם, וימתין לתגובה מהספק. הפעולה עשויה להמשך עד 5 דקות.
+2. באפשרותך לצאת מעמוד זה במהלך האבחון, הוא יתבצע ברקע."</string>
   <string name="tc_diagnostic_location_error_notification_summary">לחץ להתאמת המיקום</string>
   <string name="tc_diagnostic_location_error_notification_title">מיקום שגוי</string>
   <string name="tc_diagnostic_notification_sumarry">הקש כדי להציג תוצאות</string>
@@ -1422,6 +1483,7 @@
   <string name="ten_percent_total_pkg">%s (10%% של נתונים חודשיים)</string>
   <string name="text_button">הבנתי</string>
   <string name="text_lock_info">צייר תבנית לפתיחה</string>
+  <string name="there_is_no">הכל נראה כשורה, חזור מאוחר יותר</string>
   <string name="third_application">יישומים מותקנים</string>
   <string name="three_percent_total_pkg">%s (3%% של נתונים חודשיים)</string>
   <string name="timeshow_h">"%.1f שנ'"</string>
@@ -1432,6 +1494,12 @@
   <string name="timeshow_s">"%d שנ'"</string>
   <string name="tips_dialog_title">לא יודע מהי המגבלה שלך</string>
   <string name="tips_message">לצפיה בפרטי תכנית הנתונים שלך, חייג %2$s (%1$s).</string>
+  <string name="tips_of_app_manage">מחק יישומים שלא בשימוש תכוף כדי לחסוך במקום</string>
+  <string name="tips_of_auto_launch_manage">מנע מיישומים שלא בשימוש תכוף מלפעול אוטומטית</string>
+  <string name="tips_of_operators_set">התאם נתוני שימוש בנתונים אוטומטית</string>
+  <string name="tips_of_package_set">הגדר את חבילת הנתונים שלך ושלוט על כמות הנתונים הזמינים לשימוש</string>
+  <string name="tips_of_traffic_pack_threshold">קנה נתונים נוספים כשאתה מתקרב להגבלת הנתונים שלך</string>
+  <string name="tips_of_virus_scan">בצע סריקת וירוסים למכשירך על מנת לשמור עליו מאובטח</string>
   <string name="title_app_lock_disable">נעילת יישומים</string>
   <string name="title_app_update">עדכונים זמינים</string>
   <string name="title_auto_update">עדכן באופן אוטומטי</string>
@@ -1462,12 +1530,17 @@
   <string name="title_mms_no">סנן הודעה כבוי</string>
   <string name="title_mms_yes">סנן הודעה מופעל</string>
   <string name="title_network_switch">חיבור רשת</string>
+  <string name="title_of_app_manage">יישומים</string>
+  <string name="title_of_auto_launch_manage">הפעלה אוטומטית</string>
+  <string name="title_of_operators_set">הגדרות ספק השירות</string>
+  <string name="title_of_package_set">הגדרות חבילת הנתונים</string>
   <string name="title_payment_risk">התגלו סיכוני תשלום</string>
   <string name="title_permission_no">מנהל הרשאות כבוי</string>
   <string name="title_permission_root">הרשאות Root</string>
   <string name="title_permission_yes">מנהל הרשאות מופעל</string>
   <string name="title_power_optimizer">חיסכון בסוללה</string>
   <string name="title_realname_verify">אימות מזהה</string>
+  <string name="title_share_link">שתף כתובת האתר</string>
   <string name="title_show_notification">"ווידג'ט לוח ההתראות"</string>
   <string name="title_telecom_operator">התאמה אוטומטית</string>
   <string name="title_usb_no">ניפוי שגיאות USB פועל</string>
@@ -1478,6 +1551,8 @@
   <string name="title_virus_update_yes">עדכון אוטומטי עבור הגדרת וירוסים פועל</string>
   <string name="title_virus_yes">לא נמצאו וירוסים</string>
   <string name="title_xiaomi_roaming">נדידת Mi</string>
+  <string name="toast_add_virus_white_list_no_need_repeat">"'חריג וירוס' זה כבר קיים!"</string>
+  <string name="toast_add_virus_white_list_success">"נוסף ל'חריגים'. עיין בפריטים בהגדרות."</string>
   <string name="toast_auto_traffic_correct">השימוש בנתונים מותאם באופן אוטומטי</string>
   <string name="toast_cleaner_cloudscan">שירוטי ניקוי מופעלים ברשת</string>
   <string name="toast_default_app">%1$s הגדר כברירת מחדל של המערכת %2$s</string>
@@ -1487,8 +1562,10 @@
   <string name="toast_network_eror">לא ניתן להתחבר לרשת</string>
   <string name="toast_network_switch">יישום זה יכול להתחבר לאינטרנט</string>
   <string name="toast_reject_sms_read_permission_success">הוגדר בהצלחה</string>
+  <string name="toast_removed_from_virus_white_list">"הוסר מ'חריגים'. הפריט ייסרק בסריקה הבאה."</string>
   <string name="toast_root_apply_accept">הרשאות Root הוענקו ל-%s</string>
   <string name="toast_root_apply_reject">בקשת %s עבור הרשאות Root נדחתה</string>
+  <string name="toast_select_virus_white_need_remove">בחר פריטים</string>
   <string name="toast_set_success">הופעל בהצלחה</string>
   <string name="toast_shortcut_install">קיצור דרך מונח על מסך הבית</string>
   <string name="toast_shortcut_uninstall">קיצור דרך הוסר</string>
@@ -1559,6 +1636,9 @@
   <string name="traffic_setting_step_num">הגדרות תוכנית נתונים</string>
   <string name="traffic_warning_purchase_title">אזהרת שימוש בנתונים ניידים</string>
   <string name="unable_connect_internet">אין חיבור לאינטרנט</string>
+  <string name="uninstall_app_dialog_msg">ההסרה תסיר את כל נתוני היישום.</string>
+  <string name="uninstall_app_dialog_title">להסיר כעת?</string>
+  <string name="uninstall_app_done">ההסרה הושלמה</string>
   <string name="unlike">לא תודה</string>
   <string name="updating_diagnostic_botton">טוען מידע…</string>
   <string name="usage_sorted_activity_lable">שימוש בנתונים</string>
@@ -1586,8 +1666,11 @@
   <string name="usbsharenet_pc_exception_summary">לא ניתן להתחבר לאינטרנט באמצעות חיבור USB משותף. בדוק את החיבור לאינטרנט של המחשב שלך.</string>
   <string name="use_immediately">השתמש</string>
   <string name="virus_list_header_title">%d וירוסים אותרו</string>
+  <string name="virus_scan">סריקת וירוסים</string>
   <string name="wakepath_confirm_start_activity">לאפשר ל-%1$s לפתוח את %2$s?</string>
   <string name="warning_open_mi_sim">הפעל את Mi SIM</string>
+  <string name="white_list_risk_app_header">יישומים מסוכנים: %d</string>
+  <string name="white_list_trojan_header">סוסים טרויאניים: %d</string>
   <string name="wifi_exception_summary">בדוק רשתות Wi-Fi זמינות</string>
   <string name="wifi_exception_title">בדיקת רשת Wi-Fi</string>
   <string name="wifi_item_status_connection_no">לא מחובר</string>
