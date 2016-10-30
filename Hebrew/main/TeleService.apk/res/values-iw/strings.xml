@@ -707,7 +707,6 @@
   <string name="msim_not_set_summary">לא הוגדר</string>
   <string name="msim_pref_title_data">אינטרנט</string>
   <string name="msim_pref_title_voice">חייג</string>
-  <string name="msim_select_default_time_left">"(%d שנ')"</string>
   <string name="msim_set_icc_card_error">תקלה בכרטיס ICC</string>
   <string name="msim_set_sub_not_supported_phone_in_call">לא ניתן להגדיר במהלך שיחה</string>
   <string name="msim_set_sub_not_supported_slot_id_error">תקלה בכרטיס SIM</string>
@@ -846,7 +845,6 @@
   <string name="operator_mins_first">תן עדיפות לתוכנית ספק השירות</string>
   <string name="operator_mins_first_close">כבוי</string>
   <string name="operator_remain_mins">דקות בחבילת המפעיל</string>
-  <string name="operator_remain_mins_value">%1$s דקות</string>
   <string name="optional_summary">&lt;אופציונאלי></string>
   <string name="order_by_recent">תדירות</string>
   <string name="order_id">מספר הזמנה: %1$s</string>
@@ -880,7 +878,6 @@
   <string name="other_settings">הגדרות שיחה נוספות</string>
   <string name="other_settings_category">אחר</string>
   <string name="overseas_roaming_setting">נדידה בינלאומית</string>
-  <string name="password">סיסמה</string>
   <string name="password_changed">סיסמה שונתה</string>
   <string name="password_title">סיסמה</string>
   <string name="path_answer_state_setting_title">יישומי מערכת/טלפון/הגדרות שיחה נכנסת</string>
@@ -1316,7 +1313,6 @@
   <string name="title_rates">דירוגים</string>
   <string name="title_user_config">הפעל כרטיס SIM</string>
   <string name="top_up_first">תיחלה חדש חבילת Top-up</string>
-  <string name="transport">פרוטוקול</string>
   <string name="transport_title">סוג התחבורה</string>
   <string name="tty_mode_not_allowed_video_call">שינוי מצב TTY אינו נתמך במהלך שיחת וידאו</string>
   <string name="tty_mode_option_summary">הגדר מצב TTY</string>

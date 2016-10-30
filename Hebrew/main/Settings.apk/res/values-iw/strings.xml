@@ -4095,8 +4095,6 @@
   <string name="wait_for_debugger_summary">יישום שנוקו בה הבאגים ממתין למנקה הבאגים לצירוף לפני ביצוע</string>
   <string name="wakeup_for_keyguard_notification_title">הער את מסך הנעילה בקבלת התראות</string>
   <string name="wallpaper_attributions">טפטים</string>
-  <string name="wallpaper_attributions_values">"ספקי צילומי לווין:
-2014© CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">מסך הבית</string>
   <string name="wallpaper_live">טפט חי</string>
   <string name="wallpaper_lockscreen">מסך הנעילה</string>

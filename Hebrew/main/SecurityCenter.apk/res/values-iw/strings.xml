@@ -1410,9 +1410,6 @@
   <string name="tc_diagnostic_brand_error_notification_title">סוג רשת שגוי</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>תוצאה: מותג מפעיל שגוי&lt;br/>&lt;br/>הגדר מותג: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>מותג נוחכי: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_complete">בוצע</string>
-  <string name="tc_diagnostic_fragment_default">"אודות האיבחון:
-1. המכשיר יתחבר לרשת ספק השירות, ישלח הודעה בחינם, וימתין לתגובה מהספק. הפעולה עשויה להמשך עד 5 דקות.
-2. באפשרותך לצאת מעמוד זה במהלך האבחון, הוא יתבצע ברקע."</string>
   <string name="tc_diagnostic_location_error_notification_summary">לחץ להתאמת המיקום</string>
   <string name="tc_diagnostic_location_error_notification_title">מיקום שגוי</string>
   <string name="tc_diagnostic_notification_sumarry">הקש כדי להציג תוצאות</string>
