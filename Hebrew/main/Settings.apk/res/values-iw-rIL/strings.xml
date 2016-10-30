@@ -1259,7 +1259,11 @@
   <string name="enable_service_password_reason">מאחר שהפעלת %1$s משפיעה על הצפנת הנתונים, עליך לאשר את הסיסמה שלך.</string>
   <string name="enable_service_pattern_reason">מאחר שהפעלת %1$s משפיעה על הצפנת הנתונים, עליך לאשר את תבנית ביטול הנעילה שלך.</string>
   <string name="enable_service_pin_reason">‏מאחר שהפעלת %1$s משפיעה על הצפנת הנתונים, עליך לאשר את מספר ה-PIN שלך.</string>
+<<<<<<< HEAD
   <string name="enable_service_title">השירות יבצע את הפעולות הבאות:</string>
+=======
+  <string name="enable_service_title">The service will perform these actions:</string>	
+>>>>>>> origin/master
   <string name="enable_snapshot_screenlock">"לחיצה ארוכה על מקש 'חזרה' על מנת לצלם תמונה"</string>
   <string name="enable_terminal_summary">הפעל יישום מסוף המציע גישה מקומית למעטפת</string>
   <string name="enable_terminal_title">מסוף מקומי</string>
