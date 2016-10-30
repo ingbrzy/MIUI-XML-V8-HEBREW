@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="admin_has_ability_to_monitor_device">מנהל המערכת יכול לבצע מעקב ולנהל הגדרות, גישה ארגונית, יישומים ונתונים המשוייכים למכשיר זה, כולל פעילות ברשת ומידע על מיקום המכשיר.</string>
   <string name="admin_has_ability_to_monitor_profile">מנהל המערכת יכול לבצע מעקב ולנהל הגדרות, גישה ארגונית, יישומים ונתונים המשוייכים לפרופיל, כולל פעילות ברשת ומידע על מיקום המכשיר.</string>
@@ -57,7 +57,7 @@
   <string name="progress_set_owner">מגדיר את בעל המכשיר…</string>
   <string name="provisioning">קובע את התצורה</string>
   <string name="provisioning_error_title">אופס!</string>
-  <string name="read_more_delete_profile"><a href="#read_this_link">קרא את המידע שכאן</a> לפני שתמשיך.</string>
+  <string name="read_more_delete_profile">&lt;a href="#read_this_link"&gt;&amp;#1511;&amp;#1512;&amp;#1488; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1502;&amp;#1497;&amp;#1491;&amp;#1506; &amp;#1513;&amp;#1499;&amp;#1488;&amp;#1503;&lt;/a&gt; &amp;#1500;&amp;#1508;&amp;#1504;&amp;#1497; &amp;#1513;&amp;#1514;&amp;#1502;&amp;#1513;&amp;#1497;&amp;#1498;.</string>
   <string name="set_up">הגדר</string>
   <string name="setting_up_workspace">מגדיר את פרופיל העבודה שלך…</string>
   <string name="setup_device_encryption">הגדר את המכשיר. הצפנה</string>

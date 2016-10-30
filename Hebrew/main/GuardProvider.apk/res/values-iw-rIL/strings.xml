@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">רכיבי אבטחה של MIUI</string>
   <string name="avast_dialog_header">תכונה זו מצפינה ומעלה את מזהה המכשיר שלך לשרתי Avast (%s).</string>

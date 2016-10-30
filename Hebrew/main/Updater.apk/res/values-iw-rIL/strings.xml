@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_device">אודות הטלפון</string>
   <string name="active_xiaomi_account">הפעל</string>
@@ -103,7 +103,7 @@
   <string name="menu_title_download_current_rom">הורד עדכון</string>
   <string name="menu_title_pick_rom_file">בחר חבילת עדכון</string>
   <string name="menu_title_recovery">אתחל למצב Recovery</string>
-  <string name="miui_BBS">" "<a href="http://bbs.miui.com">עבור לפורום MIUI</a>" "</string>
+  <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;&amp;#1506;&amp;#1489;&amp;#1493;&amp;#1512; &amp;#1500;&amp;#1508;&amp;#1493;&amp;#1512;&amp;#1493;&amp;#1501; MIUI&lt;/a&gt;" "</string>
   <string name="miui_summary_has_new_version">"  עדכון זמין  "</string>
   <string name="miui_summary_no_new_version">אין עדכונים זמינים</string>
   <string name="miui_summary_now_version">לא ניתן להתחבר לרשת</string>
@@ -258,7 +258,6 @@ http://zhushou.xiaomi.com"</string>
   <string name="validate_pkg_failed_title">לא ניתן לאמת את העדכון</string>
   <string name="view_upgrade_tutorial">הצגה</string>
   <string name="vote_beta">תכנית משוב Beta</string>
-  <string name="vote_error_nonetwork">לא ניתן להתחבר לרשת</string>
   <string name="vote_error1">"נראה שאינך חבר רשום
 בתכנית משוב Beta"</string>
   <string name="vote_error2">"לא ניתן היה לשלוח משוב.
@@ -268,6 +267,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="vote_error4">כבר שלחת משוב</string>
   <string name="vote_error5">"משהו השתבש
 לא ניתן היה לשלוח משוב"</string>
+  <string name="vote_error_nonetwork">לא ניתן להתחבר לרשת</string>
   <string name="vote_experience">ניסיון בפורום</string>
   <string name="vote_hint">קבל 20 נקודות זכות בפורום MIUI ע\"י הצבעה</string>
   <string name="vote_join">הצבעה בוצעה</string>

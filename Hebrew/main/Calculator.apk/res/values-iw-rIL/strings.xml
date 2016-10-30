@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">מחשבון</string>
   <string name="cal_convert_to_word_figure">המר לסימנים פיננסיים</string>
@@ -8,8 +8,8 @@
   <string name="choose_currency">בחר מטבע</string>
   <string name="choose_unit">בחר יחידה</string>
   <string name="city">עיר</string>
-  <string name="clear_history">נקה היסטוריה</string>
   <string name="clearDesc">ניקוי</string>
+  <string name="clear_history">נקה היסטוריה</string>
   <string name="combine_loan">הלוואה משולבת</string>
   <string name="commercial_loan">הלוואה מסחרית</string>
   <string name="convert_currency">ממיר מטבע</string>

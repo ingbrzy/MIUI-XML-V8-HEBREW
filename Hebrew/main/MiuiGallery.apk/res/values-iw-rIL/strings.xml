@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accept">קבל</string>
   <string name="accept_or_deny">%1$s שיתף איתך את האלבום %2$s.</string>
@@ -153,13 +153,13 @@
   <string name="confirm_download_video_message">סיים את הורדת הוידאו על מנת לצפות בו. ההורדה תחודש עם חיבור לרשת Wi-Fi זמינה.</string>
   <string name="confirm_download_video_title">הורד וידאו</string>
   <string name="confirm_face">מתאים</string>
-  <string name="confirm_merge_face_albums">" "<Data> למזג אלבום זה עם %s? </Data>" "</string>
-  <string name="confirm_merge_many_face_albums">" "<Data> למזג אלבומים אלה עם %s? </Data>" "</string>
+  <string name="confirm_merge_face_albums">" "&lt;Data&gt; &amp;#1500;&amp;#1502;&amp;#1494;&amp;#1490; &amp;#1488;&amp;#1500;&amp;#1489;&amp;#1493;&amp;#1501; &amp;#1494;&amp;#1492; &amp;#1506;&amp;#1501; %s? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; &amp;#1500;&amp;#1502;&amp;#1494;&amp;#1490; &amp;#1488;&amp;#1500;&amp;#1489;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1501; &amp;#1488;&amp;#1500;&amp;#1492; &amp;#1506;&amp;#1501; %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">אין התאמות</string>
-  <string name="confirm_recommandation_face_is">" "<Data> בטוח שזה &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? אדם זה יועבר לאלבום \"%2$s\". </Data>" "</string>
-  <string name="confirm_recommandation_face_not">" "<Data> בטוח שזה לא &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
-  <string name="confirm_recommandation_multiple_faces_are">" "<Data> בטוח שאלה &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? אנשים אלה יועברו לאלבום \"%2$s\". </Data>" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" "<Data> בטוח שאלה לא &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
+  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; &amp;#1489;&amp;#1496;&amp;#1493;&amp;#1495; &amp;#1513;&amp;#1494;&amp;#1492; &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &amp;#1488;&amp;#1491;&amp;#1501; &amp;#1494;&amp;#1492; &amp;#1497;&amp;#1493;&amp;#1506;&amp;#1489;&amp;#1512; &amp;#1500;&amp;#1488;&amp;#1500;&amp;#1489;&amp;#1493;&amp;#1501; \"%2$s\". &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; &amp;#1489;&amp;#1496;&amp;#1493;&amp;#1495; &amp;#1513;&amp;#1494;&amp;#1492; &amp;#1500;&amp;#1488; &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; &amp;#1489;&amp;#1496;&amp;#1493;&amp;#1495; &amp;#1513;&amp;#1488;&amp;#1500;&amp;#1492; &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &amp;#1488;&amp;#1504;&amp;#1513;&amp;#1497;&amp;#1501; &amp;#1488;&amp;#1500;&amp;#1492; &amp;#1497;&amp;#1493;&amp;#1506;&amp;#1489;&amp;#1512;&amp;#1493; &amp;#1500;&amp;#1488;&amp;#1500;&amp;#1489;&amp;#1493;&amp;#1501; \"%2$s\". &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; &amp;#1489;&amp;#1496;&amp;#1493;&amp;#1495; &amp;#1513;&amp;#1488;&amp;#1500;&amp;#1492; &amp;#1500;&amp;#1488; &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="contact_tip">איש קשר</string>
   <string name="context_menu_add_contact">הוסף לאנשי קשר</string>
   <string name="context_menu_copy">העתק</string>
@@ -203,7 +203,7 @@
   <string name="delete_owner_and_other_shared_images_format">%1$d נמחקו, %2$d נשמרו</string>
   <string name="delete_third_party_photo">למחוק תמונה זו?</string>
   <string name="delete_third_party_video">למחוק סרטון זה?</string>
-  <string name="delete_to_trash_tips">"תוכל לצפות בתמונות שנמחקו לאחרונה ב'הגדרות' > 'פח אשפה'"</string>
+  <string name="delete_to_trash_tips">"תוכל לצפות בתמונות שנמחקו לאחרונה ב'הגדרות' &gt; 'פח אשפה'"</string>
   <string name="deny">דחה</string>
   <string name="detail_title">פרטים</string>
   <string name="disable_auto_upload_tip">"תמונות חדשות ותמונות שנמחקו לא יסונכרנו עם Mi Cloud. אלבום זה יועבר ל'אלבומים אחרים'."</string>

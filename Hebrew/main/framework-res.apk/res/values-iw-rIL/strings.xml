@@ -1,5 +1,41 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="BaMmi">חסימת שיחות</string>
+  <string name="CLIRDefaultOffNextCallOff">זיהוי מתקשר עובר כברירת מחדל למצב לא מוגבל. השיחה הבאה: לא מוגבלת</string>
+  <string name="CLIRDefaultOffNextCallOn">זיהוי מתקשר עובר כברירת מחדל למצב לא מוגבל. השיחה הבאה: מוגבלת</string>
+  <string name="CLIRDefaultOnNextCallOff">זיהוי מתקשר עובר כברירת מחדל למצב מוגבל. השיחה הבאה: לא מוגבלת</string>
+  <string name="CLIRDefaultOnNextCallOn">זיהוי מתקשר עובר כברירת מחדל למצב מוגבל. השיחה הבאה: מוגבלת</string>
+  <string name="CLIRPermanent">אינך יכול לשנות את הגדרת זיהוי המתקשר.</string>
+  <string name="CfMmi">העברת שיחות</string>
+  <string name="ClipMmi">זיהוי מתקשר של שיחה נכנסת</string>
+  <string name="ClirMmi">זיהוי מתקשר בשיחה יוצאת</string>
+  <string name="CndMmi">מסירת מספר מתקשר</string>
+  <string name="CnipMmi">מספר מתקשר נמצא</string>
+  <string name="CnirMmi">מספר מתקשר חסוי</string>
+  <string name="ColpMmi">מזהה של קו מחובר</string>
+  <string name="ColrMmi">הגבלה של מזהה קו מחובר</string>
+  <string name="CwMmi">שיחה ממתינה</string>
+  <string name="DndMmi">נא לא להפריע</string>
+  <string name="Midnight">חצות</string>
+  <string name="Noon">צהריים</string>
+  <string name="PinMmi">‏שנה את ה-PIN</string>
+  <string name="PwdMmi">שינוי סיסמה</string>
+  <string name="RestrictedChangedTitle">גישה מוגבלת השתנתה</string>
+  <string name="RestrictedOnAll">‏כל השירותים של קול/נתונים/SMS חסומים.</string>
+  <string name="RestrictedOnAllVoice">כל השירותים הקוליים חסומים.</string>
+  <string name="RestrictedOnData">שירות הנתונים חסום.</string>
+  <string name="RestrictedOnEmergency">שירות חירום חסום.</string>
+  <string name="RestrictedOnNormal">השירות הקולי חסום.</string>
+  <string name="RestrictedOnSms">‏שירות SMS חסום.</string>
+  <string name="RestrictedOnVoiceData">שירותי הקול/נתונים חסומים.</string>
+  <string name="RestrictedOnVoiceSms">‏שירותי קול/SMS חסומים.</string>
+  <string name="RuacMmi">דחייה של שיחות מטרידות לא רצויות</string>
+  <string name="SetupCallDefault">האם לקבל את השיחה?</string>
+  <string name="ThreeWCMmi">שיחה עם שלושה משתתפים</string>
+  <string name="VideoView_error_button">אישור</string>
+  <string name="VideoView_error_text_invalid_progressive_playback">סרטון זה אינו חוקי להעברה כמדיה זורמת למכשיר זה.</string>
+  <string name="VideoView_error_text_unknown">לא ניתן להפעיל סרטון זה.</string>
+  <string name="VideoView_error_title">בעיה בווידאו</string>
   <string name="accept">קבל</string>
   <string name="accessibility_binding_label">נגישות</string>
   <string name="accessibility_enabled">נגישות הופעלה.</string>
@@ -17,9 +53,9 @@
   <string name="activitychooserview_choose_application_error">לא ניתן היה להפעיל את %s</string>
   <string name="adb_active_notification_message">"‏גע כדי להשבית 'ניפוי באגים דרך USB'."</string>
   <string name="adb_active_notification_title">"'‏ניפוי באגים דרך USB' מחובר"</string>
+  <string name="addToDictionary">הוסף למילון</string>
   <string name="add_account_button_label">הוסף חשבון</string>
   <string name="add_account_label">הוסף חשבון</string>
-  <string name="addToDictionary">הוסף למילון</string>
   <string name="aerr_application">לצערנו, פעולת %1$s הופסקה.</string>
   <string name="aerr_process">לצערנו, התהליך %1$s הופסק.</string>
   <string name="allow">אפשר</string>
@@ -61,7 +97,6 @@
   <string name="back_button_label">הקודם</string>
   <string name="badPin">‏ה-PIN הישן שהקלדת שגוי.</string>
   <string name="badPuk">‏ה-PUK שהקלדת שגוי.</string>
-  <string name="BaMmi">חסימת שיחות</string>
   <string name="battery_saver_description">"כדי לעזור בשיפור חיי הסוללה, תכונת החיסכון בסוללה מצמצמת את פעולות המכשיר ומגבילה רטט, שירותי מיקום ואת רוב נתוני הרקע. ייתכן כי 'דוא\"ל', 'הודעות' ויישומים אחרים המסתמכים על סנכרון לא יתעדכנו עד שתפתח אותם.
 
 תכונת החיסכון בסוללה מושבתת אוטומטית כשהמכשיר בטעינה."</string>
@@ -70,7 +105,7 @@
   <string name="bugreport_message">"פעולה זו תאסוף מידע על מצב המכשיר הנוכחי שלך על מנת לשלוח אותו כהודעת דוא\"ל. היא תימשך זמן קצר מרגע תחילת 'דיווח הבאגים' ועד לשליחת ההודעה בפועל. אנא המתן בסבלנות."</string>
   <string name="bugreport_title">שלח דיווח באגים</string>
   <string name="cancel">ביטול</string>
-  <string name="candidates_style"><u>מועמדים</u></string>
+  <string name="candidates_style">&lt;u&gt;&amp;#1502;&amp;#1493;&amp;#1506;&amp;#1502;&amp;#1491;&amp;#1497;&amp;#1501;&lt;/u&gt;</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">ייתכן שסקריפטים יותקנו על מנת להקל את הגישה אל תוכנם של יישומים.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">כולל נתונים אישיים כמו מספרי כרטיס אשראי וסיסמאות.</string>
   <string name="capability_desc_canRequestTouchExploration">פריטים שנגעת בהם ייאמרו בקול וניתן לנווט במסך באמצעות תנועות.</string>
@@ -83,42 +118,28 @@
   <string name="capital_on">מופעל</string>
   <string name="car_mode_disable_notification_message">"גע כדי לצאת מ'מצב נהיגה'."</string>
   <string name="car_mode_disable_notification_title">"'מצב נהיגה' מופעל"</string>
-  <string name="CfMmi">העברת שיחות</string>
   <string name="cfTemplateForwardedTime">{0}: {1} כעבור {2} שניות</string>
   <string name="cfTemplateNotForwarded">{0}: ללא העברה</string>
   <string name="cfTemplateRegistered">{0}: ללא העברה</string>
   <string name="cfTemplateRegisteredTime">{0}: ללא העברה</string>
-  <string name="choose_account_label">בחר חשבון</string>
   <string name="chooseActivity">בחירת פעולה</string>
-  <string name="chooser_wallpaper">שנה טפט</string>
   <string name="chooseUsbActivity">‏בחר יישום עבור התקן ה-USB</string>
-  <string name="clearDefaultHintMsg">"‏נקה את הגדרת המחדל ב'הגדרות' > 'יישומים מותקנים' > 'הורדו'."</string>
-  <string name="ClipMmi">זיהוי מתקשר של שיחה נכנסת</string>
-  <string name="CLIRDefaultOffNextCallOff">זיהוי מתקשר עובר כברירת מחדל למצב לא מוגבל. השיחה הבאה: לא מוגבלת</string>
-  <string name="CLIRDefaultOffNextCallOn">זיהוי מתקשר עובר כברירת מחדל למצב לא מוגבל. השיחה הבאה: מוגבלת</string>
-  <string name="CLIRDefaultOnNextCallOff">זיהוי מתקשר עובר כברירת מחדל למצב מוגבל. השיחה הבאה: לא מוגבלת</string>
-  <string name="CLIRDefaultOnNextCallOn">זיהוי מתקשר עובר כברירת מחדל למצב מוגבל. השיחה הבאה: מוגבלת</string>
-  <string name="ClirMmi">זיהוי מתקשר בשיחה יוצאת</string>
-  <string name="CLIRPermanent">אינך יכול לשנות את הגדרת זיהוי המתקשר.</string>
-  <string name="CndMmi">מסירת מספר מתקשר</string>
-  <string name="CnipMmi">מספר מתקשר נמצא</string>
-  <string name="CnirMmi">מספר מתקשר חסוי</string>
-  <string name="ColpMmi">מזהה של קו מחובר</string>
-  <string name="ColrMmi">הגבלה של מזהה קו מחובר</string>
+  <string name="choose_account_label">בחר חשבון</string>
+  <string name="chooser_wallpaper">שנה טפט</string>
+  <string name="clearDefaultHintMsg">"‏נקה את הגדרת המחדל ב'הגדרות' &gt; 'יישומים מותקנים' &gt; 'הורדו'."</string>
   <string name="common_name">שם משותף:</string>
   <string name="condition_provider_service_binding_label">ספק תנאי</string>
   <string name="configure_input_methods">בחר מקלדות</string>
-  <string name="content_description_sliding_handle">ידית להחלקה. גע והחזק.</string>
   <string name="contentServiceSync">סנכרון</string>
   <string name="contentServiceSyncNotificationTitle">סנכרון</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">יש מחיקות רבות מדי של %s.</string>
+  <string name="content_description_sliding_handle">ידית להחלקה. גע והחזק.</string>
   <string name="continue_to_enable_accessibility">המשך לגעת בשתי אצבעות כדי להפעיל נגישות.</string>
   <string name="copy">העתק</string>
   <string name="copyUrl">העתק כתובת אתר</string>
   <string name="create_contact_using">"צור איש קשר
 באמצעות %s"</string>
   <string name="cut">חתוך</string>
-  <string name="CwMmi">שיחה ממתינה</string>
   <string name="data_usage_3g_limit_snoozed_title">‏אירעה חריגה ממגבלת הנתונים של 2G-3G</string>
   <string name="data_usage_3g_limit_title">‏הגעת למגבלת הנתונים של 2G-3G</string>
   <string name="data_usage_4g_limit_snoozed_title">‏אירעה חריגה ממגבלת הנתונים של 4G</string>
@@ -149,14 +170,14 @@
   <string name="day">יום</string>
   <string name="days">ימים</string>
   <string name="decline">דחה</string>
+  <string name="defaultVoiceMailAlphaTag">דואר קולי</string>
   <string name="default_audio_route_category_name">מערכת</string>
   <string name="default_audio_route_name">טלפון</string>
   <string name="default_audio_route_name_dock_speakers">רמקולים של מעגן</string>
   <string name="default_audio_route_name_headphones">אוזניות</string>
-  <string name="defaultVoiceMailAlphaTag">דואר קולי</string>
   <string name="delete">מחק</string>
-  <string name="deleted_key">%1$s נמחק</string>
   <string name="deleteText">מחק</string>
+  <string name="deleted_key">%1$s נמחק</string>
   <string name="deny">דחה</string>
   <string name="description_target_unlock_tablet">החלק לביטול נעילה.</string>
   <string name="dial_number_using">"חייג למספר
@@ -171,7 +192,6 @@
   <string name="dlg_confirm_kill_storage_users_title">‏הפעל אחסון USB</string>
   <string name="dlg_error_title">‏פעולת USB נכשלה</string>
   <string name="dlg_ok">אישור</string>
-  <string name="DndMmi">נא לא להפריע</string>
   <string name="done_label">בוצע</string>
   <string name="double_tap_toast">טיפ: הקש פעמיים כדי להגדיל ולהקטין.</string>
   <string name="dump_heap_notification">%1$s חורג מהגבלת הזיכרון</string>
@@ -185,9 +205,9 @@
   <string name="durationHourMinutes">"שעה %1$d ‏%2$d דק'"</string>
   <string name="durationHours">%1$d שעות</string>
   <string name="durationMinute">%1$d דקות</string>
-  <string name="durationMinutes">%1$d דקות</string>
   <string name="durationMinuteSecond">"דקה %1$d שנ' %2$d"</string>
   <string name="durationMinuteSeconds">"דקה %1$d ‏%2$d שנ'"</string>
+  <string name="durationMinutes">%1$d דקות</string>
   <string name="durationSecond">שנייה %1$d</string>
   <string name="durationSeconds">%1$d שניות</string>
   <string name="editTextMenuTitle">פעולות טקסט</string>
@@ -199,10 +219,10 @@
   <string name="emergency_call_dialog_number_for_display">מספר חירום</string>
   <string name="emergency_calls_only">שיחות חירום בלבד</string>
   <string name="emptyPhoneNumber">(אין מספר טלפון)</string>
+  <string name="enablePin">‏לא הצלחת. הפעל נעילת SIM/RUIM.</string>
   <string name="enable_accessibility_canceled">נגישות בוטלה.</string>
   <string name="enable_explore_by_touch_warning_message">"%1$s רוצה להפעיל את התכונה 'חקור ע\"י מגע'. כאשר התכונה 'חקור ע\"י מגע' מופעלת, אתה יכול לשמוע או לראות תיאורים של הפריטים שעליהם אצבעך מונחת או לקיים אינטראקציה עם הטלפון באמצעות תנועות אצבע."</string>
   <string name="enable_explore_by_touch_warning_title">"האם להפעיל את התכונה 'חקור ע\"י מגע'?"</string>
-  <string name="enablePin">‏לא הצלחת. הפעל נעילת SIM/RUIM.</string>
   <string name="error_message_change_not_allowed">מנהל המערכת שלך אינו מתיר שינוי זה</string>
   <string name="error_message_title">שגיאה</string>
   <string name="eventTypeAnniversary">יום השנה</string>
@@ -330,6 +350,11 @@
   <string name="httpErrorTooManyRequests">בקשות רבות מדי מעובדות. נסה שוב מאוחר יותר.</string>
   <string name="httpErrorUnsupportedAuthScheme">סכימת אימות האתר אינה נתמכת.</string>
   <string name="httpErrorUnsupportedScheme">הפרוטוקול אינו נתמך.</string>
+  <string name="imProtocolCustom">מותאם אישית</string>
+  <string name="imTypeCustom">מותאם אישית</string>
+  <string name="imTypeHome">בית</string>
+  <string name="imTypeOther">אחר</string>
+  <string name="imTypeWork">עבודה</string>
   <string name="ime_action_default">בצע</string>
   <string name="ime_action_done">סיום</string>
   <string name="ime_action_go">התחל</string>
@@ -340,13 +365,8 @@
   <string name="immersive_cling_description">כדי לצאת, החלק מלמעלה למטה.</string>
   <string name="immersive_cling_positive">הבנתי</string>
   <string name="immersive_cling_title">צפייה במסך מלא</string>
-  <string name="imProtocolCustom">מותאם אישית</string>
-  <string name="imTypeCustom">מותאם אישית</string>
-  <string name="imTypeHome">בית</string>
-  <string name="imTypeOther">אחר</string>
-  <string name="imTypeWork">עבודה</string>
-  <string name="input_method_binding_label">שיטת קלט</string>
   <string name="inputMethod">שיטת קלט</string>
+  <string name="input_method_binding_label">שיטת קלט</string>
   <string name="invalidPin">‏הקלד PIN שאורכו 4 עד 8 ספרות.</string>
   <string name="invalidPuk">‏הקלד PUK באורך 8 מספרים או יותר.</string>
   <string name="issued_by">הונפק ע\"י:</string>
@@ -393,7 +413,7 @@
   <string name="keyguard_password_enter_pin_prompt">‏קוד PIN חדש</string>
   <string name="keyguard_password_enter_puk_code">‏הקלד את קוד ה-PUK וקוד ה-PIN החדש</string>
   <string name="keyguard_password_enter_puk_prompt">‏קוד PUK</string>
-  <string name="keyguard_password_entry_touch_hint"><font size="17">גע כדי להקליד את הסיסמה</font></string>
+  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;&amp;#1490;&amp;#1506; &amp;#1499;&amp;#1491;&amp;#1497; &amp;#1500;&amp;#1492;&amp;#1511;&amp;#1500;&amp;#1497;&amp;#1491; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1505;&amp;#1497;&amp;#1505;&amp;#1502;&amp;#1492;&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">‏קוד PIN שגוי</string>
   <string name="kg_enter_confirm_pin_hint">‏אשר את קוד ה-PIN הרצוי</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"שרטטת את קו ביטול הנעילה באופן שגוי %d פעמים. לאחר %d ניסיונות כושלים נוספים, תתבקש לבטל את נעילת הטלפון באמצעות חשבון דוא\"ל‏.
@@ -407,7 +427,7 @@
   <string name="kg_invalid_sim_pin_hint">‏הקלד מספר PIN שאורכו 4 עד 8 ספרות.</string>
   <string name="kg_invalid_sim_puk_hint">‏קוד PUK צריך להיות בן 8 ספרות.</string>
   <string name="kg_login_account_recovery_hint">"‏שכחת את שם המשתמש או הסיסמה?
-בקר בכתובת "<b>google.com/accounts/recovery</b></string>
+בקר בכתובת "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;</string>
   <string name="kg_login_checking_password">בודק חשבון…</string>
   <string name="kg_login_instructions">‏כדי לבטל את הנעילה, היכנס באמצעות חשבון Google שלך.</string>
   <string name="kg_login_invalid_input">שם משתמש או סיסמה לא חוקיים.</string>
@@ -438,10 +458,10 @@
   <string name="kg_wrong_pattern">קו ביטול נעילה שגוי</string>
   <string name="kg_wrong_pin">‏מספר PIN שגוי</string>
   <string name="last_month">בחודש שעבר</string>
+  <string name="launchBrowserDefault">להפעיל את הדפדפן?</string>
   <string name="launch_warning_original">%1$s הופעל במקור.</string>
   <string name="launch_warning_replace">%1$s פועל כעת.</string>
   <string name="launch_warning_title">היישום הופנה מחדש</string>
-  <string name="launchBrowserDefault">להפעיל את הדפדפן?</string>
   <string name="loading">טוען…</string>
   <string name="lock_to_app_description">"הצמדת המסך נועלת את התצוגה.
 
@@ -472,7 +492,7 @@
   <string name="lockscreen_failed_attempts_now_wiping">ביצעת %d ניסיונות שגויים לביטול נעילת הטלפון. הטלפון יעבור כעת איפוס לברירת המחדל של היצרן.</string>
   <string name="lockscreen_forgot_pattern_button_text">שכחת את הקו?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"‏שכחת את שם המשתמש או הסיסמה?
-בקר בכתובת "<b>google.com/accounts/recovery</b></string>
+בקר בכתובת "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;</string>
   <string name="lockscreen_glogin_checking_password">בודק…</string>
   <string name="lockscreen_glogin_forgot_pattern">ביטול נעילת חשבון</string>
   <string name="lockscreen_glogin_instructions">‏כדי לבטל את הנעילה, היכנס באמצעות חשבון Google שלך.</string>
@@ -553,7 +573,6 @@
   <string name="menu_enter_shortcut_label">Enter</string>
   <string name="menu_space_shortcut_label">רווח</string>
   <string name="midnight">חצות</string>
-  <string name="Midnight">חצות</string>
   <string name="minute">דקה</string>
   <string name="minute_picker_description">מחוון דקות מעגלי</string>
   <string name="minutes">דקות</string>
@@ -571,13 +590,12 @@
   <string name="new_app_description">עצור את היישום הישן ללא שמירה.</string>
   <string name="next_button_label">הבא</string>
   <string name="no">ביטול</string>
+  <string name="noApplications">אין יישומים שיכולים לבצע פעולה זו.</string>
   <string name="no_file_chosen">לא נבחר קובץ</string>
   <string name="no_matches">אין התאמות</string>
   <string name="no_permissions">לא דרושים אישורים</string>
   <string name="no_recent_tasks">אין יישומים אחרונים</string>
-  <string name="noApplications">אין יישומים שיכולים לבצע פעולה זו.</string>
   <string name="noon">צהריים</string>
-  <string name="Noon">צהריים</string>
   <string name="notification_listener_binding_label">מאזין להתראות</string>
   <string name="notification_title">שגיאת כניסה עבור %1$s</string>
   <string name="notification_work_profile_content_description">פרופיל עבודה</string>
@@ -591,24 +609,23 @@
   <string name="older">ישן יותר</string>
   <string name="oneMonthDurationPast">לפני חודש אחד</string>
   <string name="open_permission_deny">אין לך הרשאה לפתוח דף זה.</string>
-  <string name="org_name">ארגון:</string>
-  <string name="org_unit">יחידה ארגונית:</string>
   <string name="orgTypeCustom">בהתאמה אישית</string>
   <string name="orgTypeOther">אחר</string>
   <string name="orgTypeWork">עבודה</string>
+  <string name="org_name">ארגון:</string>
+  <string name="org_unit">יחידה ארגונית:</string>
   <string name="owner_name">בעלים</string>
   <string name="package_deleted_device_owner">נמחקה ע\"י מנהל המערכת שלך</string>
   <string name="package_installed_device_owner">הותקנה ע\"י מנהל המערכת שלך</string>
   <string name="package_updated_device_owner">עודכן ע\"י מנהל המערכת שלך</string>
-  <string name="password_keyboard_label_alpha_key">אבג</string>
   <string name="passwordIncorrect">סיסמה שגויה.</string>
+  <string name="password_keyboard_label_alpha_key">אבג</string>
   <string name="paste">הדבק</string>
   <string name="peerTtyModeFull">‏העמית ביקש TTY במצב FULL</string>
   <string name="peerTtyModeHco">‏העמית ביקש TTY במצב HCO</string>
   <string name="peerTtyModeOff">‏העמית ביקש TTY במצב OFF</string>
   <string name="peerTtyModeVco">‏העמית ביקש TTY במצב VCO</string>
   <string name="perm_costs_money">פעולה זו עשויה לחייב אותך בכסף</string>
-  <string name="permdesc_access_notification_policy">"מאשרת ליישום לקרוא ולכתוב את התצורה של 'נא לא להפריע'."</string>
   <string name="permdesc_accessCoarseLocation">‏מאשרת ליישום לקבל את מיקומך המשוער. מיקום זה נגזר על-פי שירותי מיקום העושים שימוש במקורות מיקום ברשת, כגון אנטנות סלולריות ו-Wi-Fi. שירותי מיקום אלה חייבים להיות מופעלים ונגישים למכשיר שלך כדי שהיישום ישתמש בהם. ייתכן שיישומים יעשו בכך שימוש כדי לקבוע את מיקומך המשוער.</string>
   <string name="permdesc_accessDrmCertificates">‏‏מאשרת ליישום לנהל תצורה של אישורי DRM ולהשתמש בהם. לעולם לא אמורה להיות נחוצה עבור יישומים רגילים.</string>
   <string name="permdesc_accessFineLocation">‏מאשרת ליישום לקבל את המיקום המדויק שלך באמצעות מערכת המיקום הגלובלית (GPS) או מקורות מיקום ברשת כגון אנטנות סלולריות ו-Wi-Fi. שירותי מיקום אלה חייבים להיות מופעלים ונגישים למכשיר שלך כדי שהיישום ישתמש בהם. ייתכן שיישומים יעשו בכך שימוש כדי לקבוע היכן אתה נמצא ולגרום לצריכת סוללה מוגברת.</string>
@@ -619,14 +636,15 @@
   <string name="permdesc_accessNotifications">מאשרת ליישום לאחזר, לבדוק ולמחוק התראות, כולל כאלה שפורסמו ע\"י יישומים אחרים.</string>
   <string name="permdesc_accessWifiState">‏מאשרת ליישום להציג מידע על רשתות Wi-Fi, למשל, האם Wi-Fi מופעל, כמו גם שם מכשירי ה-Wi-Fi המחוברים.</string>
   <string name="permdesc_accessWimaxState">‏מאשרת ליישום לדעת האם WiMAX מופעל, כמו גם לקבל מידע האם רשתות WiMAX כלשהן מחוברות.</string>
+  <string name="permdesc_access_notification_policy">"מאשרת ליישום לקרוא ולכתוב את התצורה של 'נא לא להפריע'."</string>
   <string name="permdesc_addVoicemail">מאשרת ליישום להוסיף הודעות לתיבת הדואר הקולי.</string>
-  <string name="permdesc_bind_connection_service">מאשרת ליישום לגשת לשירותי טלפוניה כדי לבצע/לקבל שיחות.</string>
-  <string name="permdesc_bind_incall_service">מאשרת ליישום לקבוע מתי ואיך המשתמש יראה את מסך השיחה הנכנסת.</string>
   <string name="permdesc_bindCarrierMessagingService">מאשרת ליישום להיקשר לממשק ברמה העליונה של שירות העברת הודעות של ספק השירות. לעולם לא אמורה להיות נחוצה עבור יישומים רגילים.</string>
   <string name="permdesc_bindCarrierServices">מאשרת ליישום להיקשר לשירותי ספק השירות. לעולם לא אמורה להיות נחוצה עבור יישומים רגילים.</string>
   <string name="permdesc_bindConditionProviderService">מאשרת ליישום להיקשר לממשק ברמה העליונה של שירות ספק תנאי. לעולם לא אמורה להיות נחוצה עבור יישומים רגילים.</string>
   <string name="permdesc_bindDreamService">"מאשרת ליישום להיקשר לממשק ברמה העליונה של שירות ה'חלום בהקיץ'. לעולם לא אמורה להיות נחוצה עבור יישומים רגילים."</string>
   <string name="permdesc_bindNotificationListenerService">מאשרת ליישום להיקשר לממשק ברמה העליונה של שירות האזנה להתראות מסוים. לעולם לא אמורה להיות נחוצה עבור יישומים רגילים.</string>
+  <string name="permdesc_bind_connection_service">מאשרת ליישום לגשת לשירותי טלפוניה כדי לבצע/לקבל שיחות.</string>
+  <string name="permdesc_bind_incall_service">מאשרת ליישום לקבוע מתי ואיך המשתמש יראה את מסך השיחה הנכנסת.</string>
   <string name="permdesc_bluetooth">‏מאשרת ליישום להציג את תצורת ה-Bluetooth בטלפון, וכן ליצור ולקבל חיבורים עם מכשירים מותאמים.</string>
   <string name="permdesc_bluetoothAdmin">‏מאשרת ליישום להגדיר את תצורתו של הטלפון המקומי מסוג Bluetooth וכן לגלות מכשירים מרוחקים ולבצע התאמה איתם.</string>
   <string name="permdesc_bodySensors">מאשרת ליישום לגשת אל נתוני חיישנים העוקבים אחר מצבך הגופני, כמו קצב הלב.</string>
@@ -697,8 +715,8 @@
   <string name="permdesc_systemAlertWindow">מאשרת ליישום לצייר על יישומים אחרים או על חלקים מממשק המשתמש. הדבר עשוי להפריע לך להשתמש בממשק של יישומים, או לשנות את מה שאתה חושב שאתה רואה ביישומים אחרים.</string>
   <string name="permdesc_transmitIr">מאשרת ליישום להשתמש במשדר האינפרא-אדום של הטלפון.</string>
   <string name="permdesc_uninstall_shortcut">מאשרת ליישום להסיר קיצורי דרך במסך דף הבית ללא התערבות המשתמש.</string>
-  <string name="permdesc_use_sip">‏אפשר ליישום לבצע ולקבל שיחות SIP.</string>
   <string name="permdesc_useFingerprint">מאשרת ליישום להשתמש בחומרה של סריקת טביעות אצבע לצורך אימות</string>
+  <string name="permdesc_use_sip">‏אפשר ליישום לבצע ולקבל שיחות SIP.</string>
   <string name="permdesc_vibrate">מאשרת ליישום לשלוט ברטט.</string>
   <string name="permdesc_wakeLock">מאשרת ליישום למנוע מהטלפון לעבור למצב שינה.</string>
   <string name="permdesc_writeCalendar">מאשרת ליישום להוסיף, להסיר ולשנות אירועים שאתה יכול לשנות בטלפון, כולל אלה של חברים או עמיתים לעבודה. הדבר עשוי להתיר ליישום לשלוח הודעות הנראות כאילו שנשלחו מבעלי יומן או לשנות אירועים ללא ידיעת הבעלים.</string>
@@ -729,7 +747,6 @@
   <string name="permission_request_notification_title">בקשת הרשאה</string>
   <string name="permission_request_notification_with_subtitle">"נדרשת הרשאה
 לחשבון %s."</string>
-  <string name="permlab_access_notification_policy">"גישה אל 'נא לא להפריע'"</string>
   <string name="permlab_accessCoarseLocation">מיקום משוער (מבוסס רשת)</string>
   <string name="permlab_accessDrmCertificates">‏גישה אל אישורי DRM</string>
   <string name="permlab_accessFineLocation">‏מיקום מדויק (מבוסס GPS ורשת)</string>
@@ -740,14 +757,15 @@
   <string name="permlab_accessNotifications">גישה להתראות</string>
   <string name="permlab_accessWifiState">‏הצג חיבורי Wi-Fi</string>
   <string name="permlab_accessWimaxState">‏התחברות והתנתקות מ-WiMAX</string>
+  <string name="permlab_access_notification_policy">"גישה אל 'נא לא להפריע'"</string>
   <string name="permlab_addVoicemail">הוסף דואר קולי</string>
-  <string name="permlab_bind_connection_service">צור אינטראקציה עם שירותי טלפוניה</string>
-  <string name="permlab_bind_incall_service">צור אינטראקציה עם מסך שיחה נכנסת</string>
   <string name="permlab_bindCarrierMessagingService">איגוד לשירות העברת הודעות של ספק</string>
   <string name="permlab_bindCarrierServices">איגוד לשירותי ספק</string>
   <string name="permlab_bindConditionProviderService">איגוד לשירות ספק תנאי</string>
   <string name="permlab_bindDreamService">איגוד לשירות ׳חלום בהקיץ׳</string>
   <string name="permlab_bindNotificationListenerService">איגוד לשירות של מאזין להתראות</string>
+  <string name="permlab_bind_connection_service">צור אינטראקציה עם שירותי טלפוניה</string>
+  <string name="permlab_bind_incall_service">צור אינטראקציה עם מסך שיחה נכנסת</string>
   <string name="permlab_bluetooth">‏התאמה למכשירי Bluetooth</string>
   <string name="permlab_bluetoothAdmin">‏גישה להגדרות Bluetooth</string>
   <string name="permlab_bodySensors">חיישני גוף (כמו מוניטורים עבור קצב לב)</string>
@@ -818,8 +836,8 @@
   <string name="permlab_systemAlertWindow">ציור על יישומים אחרים</string>
   <string name="permlab_transmitIr">שידור באינפרה-אדום</string>
   <string name="permlab_uninstall_shortcut">הסר התקנה של קיצורי דרך</string>
-  <string name="permlab_use_sip">‏ביצוע/קבלה של שיחות SIP</string>
   <string name="permlab_useFingerprint">חומרה של טביעות אצבעות</string>
+  <string name="permlab_use_sip">‏ביצוע/קבלה של שיחות SIP</string>
   <string name="permlab_vibrate">שליטה ברטט</string>
   <string name="permlab_wakeLock">מניעת מעבר הטלפון למצב שינה</string>
   <string name="permlab_writeCalendar">הוספה ושינוי של אירועי יומן ושליחת אימייל לאורחים ללא ידיעת הבעלים</string>
@@ -830,7 +848,7 @@
   <string name="permlab_writeSettings">שינוי הגדרות מערכת</string>
   <string name="permlab_writeSyncSettings">הפעלת וכיבוי סנכרון</string>
   <string name="perms_description_app">מטעם %1$s.</string>
-  <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">חדש: </font></string>
+  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;&amp;#1495;&amp;#1491;&amp;#1513;: &lt;/font&gt;</string>
   <string name="phoneTypeAssistant">מסייע</string>
   <string name="phoneTypeCallback">התקשרות חזרה</string>
   <string name="phoneTypeCar">רכב</string>
@@ -849,7 +867,6 @@
   <string name="phoneTypeWork">עבודה</string>
   <string name="phoneTypeWorkMobile">נייד של העבודה</string>
   <string name="phoneTypeWorkPager">איתורית של העבודה</string>
-  <string name="PinMmi">‏שנה את ה-PIN</string>
   <string name="policydesc_disableCamera">מנע שימוש בכל המצלמות שבמכשיר.</string>
   <string name="policydesc_disableKeyguardFeatures">מנע שימוש בחלק מהתכונות של נעילת המסך.</string>
   <string name="policydesc_encryptedStorage">דרוש שנתוני יישומים מאוחסנים יהיו מוצפנים.</string>
@@ -886,7 +903,6 @@
   <string name="print_service_installed_message">הקש כדי להפעיל</string>
   <string name="print_service_installed_title">שירות %s מותקן</string>
   <string name="progress_erasing">‏מוחק אחסון USB…</string>
-  <string name="PwdMmi">שינוי סיסמה</string>
   <string name="quick_contacts_not_available">לא נמצא יישום להצגת התוכן הזה.</string>
   <string name="reason_service_unavailable">שירות ההדפסה לא הופעל</string>
   <string name="reason_unknown">לא ידוע</string>
@@ -929,15 +945,6 @@
   <string name="restr_pin_error_too_short">‏מספר ה-PIN קצר מדי. חייב להיות באורך 4 ספרות לפחות.</string>
   <string name="restr_pin_incorrect">שגוי</string>
   <string name="restr_pin_try_later">נסה שוב מאוחר יותר</string>
-  <string name="RestrictedChangedTitle">גישה מוגבלת השתנתה</string>
-  <string name="RestrictedOnAll">‏כל השירותים של קול/נתונים/SMS חסומים.</string>
-  <string name="RestrictedOnAllVoice">כל השירותים הקוליים חסומים.</string>
-  <string name="RestrictedOnData">שירות הנתונים חסום.</string>
-  <string name="RestrictedOnEmergency">שירות חירום חסום.</string>
-  <string name="RestrictedOnNormal">השירות הקולי חסום.</string>
-  <string name="RestrictedOnSms">‏שירות SMS חסום.</string>
-  <string name="RestrictedOnVoiceData">שירותי הקול/נתונים חסומים.</string>
-  <string name="RestrictedOnVoiceSms">‏שירותי קול/SMS חסומים.</string>
   <string name="revoke">בטל</string>
   <string name="ringtone_default">רינגטון ברירת מחדל</string>
   <string name="ringtone_default_with_actual">רינגטון ברירת מחדל (%1$s)</string>
@@ -958,17 +965,16 @@
   <string name="roamingText8">נדידה - שותף מועדף</string>
   <string name="roamingText9">נדידה - פונקציונליות שירות מלאה</string>
   <string name="roamingTextSearching">מחפש שירות</string>
-  <string name="RuacMmi">דחייה של שיחות מטרידות לא רצויות</string>
+  <string name="safeMode">מצב בטוח</string>
   <string name="safe_media_volume_warning">"האם להעלות את עוצמת הקול מעל לרמה המומלצת?
 
 האזנה בעוצמת שמע גבוהה למשכי זמן ממושכים עלולה לפגוע בשמיעה."</string>
-  <string name="safeMode">מצב בטוח</string>
   <string name="save_password_label">אשר</string>
   <string name="save_password_message">האם ברצונך שהדפדפן יזכור סיסמה זו?</string>
   <string name="save_password_never">אף פעם</string>
   <string name="save_password_notnow">לא כעת</string>
   <string name="save_password_remember">זכור</string>
-  <string name="screen_compat_mode_hint">"‏אפשר תכונה זו מחדש ב'הגדרות' > 'יישומים מותקנים' > 'הורדו'."</string>
+  <string name="screen_compat_mode_hint">"‏אפשר תכונה זו מחדש ב'הגדרות' &gt; 'יישומים מותקנים' &gt; 'הורדו'."</string>
   <string name="screen_compat_mode_scale">שינוי קנה-מידה</string>
   <string name="screen_compat_mode_show">הצג תמיד</string>
   <string name="screen_lock">נעילת מסך</string>
@@ -981,6 +987,8 @@
   <string name="searchview_description_voice">חיפוש קולי</string>
   <string name="second">שניות</string>
   <string name="seconds">שניות</string>
+  <string name="selectAll">בחר הכל</string>
+  <string name="selectTextMode">בחר טקסט</string>
   <string name="select_character">הוסף תו</string>
   <string name="select_day">בחר חודש ויום</string>
   <string name="select_hours">בחר שעות</string>
@@ -989,10 +997,8 @@
   <string name="select_keyboard_layout_notification_title">בחירת פריסת מקלדת</string>
   <string name="select_minutes">בחר דקות</string>
   <string name="select_year">בחר שנה</string>
-  <string name="selectAll">בחר הכל</string>
-  <string name="selectTextMode">בחר טקסט</string>
-  <string name="sending">שולח…</string>
   <string name="sendText">בחירת פעולה לביצוע עם טקסט</string>
+  <string name="sending">שולח…</string>
   <string name="serial_number">מספר סידורי:</string>
   <string name="serviceClassData">Google Data</string>
   <string name="serviceClassDataAsync">אסנכרוני</string>
@@ -1007,7 +1013,6 @@
   <string name="serviceNotProvisioned">השירות לא הוקצה.</string>
   <string name="serviceRegistered">ההרשמה בוצעה בהצלחה.</string>
   <string name="setup_autofill">הגדר מילוי אוטומטי</string>
-  <string name="SetupCallDefault">האם לקבל את השיחה?</string>
   <string name="sha1_fingerprint">‏טביעת אצבע SHA-1:</string>
   <string name="sha256_fingerprint">‏טביעת אצבע SHA-256:</string>
   <string name="share">שתף</string>
@@ -1033,19 +1038,19 @@
   <string name="sipAddressTypeOther">אחר</string>
   <string name="sipAddressTypeWork">עבודה</string>
   <string name="skip_button_label">דלג</string>
-  <string name="sms_control_message">‏&lt;b> %1$s &lt;/b> שולח מספר רב של הודעות SMS. האם ברצונך לאפשר ליישום זה להמשיך לשלוח הודעות?</string>
+  <string name="sms_control_message">‏&lt;b&gt; %1$s &lt;/b&gt; שולח מספר רב של הודעות SMS. האם ברצונך לאפשר ליישום זה להמשיך לשלוח הודעות?</string>
   <string name="sms_control_no">דחה</string>
   <string name="sms_control_title">‏שולח הודעות SMS</string>
   <string name="sms_control_yes">אפשר</string>
-  <string name="sms_premium_short_code_details"><b>הדבר יגרום לחיובים בחשבון המכשיר הנייד שלך.</b></string>
+  <string name="sms_premium_short_code_details">&lt;b&gt;&amp;#1492;&amp;#1491;&amp;#1489;&amp;#1512; &amp;#1497;&amp;#1490;&amp;#1512;&amp;#1493;&amp;#1501; &amp;#1500;&amp;#1495;&amp;#1497;&amp;#1493;&amp;#1489;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1495;&amp;#1513;&amp;#1489;&amp;#1493;&amp;#1503; &amp;#1492;&amp;#1502;&amp;#1499;&amp;#1513;&amp;#1497;&amp;#1512; &amp;#1492;&amp;#1504;&amp;#1497;&amp;#1497;&amp;#1491; &amp;#1513;&amp;#1500;&amp;#1498;.&lt;/b&gt;</string>
   <string name="sms_short_code_confirm_allow">שלח</string>
   <string name="sms_short_code_confirm_always_allow">אפשר תמיד</string>
   <string name="sms_short_code_confirm_deny">בטל</string>
-  <string name="sms_short_code_confirm_message">‏&lt;b>%1$s&lt;/b> רוצה לשלוח הודעה אל &lt;b>%2$s&lt;/b>.</string>
+  <string name="sms_short_code_confirm_message">‏&lt;b&gt;%1$s&lt;/b&gt; רוצה לשלוח הודעה אל &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_confirm_never_allow">לעולם אל תאפשר</string>
-  <string name="sms_short_code_details">הדבר <b>עלול לגרום לחיובים</b> בחשבון המכשיר הנייד שלך.</string>
+  <string name="sms_short_code_details">הדבר &lt;b&gt;&amp;#1506;&amp;#1500;&amp;#1493;&amp;#1500; &amp;#1500;&amp;#1490;&amp;#1512;&amp;#1493;&amp;#1501; &amp;#1500;&amp;#1495;&amp;#1497;&amp;#1493;&amp;#1489;&amp;#1497;&amp;#1501;&lt;/b&gt; &amp;#1489;&amp;#1495;&amp;#1513;&amp;#1489;&amp;#1493;&amp;#1503; &amp;#1492;&amp;#1502;&amp;#1499;&amp;#1513;&amp;#1497;&amp;#1512; &amp;#1492;&amp;#1504;&amp;#1497;&amp;#1497;&amp;#1491; &amp;#1513;&amp;#1500;&amp;#1498;.</string>
   <string name="sms_short_code_remember_choice">זכור את הבחירה שלי</string>
-  <string name="sms_short_code_remember_undo_instruction">"‏ניתן לשנות זאת מאוחר יותר ב'הגדרות' > 'יישומים מותקנים'"</string>
+  <string name="sms_short_code_remember_undo_instruction">"‏ניתן לשנות זאת מאוחר יותר ב'הגדרות' &gt; 'יישומים מותקנים'"</string>
   <string name="smv_application">‏היישום %1$s (תהליך %2$s) הפר את מדיניות StrictMode באכיפה עצמית שלו.</string>
   <string name="smv_process">‏התהליך %1$s הפר את מדיניות StrictMode באכיפה עצמית.</string>
   <string name="ssl_ca_cert_noti_by_administrator">ע\"י מנהל פרופיל העבודה שלך</string>
@@ -1080,9 +1085,8 @@
   <string name="tethered_notification_no_device_message">אין התקנים מחוברים</string>
   <string name="tethered_notification_one_device_message">התקן %1$s מחובר</string>
   <string name="tethered_notification_title">שיתוף אינטרנט פעיל</string>
-  <string name="text_copied">הטקסט הועתק ללוח.</string>
   <string name="textSelectionCABTitle">בחירת טקסט</string>
-  <string name="ThreeWCMmi">שיחה עם שלושה משתתפים</string>
+  <string name="text_copied">הטקסט הועתק ללוח.</string>
   <string name="time_of_day" formatted="false">%H:%M:%S</string>
   <string name="time_picker_decrement_hour_button">הפחת שעה</string>
   <string name="time_picker_decrement_minute_button">הפחת דקה</string>
@@ -1096,7 +1100,7 @@
   <string name="turn_on_radio">הפעל חיבור אלחוטי</string>
   <string name="tutorial_double_tap_to_zoom_message_short">גע פעמיים לבקרת מרחק מתצוגה</string>
   <string name="unknownName">לא ידוע</string>
-  <string name="untitled">&lt;ללא כותרת></string>
+  <string name="untitled">&lt;ללא כותרת&gt;</string>
   <string name="upload_file">בחר קובץ</string>
   <string name="usb_accessory_notification_title">‏מחובר לאביזר USB</string>
   <string name="usb_cd_installer_notification_title">מחובר בתור מנהל התקנות</string>
@@ -1125,10 +1129,6 @@
   <string name="user_switched">המשתמש הנוכחי %1$s.</string>
   <string name="user_switching_message">עובר אל %1$s…</string>
   <string name="validity_period">חוקיות:</string>
-  <string name="VideoView_error_button">אישור</string>
-  <string name="VideoView_error_text_invalid_progressive_playback">סרטון זה אינו חוקי להעברה כמדיה זורמת למכשיר זה.</string>
-  <string name="VideoView_error_text_unknown">לא ניתן להפעיל סרטון זה.</string>
-  <string name="VideoView_error_title">בעיה בווידאו</string>
   <string name="volume_alarm">עוצמת שמע של התראה</string>
   <string name="volume_bluetooth_call">‏עוצמת הקול בשיחה ב-Bluetooth</string>
   <string name="volume_call">עוצמת שמע בשיחה</string>
@@ -1158,10 +1158,10 @@
   <string name="websearch">חיפוש באינטרנט</string>
   <string name="week">שבוע</string>
   <string name="weeks">שבועות</string>
+  <string name="wfcRegErrorTitle">‏שיחות ב-Wi-Fi</string>
   <string name="wfc_mode_cellular_preferred_summary">סלולרי מועדף</string>
   <string name="wfc_mode_wifi_only_summary">‏Wi-Fi בלבד</string>
   <string name="wfc_mode_wifi_preferred_summary">‏Wi-Fi מועדף</string>
-  <string name="wfcRegErrorTitle">‏שיחות ב-Wi-Fi</string>
   <string name="whichApplication">השלמת פעולה באמצעות</string>
   <string name="whichApplicationNamed">‏השלם את הפעולה באמצעות %1$s</string>
   <string name="whichEditApplication">ערוך באמצעות</string>

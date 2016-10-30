@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessbility_suggestion_dropdown_opened">הצעות אנשי קשר פתוחות</string>
   <string name="accessibility_add_attendee">הוסף משתתף</string>
@@ -87,7 +87,7 @@
   <string name="directory_searching_fmt">מחפש את %s…</string>
   <string name="discard_label">ביטול</string>
   <string name="dismiss_all_label">דחה הכל</string>
-  <string name="do_not_check">אל תסמן -></string>
+  <string name="do_not_check">אל תסמן -&gt;</string>
   <string name="does_not_repeat">אירוע חד-פעמי</string>
   <string name="download">הורדה</string>
   <string name="dropdown_delete_button_desc">הסר את %s מהנמענים</string>
@@ -193,18 +193,18 @@
   <string name="no_visiable_calendar_title">בחר חשבון לוח שנה</string>
   <string name="not_synced">לא מסונכרן</string>
   <string name="path_calendar">יישומי מערכת/לוח שנה/הגדרות</string>
+  <string name="prefDialogTitle_vibrateWhen">רטט</string>
   <string name="pref_error_no_ringtone_select">צילצול ברירת מחדל</string>
   <string name="pref_title_alarm_remind">צור התרעה לתזכורות</string>
   <string name="pref_title_alert_remind">הצג תזכורות בחלון קופץ</string>
   <string name="pref_title_no_remind">ללא תזכורת</string>
   <string name="pref_title_notification_remind">הצג תזכורת כהתראה</string>
-  <string name="prefDialogTitle_vibrateWhen">רטט</string>
   <string name="preferences_about_title">מידע על</string>
   <string name="preferences_alerts_popup_title">התראה קופצת</string>
   <string name="preferences_alerts_ringtone_title">צליל</string>
   <string name="preferences_alerts_title">התראות</string>
-  <string name="preferences_alerts_vibrate_title">רטט וצלצול</string>
   <string name="preferences_alerts_vibrateWhen_title">רטט</string>
+  <string name="preferences_alerts_vibrate_title">רטט וצלצול</string>
   <string name="preferences_build_version">גרסת Build</string>
   <string name="preferences_category_account_title">חשבון</string>
   <string name="preferences_category_general_title">הגדרות כלליות</string>
@@ -346,7 +346,7 @@
   <string name="when_label">מתי</string>
   <string name="where_label">היכן</string>
   <string name="widget_events">אירוע הבא</string>
-  <string name="widget_get_weather_info">קבל מידע על מזג האוויר ></string>
+  <string name="widget_get_weather_info">קבל מידע על מזג האוויר &gt;</string>
   <string name="widget_no_events">אין אירועים</string>
   <string name="widget_select_style">בחר סגנון</string>
   <string name="xiaomi_calendar_display_name">לוח שנה של חשבון Mi</string>

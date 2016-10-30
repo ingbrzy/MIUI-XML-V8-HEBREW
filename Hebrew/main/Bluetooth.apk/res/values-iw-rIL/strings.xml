@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="ErrorTooManyRequests">בקשות רבות מדי הועברו לעיבוד. נסה שוב מאוחר יותר.</string>
   <string name="ack_record">אשר רשומה</string>
   <string name="airplane_can_not_share">לא ניתן לשתף באמצעות Bluetooth במצב טיסה</string>
   <string name="airplane_error_msg">‏לא ניתן להשתמש ב-Bluetooth במצב טיסה.</string>
@@ -44,8 +45,8 @@
   <string name="bt_toast_6">שליחת קובץ אל \"%1$s\" הופסקה</string>
   <string name="btopp_live_folder">‏התקבל באמצעות Bluetooth</string>
   <string name="defaultname">דיבורית לרכב</string>
-  <string name="delete_record">מחק רשומה</string>
   <string name="deleteAll_record">מחק את כל הרשומות</string>
+  <string name="delete_record">מחק רשומה</string>
   <string name="download_cancel">עצור</string>
   <string name="download_fail_line1">הקובץ לא התקבל</string>
   <string name="download_fail_line2">קובץ: %1$s</string>
@@ -63,14 +64,13 @@
   <string name="empty_file_notification_sent">שיתוף Bluetooth: נדחה קובץ ריק %1$s</string>
   <string name="enabling_progress_content">‏מפעיל Bluetooth…</string>
   <string name="enabling_progress_title">המתן…</string>
-  <string name="ErrorTooManyRequests">בקשות רבות מדי הועברו לעיבוד. נסה שוב מאוחר יותר.</string>
   <string name="hello">‏שלום לעולם, TestActivity</string>
   <string name="inbound_history_title">העברות נכנסות</string>
   <string name="inbound_noti_title">‏שיתוף Bluetooth: התקבלו קבצים</string>
-  <string name="incoming_file_confirm_cancel">דחה</string>
-  <string name="incoming_file_confirm_content">האם לקבל את הקובץ הנכנס?</string>
   <string name="incoming_file_confirm_Notification_caption">האם ברצונך לקבל קובץ זה?</string>
   <string name="incoming_file_confirm_Notification_title">‏שיתוף Bluetooth: קובץ נכנס</string>
+  <string name="incoming_file_confirm_cancel">דחה</string>
+  <string name="incoming_file_confirm_content">האם לקבל את הקובץ הנכנס?</string>
   <string name="incoming_file_confirm_ok">קבל</string>
   <string name="incoming_file_confirm_timeout_content">תם הזמן הקצוב לקבלת קובץ נכנס מאת \"%1$s\"</string>
   <string name="incoming_file_confirm_timeout_ok">אישור</string>
@@ -138,12 +138,12 @@
   <string name="transfer_menu_clear">נקה מהרשימה</string>
   <string name="transfer_menu_clear_all">נקה רשימה</string>
   <string name="transfer_menu_open">פתח</string>
+  <string name="unknownName">שם לא ידוע</string>
+  <string name="unknownNumber">לא ידוע</string>
   <string name="unknown_device">מכשיר לא ידוע</string>
   <string name="unknown_file">קובץ לא ידוע</string>
   <string name="unknown_file_desc">"אין יישום המתאים לטיפול בקבצים מסוג זה. 
 "</string>
-  <string name="unknownName">שם לא ידוע</string>
-  <string name="unknownNumber">לא ידוע</string>
   <string name="update_record">אשר רשומה</string>
   <string name="upload_fail_cancel">סגור</string>
   <string name="upload_fail_line1">הקובץ לא נשלח אל %1$s.</string>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_denied">גישה נדחתה</string>
   <string name="account">חשבון</string>
@@ -59,13 +59,13 @@
   <string name="disable_find_device_error">"\"לא ניתן לכבות את 'איתור המכשיר'. \"%1$s"</string>
   <string name="disable_find_device_success">איתור מכשיר כבוי.</string>
   <string name="due_date_format">dd/MM/yyyy</string>
+  <string name="enableAll">סנכרן הכל</string>
   <string name="enable_cloud_service_notification">עליך להפעיל את Mi Cloud</string>
   <string name="enable_find_device_error">\"לא ניתן להפעיל איתור מכשיר. \"%1$s</string>
   <string name="enable_find_device_success">איתור מכשיר מופעל.</string>
   <string name="enable_micloud">השתמש ב-Mi Cloud</string>
   <string name="enable_sync">סנכרון</string>
   <string name="enable_sync_dspt">אל תסנכרן</string>
-  <string name="enableAll">סנכרן הכל</string>
   <string name="error_data_in_transfer">הסנכרון יסתיים בעוד %s שעות.</string>
   <string name="error_data_in_transfer_title">Mi Cloud לא זמין</string>
   <string name="error_forbidden">הסנכרון הושבת בגלל בעיות עם חשבון Mi שלך.</string>
@@ -100,7 +100,7 @@
   <string name="find_device_status_ok">מצא את מכשירך מכל מקום ב-i.mi.com</string>
   <string name="find_device_status_ok_international">מצא את מכשירך מכל מקום ב-www.mi.com/micloud</string>
   <string name="find_device_success_title">איתור מכשיר</string>
-  <string name="forget_password"><u>שכחתי את הסיסמה</u></string>
+  <string name="forget_password">&lt;u&gt;&amp;#1513;&amp;#1499;&amp;#1495;&amp;#1514;&amp;#1497; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1505;&amp;#1497;&amp;#1505;&amp;#1502;&amp;#1492;&lt;/u&gt;</string>
   <string name="free_space_has_received">כבר הוספת שטח אחסון חינמי החודש</string>
   <string name="free_space_receive_fail">לא ניתן לשדרג</string>
   <string name="get_first_month_gb">קבל %s מקום פנוי בחינם</string>
@@ -352,7 +352,7 @@
   <string name="micloud_website">פריטי Mi Cloud</string>
   <string name="microsoft_cloud">שירות Microsoft Cloud</string>
   <string name="microsoft_cloud_price">כ-80 RMB לשנה</string>
-  <string name="more_activity_in_upgrade_space">למידע נוסף <a href="http://i.mi.com">http://i.mi.com</a></string>
+  <string name="more_activity_in_upgrade_space">למידע נוסף &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt_provision">"'הודעות Mi' מאפשר לך לשלוח הודעות למשתמשי MIUI אחרים ללא תשלום כאשר קיים חיבור לרשת Wi-Fi.
 
  תוכל להפעיל או לכבות תכונה זו בכל עת בהגדרות."</string>
@@ -370,8 +370,8 @@
   <string name="mx_sub_dspt_provision_with_voip">שיחות אינטרנט</string>
   <string name="network_unconnected">לא מחובר לרשת</string>
   <string name="next">הבא</string>
-  <string name="no_sim">לא זוהה כרטיס SIM</string>
   <string name="noRemind">אל תזכיר לי</string>
+  <string name="no_sim">לא זוהה כרטיס SIM</string>
   <string name="one_sync_item_close">%d כבוי</string>
   <string name="open_micloud_sync">הפעל את הסנכרון עם Mi Cloud</string>
   <string name="other_settings">הגדרות נוספות</string>
@@ -437,9 +437,9 @@
   <string name="sync_dspt_entrance_provision_confirm_title">לא להשתמש ב-Mi Cloud?</string>
   <string name="sync_dspt_entrance_provision_skip">דלג על שלב זה</string>
   <string name="sync_dspt_provision">סנכרן את התמונות שלך, אנשי קשר, פתקים, ועוד על כל ההתקנים שלך או גש אליהם ב-</string>
-  <string name="sync_dspt_provision_header">סנכרון</string>
   <string name="sync_dspt_provision3">"תוכל להפעיל או לבטל תכונה זו בכל עת בהגדרות.
 "</string>
+  <string name="sync_dspt_provision_header">סנכרון</string>
   <string name="sync_item_calllog_summary">סנכרון יומן שיחות יוצאות ונכנסות למכשיר זה</string>
   <string name="sync_item_calllog_title">סנכרן יומן שיחות</string>
   <string name="sync_item_sms_summary">סנכרן מסרונים שנשלחו והתקבלו במכשיר זה</string>

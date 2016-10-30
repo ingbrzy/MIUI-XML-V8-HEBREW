@@ -1,5 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="SMS_and_MMS">SMS ו-MMS</string>
+  <string name="Setting_lock">הגדרות</string>
+  <string name="Settings_title_anti_spam">הגדרות רשימת החסומים</string>
+  <string name="Settings_title_anti_virus">הגדרות סריקת וירוסים</string>
+  <string name="Settings_title_garbage_cleanup">הגדרות ניקוי</string>
+  <string name="Settings_title_network_assistants">הגדרות שימוש בנתונים</string>
+  <string name="Settings_title_power_center">הגדרות סוללה</string>
   <string name="ac_enable_title">הפעל את נועל היישומים</string>
   <string name="ac_enter_applock">היכנס לנועל היישומים</string>
   <string name="ac_firstUseApplock_subTitle">השתמש בכלי אבטחה ברמת המערכת טובים יותר</string>
@@ -339,10 +346,10 @@
   <string name="cmcc_app_check_dialog_negative">מאוחר יותר</string>
   <string name="cmcc_app_check_dialog_positive">הפעלה מחדש עַכשָׁיו</string>
   <string name="cmcc_app_check_dialog_title">מערכת תוקנה</string>
+  <string name="confirmSecondSpacePassword">"אשר את סיסמת 'שטח שני'"</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">מוסיף חשבון Mi</string>
   <string name="confirm_fingerprint_msg">הנח את האצבע שלך על החיישן</string>
   <string name="confirm_reject_all_permission">הגבל את כל היישומים משימוש בתכונה זו?</string>
-  <string name="confirmSecondSpacePassword">"אשר את סיסמת 'שטח שני'"</string>
   <string name="connect_internet_by_mobiledata">חיבור נתונים סלולרי</string>
   <string name="connect_internet_by_usbshare">שתף אינטרנט באמצעות USB</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
@@ -412,7 +419,7 @@
   <string name="diagnostic_attention_dialog_message">אבחונים ל-%1$s בתהליך. חכה עד הסיום ונסה שוב.</string>
   <string name="dialog_app_roaming_message">%1$s אינו יכול להשתמש בנתונים סלולריים בעת נדידה. בעת נדידה, יישומים שהוספת לרשימת החריגים בלבד יכולים להשתמש בנתונים סלולריים.</string>
   <string name="dialog_app_roaming_title">%1$s לא ניתן להשתמש בנדידת נתונים</string>
-  <string name="dialog_msg_auto_start_declare">"יישומים מסוימים עשויים לציין באופן שגוי כי MIUI מנעה מהם לפעול. בדוק הרשאות שהוענקו ליישומים ספציפיים ב'הגדרות' > 'יישומים מותקנים'."</string>
+  <string name="dialog_msg_auto_start_declare">"יישומים מסוימים עשויים לציין באופן שגוי כי MIUI מנעה מהם לפעול. בדוק הרשאות שהוענקו ליישומים ספציפיים ב'הגדרות' &gt; 'יישומים מותקנים'."</string>
   <string name="dialog_msg_stop_paysafety_scan">להפסיק את בדיקת אבטחת התשלום?</string>
   <string name="dialog_msg_stop_virus_scan">לעצור את סריקת הוירוסים לפני השלמתה?</string>
   <string name="dialog_roaming_apps_sorted_title">מיין לפי</string>
@@ -476,8 +483,8 @@
   <string name="five_percent_total_pkg">%s (5%% של נתונים חודשיים)</string>
   <string name="flow_rank_title">שימוש בנתונים</string>
   <string name="foreground_traffic">חזית %s</string>
-  <string name="forget_password_button_text"><u>שכחתי את הסיסמה</u></string>
-  <string name="forget_pattern"><u>שכחת את התבנית?</u></string>
+  <string name="forget_password_button_text">&lt;u&gt;&amp;#1513;&amp;#1499;&amp;#1495;&amp;#1514;&amp;#1497; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1505;&amp;#1497;&amp;#1505;&amp;#1502;&amp;#1492;&lt;/u&gt;</string>
+  <string name="forget_pattern">&lt;u&gt;&amp;#1513;&amp;#1499;&amp;#1495;&amp;#1514; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1514;&amp;#1489;&amp;#1504;&amp;#1497;&amp;#1514;?&lt;/u&gt;</string>
   <string name="free_time_traffic">מגבלת נתונים בשפל</string>
   <string name="free_time_traffic_hint">הזן מגבלת נתונים בשפל</string>
   <string name="free_time_traffic_settings">מגבלת נתונים בשפל</string>
@@ -742,20 +749,20 @@
   <string name="network_roaming_exception_tips">אתה לא יכול להשתמש באינטרנט הסלולרי כדי להתחבר לרשת במצב נדידה.</string>
   <string name="network_route_exception_detail">"ייתכן שישנה בעיה עם הנתב שאתה מחובר:
 
-"<b> 1. בעיות רשת WiFi הציבורי</b>"
-אם אתה מחובר לרשת Wi-Fi ציבורית, מספר המשתמשים המחוברים לרשת זו ניתן להאט אותו או יוצר בעיות קישוריות. החלף לרשת אחרת ונסה שוב.
+"&lt;b&gt; 1. &amp;#1489;&amp;#1506;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1512;&amp;#1513;&amp;#1514; WiFi &amp;#1492;&amp;#1510;&amp;#1497;&amp;#1489;&amp;#1493;&amp;#1512;&amp;#1497;&lt;/b&gt;"
+&amp;#1488;&amp;#1501; &amp;#1488;&amp;#1514;&amp;#1492; &amp;#1502;&amp;#1495;&amp;#1493;&amp;#1489;&amp;#1512; &amp;#1500;&amp;#1512;&amp;#1513;&amp;#1514; Wi-Fi &amp;#1510;&amp;#1497;&amp;#1489;&amp;#1493;&amp;#1512;&amp;#1497;&amp;#1514;, &amp;#1502;&amp;#1505;&amp;#1508;&amp;#1512; &amp;#1492;&amp;#1502;&amp;#1513;&amp;#1514;&amp;#1502;&amp;#1513;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1502;&amp;#1495;&amp;#1493;&amp;#1489;&amp;#1512;&amp;#1497;&amp;#1501; &amp;#1500;&amp;#1512;&amp;#1513;&amp;#1514; &amp;#1494;&amp;#1493; &amp;#1504;&amp;#1497;&amp;#1514;&amp;#1503; &amp;#1500;&amp;#1492;&amp;#1488;&amp;#1496; &amp;#1488;&amp;#1493;&amp;#1514;&amp;#1493; &amp;#1488;&amp;#1493; &amp;#1497;&amp;#1493;&amp;#1510;&amp;#1512; &amp;#1489;&amp;#1506;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1511;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1512;&amp;#1497;&amp;#1493;&amp;#1514;. &amp;#1492;&amp;#1495;&amp;#1500;&amp;#1507; &amp;#1500;&amp;#1512;&amp;#1513;&amp;#1514; &amp;#1488;&amp;#1495;&amp;#1512;&amp;#1514; &amp;#1493;&amp;#1504;&amp;#1505;&amp;#1492; &amp;#1513;&amp;#1493;&amp;#1489;.
 
- "<b> 2. בעיות ספק שירותי האינטרנט</b>"
-ודא שהחשבון שלך הוא במצב טוב עם ספק שירות האינטרנט שלך.
+ "&lt;b&gt; 2. &amp;#1489;&amp;#1506;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1505;&amp;#1508;&amp;#1511; &amp;#1513;&amp;#1497;&amp;#1512;&amp;#1493;&amp;#1514;&amp;#1497; &amp;#1492;&amp;#1488;&amp;#1497;&amp;#1504;&amp;#1496;&amp;#1512;&amp;#1504;&amp;#1496;&lt;/b&gt;"
+&amp;#1493;&amp;#1491;&amp;#1488; &amp;#1513;&amp;#1492;&amp;#1495;&amp;#1513;&amp;#1489;&amp;#1493;&amp;#1503; &amp;#1513;&amp;#1500;&amp;#1498; &amp;#1492;&amp;#1493;&amp;#1488; &amp;#1489;&amp;#1502;&amp;#1510;&amp;#1489; &amp;#1496;&amp;#1493;&amp;#1489; &amp;#1506;&amp;#1501; &amp;#1505;&amp;#1508;&amp;#1511; &amp;#1513;&amp;#1497;&amp;#1512;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1488;&amp;#1497;&amp;#1504;&amp;#1496;&amp;#1512;&amp;#1504;&amp;#1496; &amp;#1513;&amp;#1500;&amp;#1498;.
 
- "<b> 3. בעיות חומרה של הנתב</b>"
-נסה לאתחל את הנתב או בודק בהגדרות הניהול של הנתב שלך.
+ "&lt;b&gt; 3. &amp;#1489;&amp;#1506;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1495;&amp;#1493;&amp;#1502;&amp;#1512;&amp;#1492; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1504;&amp;#1514;&amp;#1489;&lt;/b&gt;"
+&amp;#1504;&amp;#1505;&amp;#1492; &amp;#1500;&amp;#1488;&amp;#1514;&amp;#1495;&amp;#1500; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1504;&amp;#1514;&amp;#1489; &amp;#1488;&amp;#1493; &amp;#1489;&amp;#1493;&amp;#1491;&amp;#1511; &amp;#1489;&amp;#1492;&amp;#1490;&amp;#1491;&amp;#1512;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1504;&amp;#1497;&amp;#1492;&amp;#1493;&amp;#1500; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1504;&amp;#1514;&amp;#1489; &amp;#1513;&amp;#1500;&amp;#1498;.
 
-"<b> 4. בעיות אחרות של הנתב</b>"
-קראו את ההוראות מצורפות לנתב שלך ושחזר הנתב להגדרות היצרן שלו.
+"&lt;b&gt; 4. &amp;#1489;&amp;#1506;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1488;&amp;#1495;&amp;#1512;&amp;#1493;&amp;#1514; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1504;&amp;#1514;&amp;#1489;&lt;/b&gt;"
+&amp;#1511;&amp;#1512;&amp;#1488;&amp;#1493; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1492;&amp;#1493;&amp;#1512;&amp;#1488;&amp;#1493;&amp;#1514; &amp;#1502;&amp;#1510;&amp;#1493;&amp;#1512;&amp;#1508;&amp;#1493;&amp;#1514; &amp;#1500;&amp;#1504;&amp;#1514;&amp;#1489; &amp;#1513;&amp;#1500;&amp;#1498; &amp;#1493;&amp;#1513;&amp;#1495;&amp;#1494;&amp;#1512; &amp;#1492;&amp;#1504;&amp;#1514;&amp;#1489; &amp;#1500;&amp;#1492;&amp;#1490;&amp;#1491;&amp;#1512;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1497;&amp;#1510;&amp;#1512;&amp;#1503; &amp;#1513;&amp;#1500;&amp;#1493;.
 
- "<b> 5. ודא שהנתב מחובר כראוי</b>"
-נסה להשתמש בכבל אתרנט אחר להתחבר לנתב שלך. אם אתה חושד שיש בעיה עם החיבור בביתך, פנה לספק שירותי האינטרנט שלך."</string>
+ "&lt;b&gt; 5. &amp;#1493;&amp;#1491;&amp;#1488; &amp;#1513;&amp;#1492;&amp;#1504;&amp;#1514;&amp;#1489; &amp;#1502;&amp;#1495;&amp;#1493;&amp;#1489;&amp;#1512; &amp;#1499;&amp;#1512;&amp;#1488;&amp;#1493;&amp;#1497;&lt;/b&gt;"
+&amp;#1504;&amp;#1505;&amp;#1492; &amp;#1500;&amp;#1492;&amp;#1513;&amp;#1514;&amp;#1502;&amp;#1513; &amp;#1489;&amp;#1499;&amp;#1489;&amp;#1500; &amp;#1488;&amp;#1514;&amp;#1512;&amp;#1504;&amp;#1496; &amp;#1488;&amp;#1495;&amp;#1512; &amp;#1500;&amp;#1492;&amp;#1514;&amp;#1495;&amp;#1489;&amp;#1512; &amp;#1500;&amp;#1504;&amp;#1514;&amp;#1489; &amp;#1513;&amp;#1500;&amp;#1498;. &amp;#1488;&amp;#1501; &amp;#1488;&amp;#1514;&amp;#1492; &amp;#1495;&amp;#1493;&amp;#1513;&amp;#1491; &amp;#1513;&amp;#1497;&amp;#1513; &amp;#1489;&amp;#1506;&amp;#1497;&amp;#1492; &amp;#1506;&amp;#1501; &amp;#1492;&amp;#1495;&amp;#1497;&amp;#1489;&amp;#1493;&amp;#1512; &amp;#1489;&amp;#1489;&amp;#1497;&amp;#1514;&amp;#1498;, &amp;#1508;&amp;#1504;&amp;#1492; &amp;#1500;&amp;#1505;&amp;#1508;&amp;#1511; &amp;#1513;&amp;#1497;&amp;#1512;&amp;#1493;&amp;#1514;&amp;#1497; &amp;#1492;&amp;#1488;&amp;#1497;&amp;#1504;&amp;#1496;&amp;#1512;&amp;#1504;&amp;#1496; &amp;#1513;&amp;#1500;&amp;#1498;."</string>
   <string name="network_sim_exception_detail">"ייתכן שישנה בעיה עם כרטיס ה-SIM שלך:
 
  1. ודא אתה אינו חסום ע\"י הספק שלך. נסה להשתמש בכרטיס SIM של חבר ולראות אם אתה מצליח להתחבר כרגיל.
@@ -844,12 +851,12 @@
   <string name="package_setted_error_notification_summary">לחץ לצפייה בפרטי הצריכה של נתונים ניידים.</string>
   <string name="package_setted_error_notification_titile">לא ניתן להגדיר תכנית שימוש בנתונים</string>
   <string name="packages_subtitle">חבילות כלולות</string>
+  <string name="passwordIncorrect">משתמש וסיסמא לא נכונים</string>
   <string name="password_promotion_button_text">הבנתי</string>
   <string name="password_promotion_message">"מתבצע שדרוג של 'נועל היישומים' ל'סיסמה להגנת הפרטיות'. באפשרותך להשתמש בחשבון Mi הנוכחי שלך על מנת לאפס אותה."</string>
   <string name="password_promotion_not_login_xiaomi_account_message">"מתבצע שדרוג של 'נועל היישומים' ל'סיסמה להגנת הפרטיות'. באפשרותך להשתמש בחשבון Mi הנוכחי שלך על מנת לאפס אותה. הוסף את חשבון Mi שלך על מנת שתוכל לבצע זאת."</string>
   <string name="password_promotion_postbutton_text">"עבור ל'הגדרות'"</string>
   <string name="password_promotion_title">סיסמה להגנת הפרטיות</string>
-  <string name="passwordIncorrect">משתמש וסיסמא לא נכונים</string>
   <string name="path_antispam">יישומי מערכת/אבטחה/רשימת חסומים</string>
   <string name="path_antivirus">יישומי מערכת/אבטחה/סריקת וירוסים</string>
   <string name="path_cleanmaster">יישומי מערכת/אבטחה/מנקה</string>
@@ -876,8 +883,8 @@
   <string name="permission_permission_control_closed_desc_dialog_msg">את היישומים לא יבקשו את אישורך לפני שיקראו את אנשי הקשר שלך, הצגת היסטוריית השיחות שלך, שינוי הגדרות מערכת, או גישה למצלמה ומשאבים במכשיר אחר. ניתן להפעיל תכונה זו בהגדרות רשות.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">מנהל הרשאות</string>
   <string name="permission_send_sms_descx">יישומים יכולים לשלוח הודעות SMS ו-MMS</string>
-  <string name="permission_with_call_and_contact">הרשאות הקשורים לשיחות טלפון, פרטים ליצירת קשר, היסטוריית שיחות.</string>
   <string name="permission_with_SMS_and_MMS">הרשאות הקשורות ל-SMS ו-MMS</string>
+  <string name="permission_with_call_and_contact">הרשאות הקשורים לשיחות טלפון, פרטים ליצירת קשר, היסטוריית שיחות.</string>
   <string name="permit_running_network">נתוני רקע</string>
   <string name="person_hotpot">נקודות חמות ניידות</string>
   <string name="pkg_traffic">הגדר מגבלת שימוש בנתונים</string>
@@ -1153,7 +1160,7 @@
   <string name="preferred_app_entries_launcher">משגר היישומים</string>
   <string name="preferred_app_entries_messaging">הודעות</string>
   <string name="preferred_app_entries_music">מוזיקה</string>
-  <string name="privacy_declare_dialog_message">ע\"י שימוש בשירות זה, הינך מסכים ל\"&lt;a href=%s>תנאי השירות&lt;/a>\" של Opera.</string>
+  <string name="privacy_declare_dialog_message">ע\"י שימוש בשירות זה, הינך מסכים ל\"&lt;a href=%s&gt;תנאי השירות&lt;/a&gt;\" של Opera.</string>
   <string name="privacy_declare_dialog_title">תנאי השירות</string>
   <string name="privacy_mode_dialog_title">מצב אורח</string>
   <string name="privacy_prompt_tc_sms_report_message">מספר הטלפון ופרטי ספק השירות שלך יוצפנו והשלוח לשרת Mi בכדי לעדכן את פרטי השימוש בנתונים.</string>
@@ -1251,8 +1258,8 @@
   <string name="safepay_alert_dialog_button_continue">המשך</string>
   <string name="safepay_alert_dialog_button_risk">תקן</string>
   <string name="safepay_alert_dialog_button_unknown">בדוק שוב</string>
-  <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700>התגלה סיכון! הפסק את התשלום הנוכחי!&lt;/font></string>
-  <string name="safepay_alert_dialog_title_unknown">&lt;font color=#f59c00>לא ניתן היה לבדוק את אבטחת התשלום. התחבר לאינטרנט ונסה שוב.&lt;/font></string>
+  <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;התגלה סיכון! הפסק את התשלום הנוכחי!&lt;/font&gt;</string>
+  <string name="safepay_alert_dialog_title_unknown">&lt;font color=#f59c00&gt;לא ניתן היה לבדוק את אבטחת התשלום. התחבר לאינטרנט ונסה שוב.&lt;/font&gt;</string>
   <string name="sc_allow_network_dialog_message">יישום זה זקוק לחיבור לאינטרנט על מנת לפעול כרגיל.</string>
   <string name="sc_allow_network_dialog_tiltle">לא ניתן להשתמש בתכונה זו</string>
   <string name="scan_status_risk">מסוכן</string>
@@ -1276,7 +1283,6 @@
   <string name="set_applock_password">הגדר סיסמה</string>
   <string name="set_immediately">הגדר</string>
   <string name="seton_immediately">הדלק</string>
-  <string name="Setting_lock">הגדרות</string>
   <string name="setting_privacy_password">"הגדר את סיסמת 'נועל היישומים'"</string>
   <string name="settings">הגדרות שימוש בנתונים</string>
   <string name="settings_battery_consume_abnormal_summary">קבל התראות כאשר הסוללה מתרוקנת במהירות</string>
@@ -1287,15 +1293,10 @@
   <string name="settings_category_overheat">התחממות</string>
   <string name="settings_choice_no_notification">כבה</string>
   <string name="settings_power_save_ontime_title">תזמון</string>
-  <string name="Settings_title_anti_spam">הגדרות רשימת החסומים</string>
-  <string name="Settings_title_anti_virus">הגדרות סריקת וירוסים</string>
-  <string name="Settings_title_garbage_cleanup">הגדרות ניקוי</string>
-  <string name="Settings_title_network_assistants">הגדרות שימוש בנתונים</string>
   <string name="settings_title_payment_security">הגדרות אבטחת תשלומים</string>
   <string name="settings_title_permission">הגדרת הרשאות</string>
-  <string name="Settings_title_power_center">הגדרות סוללה</string>
   <string name="share">שתף</string>
-  <string name="show_traffic_dialog_message">"מידע על השימוש בנתונים שלך יוצג בלוח ההתראות. ניתן להפעיל תכונה זו או לבטל בכל עת ב'צריכת נתונים' > 'הגדרות'"</string>
+  <string name="show_traffic_dialog_message">"מידע על השימוש בנתונים שלך יוצג בלוח ההתראות. ניתן להפעיל תכונה זו או לבטל בכל עת ב'צריכת נתונים' &gt; 'הגדרות'"</string>
   <string name="show_traffic_dialog_title">הצג נתוני שימוש בלוח ההתראות</string>
   <string name="showpattern">הצג תבנית</string>
   <string name="shutdown_cancel_reminder">לא כובה</string>
@@ -1310,7 +1311,6 @@
   <string name="sim_location_error_notify_message">לחץ לשינוי מיקום SIM.</string>
   <string name="sim_location_error_notify_title">תקלת כרטיס SIM</string>
   <string name="sim_state_exception_summary">מצב SIM מציין שמשהו עלול להיות לא בסדר עם כרטיס ה-SIM שלך.</string>
-  <string name="SMS_and_MMS">SMS ו-MMS</string>
   <string name="sorted_button">מיין לפי</string>
   <string name="sorted_dialog_title">מיין לפי</string>
   <string name="sp_back_title_text_zero">אבטחה</string>
@@ -1408,7 +1408,7 @@
   <string name="tc_diagnostic_all_error_notification_title">לא ניתן להשלים בדיקה</string>
   <string name="tc_diagnostic_brand_error_notification_summary">לחץ להתאמת סוג הרשת</string>
   <string name="tc_diagnostic_brand_error_notification_title">סוג רשת שגוי</string>
-  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>תוצאה: מותג מפעיל שגוי&lt;br/>&lt;br/>הגדר מותג: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>מותג נוחכי: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
+  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;תוצאה: מותג מפעיל שגוי&lt;br/&gt;&lt;br/&gt;הגדר מותג: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;מותג נוחכי: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">בוצע</string>
   <string name="tc_diagnostic_location_error_notification_summary">לחץ להתאמת המיקום</string>
   <string name="tc_diagnostic_location_error_notification_title">מיקום שגוי</string>
@@ -1418,24 +1418,24 @@
   <string name="tc_diagnostic_onekey_repair_botton">תקן</string>
   <string name="tc_diagnostic_operator_error_notification_summary">לחץ לשינוי הגדרות ספק השירות</string>
   <string name="tc_diagnostic_operator_error_notification_title">ספק השירות שגוי</string>
-  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>תוצאה: מפעיל שגוי&lt;br/>&lt;br/>הגדר מפעיל: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>מפעיל נוחכי: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;תוצאה: מפעיל שגוי&lt;br/&gt;&lt;br/&gt;הגדר מפעיל: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;מפעיל נוחכי: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_and_continue">תקן והמשך</string>
-  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>אבחון מלא, בעיות מיקום קבוע.&lt;/font>"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>אבחונים הושלמו, מיקום ונתוני המפעיל תוקנו.&lt;/font>"</string>
+  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;אבחון מלא, בעיות מיקום קבוע.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;אבחונים הושלמו, מיקום ונתוני המפעיל תוקנו.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_success_toast">שונה בהצלחה</string>
-  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>תוצאה: אינו יכול לסיים אבחונים&lt;br/>&lt;br/>דווח על בעיה זו כדי לעזור ל-MIUI לשפר כלי אבחון&lt;/font>"</string>
-  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>תוצאה: מיקום שגוי&lt;br/>&lt;br/>הגדר מיקום: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>מיקום נוכחי: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
+  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;תוצאה: אינו יכול לסיים אבחונים&lt;br/&gt;&lt;br/&gt;דווח על בעיה זו כדי לעזור ל-MIUI לשפר כלי אבחון&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;תוצאה: מיקום שגוי&lt;br/&gt;&lt;br/&gt;הגדר מיקום: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;מיקום נוכחי: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_error_brand">רשת מפעיל ספק השירות לא נמצאה</string>
-  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>שגיאה&lt;/font>"</string>
-  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>אין חיבור לרשת&lt;/font>"</string>
-  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>לא ניתן לקבל מידע&lt;/font>"</string>
-  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>נכון&lt;/font>"</string>
-  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>רשת של המפעיל מגיבה&lt;/font>"</string>
-  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>עבר זמן&lt;/font>"</string>
+  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;שגיאה&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;אין חיבור לרשת&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;לא ניתן לקבל מידע&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;נכון&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;רשת של המפעיל מגיבה&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;עבר זמן&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_updating">בודק…</string>
   <string name="tc_diagnostic_success_notification_summary">דווח על בעיה זו כדי לעזור ל-MIUI לשפר כלי אבחון</string>
   <string name="tc_diagnostic_success_notification_title">רשת המפעיל והמותג נכונים</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>תוצאה: רשת המפעיל והמותג מוגדר כהלכה&lt;br/>&lt;br/>לא ניתן לסיים התאמה מלאה:&lt;br/>1. נתונים סטטיסטיים של המפעיל לא יכולים להיות אמינים בתחילה או בסוף החודש.&lt;br/>2. המסייע הרשת לא עודכן.&lt;br/>&lt;br/>דווח על בעיה זו כדי לעזור ל-MIUI לשפר כלי אבחון&lt;/font>"</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;תוצאה: רשת המפעיל והמותג מוגדר כהלכה&lt;br/&gt;&lt;br/&gt;לא ניתן לסיים התאמה מלאה:&lt;br/&gt;1. נתונים סטטיסטיים של המפעיל לא יכולים להיות אמינים בתחילה או בסוף החודש.&lt;br/&gt;2. המסייע הרשת לא עודכן.&lt;br/&gt;&lt;br/&gt;דווח על בעיה זו כדי לעזור ל-MIUI לשפר כלי אבחון&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">אבחון ספק הרשת</string>
   <string name="tc_diagnostic_upload_button">דווח</string>
   <string name="tc_diagnostic_upload_no_network">תודה על המשוב שלך! הדו\"ח שלך יוגש כאשר אתה מתחבר לרשת.</string>
@@ -1444,27 +1444,27 @@
   <string name="tc_sms_report_do_report">שלח</string>
   <string name="tc_sms_report_get_default">תישלח הודעת SMS חינם כדי לקבל נתונים סטטיסטיים על השימוש בנתונים ממפעיל הרשת הסלולרית.</string>
   <string name="tc_sms_report_get_sms">קבל הודעת טקסט</string>
+  <string name="tc_sms_report_get_sms2">קבל הודעת טקסט</string>
   <string name="tc_sms_report_get_sms_again">רענן הודעת טקסט</string>
   <string name="tc_sms_report_get_sms_bill">קבל מסרון</string>
   <string name="tc_sms_report_get_sms_calltime">קבל מסרון</string>
   <string name="tc_sms_report_get_sms_failure">לא ניתן לקבל פורמט SMS לשימוש בנתונים</string>
   <string name="tc_sms_report_get_sms_successs">פורמט צריכת נתונים ב-SMS מעודכן</string>
   <string name="tc_sms_report_get_sms_timeout">פג תוקף הבקשה</string>
-  <string name="tc_sms_report_get_sms2">קבל הודעת טקסט</string>
   <string name="tc_sms_report_get_success">התקבל דיווח על גלישה באמצעות SMS. ודא שהיא מדויק ותגיש אלינו.</string>
   <string name="tc_sms_report_get_success_notify_body">ודא שהדו\"ח מדויק ולשלוח אותו ל-MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">דו\"ח נתוני שימוש התקבל SMS</string>
   <string name="tc_sms_report_geting_sms">מקבל את פרטי SMS…</string>
-  <string name="tc_sms_report_notify_correction_body">"עבור ל'מרכז אבטחה' > 'שימוש בנתונים' ונסה שוב באופן ידני."</string>
+  <string name="tc_sms_report_notify_correction_body">"עבור ל'מרכז אבטחה' &gt; 'שימוש בנתונים' ונסה שוב באופן ידני."</string>
   <string name="tc_sms_report_notify_correction_failure_title">לא יכול לעדכן את פרטי שימוש בנתונים</string>
   <string name="tc_sms_report_notify_get_failure_body">לא ניתן להגיש דו\"ח שימוש בנתונים. ודא שאתה מחובר לרשת סלולרית.</string>
   <string name="tc_sms_report_notify_get_failure_title">לא יכול לקבל SMS אם הנתונים</string>
   <string name="tc_sms_report_notify_get_timeout_body">פג תוקף התהליך. אמת אל מול ספק הרשת שלך כי מסרון הקוד שהזנת נכון.</string>
   <string name="tc_sms_report_notify_get_timeout_title">לא יכול לקבל SMS אם הנתונים</string>
   <string name="tc_sms_report_receive_content">התכנים של השימוש בנתוני SMS (נתונים סטטיסטיים על שימוש נתונים מאשרים)</string>
-  <string name="tc_sms_report_receive_content_null">"עזרו לשפר תכונה זו!&lt;br/>הנה כמה:&lt;br/> 1. עבור אל בדוק הפקודת SMS ו-\"מספר המקבל\"&lt;br/> 2. הקש קבל תבנית SMS\"
-&lt;br/>
-3. מתן לקבלת הודעת SMS מהמפעיל שלך&lt;br/>
+  <string name="tc_sms_report_receive_content_null">"עזרו לשפר תכונה זו!&lt;br/&gt;הנה כמה:&lt;br/&gt; 1. עבור אל בדוק הפקודת SMS ו-\"מספר המקבל\"&lt;br/&gt; 2. הקש קבל תבנית SMS\"
+&lt;br/&gt;
+3. מתן לקבלת הודעת SMS מהמפעיל שלך&lt;br/&gt;
 4. הקש העלה ל-MIUI \""</string>
   <string name="tc_sms_report_receive_num">מספר הנמען</string>
   <string name="tc_sms_report_send_num">"מספרו של ספק השירות "</string>
@@ -1602,7 +1602,7 @@
   <string name="traffic_limit_error_alert_title">תזכורת מגבלת נתונים %s</string>
   <string name="traffic_none">ללא</string>
   <string name="traffic_over_purchase_body">לחץ לצפייה בפרטים.</string>
-  <string name="traffic_over_purchase_link">"מיצית את תקרת השימוש בחבילת הגלישה שלך.&lt;br/>אם אתה עובר את הגבלת השימוש בחבילת הגלישה שלך, ספק השירות שלך עשוי לחייב אותך חיובים נוספים.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>הוסף נפח חבילת גלישה.&lt;/U>&lt;/font>"</string>
+  <string name="traffic_over_purchase_link">"מיצית את תקרת השימוש בחבילת הגלישה שלך.&lt;br/&gt;אם אתה עובר את הגבלת השימוש בחבילת הגלישה שלך, ספק השירות שלך עשוי לחייב אותך חיובים נוספים.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;הוסף נפח חבילת גלישה.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">חריגה ממגבלת השימוש בנתונים</string>
   <string name="traffic_purchase_body">לחץ כדי להוסיף כספים.</string>
   <string name="traffic_purchse_suggestion">הוסף נפח חבילת גלישה</string>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_device_info">הצג את פרטי המכשיר</string>
   <string name="access_token_expired_warning">פג תוקף חשבון Weibo</string>
@@ -180,7 +180,7 @@
   <string name="passport_auto_generate_pwd">צור סיסמה מאובטחת</string>
   <string name="passport_back">חזור</string>
   <string name="passport_bad_authentication">שם המשתמש או הסיסמה לא תקינים</string>
-  <string name="passport_change_account"><u>שנה חשבון</u></string>
+  <string name="passport_change_account">&lt;u&gt;&amp;#1513;&amp;#1504;&amp;#1492; &amp;#1495;&amp;#1513;&amp;#1489;&amp;#1493;&amp;#1503;&lt;/u&gt;</string>
   <string name="passport_change_phone_number">מספרי חלף</string>
   <string name="passport_checking_account">בודק סיסמה…</string>
   <string name="passport_checking_input">בדיקת קלט…</string>
@@ -219,7 +219,7 @@
   <string name="passport_error_user_name">שם המשתמש אינו תקין.</string>
   <string name="passport_failed_to_send_activate_email">לא ניתן לשלוח הודעת ההפעלה</string>
   <string name="passport_find_password_on_web_msg">בקר account.mi.com כדי לאפס את הסיסמה שלך.</string>
-  <string name="passport_forget_password"><u>שכחתי את הסיסמה</u></string>
+  <string name="passport_forget_password">&lt;u&gt;&amp;#1513;&amp;#1499;&amp;#1495;&amp;#1514;&amp;#1497; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1505;&amp;#1497;&amp;#1505;&amp;#1502;&amp;#1492;&lt;/u&gt;</string>
   <string name="passport_forget_password_no_underline">שככתי סיסמה</string>
   <string name="passport_get_back_pwd">אחזור סיסמת החשבון</string>
   <string name="passport_get_verify_code">לקבל קוד</string>
@@ -241,7 +241,7 @@
   <string name="passport_login_instead_reg_with_email">השתמש בדוא\"ל זה</string>
   <string name="passport_login_prompt">חשבון Mi אחד. כל שירותי Mi.</string>
   <string name="passport_login_title">היכנס לחשבון Mi שלך</string>
-  <string name="passport_login_using_other_ways"><u>דרכים אחרות לכניסה</u></string>
+  <string name="passport_login_using_other_ways">&lt;u&gt;&amp;#1491;&amp;#1512;&amp;#1499;&amp;#1497;&amp;#1501; &amp;#1488;&amp;#1495;&amp;#1512;&amp;#1493;&amp;#1514; &amp;#1500;&amp;#1499;&amp;#1504;&amp;#1497;&amp;#1505;&amp;#1492;&lt;/u&gt;</string>
   <string name="passport_message_dialog_title">מסרון עם קוד אימות</string>
   <string name="passport_next">הבא</string>
   <string name="passport_notification_title">כניסה שגויה עבור %1$s</string>
@@ -264,7 +264,7 @@
   <string name="passport_reg_success">החשבון נוצר</string>
   <string name="passport_reg_success_summary">%1$s קושר לחשבונך. תוכל להשתמש בו לצורך כניסה או לצורך שינוי סיסמתך.</string>
   <string name="passport_reg_type_email">השתמש בכתובת דוא\"ל</string>
-  <string name="passport_reg_using_other_phone"><u>השתמש במספר טלפון חלופי</u></string>
+  <string name="passport_reg_using_other_phone">&lt;u&gt;&amp;#1492;&amp;#1513;&amp;#1514;&amp;#1502;&amp;#1513; &amp;#1489;&amp;#1502;&amp;#1505;&amp;#1508;&amp;#1512; &amp;#1496;&amp;#1500;&amp;#1508;&amp;#1493;&amp;#1503; &amp;#1495;&amp;#1500;&amp;#1493;&amp;#1508;&amp;#1497;&lt;/u&gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">"צור חשבון חדש באמצעות "</string>
   <string name="passport_reg_using_phone_number_prompt">צור חשבון באמצעות מספר טלפון</string>
   <string name="passport_reg_via_sms_alert">על מנת להפעיל שירות זה, ספק הרשת שלך עשוי לגבות תשלום בעבור שליחת מסרון.</string>
@@ -272,7 +272,7 @@
   <string name="passport_register">צור חשבון</string>
   <string name="passport_register_account_goto_email">המשך לתיבת הדואר הנכנס</string>
   <string name="passport_register_account_verified_confirm">החשבון אומת</string>
-  <string name="passport_register_by_email"><u>צור חשבון באמצעות כתובת הדוא\"ל</u></string>
+  <string name="passport_register_by_email">&lt;u&gt;&amp;#1510;&amp;#1493;&amp;#1512; &amp;#1495;&amp;#1513;&amp;#1489;&amp;#1493;&amp;#1503; &amp;#1489;&amp;#1488;&amp;#1502;&amp;#1510;&amp;#1506;&amp;#1493;&amp;#1514; &amp;#1499;&amp;#1514;&amp;#1493;&amp;#1489;&amp;#1514; &amp;#1492;&amp;#1491;&amp;#1493;&amp;#1488;\"&amp;#1500;&lt;/u&gt;</string>
   <string name="passport_register_restricted">חשבונות רבים מדי קושרו עם המספר הזה, נסה אחר</string>
   <string name="passport_register_restricted_title">לא ניתן להשתמש במספר הטלפון הזה</string>
   <string name="passport_registered_phone_user_ID">מזהה משתמש: %s</string>

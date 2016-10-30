@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Only_the_wifi">השתמש ברשתות אלחוטיות בלבד</string>
   <string name="about">אודות</string>
   <string name="action_settings">הגדרות</string>
   <string name="ad_title">אנשים אחרים הורידו גם את %1$s</string>
@@ -127,9 +128,9 @@
   <string name="durationHourMinutes">שעה %1$d %2$d דקות</string>
   <string name="durationHours">%1$d שעות</string>
   <string name="durationMinute">דקה %1$d</string>
-  <string name="durationMinutes">%1$d דקות</string>
   <string name="durationMinuteSecond">דקה %1$d שניה %2$d</string>
   <string name="durationMinuteSeconds">דקה %1$d %2$d שניות</string>
+  <string name="durationMinutes">%1$d דקות</string>
   <string name="durationSecond">שניה %1$d</string>
   <string name="durationSeconds">%1$d שניות</string>
   <string name="edit_hint">הזן כתובת http, torrent או eMule</string>
@@ -175,7 +176,7 @@
   <string name="installing">מתקין…</string>
   <string name="insufficient_space">אין מספיק מקום אחסון</string>
   <string name="invalid_address">נתיב הקובץ שהזנת אינו חוקי</string>
-  <string name="jump_rank_hint">צפה בדירוג ההורדות היומי ></string>
+  <string name="jump_rank_hint">צפה בדירוג ההורדות היומי &gt;</string>
   <string name="keep_queued_download">השאר</string>
   <string name="load_finish_hint">תוכל להמשיך לצפות מחר</string>
   <string name="loading">רק רגע…</string>
@@ -191,7 +192,7 @@
   <string name="menu_title_settings">הגדרות</string>
   <string name="mi_money">נקודות Mi</string>
   <string name="mi_money_">נקודות Mi</string>
-  <string name="missing_title">&lt;לא מוכר></string>
+  <string name="missing_title">&lt;לא מוכר&gt;</string>
   <string name="net_error">לא ניתן להתחבר לרשת, נסה שוב</string>
   <string name="network_error">לא ניתן להתחבר לרשת</string>
   <string name="new_add">הורדה חדשה</string>
@@ -214,12 +215,11 @@
   <string name="notify_only_wifi_download">ממתין לחיבור רשת אלחוטית</string>
   <string name="one_month">חודש 1</string>
   <string name="only_support_torrent">רק קבצי Torrent נתמכים</string>
-  <string name="Only_the_wifi">השתמש ברשתות אלחוטיות בלבד</string>
   <string name="open">פתח</string>
   <string name="open_download">פתח</string>
   <string name="open_folder">פתח תיקיה</string>
   <string name="open_vip_hint">לחץ על מנת להפוך לחבר רשום של Xunlei</string>
-  <string name="open_vip_speedup">הפוך לחבר רשום על מנת להאיץ את המהירות ></string>
+  <string name="open_vip_speedup">הפוך לחבר רשום על מנת להאיץ את המהירות &gt;</string>
   <string name="open_xunlei_speed_service">הפעל את מאיץ ההורדות Xunlei</string>
   <string name="original_price">מחיר</string>
   <string name="other">אחר</string>
@@ -334,7 +334,7 @@
   <string name="sniff_result_num_prefix">נמצא</string>
   <string name="sniff_result_num_video_suffix">פריטים</string>
   <string name="sniff_result_num_website_suffix">אתרים</string>
-  <string name="sniff_result_website_intro">סהכ &lt;font color=\"#6699ff\">%1$d&lt;/font> פריטים | מקור: %2$s</string>
+  <string name="sniff_result_website_intro">סהכ &lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; פריטים | מקור: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">גודל: %1$s</string>
   <string name="sniff_search_install">התקן</string>
   <string name="sniff_shortcut_cloudconfig_btn">הבנתי</string>
@@ -357,7 +357,7 @@
   <string name="sniff_terms_msg_bold_new">תנאי השירות</string>
   <string name="sniff_terms_reject">דחה</string>
   <string name="sniff_terms_title">שים לב</string>
-  <string name="sniff_text_sniff_next_page">המשך ></string>
+  <string name="sniff_text_sniff_next_page">המשך &gt;</string>
   <string name="sniff_vip_tip_speedup">תוכל לנסות את האצת המהירות בחינם פעם אחת</string>
   <string name="sniff_vip_tip_vip">Xunlei יכול להמשיך את האצת המהירות שלך</string>
   <string name="start_analysis">בדוק כעת</string>

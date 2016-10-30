@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_login_title">חשבון</string>
   <string name="action_mode_deselect_all">נקה בחירה מהכל</string>
@@ -138,7 +138,7 @@
   <string name="downloading">מוריד</string>
   <string name="editor_commend">ערוך</string>
   <string name="empty_comment">על התגובה להכיל תוכן</string>
-  <string name="enable_documentsui">הפעל %s בהגדרות > יישומים שהותקנו תחילה</string>
+  <string name="enable_documentsui">הפעל %s בהגדרות &gt; יישומים שהותקנו תחילה</string>
   <string name="enable_sd_card">הכנס כרטיס זיכרון או בטל מצב חיבור USB כמתקן אחסון.</string>
   <string name="enable_usb">חבר התקן USB</string>
   <string name="encrypt_error">לא ניתן היה להסתיר את קבצים, נסה שוב</string>
@@ -166,7 +166,7 @@
   <string name="file_info_modified">שונה לאחרונה:</string>
   <string name="file_info_size">גודל:</string>
   <string name="file_loading">רק רגע…</string>
-  <string name="file_name_invalid">שם קובץ לא יכול להכיל את התווים: /\\:*?&lt;></string>
+  <string name="file_name_invalid">שם קובץ לא יכול להכיל את התווים: /\\:*?&lt;&gt;</string>
   <string name="file_not_exist">קובץ לא קיים</string>
   <string name="flow_setting">הגדרות</string>
   <string name="folder_name_empty">שם התיקיה לא יכול להיות ריק</string>
@@ -200,7 +200,7 @@
   <string name="hot_comments">תגובות פופולריות</string>
   <string name="hot_sticker">מדבקות</string>
   <string name="hot_video">סרטונים</string>
-  <string name="hot_video_load_more">עוד ></string>
+  <string name="hot_video_load_more">עוד &gt;</string>
   <string name="hottest_sticker_str">פופולרי</string>
   <string name="if_cancel">לבטל פעולה זו?</string>
   <string name="image_loading_error">לא ניתן היה לטעון את התמונה</string>

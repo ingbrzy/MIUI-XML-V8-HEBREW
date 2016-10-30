@@ -1,29 +1,47 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ACaddnumcontent">הוסף קידומת</string>
   <string name="ACaddnumtitle">הוסף את קידומת המס לחריגים</string>
-  <string name="action_source_sms_title">הודעות חסומות</string>
   <string name="AD_ALLOW">אפשר פרסומות</string>
-  <string name="AD_AntiSpam">חוסם הפרסומות</string>
   <string name="AD_APPInfo">פירטי היישום</string>
+  <string name="AD_AntiSpam">חוסם הפרסומות</string>
   <string name="AD_BLOCK">חוסם הפרסומות</string>
-  <string name="AD_BLOCK_ALL">חסום הכל</string>
-  <string name="ad_block_hint">%d נחסמו</string>
   <string name="AD_BLOCKED">חסום</string>
+  <string name="AD_BLOCK_ALL">חסום הכל</string>
   <string name="AD_COUNT">%d נחסמו</string>
   <string name="AD_Info">הרחבת פרסומות</string>
   <string name="AD_Info_Hint">תוכנות פרסום מאפשרות לחברות צד שלישי לשלוח פרסומים אל מכשירך</string>
-  <string name="ad_install_monitor">בדוק יישומים המכילים פרסומות</string>
-  <string name="ad_install_monitor_hint">בדוק האם יישומים מכילים תוכנות פרסום בזמן התקנתם.</string>
   <string name="AD_NOT_BLOCK">אל תחסום</string>
-  <string name="ad_permission_hint">שימוש בחוסם הפרסומות עשוי להשפיע על ביצועי היישומים שלך או למנוע מהם לעבוד בצורה תקינה.</string>
-  <string name="ad_relative_setting">הגדרות נוספות</string>
-  <string name="AD_SCAN_BUTTON">סרוק</string>
   <string name="AD_SCANNING">סורק</string>
-  <string name="ad_single_block_hint">חסום</string>
+  <string name="AD_SCAN_BUTTON">סרוק</string>
   <string name="AD_TITLE_COUNT">%d יישומים מכילים פרסומות</string>
   <string name="AD_TITLE_NON_COUNT">לא זוהו פרסומות</string>
   <string name="AD_Unistall">הסר</string>
+  <string name="Call_ADRESS">רשימת חסומים של מיקומים</string>
+  <string name="Call_BLACKLIST">רשימת חסומים לשיחות</string>
+  <string name="Call_DEFAULT">רשימת חסומים חכמה</string>
+  <string name="Call_PREFIX">רשימת קידומות חסומות</string>
+  <string name="Call_PRIVATE_CALL">שיחות חסומות</string>
+  <string name="MALICIOUS_URL">קישור זדוני</string>
+  <string name="NACaddnumcontent">הכנס מספר טלפון</string>
+  <string name="NACaddnumtitle">"הוסף את המס' לחריגים"</string>
+  <string name="PAST_BLOCK">רשימה של חסומים בעבר</string>
+  <string name="Phonepass">אפשר שיחות</string>
+  <string name="SMS_ADRESS">רשימת חסומים של מיקומים</string>
+  <string name="SMS_BLACKLIST">רשימת הודעות חסומות</string>
+  <string name="SMS_DEFAULT">רשימת חסימה חכמה</string>
+  <string name="SMS_KEYWORDS">רשימת מילות מפתח חסומות</string>
+  <string name="SMS_PREFIX">רשימת קידומות חסומות</string>
+  <string name="SMS_SERVICE">רשימת חסומים של שירות</string>
+  <string name="SMSpass">אפשר הודעה</string>
+  <string name="STRANGER_BLOCK">רשימת חסומים של זרים</string>
+  <string name="action_source_sms_title">הודעות חסומות</string>
+  <string name="ad_block_hint">%d נחסמו</string>
+  <string name="ad_install_monitor">בדוק יישומים המכילים פרסומות</string>
+  <string name="ad_install_monitor_hint">בדוק האם יישומים מכילים תוכנות פרסום בזמן התקנתם.</string>
+  <string name="ad_permission_hint">שימוש בחוסם הפרסומות עשוי להשפיע על ביצועי היישומים שלך או למנוע מהם לעבוד בצורה תקינה.</string>
+  <string name="ad_relative_setting">הגדרות נוספות</string>
+  <string name="ad_single_block_hint">חסום</string>
   <string name="ad_update_setting">עדכן</string>
   <string name="ad_update_time">עדכון אחרון: %s</string>
   <string name="ad_update_time_unKnown">עדכון אחרון: לא ידוע</string>
@@ -46,17 +64,12 @@
   <string name="bl_no_block_call">אין שיחות חסומות.</string>
   <string name="bl_no_block_sms">אין הודעות חסומות.</string>
   <string name="blacklist_prefix_add_hint">חסום את כל המספרים המתחילים עם הקידומת הבאה</string>
-  <string name="block_message_number">הודעות: &lt;font color=#5fab1b>%d&lt;/font></string>
-  <string name="block_phone_number">שיחות: &lt;font color=#5fab1b>%d&lt;/font></string>
+  <string name="block_message_number">הודעות: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_phone_number">שיחות: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="button_text_delete">מחק</string>
   <string name="button_to_setting">הגדרות</string>
-  <string name="Call_ADRESS">רשימת חסומים של מיקומים</string>
-  <string name="Call_BLACKLIST">רשימת חסומים לשיחות</string>
-  <string name="Call_DEFAULT">רשימת חסומים חכמה</string>
   <string name="call_delete_hint">"מחק את כל השיחות החסומות שהתקבלו ממס' זה"</string>
   <string name="call_delete_title">הסר שיחה</string>
-  <string name="Call_PREFIX">רשימת קידומות חסומות</string>
-  <string name="Call_PRIVATE_CALL">שיחות חסומות</string>
   <string name="call_transfer_block">חסום שיחות שהופנו</string>
   <string name="call_transfer_block_type">חסום שיחות שהופנו</string>
   <string name="call_transfer_info">"חסום שיחות שהופנו ממס' לא מזוהים"</string>
@@ -122,7 +135,6 @@
   <string name="info_unantispam_sms">אפשר הודעה</string>
   <string name="label_callwait">התרעת שיחה ממתינה</string>
   <string name="loding">טוען מידע</string>
-  <string name="MALICIOUS_URL">קישור זדוני</string>
   <string name="mark_agent">חסום נציגות שדווחה</string>
   <string name="mark_agent_block">מדווח כנציגות</string>
   <string name="mark_agent_block_large">נציגויות</string>
@@ -179,8 +191,6 @@
   <string name="menu_restore">שחזר אל דואר נכנס</string>
   <string name="menu_sms">שלח הודעה</string>
   <string name="menu_wh_remove">הסר מרשימת חריגים</string>
-  <string name="NACaddnumcontent">הכנס מספר טלפון</string>
-  <string name="NACaddnumtitle">"הוסף את המס' לחריגים"</string>
   <string name="name">שם</string>
   <string name="nickname">כינוי</string>
   <string name="note">הערה</string>
@@ -191,9 +201,7 @@
   <string name="note_sms_none">אין הודעות</string>
   <string name="open_callwait">מופעל</string>
   <string name="organization">ארגון</string>
-  <string name="PAST_BLOCK">רשימה של חסומים בעבר</string>
   <string name="phone">טלפון</string>
-  <string name="Phonepass">אפשר שיחות</string>
   <string name="quiet">נא לא להפריע</string>
   <string name="quiet_group">נא לא להפריע</string>
   <string name="quiet_important_interruptions_mode">אשר חריגים בלבד</string>
@@ -213,16 +221,9 @@
   <string name="sim_not_ready">כרטיס ה-SIM לא מוכן</string>
   <string name="sim_not_ready_toast">כרטיס ה-SIM לא מוכן</string>
   <string name="sip_phone">"מס' SIP"</string>
-  <string name="SMS_ADRESS">רשימת חסומים של מיקומים</string>
-  <string name="SMS_BLACKLIST">רשימת הודעות חסומות</string>
-  <string name="SMS_DEFAULT">רשימת חסימה חכמה</string>
   <string name="sms_delete_hint">"מחק את כל ההודעות החסומות שנשלחו ממס' זה"</string>
   <string name="sms_delete_title">הסר הודעה</string>
-  <string name="SMS_KEYWORDS">רשימת מילות מפתח חסומות</string>
-  <string name="SMS_PREFIX">רשימת קידומות חסומות</string>
-  <string name="SMS_SERVICE">רשימת חסומים של שירות</string>
   <string name="sms_smart_engine_update">"עדכן אוטו' את מסנן ההודעות"</string>
-  <string name="SMSpass">אפשר הודעה</string>
   <string name="special_number_group">"חסום מס' שדווחו"</string>
   <string name="st_advanced_setting_group">הגדרות מתקדמות</string>
   <string name="st_antispam_black_adress_add">הוסף מיקומים</string>
@@ -276,10 +277,10 @@
   <string name="st_filter_sms_button">סנן הודעות</string>
   <string name="st_hint_add_head_number">הוסף קידומת</string>
   <string name="st_hint_add_phonenumber">"הכנס מס' טלפון"</string>
-  <string name="st_message_phone_AntiSpam">חסום שיחות</string>
-  <string name="st_message_phonepass">אפשר שיחות</string>
   <string name="st_message_SMS_AntiSpam">חסום הודעות</string>
   <string name="st_message_SMSpass">אפשר הודעות</string>
+  <string name="st_message_phone_AntiSpam">חסום שיחות</string>
+  <string name="st_message_phonepass">אפשר שיחות</string>
   <string name="st_mute_all">השתק שיחות והודעות</string>
   <string name="st_mute_block">השתק שיחות וחסום הודעות</string>
   <string name="st_mute_title">הפסק צלצול או רטט</string>
@@ -333,7 +334,6 @@
   <string name="st_title_show_antispamnotification">"התראות אודות 'רשימת חסומים'"</string>
   <string name="st_title_sim_unknown">לא ידוע</string>
   <string name="st_title_whitelist_numbers">חריגים</string>
-  <string name="STRANGER_BLOCK">רשימת חסומים של זרים</string>
   <string name="sure">אישור</string>
   <string name="tab_blacklist">רשימת חסומים</string>
   <string name="tab_block_log">היסטוריית חסימות</string>

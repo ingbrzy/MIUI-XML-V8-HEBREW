@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">הוסף התרעה</string>
   <string name="alarm_alert_alert_silenced">ההתרעה הושתקה לאחר %d דקות.</string>

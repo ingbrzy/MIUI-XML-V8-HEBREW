@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_sim">כרטיס UIM</string>
   <string name="account_sim2">כרטיס UIM %d</string>
@@ -7,9 +7,9 @@
   <string name="display_sim_contacts">הצג אנשי קשר בכרטיס UIM</string>
   <string name="export_sim_contact_finish">ייוצא לכרטיס UIM</string>
   <string name="export_to_sim">ייצא אל כרטיס UIM</string>
-  <string name="export_to_sim_title">מייצא לכרטיס UIM…</string>
   <string name="export_to_sim1">ייצא אל כרטיס UIM 1</string>
   <string name="export_to_sim2">ייצא אל כרטיס UIM 2</string>
+  <string name="export_to_sim_title">מייצא לכרטיס UIM…</string>
   <string name="import_from_sim">ייבא מכרטיס UIM</string>
   <string name="import_from_sim1">ייבא מכרטיס UIM 1</string>
   <string name="import_from_sim2">ייבא מכרטיס UIM 2</string>
@@ -17,32 +17,36 @@
   <string name="importing_sim_contacts_miui">מייבא אנשי קשר מכרטיס UIM…</string>
   <string name="noContactsHelpText">"אין לך אנשי קשר להצגה.
 
-להוספת אנשי קשר, לחץ "<b><font fgcolor="#ffffffff">תפריט</font></b>" ובחר:
+להוספת אנשי קשר, לחץ "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&amp;#1514;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1496;&lt;/font&gt;&lt;/b&gt;" &amp;#1493;&amp;#1489;&amp;#1495;&amp;#1512;:
  
-"<b><font fgcolor="#ffffffff"><li>"חשבונות להוספה או הגדרת תצורה של חשבון עם אנשי קשר שתוכל לסנכרן לטלפון
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"איש קשר חדש ליצירת איש קשר חדש
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"ייבוא/ייצוא לייבוא של אנשי קשר מ-UIM או מכרטיס הזיכרון שלך
-"</li></font></b>"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1495;&amp;#1513;&amp;#1489;&amp;#1493;&amp;#1504;&amp;#1493;&amp;#1514; &amp;#1500;&amp;#1492;&amp;#1493;&amp;#1505;&amp;#1508;&amp;#1492; &amp;#1488;&amp;#1493; &amp;#1492;&amp;#1490;&amp;#1491;&amp;#1512;&amp;#1514; &amp;#1514;&amp;#1510;&amp;#1493;&amp;#1512;&amp;#1492; &amp;#1513;&amp;#1500; &amp;#1495;&amp;#1513;&amp;#1489;&amp;#1493;&amp;#1503; &amp;#1506;&amp;#1501; &amp;#1488;&amp;#1504;&amp;#1513;&amp;#1497; &amp;#1511;&amp;#1513;&amp;#1512; &amp;#1513;&amp;#1514;&amp;#1493;&amp;#1499;&amp;#1500; &amp;#1500;&amp;#1505;&amp;#1504;&amp;#1499;&amp;#1512;&amp;#1503; &amp;#1500;&amp;#1496;&amp;#1500;&amp;#1508;&amp;#1493;&amp;#1503;
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1488;&amp;#1497;&amp;#1513; &amp;#1511;&amp;#1513;&amp;#1512; &amp;#1495;&amp;#1491;&amp;#1513; &amp;#1500;&amp;#1497;&amp;#1510;&amp;#1497;&amp;#1512;&amp;#1514; &amp;#1488;&amp;#1497;&amp;#1513; &amp;#1511;&amp;#1513;&amp;#1512; &amp;#1495;&amp;#1491;&amp;#1513;
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1497;&amp;#1497;&amp;#1489;&amp;#1493;&amp;#1488;/&amp;#1497;&amp;#1497;&amp;#1510;&amp;#1493;&amp;#1488; &amp;#1500;&amp;#1497;&amp;#1497;&amp;#1489;&amp;#1493;&amp;#1488; &amp;#1513;&amp;#1500; &amp;#1488;&amp;#1504;&amp;#1513;&amp;#1497; &amp;#1511;&amp;#1513;&amp;#1512; &amp;#1502;-UIM &amp;#1488;&amp;#1493; &amp;#1502;&amp;#1499;&amp;#1512;&amp;#1496;&amp;#1497;&amp;#1505; &amp;#1492;&amp;#1494;&amp;#1497;&amp;#1499;&amp;#1512;&amp;#1493;&amp;#1503; &amp;#1513;&amp;#1500;&amp;#1498;
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="noContactsHelpTextWithSync">"אין לך אנשי קשר להצגה. (אם הוספת חשבון לאחרונה, סנכרון אנשי הקשר עשוי לקחת כמה דקות.)
 
-להוספת אנשי קשר, לחץ "<b><font fgcolor="#ffffffff">תפריט</font></b>" ובחר:
+להוספת אנשי קשר, לחץ "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&amp;#1514;&amp;#1508;&amp;#1512;&amp;#1497;&amp;#1496;&lt;/font&gt;&lt;/b&gt;" &amp;#1493;&amp;#1489;&amp;#1495;&amp;#1512;:
  
-"<b><font fgcolor="#ffffffff"><li>"חשבונות להוספה או הגדרת תצורה של חשבון עם אנשי קשר שתוכל לסנכרן לטלפון
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"אפשרויות תצוגה כדי לקבוע אילו אנשי קשר מוצגים
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"איש קשר חדש ליצירת איש קשר חדש
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"ייבוא/ייצוא לייבוא של אנשי קשר מ-UIM או מכרטיס הזיכרון שלך
-"</li></font></b>"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1495;&amp;#1513;&amp;#1489;&amp;#1493;&amp;#1504;&amp;#1493;&amp;#1514; &amp;#1500;&amp;#1492;&amp;#1493;&amp;#1505;&amp;#1508;&amp;#1492; &amp;#1488;&amp;#1493; &amp;#1492;&amp;#1490;&amp;#1491;&amp;#1512;&amp;#1514; &amp;#1514;&amp;#1510;&amp;#1493;&amp;#1512;&amp;#1492; &amp;#1513;&amp;#1500; &amp;#1495;&amp;#1513;&amp;#1489;&amp;#1493;&amp;#1503; &amp;#1506;&amp;#1501; &amp;#1488;&amp;#1504;&amp;#1513;&amp;#1497; &amp;#1511;&amp;#1513;&amp;#1512; &amp;#1513;&amp;#1514;&amp;#1493;&amp;#1499;&amp;#1500; &amp;#1500;&amp;#1505;&amp;#1504;&amp;#1499;&amp;#1512;&amp;#1503; &amp;#1500;&amp;#1496;&amp;#1500;&amp;#1508;&amp;#1493;&amp;#1503;
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1488;&amp;#1508;&amp;#1513;&amp;#1512;&amp;#1493;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1514;&amp;#1510;&amp;#1493;&amp;#1490;&amp;#1492; &amp;#1499;&amp;#1491;&amp;#1497; &amp;#1500;&amp;#1511;&amp;#1489;&amp;#1493;&amp;#1506; &amp;#1488;&amp;#1497;&amp;#1500;&amp;#1493; &amp;#1488;&amp;#1504;&amp;#1513;&amp;#1497; &amp;#1511;&amp;#1513;&amp;#1512; &amp;#1502;&amp;#1493;&amp;#1510;&amp;#1490;&amp;#1497;&amp;#1501;
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1488;&amp;#1497;&amp;#1513; &amp;#1511;&amp;#1513;&amp;#1512; &amp;#1495;&amp;#1491;&amp;#1513; &amp;#1500;&amp;#1497;&amp;#1510;&amp;#1497;&amp;#1512;&amp;#1514; &amp;#1488;&amp;#1497;&amp;#1513; &amp;#1511;&amp;#1513;&amp;#1512; &amp;#1495;&amp;#1491;&amp;#1513;
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"&amp;#1497;&amp;#1497;&amp;#1489;&amp;#1493;&amp;#1488;/&amp;#1497;&amp;#1497;&amp;#1510;&amp;#1493;&amp;#1488; &amp;#1500;&amp;#1497;&amp;#1497;&amp;#1489;&amp;#1493;&amp;#1488; &amp;#1513;&amp;#1500; &amp;#1488;&amp;#1504;&amp;#1513;&amp;#1497; &amp;#1511;&amp;#1513;&amp;#1512; &amp;#1502;-UIM &amp;#1488;&amp;#1493; &amp;#1502;&amp;#1499;&amp;#1512;&amp;#1496;&amp;#1497;&amp;#1505; &amp;#1492;&amp;#1494;&amp;#1497;&amp;#1499;&amp;#1512;&amp;#1493;&amp;#1503; &amp;#1513;&amp;#1500;&amp;#1498;
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="pref_key_sim_manage">ניהול כרטיס UIM</string>
   <string name="pref_key_sim_manage1">כרטיס UIM 1</string>
   <string name="pref_key_sim_manage2">כרטיס UIM 2</string>
   <string name="readingSimContacts">קורא כרטיס UIM…</string>
+  <string name="simContacts_airplaneMode">בטל מצב טיסה על מנת לייבא אנשי קשר דרך כרטיס UIM.</string>
+  <string name="simContacts_empty">אין אנשי קשר בכרטיס UIM.</string>
+  <string name="simContacts_emptyLoading">טוען אנשי קשר מכרטיס UIM…</string>
+  <string name="simContacts_title">אנשי קשר בכרטיס UIM</string>
   <string name="sim_capacity">אחסון כרטיס UIM</string>
   <string name="sim_card_no_free_space_message">כרטיס ה-UIM שלך מלא, לא ניתן לייבא אנשי קשר חדשים. נקה את כרטיס UIM ונסה שוב.</string>
   <string name="sim_card_no_free_space_title">כרטיס ה-UIM מלא</string>
@@ -54,8 +58,4 @@
   <string name="sim_export_loading">קורא כרטיס UIM…</string>
   <string name="sim_indexed_contact_not_exist">מיקום %1$d על כרטיס UIM לא חוקי. המיקום צריך להיות בין %2$d ל-%3$d</string>
   <string name="sim_no_contact">אין אנשי קשר בכרטיס UIM</string>
-  <string name="simContacts_airplaneMode">בטל מצב טיסה על מנת לייבא אנשי קשר דרך כרטיס UIM.</string>
-  <string name="simContacts_empty">אין אנשי קשר בכרטיס UIM.</string>
-  <string name="simContacts_emptyLoading">טוען אנשי קשר מכרטיס UIM…</string>
-  <string name="simContacts_title">אנשי קשר בכרטיס UIM</string>
 </resources>

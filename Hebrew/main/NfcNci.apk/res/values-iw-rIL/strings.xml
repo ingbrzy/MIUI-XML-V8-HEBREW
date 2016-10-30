@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_nfc_enabled">‏NFC מופעל.</string>
   <string name="app_name">‏שירותי NFC</string>
@@ -26,9 +26,9 @@
   <string name="failed_to_enable_bt">לא ניתן להפעיל Bluetooth</string>
   <string name="inbound_me_profile_text">לחץ להוספת אדם זה כאיש קשר.</string>
   <string name="inbound_me_profile_title">התחבר דרך NFC</string>
+  <string name="nfcUserLabel">NFC</string>
   <string name="nfc_enabled_dialog">"NFC כרגע כבוי.
 האם ברצונך להפעיל אותו בשביל שירותי ה-NFC שלך?"</string>
-  <string name="nfcUserLabel">NFC</string>
   <string name="no">לא</string>
   <string name="ok">אישור</string>
   <string name="outbound_me_profile_text">לחץ על מנת לתת לאדם זה את פרטי הקשר שלך.</string>

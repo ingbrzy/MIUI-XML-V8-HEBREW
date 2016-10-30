@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_airplane_mode">מצב טיסה</string>
   <string name="accessibility_assistant">כדור מהיר</string>
@@ -190,7 +190,7 @@
   <string name="nav_guide_ok">הגדרות</string>
   <string name="nav_guide_title">הסתר מקשי מסך</string>
   <string name="no_notification_tips">אין התראות.</string>
-  <string name="no_weather_description">קבל מידע אודות מזג האוויר ></string>
+  <string name="no_weather_description">קבל מידע אודות מזג האוויר &gt;</string>
   <string name="notification_header_title">התראות</string>
   <string name="notification_hidden_text">התוכן מוסתר</string>
   <string name="notification_manager">ניהול התראות</string>
@@ -260,9 +260,9 @@ d MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE
 d MMMM"</string>
   <string name="status_bar_network_flow_content">היום: %1$s   נותר: %2$s</string>
-  <string name="status_bar_network_flow_exceed_content">היום: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;חריגה מתכנית: &lt;font color=%2$s>%3$s&lt;/font></string>
+  <string name="status_bar_network_flow_exceed_content">היום: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;חריגה מתכנית: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   תקרה חודשית: %1$s   "</string>
-  <string name="status_bar_network_flow_purchase">"   רכישה >"</string>
+  <string name="status_bar_network_flow_purchase">"   רכישה &gt;"</string>
   <string name="status_bar_network_flow_today">היום: %1$s</string>
   <string name="status_bar_no_recent_apps">אין יישומים אחרונים</string>
   <string name="status_bar_notification_inspect_item_title">פרטי יישום</string>

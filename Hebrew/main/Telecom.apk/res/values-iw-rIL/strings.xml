@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_call_muted">השיחה הושתקה.</string>
   <string name="accessibility_speakerphone_enabled">הרמקול הופעל.</string>
@@ -15,13 +15,13 @@
   <string name="incall_error_call_failed">לא ניתן היה לבצע את השיחה.</string>
   <string name="no_vm_number">מספר תיבה קולית חסר</string>
   <string name="no_vm_number_msg">מספר תיבה קולית לא קיים בכרטיס ה-SIM.</string>
+  <string name="notification_missedCallTicker">שיחה שלא נענתה מ-%s</string>
+  <string name="notification_missedCallTitle">שיחה שלא נענתה</string>
   <string name="notification_missedCall_call_back">התקשר בחזרה</string>
   <string name="notification_missedCall_call_back_miui">שיחה</string>
   <string name="notification_missedCall_message">הודעה</string>
   <string name="notification_missedCallsMsg">%s שיחות שלא נענו</string>
   <string name="notification_missedCallsTitle">שיחות שלא נענו</string>
-  <string name="notification_missedCallTicker">שיחה שלא נענתה מ-%s</string>
-  <string name="notification_missedCallTitle">שיחה שלא נענתה</string>
   <string name="outgoing_call_error_no_phone_number_supplied">לביצוע שיחה, הזן מספר חוקי.</string>
   <string name="outgoing_call_not_allowed_no_permission">יישום זה אינו יכול לבצע שיחות יוצאות ללא אישור הטלפון.</string>
   <string name="outgoing_call_not_allowed_user_restriction">שיחות חירום בלבד מאושרות ע\"י בעלי המכשיר.</string>

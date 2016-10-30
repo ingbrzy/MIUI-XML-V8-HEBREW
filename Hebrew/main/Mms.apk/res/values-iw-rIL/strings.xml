@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="action_firewall_setting">רשימת חסומים</string>
   <string name="activity_not_found">לא נמצא יישום מתאים לביצוע פעולה זו</string>
   <string name="activity_not_found_uri">לא נמצא יישום מתאים לביצוע פעולה זו</string>
+  <string name="addBlackList">חסום</string>
   <string name="add_attachment">צרף קבצים</string>
   <string name="add_festival">איחולים</string>
   <string name="add_music">הוסף מוזיקה</string>
@@ -20,7 +21,6 @@
   <string name="add_to_browser_favorite_failed">לא ניתן היה להוסיף</string>
   <string name="add_to_browser_favorite_success">נוסף בהצלחה</string>
   <string name="add_video">הוסף וידאו</string>
-  <string name="addBlackList">חסום</string>
   <string name="adding_attachments">המתן עד סיום הוספת הפריטים למצגת.</string>
   <string name="adding_attachments_title">צירוף פריטים</string>
   <string name="adding_recipients">מוסיף נמענים…</string>
@@ -73,13 +73,13 @@
   <string name="compressing">תמונה גדולה מדי. מכווץ…</string>
   <string name="confirm">אישור</string>
   <string name="confirm_add_blacklist_dialog_dspt">להוסיף מספר זה לרשימת החסומים?</string>
-  <string name="confirm_delete_all_conversations">למחוק את כל השיחות?</string>
+  <string name="confirm_delete_SIM_message">למחוק הודעת SIM זו?</string>
   <string name="confirm_delete_all_SIM_messages">למחוק את כל ההודעות ב-SIM?</string>
+  <string name="confirm_delete_all_conversations">למחוק את כל השיחות?</string>
   <string name="confirm_delete_conversation">למחוק את השרשור כולו?</string>
   <string name="confirm_delete_group_message">למחוק הודעות קבוצתיות?</string>
   <string name="confirm_delete_locked_message">למחוק הודעה נעולה זו?</string>
   <string name="confirm_delete_message">למחוק הודעה זו?</string>
-  <string name="confirm_delete_SIM_message">למחוק הודעת SIM זו?</string>
   <string name="confirm_dialog_locked_title">למחוק הודעה נעולה?</string>
   <string name="confirm_dialog_title">למחוק?</string>
   <string name="confirm_dlg__msg">התראת CMCC: שירות הדואר החינמי CMCC לא יהיה זמין אם תבטל אותו. בטוח שברצונך לבטל?</string>
@@ -196,7 +196,7 @@
   <string name="guild_add_attachments">"לחץ להוספת אימוג'י ותכנים אחרים"</string>
   <string name="guild_add_recipients">לחץ להוספת נמענים מפנקס הכתובות</string>
   <string name="guild_msim_switcher">לחץ להחלפה בין כרטיסי ה-SIM</string>
-  <string name="has_invalid_recipient">נמענים לא חוקיים: &lt;%1$s></string>
+  <string name="has_invalid_recipient">נמענים לא חוקיים: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">כתובת שולח מוסתרת</string>
   <string name="hint_search_sms">%d הודעות</string>
   <string name="hms_add_image_progress_message">מעבד…</string>
@@ -316,7 +316,7 @@
   <string name="mx_enable_ex">הודעות וקולי Mi</string>
   <string name="mx_enable_popup_msg">"'הודעות Mi' מאפשר לך לשלוח הודעות למשתמשי MIUI אחרים בחינם."</string>
   <string name="mx_filter_message_from_stranger">חסום הודעות Mi ממספרים לא מוכרים</string>
-  <string name="mx_filter_message_from_stranger_dialog_desc">תוכל לקבל מסרונים רגילים ממספרים לא מוכרים. ניתן להפעיל או לבטל תכונה זו בכל עת בהגדרות > הודעות.</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">תוכל לקבל מסרונים רגילים ממספרים לא מוכרים. ניתן להפעיל או לבטל תכונה זו בכל עת בהגדרות &gt; הודעות.</string>
   <string name="mx_filter_message_from_stranger_dialog_title">חסום הודעות Mi ממספרים לא מוכרים</string>
   <string name="mx_filter_message_from_stranger_summary">תוכל לקבל מסרונים רגילים ממספרים לא מוכרים</string>
   <string name="mx_msg">הודעות Mi</string>
@@ -495,8 +495,8 @@
   <string name="second_mms_introduction">"עבור אל 'שטח שני'"</string>
   <string name="second_mms_switch">החלף</string>
   <string name="secs">שניות</string>
-  <string name="security_alert_desc"><font color="#7f000000">"השולח אינו קיים באנשי הקשר שלך.\"
-\""</font></string>
+  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"&amp;#1492;&amp;#1513;&amp;#1493;&amp;#1500;&amp;#1495; &amp;#1488;&amp;#1497;&amp;#1504;&amp;#1493; &amp;#1511;&amp;#1497;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1488;&amp;#1504;&amp;#1513;&amp;#1497; &amp;#1492;&amp;#1511;&amp;#1513;&amp;#1512; &amp;#1513;&amp;#1500;&amp;#1498;.\"
+\""&lt;/font&gt;</string>
   <string name="security_alert_desc_highlight">דווח על מספר זה</string>
   <string name="security_alert_dialog_desc">שלח הודעה ומספר זה (%s) ל-Xiaomi לבדיקה.</string>
   <string name="security_alert_dialog_title">דווח</string>
@@ -532,9 +532,9 @@
   <string name="show_all_messages">הצג את כל ההודעות</string>
   <string name="show_delivery_status">הצג סטטוס מסירה</string>
   <string name="show_sender">הצג מידע אודות השולח</string>
-  <string name="sim_card_cloud">%s (הודעות Mi)</string>
   <string name="sim_card1">כרטיס SIM 1</string>
   <string name="sim_card2">כרטיס SIM 2</string>
+  <string name="sim_card_cloud">%s (הודעות Mi)</string>
   <string name="sim_copy_to_phone_memory">העתק לזיכרון הטלפון</string>
   <string name="sim_delete">מחיקה</string>
   <string name="sim_empty">אין הודעות בכרטיס ה-SIM</string>
@@ -630,7 +630,7 @@
   <string name="url_fraud_risky_alert">"האתר בו הינך מנסה לבקר עלול להוות סכנה. לבקר בו בכל מקרה?
 %s"</string>
   <string name="url_fraud_title">האתר עלול להיות מזוייף</string>
-  <string name="url_fraud_visit"><u>בקר בכל מקרה</u></string>
+  <string name="url_fraud_visit">&lt;u&gt;&amp;#1489;&amp;#1511;&amp;#1512; &amp;#1489;&amp;#1499;&amp;#1500; &amp;#1502;&amp;#1511;&amp;#1512;&amp;#1492;&lt;/u&gt;</string>
   <string name="url_result_safe">קישור זה הינו קישור בטוח</string>
   <string name="url_scanning">בודק URL…</string>
   <string name="user_agreement1">קרא בעיון את התנאים וההגבלות לפני התקנת תוכנה נוספת או שימוש במוצר זה.</string>

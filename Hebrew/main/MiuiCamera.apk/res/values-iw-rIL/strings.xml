@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">לא ניתן היה לגשת לאחסון USB.</string>
   <string name="accessibility_audio_shutter_bg">שמע רקע התריס</string>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">רק רגע…</string>
   <string name="account_error">שגיאת חשבון</string>
@@ -22,7 +22,7 @@
   <string name="button_cancel">ביטול</string>
   <string name="button_delete">מחק</string>
   <string name="button_next">הבא</string>
-  <string name="cancel_recover_settings"><u>ביטול</u></string>
+  <string name="cancel_recover_settings">&lt;u&gt;&amp;#1489;&amp;#1497;&amp;#1496;&amp;#1493;&amp;#1500;&lt;/u&gt;</string>
   <string name="click_try_to_restore_again">לחץ לנסות שוב</string>
   <string name="cloud_app_backup_success">גיבוי יישומים הסתיים</string>
   <string name="cloud_app_check_data">מתקשר עם Mi Cloud…</string>
@@ -70,7 +70,7 @@
   <string name="confirm_restore">שחזר</string>
   <string name="confirm_restore_summary">"מסך הבית יעלה מחדש והיישומים יורדו אוטו' כשיהיה חיבור אינטרנט פעיל."</string>
   <string name="confirm_restore_title">שחזר</string>
-  <string name="customization"><u>התאמה אישית</u></string>
+  <string name="customization">&lt;u&gt;&amp;#1492;&amp;#1514;&amp;#1488;&amp;#1502;&amp;#1492; &amp;#1488;&amp;#1497;&amp;#1513;&amp;#1497;&amp;#1514;&lt;/u&gt;</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">שעון מעורר</string>
   <string name="desktop_downloading">מוריד</string>

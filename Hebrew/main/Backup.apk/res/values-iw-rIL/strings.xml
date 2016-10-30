@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abort_backup_confirm">הגיבוי לא הסתיים, לעצור בכל זאת?</string>
   <string name="abort_restore_confirm">השחזור לא הסתיים. לעצור בכל זאת?</string>
@@ -116,12 +116,12 @@
   <string name="guarded_mode_dialog_backup_message">גיבויים אינם מורשים במצב אורח.</string>
   <string name="guarded_mode_dialog_title">אתה במצב אורח</string>
   <string name="guarded_mode_dialog_transfer_message">לא ניתן להשתמש Mi Mover במצב אורח.</string>
-  <string name="import_from_xiaomi_account_hint_title">השתמש ב-MiTalk על מנת לגבות את אנשי הקשר שלך בהתקנים שונים.</string>
   <string name="import_from_xiaomi_account_hint1">"1.\\u0009הורד את היישום MiTalk והתחבר אליו.
 \\u0009http://www.miliao.com
 
 2.כנס להגדרות ב-MiTalk ובחר ”גבה את אנשי הקשר לחשבון Mi”"</string>
   <string name="import_from_xiaomi_account_hint2">אם כבר יש לך גיבוי, לחץ הבא.</string>
+  <string name="import_from_xiaomi_account_hint_title">השתמש ב-MiTalk על מנת לגבות את אנשי הקשר שלך בהתקנים שונים.</string>
   <string name="local_app_name">גיבוי</string>
   <string name="local_backup_window_title">נתוני הגיבוי המקומי</string>
   <string name="local_home_title">גיבוי</string>
@@ -251,7 +251,7 @@
   <string name="trans_calculating_base_size">מחשב נפח נתונים</string>
   <string name="trans_cancel_confirm">ההעברה בתהליך, לעצור עכשיו?</string>
   <string name="trans_cancelling">מבטל…</string>
-  <string name="trans_connect_failed_message">"לא ניתן היה להתחבר, נסה שוב או אתחל את המכשיר. במכשיר האחר, עבור אל 'הגדרות' > 'הגדרות נוספות' > Mi Mover, לחץ על [אני השולח], או הפעל את Mi Mover שוב לאחר אתחול."</string>
+  <string name="trans_connect_failed_message">"לא ניתן היה להתחבר, נסה שוב או אתחל את המכשיר. במכשיר האחר, עבור אל 'הגדרות' &gt; 'הגדרות נוספות' &gt; Mi Mover, לחץ על [אני השולח], או הפעל את Mi Mover שוב לאחר אתחול."</string>
   <string name="trans_connect_failed_title">לא ניתן להתחבר</string>
   <string name="trans_connect_failed_toast">לא ניתן להתחבר</string>
   <string name="trans_connecting_toast">מתחבר…</string>
@@ -268,12 +268,12 @@
 פנה לפחות %s."</string>
   <string name="trans_operate_func_one">שיטה A</string>
   <string name="trans_operate_func_two">שיטה B</string>
-  <string name="trans_operate_new_phone_tips">"עבור אל 'הגדרות' > 'הגדרות נוספות' > Mi Mover
+  <string name="trans_operate_new_phone_tips">"עבור אל 'הגדרות' &gt; 'הגדרות נוספות' &gt; Mi Mover
 הקש על [אני המקבל] על מנת ליצור קוד QR"</string>
   <string name="trans_operate_old_phone_tips1">"1. התקן את יישום Mi Mover במכשיר הישן
 2. פתח את היישום ולחץ 'התחל'
 3. סרוק את קוד ה-QR במכשירך הישן"</string>
-  <string name="trans_operate_old_phone_tips2">"עבור אל 'הגדרות' > 'הגדרות נוספות' > Mi Mover, והקש על [אני השולח]"</string>
+  <string name="trans_operate_old_phone_tips2">"עבור אל 'הגדרות' &gt; 'הגדרות נוספות' &gt; Mi Mover, והקש על [אני השולח]"</string>
   <string name="trans_please_waiting">רק רגע…</string>
   <string name="trans_progress_subdescript_br_receiver">משחזר %1$s, %2$s הושלם</string>
   <string name="trans_progress_subdescript_br_sender">מגבה %1$s, %2$s הושלם</string>

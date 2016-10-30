@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_app_name">נגן וידאו</string>
   <string name="about_title">אודות</string>
@@ -96,10 +96,10 @@
   <string name="debug_mode_desc">הפעל את היישום במצב ניפוי באגים והצג מזהה הוידאו בפינה השמאלית-עליונה.</string>
   <string name="declaration">תנאי השירות</string>
   <string name="declaration_allow">מסכים</string>
-  <string name="declaration_content">"1. ע\"י שימוש ביישום זה, כולל Sohu Video, iQiyi ושירותים של ספקי תוכן אחרים, הינך מסכים ל\""<a href="http://www.miui.com/res/doc/eula.html">הסכם המשתמש</a>\" ול\"<a href="http://www.miui.com/res/doc/privacy.html">מדיניות הפרטיות</a>"\".
-2. על מנת לשפר את חוויית המשתמש, אנו נאסוף מידע אודות מכשירך והתוכן שהינך צופה בו. Sohu ו-iQiyi יאספו גם את ה-IMEI של מכשירך.
-3. תוסף ה-HD Video שלנו יותקן אוטומטית.
-4. יישום זה זקוק לחיבור לאינטרנט על מנת לפעול כראוי."</string>
+  <string name="declaration_content">"1. ע\"י שימוש ביישום זה, כולל Sohu Video, iQiyi ושירותים של ספקי תוכן אחרים, הינך מסכים ל\""&lt;a href="http://www.miui.com/res/doc/eula.html"&gt;&amp;#1492;&amp;#1505;&amp;#1499;&amp;#1501; &amp;#1492;&amp;#1502;&amp;#1513;&amp;#1514;&amp;#1502;&amp;#1513;&lt;/a&gt;\" &amp;#1493;&amp;#1500;\"&lt;a href="http://www.miui.com/res/doc/privacy.html"&gt;&amp;#1502;&amp;#1491;&amp;#1497;&amp;#1504;&amp;#1497;&amp;#1493;&amp;#1514; &amp;#1492;&amp;#1508;&amp;#1512;&amp;#1496;&amp;#1497;&amp;#1493;&amp;#1514;&lt;/a&gt;"\".
+2. &amp;#1506;&amp;#1500; &amp;#1502;&amp;#1504;&amp;#1514; &amp;#1500;&amp;#1513;&amp;#1508;&amp;#1512; &amp;#1488;&amp;#1514; &amp;#1495;&amp;#1493;&amp;#1493;&amp;#1497;&amp;#1497;&amp;#1514; &amp;#1492;&amp;#1502;&amp;#1513;&amp;#1514;&amp;#1502;&amp;#1513;, &amp;#1488;&amp;#1504;&amp;#1493; &amp;#1504;&amp;#1488;&amp;#1505;&amp;#1493;&amp;#1507; &amp;#1502;&amp;#1497;&amp;#1491;&amp;#1506; &amp;#1488;&amp;#1493;&amp;#1491;&amp;#1493;&amp;#1514; &amp;#1502;&amp;#1499;&amp;#1513;&amp;#1497;&amp;#1512;&amp;#1498; &amp;#1493;&amp;#1492;&amp;#1514;&amp;#1493;&amp;#1499;&amp;#1503; &amp;#1513;&amp;#1492;&amp;#1497;&amp;#1504;&amp;#1498; &amp;#1510;&amp;#1493;&amp;#1508;&amp;#1492; &amp;#1489;&amp;#1493;. Sohu &amp;#1493;-iQiyi &amp;#1497;&amp;#1488;&amp;#1505;&amp;#1508;&amp;#1493; &amp;#1490;&amp;#1501; &amp;#1488;&amp;#1514; &amp;#1492;-IMEI &amp;#1513;&amp;#1500; &amp;#1502;&amp;#1499;&amp;#1513;&amp;#1497;&amp;#1512;&amp;#1498;.
+3. &amp;#1514;&amp;#1493;&amp;#1505;&amp;#1507; &amp;#1492;-HD Video &amp;#1513;&amp;#1500;&amp;#1504;&amp;#1493; &amp;#1497;&amp;#1493;&amp;#1514;&amp;#1511;&amp;#1503; &amp;#1488;&amp;#1493;&amp;#1496;&amp;#1493;&amp;#1502;&amp;#1496;&amp;#1497;&amp;#1514;.
+4. &amp;#1497;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1501; &amp;#1494;&amp;#1492; &amp;#1494;&amp;#1511;&amp;#1493;&amp;#1511; &amp;#1500;&amp;#1495;&amp;#1497;&amp;#1489;&amp;#1493;&amp;#1512; &amp;#1500;&amp;#1488;&amp;#1497;&amp;#1504;&amp;#1496;&amp;#1512;&amp;#1504;&amp;#1496; &amp;#1506;&amp;#1500; &amp;#1502;&amp;#1504;&amp;#1514; &amp;#1500;&amp;#1508;&amp;#1506;&amp;#1493;&amp;#1500; &amp;#1499;&amp;#1512;&amp;#1488;&amp;#1493;&amp;#1497;."</string>
   <string name="declaration_content_td_custom">יישום זה זקוק לחיבור לאינטרנט על מנת לפעול כראוי.</string>
   <string name="defaults">ברירת מחדל</string>
   <string name="delete">מחק</string>
@@ -385,6 +385,11 @@
   <string name="video_vip">VIP</string>
   <string name="vip_package">חבילת VIP</string>
   <string name="vip_rights">זכויות ואינטרסים של VIP</string>
+  <string name="vp_VideoView_error_button">אישור</string>
+  <string name="vp_VideoView_error_network_not_available">לא ניתן להתחבר לרשת</string>
+  <string name="vp_VideoView_error_text_invalid_progressive_playback">סוג קובץ זה אינו נתמך.</string>
+  <string name="vp_VideoView_error_text_unknown">התרחשה שגיאה לא מזוהה.</string>
+  <string name="vp_VideoView_error_title">שגיאה לא מוכרת</string>
   <string name="vp_ad_countdown_m_s">פרסומת %1$dד%2$sשנ</string>
   <string name="vp_ad_countdown_s">פרסומת %1$s</string>
   <string name="vp_ad_skip">דלג על הפרסומת</string>
@@ -477,11 +482,6 @@
   <string name="vp_video_invalid_cp_info">מידע לא חוקי אודות מקור הוידאו, אנא הפעל מחדש את היישום</string>
   <string name="vp_video_loading">טוען…</string>
   <string name="vp_video_plugin_installation">מתקין %1$s…</string>
-  <string name="vp_VideoView_error_button">אישור</string>
-  <string name="vp_VideoView_error_network_not_available">לא ניתן להתחבר לרשת</string>
-  <string name="vp_VideoView_error_text_invalid_progressive_playback">סוג קובץ זה אינו נתמך.</string>
-  <string name="vp_VideoView_error_text_unknown">התרחשה שגיאה לא מזוהה.</string>
-  <string name="vp_VideoView_error_title">שגיאה לא מוכרת</string>
   <string name="waiting_to_download">ממתין</string>
   <string name="write_comment">הוסף הערה</string>
   <string name="xiaomi_account_type_unsupported">חשבון Mi אינו נתמך</string>

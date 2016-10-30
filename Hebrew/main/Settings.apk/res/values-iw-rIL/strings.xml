@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Accounts_settings_title">חשבונות</string>
   <string name="aaid_info">"
 \"מזהה הפרסומות\" הינו מזהה קבוע ויחודי למכשירך. ספקים משתמשים בו על מנת לבחור תוכן שיתאים לצרכיך."</string>
   <string name="about_settings">מידע על הטלפון</string>
@@ -55,12 +56,12 @@
   <string name="accessibility_screen_magnification_summary">"כשתכונה זו מופעלת, ניתן לשנות את התצוגה ע\"י הקשה משולשת על המסך.
 
 בזמן שהתצוגה מוגדלת ניתן:
-"<li><ul>"להזיז לצדדים: גרור שתי אצבעות או יותר לאורך המסך.
-"<li>לשנות את מידת ההגדלה: עשה תנועת צביטה באמצעות שתי אצבעות או הרחק אותן אחת מהשנייה.</li></ul></li>"
+"&lt;li&gt;&lt;ul&gt;"&amp;#1500;&amp;#1492;&amp;#1494;&amp;#1497;&amp;#1494; &amp;#1500;&amp;#1510;&amp;#1491;&amp;#1491;&amp;#1497;&amp;#1501;: &amp;#1490;&amp;#1512;&amp;#1493;&amp;#1512; &amp;#1513;&amp;#1514;&amp;#1497; &amp;#1488;&amp;#1510;&amp;#1489;&amp;#1506;&amp;#1493;&amp;#1514; &amp;#1488;&amp;#1493; &amp;#1497;&amp;#1493;&amp;#1514;&amp;#1512; &amp;#1500;&amp;#1488;&amp;#1493;&amp;#1512;&amp;#1498; &amp;#1492;&amp;#1502;&amp;#1505;&amp;#1498;.
+"&lt;li&gt;&amp;#1500;&amp;#1513;&amp;#1504;&amp;#1493;&amp;#1514; &amp;#1488;&amp;#1514; &amp;#1502;&amp;#1497;&amp;#1491;&amp;#1514; &amp;#1492;&amp;#1492;&amp;#1490;&amp;#1491;&amp;#1500;&amp;#1492;: &amp;#1506;&amp;#1513;&amp;#1492; &amp;#1514;&amp;#1504;&amp;#1493;&amp;#1506;&amp;#1514; &amp;#1510;&amp;#1489;&amp;#1497;&amp;#1496;&amp;#1492; &amp;#1489;&amp;#1488;&amp;#1502;&amp;#1510;&amp;#1506;&amp;#1493;&amp;#1514; &amp;#1513;&amp;#1514;&amp;#1497; &amp;#1488;&amp;#1510;&amp;#1489;&amp;#1506;&amp;#1493;&amp;#1514; &amp;#1488;&amp;#1493; &amp;#1492;&amp;#1512;&amp;#1495;&amp;#1511; &amp;#1488;&amp;#1493;&amp;#1514;&amp;#1503; &amp;#1488;&amp;#1495;&amp;#1514; &amp;#1502;&amp;#1492;&amp;#1513;&amp;#1504;&amp;#1497;&amp;#1497;&amp;#1492;.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
 
-ניתן גם להגדיל באופן זמני את התצוגה ע\"י הקשה משולשת והחזקה. במצב הגדלה זה ניתן לגרור את האצבע על מנת להציג כך חלקים שונים במסך. הרם את האצבע כדי לחזור למצב הקודם.
+&amp;#1504;&amp;#1497;&amp;#1514;&amp;#1503; &amp;#1490;&amp;#1501; &amp;#1500;&amp;#1492;&amp;#1490;&amp;#1491;&amp;#1497;&amp;#1500; &amp;#1489;&amp;#1488;&amp;#1493;&amp;#1508;&amp;#1503; &amp;#1494;&amp;#1502;&amp;#1504;&amp;#1497; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1514;&amp;#1510;&amp;#1493;&amp;#1490;&amp;#1492; &amp;#1506;\"&amp;#1497; &amp;#1492;&amp;#1511;&amp;#1513;&amp;#1492; &amp;#1502;&amp;#1513;&amp;#1493;&amp;#1500;&amp;#1513;&amp;#1514; &amp;#1493;&amp;#1492;&amp;#1495;&amp;#1494;&amp;#1511;&amp;#1492;. &amp;#1489;&amp;#1502;&amp;#1510;&amp;#1489; &amp;#1492;&amp;#1490;&amp;#1491;&amp;#1500;&amp;#1492; &amp;#1494;&amp;#1492; &amp;#1504;&amp;#1497;&amp;#1514;&amp;#1503; &amp;#1500;&amp;#1490;&amp;#1512;&amp;#1493;&amp;#1512; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1488;&amp;#1510;&amp;#1489;&amp;#1506; &amp;#1506;&amp;#1500; &amp;#1502;&amp;#1504;&amp;#1514; &amp;#1500;&amp;#1492;&amp;#1510;&amp;#1497;&amp;#1490; &amp;#1499;&amp;#1498; &amp;#1495;&amp;#1500;&amp;#1511;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1502;&amp;#1505;&amp;#1498;. &amp;#1492;&amp;#1512;&amp;#1501; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1488;&amp;#1510;&amp;#1489;&amp;#1506; &amp;#1499;&amp;#1491;&amp;#1497; &amp;#1500;&amp;#1495;&amp;#1494;&amp;#1493;&amp;#1512; &amp;#1500;&amp;#1502;&amp;#1510;&amp;#1489; &amp;#1492;&amp;#1511;&amp;#1493;&amp;#1491;&amp;#1501;.
 
-שים לב: הקשה משולשת להגדלה פועלת בכל מקום מלבד במקלדת ובסרגל הניווט."</string>
+&amp;#1513;&amp;#1497;&amp;#1501; &amp;#1500;&amp;#1489;: &amp;#1492;&amp;#1511;&amp;#1513;&amp;#1492; &amp;#1502;&amp;#1513;&amp;#1493;&amp;#1500;&amp;#1513;&amp;#1514; &amp;#1500;&amp;#1492;&amp;#1490;&amp;#1491;&amp;#1500;&amp;#1492; &amp;#1508;&amp;#1493;&amp;#1506;&amp;#1500;&amp;#1514; &amp;#1489;&amp;#1499;&amp;#1500; &amp;#1502;&amp;#1511;&amp;#1493;&amp;#1501; &amp;#1502;&amp;#1500;&amp;#1489;&amp;#1491; &amp;#1489;&amp;#1502;&amp;#1511;&amp;#1500;&amp;#1491;&amp;#1514; &amp;#1493;&amp;#1489;&amp;#1505;&amp;#1512;&amp;#1490;&amp;#1500; &amp;#1492;&amp;#1504;&amp;#1497;&amp;#1493;&amp;#1493;&amp;#1496;."</string>
   <string name="accessibility_screen_magnification_title">תנועות לשינוי גודל</string>
   <string name="accessibility_service_default_description">לא סופק תיאור.</string>
   <string name="accessibility_services_title">שירותים</string>
@@ -92,7 +93,6 @@
   <string name="account_settings_menu_auto_sync_work">סנכרון אוטומטי של נתוני עבודה</string>
   <string name="account_settings_title">חשבונות</string>
   <string name="account_sync_settings_title">סנכרון</string>
-  <string name="Accounts_settings_title">חשבונות</string>
   <string name="activating">מפעיל…</string>
   <string name="active_device_admin_msg">מנהל מכשיר</string>
   <string name="active_input_method_subtypes">שיטות קלט פעילות</string>
@@ -448,7 +448,7 @@
   <string name="bluetooth_broadcasting_explaination">"‏כשהתכונה הזו פועלת, הטלפון יכול לתקשר עם מכשירים קרובים אחרים.
 
 השידור מתבצע באמצעות אותות Bluetooth בעוצמה חלשה."</string>
-  <string name="bluetooth_confirm_passkey_msg">‏כדי להתאים עם:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>ודא שהמכשיר מציג סיסמה זו:&lt;br>&lt;b>%2$s&lt;/b></string>
+  <string name="bluetooth_confirm_passkey_msg">‏כדי להתאים עם:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;ודא שהמכשיר מציג סיסמה זו:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_connect_specific_profiles_title">התחבר אל…</string>
   <string name="bluetooth_connected">מחובר</string>
   <string name="bluetooth_connected_no_a2dp">מחובר (ללא מדיה)</string>
@@ -478,10 +478,10 @@
   <string name="bluetooth_device_name">שם:</string>
   <string name="bluetooth_device_searchable">גלוי</string>
   <string name="bluetooth_devices">‏מכשירי Bluetooth</string>
-  <string name="bluetooth_disable_profile_message">‏פעולה זו תשבית את:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>מ:&lt;br>&lt;b>%2$s&lt;/b></string>
+  <string name="bluetooth_disable_profile_message">‏פעולה זו תשבית את:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;מ:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">להשבית פרופיל?</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$s ינותק מהשמע של המדיה.</string>
-  <string name="bluetooth_disconnect_all_profiles">‏פעולה זו תסיים את החיבור עם:&lt;br>&lt;b>%1$s&lt;/b></string>
+  <string name="bluetooth_disconnect_all_profiles">‏פעולה זו תסיים את החיבור עם:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
   <string name="bluetooth_disconnect_headset_profile">%1$s ינותק מהשמע של הדיבורית.</string>
   <string name="bluetooth_disconnect_hid_profile">%1$s ינותק ממכשיר הקלט.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">%1$s ינותק משיתוף החיבור לאינטרנט של טלפון זה.</string>
@@ -489,7 +489,7 @@
   <string name="bluetooth_disconnect_title">להתנתק?</string>
   <string name="bluetooth_disconnected">מנותק</string>
   <string name="bluetooth_disconnecting">מתנתק…</string>
-  <string name="bluetooth_display_passkey_pin_msg">‏כדי להתאים עם:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>הקלד בו:&lt;br>&lt;b>%2$s&lt;/b>, ולאחר מכן הקש על Return או Enter.</string>
+  <string name="bluetooth_display_passkey_pin_msg">‏כדי להתאים עם:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;הקלד בו:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, ולאחר מכן הקש על Return או Enter.</string>
   <string name="bluetooth_dock_settings">הגדרות עגינה</string>
   <string name="bluetooth_dock_settings_a2dp">עבור מוזיקה ומדיה</string>
   <string name="bluetooth_dock_settings_headset">כטלפון דיבורית</string>
@@ -507,7 +507,7 @@
   <string name="bluetooth_headset_profile_summary_use_for">השתמש עבור השמע של הטלפון</string>
   <string name="bluetooth_hid_profile_summary_connected">מחובר למכשיר קלט</string>
   <string name="bluetooth_hid_profile_summary_use_for">השתמש לקלט</string>
-  <string name="bluetooth_incoming_pairing_msg">‏מאת:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>לבצע התאמה עם מכשיר זה?</string>
+  <string name="bluetooth_incoming_pairing_msg">‏מאת:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;לבצע התאמה עם מכשיר זה?</string>
   <string name="bluetooth_is_disconnect_question">האם לנתק את %1$s?</string>
   <string name="bluetooth_is_discoverable">‏גלוי לכל מכשירי Bluetooth הסמוכים (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">הפוך מכשיר זה לגלוי לכל התקני ה-Bluetooth בקרבת המקום</string>
@@ -973,10 +973,10 @@
   <string name="data_usage_restrict_background_title">להגביל נתוני רקע?</string>
   <string name="data_usage_restrict_denied_dialog">הגבלה של נתוני רקע אפשרית רק אם הגדרת הגבלה על נתונים סלולריים.</string>
   <string name="data_usage_summary_title">שימוש בנתונים</string>
-  <string name="data_usage_sweep_limit"><font size="21">^1</font><font size="9">^2</font>"
-"<font size="12">מגבלה</font></string>
-  <string name="data_usage_sweep_warning"><font size="21">^1</font><font size="9">^2</font>"
-"<font size="12">אזהרה</font></string>
+  <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt;&lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;&amp;#1502;&amp;#1490;&amp;#1489;&amp;#1500;&amp;#1492;&lt;/font&gt;</string>
+  <string name="data_usage_sweep_warning">&lt;font size="21"&gt;^1&lt;/font&gt;&lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;&amp;#1488;&amp;#1494;&amp;#1492;&amp;#1512;&amp;#1492;&lt;/font&gt;</string>
   <string name="data_usage_tab_mobile">סלולרי</string>
   <string name="data_usage_tab_wifi">רשתות אלחוטיות</string>
   <string name="data_usage_total_during_range">%2$s: נעשה שימוש בערך ב-%1$s.</string>
@@ -1122,7 +1122,7 @@
   <string name="dlg_confirm_usb_unmount_title">לנתק את אחסון ה-USB?</string>
   <string name="dlg_error_uicc_unmount_text">לא ניתן היה לנתק את אחסון ה-UICC. נסה שוב מאוחר יותר.</string>
   <string name="dlg_error_unmount_text">‏לא ניתן לבטל את הטעינה של אחסון ה-USB. נסה שוב מאוחר יותר.</string>
-  <string name="dlg_error_unmount_title" />
+  <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">לא ניתן היה לנתק את אחסון ה-USB. נסה שוב מאוחר יותר.</string>
   <string name="dlg_ok">אישור</string>
   <string name="dlg_switch">עבור אל</string>
@@ -1415,8 +1415,8 @@
   <string name="force_touch_enable">"הפעל את 'מגע 3D'"</string>
   <string name="force_touch_enable_tips">"לחץ לחיצה מאומצת על אייקונים של יישומים ב-Launcher על מנת להציג תפריטים של קיצורי דרך כאשר 'מגע 3D' פועל."</string>
   <string name="forget">שכח</string>
-  <string name="forget_password_button_text"><u>שכחתי את הסיסמה</u></string>
-  <string name="forget_pattern"><u>שכחת את התבנית?</u></string>
+  <string name="forget_password_button_text">&lt;u&gt;&amp;#1513;&amp;#1499;&amp;#1495;&amp;#1514;&amp;#1497; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1505;&amp;#1497;&amp;#1505;&amp;#1502;&amp;#1492;&lt;/u&gt;</string>
+  <string name="forget_pattern">&lt;u&gt;&amp;#1513;&amp;#1499;&amp;#1495;&amp;#1514; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1514;&amp;#1489;&amp;#1504;&amp;#1497;&amp;#1514;?&lt;/u&gt;</string>
   <string name="forget_privacy_password_setting">הוסף חשבון Mi</string>
   <string name="forget_privacy_password_summary">הוסף חשבון Mi על מנת לאפס את סיסמתך</string>
   <string name="forget_wifi_message">הטלפון שלך יפסיק לבצע חיבור אוטומטי לרשת זו.</string>
@@ -1579,7 +1579,7 @@
   <string name="internal_format">מחיקת האחסון הפנימי</string>
   <string name="internal_format_summary">מחק את כל הנתונים באחסון הפנימי של מכשירך</string>
   <string name="internal_media_format_button_text">מחק את האחסון הפנימי</string>
-  <string name="internal_media_format_desc">למחוק את האחסון הפנימי? <b>כל</b> הנתונים שלך ימחקו. הטלפון יופעל מחדש לאחר מחיקת האחסון הפנימי.</string>
+  <string name="internal_media_format_desc">למחוק את האחסון הפנימי? &lt;b&gt;&amp;#1499;&amp;#1500;&lt;/b&gt; &amp;#1492;&amp;#1504;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1500;&amp;#1498; &amp;#1497;&amp;#1502;&amp;#1495;&amp;#1511;&amp;#1493;. &amp;#1492;&amp;#1496;&amp;#1500;&amp;#1508;&amp;#1493;&amp;#1503; &amp;#1497;&amp;#1493;&amp;#1508;&amp;#1506;&amp;#1500; &amp;#1502;&amp;#1495;&amp;#1491;&amp;#1513; &amp;#1500;&amp;#1488;&amp;#1495;&amp;#1512; &amp;#1502;&amp;#1495;&amp;#1497;&amp;#1511;&amp;#1514; &amp;#1492;&amp;#1488;&amp;#1495;&amp;#1505;&amp;#1493;&amp;#1503; &amp;#1492;&amp;#1508;&amp;#1504;&amp;#1497;&amp;#1502;&amp;#1497;.</string>
   <string name="internal_media_format_final_desc">למחוק את האחסון הפנימי? לא תוכל לבטל פעולה זו! הטלפון יופעל מחדש לאחר מחיקת האחסון הפנימי.</string>
   <string name="internal_media_format_title">מחיקת האחסון הפנימי</string>
   <string name="internal_memory">אחסון פנימי</string>
@@ -1880,7 +1880,7 @@
   <string name="manageapplications_settings_summary">נהל והסר יישומים מותקנים</string>
   <string name="manageapplications_settings_title">נהל יישומים</string>
   <string name="managed_device_admin_title">עבודה</string>
-  <string name="managed_profile_device_admin_info">"‏כדי למנוע את הגישה של %1$s אל פרופיל העבודה שלך, הסר את הפרופיל תחת 'הגדרות' > 'חשבונות'"</string>
+  <string name="managed_profile_device_admin_info">"‏כדי למנוע את הגישה של %1$s אל פרופיל העבודה שלך, הסר את הפרופיל תחת 'הגדרות' &gt; 'חשבונות'"</string>
   <string name="managed_profile_location_category">פרופיל עבודה</string>
   <string name="managed_profile_location_switch_lockdown">כובה ע\"י מנהל החברה.</string>
   <string name="managed_profile_location_switch_title">מיקום עבור פרופיל העבודה</string>
@@ -1895,17 +1895,17 @@
   <string name="master_clear_all">למחוק את כל הנתונים מהאחסון הפנימי של הטלפון שלך? לא תוכל לבטל פעולה זו!</string>
   <string name="master_clear_button_text">איפוס טלפון</string>
   <string name="master_clear_confirm_title">לאפס?</string>
-  <string name="master_clear_desc">‏פעולה זו תמחק את כל הנתונים מ<b>האחסון הפנימי</b>" של הטלפון שלך, כולל:
+  <string name="master_clear_desc">‏פעולה זו תמחק את כל הנתונים מ&lt;b&gt;&amp;#1492;&amp;#1488;&amp;#1495;&amp;#1505;&amp;#1493;&amp;#1503; &amp;#1492;&amp;#1508;&amp;#1504;&amp;#1497;&amp;#1502;&amp;#1497;&lt;/b&gt;" &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1496;&amp;#1500;&amp;#1508;&amp;#1493;&amp;#1503; &amp;#1513;&amp;#1500;&amp;#1498;, &amp;#1499;&amp;#1493;&amp;#1500;&amp;#1500;:
 
-"<li>חשבון Google שלך</li>"
-"<li>הנתונים וההגדרות של המערכת והיישומים שלך</li>"
-"<li>היישומים שהורדת</li></string>
-  <string name="master_clear_desc_also_erases_external"><li>מוזיקה</li>"
-"<li>תמונות</li>"
-"<li>נתוני משתמש אחרים</li></string>
+"&lt;li&gt;&amp;#1495;&amp;#1513;&amp;#1489;&amp;#1493;&amp;#1503; Google &amp;#1513;&amp;#1500;&amp;#1498;&lt;/li&gt;"
+"&lt;li&gt;&amp;#1492;&amp;#1504;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1493;&amp;#1492;&amp;#1492;&amp;#1490;&amp;#1491;&amp;#1512;&amp;#1493;&amp;#1514; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1502;&amp;#1506;&amp;#1512;&amp;#1499;&amp;#1514; &amp;#1493;&amp;#1492;&amp;#1497;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1500;&amp;#1498;&lt;/li&gt;"
+"&lt;li&gt;&amp;#1492;&amp;#1497;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1492;&amp;#1493;&amp;#1512;&amp;#1491;&amp;#1514;&lt;/li&gt;</string>
+  <string name="master_clear_desc_also_erases_external">&lt;li&gt;&amp;#1502;&amp;#1493;&amp;#1494;&amp;#1497;&amp;#1511;&amp;#1492;&lt;/li&gt;"
+"&lt;li&gt;&amp;#1514;&amp;#1502;&amp;#1493;&amp;#1504;&amp;#1493;&amp;#1514;&lt;/li&gt;"
+"&lt;li&gt;&amp;#1504;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1497; &amp;#1502;&amp;#1513;&amp;#1514;&amp;#1502;&amp;#1513; &amp;#1488;&amp;#1495;&amp;#1512;&amp;#1497;&amp;#1501;&lt;/li&gt;</string>
   <string name="master_clear_desc_erase_external_storage">"‏
 
-כדי למחוק פריטי מוזיקה, תמונות ונתוני משתמש אחרים, יש למחוק את "<b>אחסון ה-USB</b>.</string>
+כדי למחוק פריטי מוזיקה, תמונות ונתוני משתמש אחרים, יש למחוק את "&lt;b&gt;&amp;#1488;&amp;#1495;&amp;#1505;&amp;#1493;&amp;#1503; &amp;#1492;-USB&lt;/b&gt;.</string>
   <string name="master_clear_erase_application_progress">מוחק יישומים…</string>
   <string name="master_clear_failed">"לא בוצע איפוס מכיוון שהשירות 'ניקוי מערכת' אינו זמין."</string>
   <string name="master_clear_final_button_text">מחק הכל</string>
@@ -2271,9 +2271,9 @@
   <string name="paper_mode_start_time_title">שעת התחלה</string>
   <string name="passpoint_content">פרטי כניסה של %1$s</string>
   <string name="passpoint_label">נשמר באמצעות</string>
+  <string name="passwordIncorrect">הסיסמה שהזנת שגויה</string>
   <string name="password_entrance_title">נעילת מסך</string>
   <string name="password_guard">סיסמה</string>
-  <string name="passwordIncorrect">הסיסמה שהזנת שגויה</string>
   <string name="path_about_about_settings">הגדרות/אודות הטלפון</string>
   <string name="path_accelerometer_settings">הגדרות/תצוגה/סיבוב אוטומטי של המסך</string>
   <string name="path_access_control_settings">הגדרות/הגדרות נוספות/פרטיות/הגדרות פרטיות</string>
@@ -2662,6 +2662,25 @@
   <string name="quiet_mode">השתק את כל ההפרעות</string>
   <string name="quiet_no_interruptions_mode">השתק את כל ההפרעות</string>
   <string name="quiet_off_mode">אפשר תמיד הפרעות</string>
+  <string name="radioInfo_data_connected">מחובר</string>
+  <string name="radioInfo_data_connecting">מתחבר</string>
+  <string name="radioInfo_data_disconnected">מנותק</string>
+  <string name="radioInfo_data_suspended">מושהה</string>
+  <string name="radioInfo_display_bytes">בייטים</string>
+  <string name="radioInfo_menu_getPDP">‏קבל רשימת PDP</string>
+  <string name="radioInfo_menu_viewADN">‏הצג פנקס כתובות של SIM</string>
+  <string name="radioInfo_menu_viewFDN">הצג מספרי חיוג קבועים</string>
+  <string name="radioInfo_menu_viewSDN">הצג מספרי חיוג לשירות</string>
+  <string name="radioInfo_phone_idle">לא פעיל</string>
+  <string name="radioInfo_phone_offhook">שיחה מתבצעת</string>
+  <string name="radioInfo_phone_ringing">מצלצל</string>
+  <string name="radioInfo_roaming_in">נדידה</string>
+  <string name="radioInfo_roaming_not">לא בנדידה</string>
+  <string name="radioInfo_service_emergency">שיחות חירום בלבד</string>
+  <string name="radioInfo_service_in">בשירות</string>
+  <string name="radioInfo_service_off">רדיו כבוי</string>
+  <string name="radioInfo_service_out">מחוץ לאזור שירות</string>
+  <string name="radioInfo_unknown">לא ידוע</string>
   <string name="radio_controls_summary">ניהול רשתות אלחוטיות, Bluetooth, מצב טיסה, רשתות סלולריות, ו-VPN</string>
   <string name="radio_controls_title">עוד</string>
   <string name="radio_info_asdiv_switch_label">סטטוס ASDiv:</string>
@@ -2693,25 +2712,6 @@
   <string name="radio_info_smsc_refresh_label">רענן</string>
   <string name="radio_info_smsc_update_label">עדכון</string>
   <string name="radio_info_toggle_dns_check_label">‏הפעל/השבת בדיקת DNS</string>
-  <string name="radioInfo_data_connected">מחובר</string>
-  <string name="radioInfo_data_connecting">מתחבר</string>
-  <string name="radioInfo_data_disconnected">מנותק</string>
-  <string name="radioInfo_data_suspended">מושהה</string>
-  <string name="radioInfo_display_bytes">בייטים</string>
-  <string name="radioInfo_menu_getPDP">‏קבל רשימת PDP</string>
-  <string name="radioInfo_menu_viewADN">‏הצג פנקס כתובות של SIM</string>
-  <string name="radioInfo_menu_viewFDN">הצג מספרי חיוג קבועים</string>
-  <string name="radioInfo_menu_viewSDN">הצג מספרי חיוג לשירות</string>
-  <string name="radioInfo_phone_idle">לא פעיל</string>
-  <string name="radioInfo_phone_offhook">שיחה מתבצעת</string>
-  <string name="radioInfo_phone_ringing">מצלצל</string>
-  <string name="radioInfo_roaming_in">נדידה</string>
-  <string name="radioInfo_roaming_not">לא בנדידה</string>
-  <string name="radioInfo_service_emergency">שיחות חירום בלבד</string>
-  <string name="radioInfo_service_in">בשירות</string>
-  <string name="radioInfo_service_off">רדיו כבוי</string>
-  <string name="radioInfo_service_out">מחוץ לאזור שירות</string>
-  <string name="radioInfo_unknown">לא ידוע</string>
   <string name="rarely_running">פועלת לעתים רחוקות (%s)</string>
   <string name="really_remove_account_message">הסרת חשבון זה תגרום למחיקה של כל ההודעות, אנשי הקשר ונתונים נוספים של החשבון מהטלפון!</string>
   <string name="really_remove_account_title">להסיר את החשבון?</string>
@@ -2734,13 +2734,13 @@
   <string name="reset_app_preferences_button">אפס יישומים</string>
   <string name="reset_app_preferences_desc">"הפעולה תאפס את כל ההעדפות עבור:
 
- "<li>יישומים מושבתים</li>"
- "<li>התראות של יישומים מושבתים</li>"
- "<li>יישומים שהם ברירת המחדל לביצוע פעולות</li>"
- "<li>הגבלות של נתוני רקע ליישומים</li>"
-"<li>הגבלת הרשאות</li>" 
+ "&lt;li&gt;&amp;#1497;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1501; &amp;#1502;&amp;#1493;&amp;#1513;&amp;#1489;&amp;#1514;&amp;#1497;&amp;#1501;&lt;/li&gt;"
+ "&lt;li&gt;&amp;#1492;&amp;#1514;&amp;#1512;&amp;#1488;&amp;#1493;&amp;#1514; &amp;#1513;&amp;#1500; &amp;#1497;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1501; &amp;#1502;&amp;#1493;&amp;#1513;&amp;#1489;&amp;#1514;&amp;#1497;&amp;#1501;&lt;/li&gt;"
+ "&lt;li&gt;&amp;#1497;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1492;&amp;#1501; &amp;#1489;&amp;#1512;&amp;#1497;&amp;#1512;&amp;#1514; &amp;#1492;&amp;#1502;&amp;#1495;&amp;#1491;&amp;#1500; &amp;#1500;&amp;#1489;&amp;#1497;&amp;#1510;&amp;#1493;&amp;#1506; &amp;#1508;&amp;#1506;&amp;#1493;&amp;#1500;&amp;#1493;&amp;#1514;&lt;/li&gt;"
+ "&lt;li&gt;&amp;#1492;&amp;#1490;&amp;#1489;&amp;#1500;&amp;#1493;&amp;#1514; &amp;#1513;&amp;#1500; &amp;#1504;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1497; &amp;#1512;&amp;#1511;&amp;#1506; &amp;#1500;&amp;#1497;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1501;&lt;/li&gt;"
+"&lt;li&gt;&amp;#1492;&amp;#1490;&amp;#1489;&amp;#1500;&amp;#1514; &amp;#1492;&amp;#1512;&amp;#1513;&amp;#1488;&amp;#1493;&amp;#1514;&lt;/li&gt;" 
 
- נתוני היישומים לא יילכו לאיבוד."</string>
+ &amp;#1504;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1497; &amp;#1492;&amp;#1497;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1501; &amp;#1500;&amp;#1488; &amp;#1497;&amp;#1497;&amp;#1500;&amp;#1499;&amp;#1493; &amp;#1500;&amp;#1488;&amp;#1497;&amp;#1489;&amp;#1493;&amp;#1491;."</string>
   <string name="reset_app_preferences_title">האם לאפס העדפות יישום?</string>
   <string name="reset_legacy_password_settings_preface_text">עליך לאפס את סיסמת נעילת המסך שלך.</string>
   <string name="reset_network_button_text">אפס הגדרות</string>
@@ -2748,9 +2748,9 @@
   <string name="reset_network_confirm_title">האם לאפס?</string>
   <string name="reset_network_desc">"‏הפעולה הזו תאפס את כל הגדרות הרשת, כולל:
 
-"<li>Wi‑Fi</li>"
-"<li>נתונים סלולריים</li>"
-"<li>Bluetooth</li></string>
+"&lt;li&gt;Wi&amp;#8209;Fi&lt;/li&gt;"
+"&lt;li&gt;&amp;#1504;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1505;&amp;#1500;&amp;#1493;&amp;#1500;&amp;#1512;&amp;#1497;&amp;#1497;&amp;#1501;&lt;/li&gt;"
+"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
   <string name="reset_network_final_button_text">אפס הגדרות</string>
   <string name="reset_network_final_desc">האם לאפס את כל הגדרות הרשת? לא ניתן לבטל את הפעולה!</string>
   <string name="reset_network_title">איפוס של הגדרות הרשת</string>
@@ -3108,7 +3108,7 @@
   <string name="search_xspace">יישומים משוכפלים;יישומים משוכפלים</string>
   <string name="search_zen_mode_option_miui_silent">מצב שקט;שקט;השתק;השתק</string>
   <string name="second_space">שטח שני</string>
-  <string name="secure_keyguard_business_title">>גדר נעילת מסך</string>
+  <string name="secure_keyguard_business_title">&gt;גדר נעילת מסך</string>
   <string name="secure_lock_encryption_warning">מפני שהפעלת שירות נגישות, המכשיר לא ישתמש בנעילת המסך כדי להגביר את הצפנת הנתונים.</string>
   <string name="security_enable_widgets_disabled_summary">הושבת ע\"י מנהל המערכת</string>
   <string name="security_enable_widgets_title">"הפעל יישומי ווידג'ט"</string>
@@ -3139,8 +3139,8 @@
   <string name="security_settings_fingerprint_enroll_dialog_delete">מחק</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">שם</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">אישור</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer">בנוסף לביטול הנעילה של הטלפון, תוכל להשתמש בטביעת האצבע כדי לאשר רכישות וגישה ליישומים. <annotation id="url">למידע נוסף</annotation></string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">האפשרות של נעילת המסך מושבתת. עדיין תוכל להשתמש בטביעת האצבע שלך כדי לאשר רכישות וגישה ליישומים. <annotation id="url">למידע נוסף</annotation></string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">בנוסף לביטול הנעילה של הטלפון, תוכל להשתמש בטביעת האצבע כדי לאשר רכישות וגישה ליישומים. &lt;annotation id="url"&gt;&amp;#1500;&amp;#1502;&amp;#1497;&amp;#1491;&amp;#1506; &amp;#1504;&amp;#1493;&amp;#1505;&amp;#1507;&lt;/annotation&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">האפשרות של נעילת המסך מושבתת. עדיין תוכל להשתמש בטביעת האצבע שלך כדי לאשר רכישות וגישה ליישומים. &lt;annotation id="url"&gt;&amp;#1500;&amp;#1502;&amp;#1497;&amp;#1491;&amp;#1506; &amp;#1504;&amp;#1493;&amp;#1505;&amp;#1507;&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">סיום</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">איור המציג את המיקום של חיישן טביעת האצבע במכשיר</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">אתר את חיישן טביעת האצבע בגב הטלפון.</string>
@@ -3471,15 +3471,15 @@
 
 כל הנתונים ב-^1 יימחקו. שקול לבצע גיבוי תחילה. 
 
-"<b>גבה תמונות וסוגי מדיה אחרים</b>" 
-העבר את קבצי המדיה לאחסון חלופי במכשיר, או למחשב באמצעות כבל USB.‏ 
+"&lt;b&gt;&amp;#1490;&amp;#1489;&amp;#1492; &amp;#1514;&amp;#1502;&amp;#1493;&amp;#1504;&amp;#1493;&amp;#1514; &amp;#1493;&amp;#1505;&amp;#1493;&amp;#1490;&amp;#1497; &amp;#1502;&amp;#1491;&amp;#1497;&amp;#1492; &amp;#1488;&amp;#1495;&amp;#1512;&amp;#1497;&amp;#1501;&lt;/b&gt;" 
+&amp;#1492;&amp;#1506;&amp;#1489;&amp;#1512; &amp;#1488;&amp;#1514; &amp;#1511;&amp;#1489;&amp;#1510;&amp;#1497; &amp;#1492;&amp;#1502;&amp;#1491;&amp;#1497;&amp;#1492; &amp;#1500;&amp;#1488;&amp;#1495;&amp;#1505;&amp;#1493;&amp;#1503; &amp;#1495;&amp;#1500;&amp;#1493;&amp;#1508;&amp;#1497; &amp;#1489;&amp;#1502;&amp;#1499;&amp;#1513;&amp;#1497;&amp;#1512;, &amp;#1488;&amp;#1493; &amp;#1500;&amp;#1502;&amp;#1495;&amp;#1513;&amp;#1489; &amp;#1489;&amp;#1488;&amp;#1502;&amp;#1510;&amp;#1506;&amp;#1493;&amp;#1514; &amp;#1499;&amp;#1489;&amp;#1500; USB.&amp;#8207; 
 
-"<b>גבה יישומים</b>" 
-תוסר ההתקנה של כל היישומים המאוחסנים ב-^1 זה והנתונים שלהם יימחקו. כדי להשאיר את היישומים האלה, העבר אותם לאחסון חלופי במכשיר זה."</string>
+"&lt;b&gt;&amp;#1490;&amp;#1489;&amp;#1492; &amp;#1497;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1501;&lt;/b&gt;" 
+&amp;#1514;&amp;#1493;&amp;#1505;&amp;#1512; &amp;#1492;&amp;#1492;&amp;#1514;&amp;#1511;&amp;#1504;&amp;#1492; &amp;#1513;&amp;#1500; &amp;#1499;&amp;#1500; &amp;#1492;&amp;#1497;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1502;&amp;#1488;&amp;#1493;&amp;#1495;&amp;#1505;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1489;-^1 &amp;#1494;&amp;#1492; &amp;#1493;&amp;#1492;&amp;#1504;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1500;&amp;#1492;&amp;#1501; &amp;#1497;&amp;#1497;&amp;#1502;&amp;#1495;&amp;#1511;&amp;#1493;. &amp;#1499;&amp;#1491;&amp;#1497; &amp;#1500;&amp;#1492;&amp;#1513;&amp;#1488;&amp;#1497;&amp;#1512; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1497;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1488;&amp;#1500;&amp;#1492;, &amp;#1492;&amp;#1506;&amp;#1489;&amp;#1512; &amp;#1488;&amp;#1493;&amp;#1514;&amp;#1501; &amp;#1500;&amp;#1488;&amp;#1495;&amp;#1505;&amp;#1493;&amp;#1503; &amp;#1495;&amp;#1500;&amp;#1493;&amp;#1508;&amp;#1497; &amp;#1489;&amp;#1502;&amp;#1499;&amp;#1513;&amp;#1497;&amp;#1512; &amp;#1494;&amp;#1492;."</string>
   <string name="storage_internal_title">אחסון במכשיר</string>
-  <string name="storage_internal_unmount_details"><b>כשתוציא את ה-^1 הזה, היישומים המאוחסנים בו יפסיקו לפעול, וקבצי המדיה המאוחסנים בו לא יהיו זמינים עד שתכניס אותו שוב.</b>"
+  <string name="storage_internal_unmount_details">&lt;b&gt;&amp;#1499;&amp;#1513;&amp;#1514;&amp;#1493;&amp;#1510;&amp;#1497;&amp;#1488; &amp;#1488;&amp;#1514; &amp;#1492;-^1 &amp;#1492;&amp;#1494;&amp;#1492;, &amp;#1492;&amp;#1497;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1502;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1502;&amp;#1488;&amp;#1493;&amp;#1495;&amp;#1505;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1493; &amp;#1497;&amp;#1508;&amp;#1505;&amp;#1497;&amp;#1511;&amp;#1493; &amp;#1500;&amp;#1508;&amp;#1506;&amp;#1493;&amp;#1500;, &amp;#1493;&amp;#1511;&amp;#1489;&amp;#1510;&amp;#1497; &amp;#1492;&amp;#1502;&amp;#1491;&amp;#1497;&amp;#1492; &amp;#1492;&amp;#1502;&amp;#1488;&amp;#1493;&amp;#1495;&amp;#1505;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1493; &amp;#1500;&amp;#1488; &amp;#1497;&amp;#1492;&amp;#1497;&amp;#1493; &amp;#1494;&amp;#1502;&amp;#1497;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1506;&amp;#1491; &amp;#1513;&amp;#1514;&amp;#1499;&amp;#1504;&amp;#1497;&amp;#1505; &amp;#1488;&amp;#1493;&amp;#1514;&amp;#1493; &amp;#1513;&amp;#1493;&amp;#1489;.&lt;/b&gt;"
 
-ה-^1 הזה הוגדר באמצעות פרמוט לפעול במכשיר הזה בלבד. הוא לא יפעל במכשירים אחרים."</string>
+&amp;#1492;-^1 &amp;#1492;&amp;#1494;&amp;#1492; &amp;#1492;&amp;#1493;&amp;#1490;&amp;#1491;&amp;#1512; &amp;#1489;&amp;#1488;&amp;#1502;&amp;#1510;&amp;#1506;&amp;#1493;&amp;#1514; &amp;#1508;&amp;#1512;&amp;#1502;&amp;#1493;&amp;#1496; &amp;#1500;&amp;#1508;&amp;#1506;&amp;#1493;&amp;#1500; &amp;#1489;&amp;#1502;&amp;#1499;&amp;#1513;&amp;#1497;&amp;#1512; &amp;#1492;&amp;#1494;&amp;#1492; &amp;#1489;&amp;#1500;&amp;#1489;&amp;#1491;. &amp;#1492;&amp;#1493;&amp;#1488; &amp;#1500;&amp;#1488; &amp;#1497;&amp;#1508;&amp;#1506;&amp;#1500; &amp;#1489;&amp;#1502;&amp;#1499;&amp;#1513;&amp;#1497;&amp;#1512;&amp;#1497;&amp;#1501; &amp;#1488;&amp;#1495;&amp;#1512;&amp;#1497;&amp;#1501;."</string>
   <string name="storage_label">אחסון</string>
   <string name="storage_low_summary">ייתכן שפונקציות מסוימות של המערכת, כמו סנכרון, לא יפעלו כראוי. נסה לפנות מקום ע\"י מחיקה או ביטול הצמדה של פריטים, כגון יישומים או תוכן מדיה.</string>
   <string name="storage_low_title">שטח האחסון הולך ואוזל</string>
@@ -3517,11 +3517,11 @@
 
 לאחר הפרמוט, ^1 זה יפעל רק במכשיר הזה. 
 
-"<b>הפרמוט מוחק את כל הנתונים שמאוחסנים כרגע ב-^1.</b> כדי למנוע את אובדן הנתונים, מומלץ לגבות אותם.</string>
+"&lt;b&gt;&amp;#1492;&amp;#1508;&amp;#1512;&amp;#1502;&amp;#1493;&amp;#1496; &amp;#1502;&amp;#1493;&amp;#1495;&amp;#1511; &amp;#1488;&amp;#1514; &amp;#1499;&amp;#1500; &amp;#1492;&amp;#1504;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1502;&amp;#1488;&amp;#1493;&amp;#1495;&amp;#1505;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1499;&amp;#1512;&amp;#1490;&amp;#1506; &amp;#1489;-^1.&lt;/b&gt; &amp;#1499;&amp;#1491;&amp;#1497; &amp;#1500;&amp;#1502;&amp;#1504;&amp;#1493;&amp;#1506; &amp;#1488;&amp;#1514; &amp;#1488;&amp;#1493;&amp;#1489;&amp;#1491;&amp;#1503; &amp;#1492;&amp;#1504;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501;, &amp;#1502;&amp;#1493;&amp;#1502;&amp;#1500;&amp;#1509; &amp;#1500;&amp;#1490;&amp;#1489;&amp;#1493;&amp;#1514; &amp;#1488;&amp;#1493;&amp;#1514;&amp;#1501;.</string>
   <string name="storage_wizard_format_confirm_next">מחק ופרמט</string>
   <string name="storage_wizard_format_confirm_public_body">"יש לפרמט את ^1 כדי לבצע את הפעולה הזו. 
 
-"<b>פרמוט מוחק את כל הנתונים המאוחסנים ב^1.</b> מומלץ לגבות את הנתונים כדי לא לאבד אותם.</string>
+"&lt;b&gt;&amp;#1508;&amp;#1512;&amp;#1502;&amp;#1493;&amp;#1496; &amp;#1502;&amp;#1493;&amp;#1495;&amp;#1511; &amp;#1488;&amp;#1514; &amp;#1499;&amp;#1500; &amp;#1492;&amp;#1504;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1502;&amp;#1488;&amp;#1493;&amp;#1495;&amp;#1505;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1489;^1.&lt;/b&gt; &amp;#1502;&amp;#1493;&amp;#1502;&amp;#1500;&amp;#1509; &amp;#1500;&amp;#1490;&amp;#1489;&amp;#1493;&amp;#1514; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1504;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1499;&amp;#1491;&amp;#1497; &amp;#1500;&amp;#1488; &amp;#1500;&amp;#1488;&amp;#1489;&amp;#1491; &amp;#1488;&amp;#1493;&amp;#1514;&amp;#1501;.</string>
   <string name="storage_wizard_format_confirm_public_title">פרמט כאחסון נייד</string>
   <string name="storage_wizard_format_confirm_title">קביעת פורמט כאחסון פנימי</string>
   <string name="storage_wizard_format_progress_body">אל תסיר את ^1 בעת הפרמוט.</string>
@@ -3534,7 +3534,7 @@
   <string name="storage_wizard_migrate_body">"תוכל להעביר את התמונות, הקבצים וחלק מהיישומים אל ה-^1 החדש הזה. 
 
 ההעברה אורכת כ-^2 ותפנה ^3 מהאחסון הפנימי. יישומים מסוימים לא יעבדו במהלך ההעברה."</string>
-  <string name="storage_wizard_migrate_confirm_body"><b>ההעברה אורכת בערך ^1. היא תשחרר ^2 ב^3.</b></string>
+  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;&amp;#1492;&amp;#1492;&amp;#1506;&amp;#1489;&amp;#1512;&amp;#1492; &amp;#1488;&amp;#1493;&amp;#1512;&amp;#1499;&amp;#1514; &amp;#1489;&amp;#1506;&amp;#1512;&amp;#1498; ^1. &amp;#1492;&amp;#1497;&amp;#1488; &amp;#1514;&amp;#1513;&amp;#1495;&amp;#1512;&amp;#1512; ^2 &amp;#1489;^3.&lt;/b&gt;</string>
   <string name="storage_wizard_migrate_confirm_next">העברה</string>
   <string name="storage_wizard_migrate_confirm_title">העברת נתונים כעת</string>
   <string name="storage_wizard_migrate_details">"במהלך ההעברה: 
@@ -3570,7 +3570,7 @@
   <string name="strict_mode_summary">גרום למסך להבהב כאשר יישומים מבצעים פעולות ארוכות בשרשור הראשי</string>
   <string name="sum_carrier_select">בחר מפעיל רשת</string>
   <string name="summary_range_verbal_combination">%1$s עד %2$s</string>
-  <string name="supl_not_set">&lt;לא מוגדר></string>
+  <string name="supl_not_set">&lt;לא מוגדר&gt;</string>
   <string name="supplicant_state_label">מצב ה-Supplicant:</string>
   <string name="suspension_ball_enable">"קיצור דרך של 'כדור מהיר'"</string>
   <string name="suspension_ball_enable_desc">"הפעל וכבה את 'כדור מהיר' ע\"י שימוש בקיצור הדרך"</string>
@@ -3597,8 +3597,8 @@
   <string name="sync_menu_sync_now">סנכרן כעת</string>
   <string name="sync_one_time_sync">"גע כדי לסנכרן כעת
 %1$s"</string>
-  <string name="sync_plug">‏<font fgcolor="#ffffffff">ברוכים הבאים אל סנכרון Google‏!</font>" 
-זוהי גישה של Google לסנכרון נתונים במטרה לאפשר לך גישה לאנשי קשר, לפגישות ועוד מכל מקום שבו אתה נמצא."</string>
+  <string name="sync_plug">‏&lt;font fgcolor="#ffffffff"&gt;&amp;#1489;&amp;#1512;&amp;#1493;&amp;#1499;&amp;#1497;&amp;#1501; &amp;#1492;&amp;#1489;&amp;#1488;&amp;#1497;&amp;#1501; &amp;#1488;&amp;#1500; &amp;#1505;&amp;#1504;&amp;#1499;&amp;#1512;&amp;#1493;&amp;#1503; Google&amp;#8207;!&lt;/font&gt;" 
+&amp;#1494;&amp;#1493;&amp;#1492;&amp;#1497; &amp;#1490;&amp;#1497;&amp;#1513;&amp;#1492; &amp;#1513;&amp;#1500; Google &amp;#1500;&amp;#1505;&amp;#1504;&amp;#1499;&amp;#1512;&amp;#1493;&amp;#1503; &amp;#1504;&amp;#1514;&amp;#1493;&amp;#1504;&amp;#1497;&amp;#1501; &amp;#1489;&amp;#1502;&amp;#1496;&amp;#1512;&amp;#1492; &amp;#1500;&amp;#1488;&amp;#1508;&amp;#1513;&amp;#1512; &amp;#1500;&amp;#1498; &amp;#1490;&amp;#1497;&amp;#1513;&amp;#1492; &amp;#1500;&amp;#1488;&amp;#1504;&amp;#1513;&amp;#1497; &amp;#1511;&amp;#1513;&amp;#1512;, &amp;#1500;&amp;#1508;&amp;#1490;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1514; &amp;#1493;&amp;#1506;&amp;#1493;&amp;#1491; &amp;#1502;&amp;#1499;&amp;#1500; &amp;#1502;&amp;#1511;&amp;#1493;&amp;#1501; &amp;#1513;&amp;#1489;&amp;#1493; &amp;#1488;&amp;#1514;&amp;#1492; &amp;#1504;&amp;#1502;&amp;#1510;&amp;#1488;."</string>
   <string name="sync_settings">סנכרון</string>
   <string name="sync_wifi_label">רשת אלחוטית</string>
   <string name="sync_wifi_only">רשת אלחוטית בלבד</string>
@@ -3641,10 +3641,10 @@
   <string name="timezone_settings">איזור זמן</string>
   <string name="title_color_calibration">תיקון צבע קבוע מראש</string>
   <string name="title_font">גופן</string>
+  <string name="title_font2">גופן</string>
   <string name="title_font_current">גופן המערכת</string>
   <string name="title_font_current2">גופן המערכת</string>
   <string name="title_font_size">גודל גופן</string>
-  <string name="title_font2">גופן</string>
   <string name="title_hdmi_color_calibration">תיקון צבע קבוע מראש</string>
   <string name="title_layout_current">גודל הטקסט</string>
   <string name="title_layout_current2">גודל הטקסט</string>
@@ -3733,7 +3733,7 @@
   <string name="uicc_format_summary">מחק את כל הנתונים באחסון UICC (למשל, מוזיקה ותמונות)</string>
   <string name="uicc_insert_summary">מתחבר לאחסון UICC</string>
   <string name="uicc_media_format_button_text">מחק אחסון UICC</string>
-  <string name="uicc_media_format_desc">נקה אחסון UICC? אתה תאבד <b>הכל</b> הקבצים שנשמרו שם.</string>
+  <string name="uicc_media_format_desc">נקה אחסון UICC? אתה תאבד &lt;b&gt;&amp;#1492;&amp;#1499;&amp;#1500;&lt;/b&gt; &amp;#1492;&amp;#1511;&amp;#1489;&amp;#1510;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1504;&amp;#1513;&amp;#1502;&amp;#1512;&amp;#1493; &amp;#1513;&amp;#1501;.</string>
   <string name="uicc_media_format_final_desc">כל הקבצים המאוחסנים על אחסון UICC יימחקו לצמיתות.</string>
   <string name="uicc_media_format_gesture_explanation">צייר את תבנית הפתיחה שלך על מנת לאשר כי ברצונך לנקות את אחסון ה-UICC.</string>
   <string name="uicc_media_format_summary">מחק את כול הנתונים באחסון UICC</string>
@@ -3793,7 +3793,7 @@
   <string name="unlock_set_unlock_pattern_title">קו</string>
   <string name="unlock_set_unlock_pin_summary">הזן ארבע ספרות על מנת לבטל את נעילת המכשיר</string>
   <string name="unlock_set_unlock_summary">הגדר שיטה לנעילת המסך</string>
-  <string name="unlock_setup_wizard_fingerprint_details">"לאחר הגדרה של נעילת מסך, תוכל גם להגדיר את טביעת האצבע ב'הגדרות' > 'אבטחה'."</string>
+  <string name="unlock_setup_wizard_fingerprint_details">"לאחר הגדרה של נעילת מסך, תוכל גם להגדיר את טביעת האצבע ב'הגדרות' &gt; 'אבטחה'."</string>
   <string name="unmount_inform_text">‏הטעינה של אחסון USB תבוטל.</string>
   <string name="untitled_apn">ללא כותרת</string>
   <string name="update_progress_for_updates">מעדכן (%s)</string>
@@ -3841,7 +3841,7 @@
   <string name="usb_install_app">התקן באמצעות USB</string>
   <string name="usb_install_app_desc">אפשר התקנת יישומים באמצעות USB</string>
   <string name="usb_media_format_button_text">מחק אחסון USB</string>
-  <string name="usb_media_format_desc">נקה אחסון USB? אתה תאבד <b>הכל</b> הקבצים שנשמרו שם.</string>
+  <string name="usb_media_format_desc">נקה אחסון USB? אתה תאבד &lt;b&gt;&amp;#1492;&amp;#1499;&amp;#1500;&lt;/b&gt; &amp;#1492;&amp;#1511;&amp;#1489;&amp;#1510;&amp;#1497;&amp;#1501; &amp;#1513;&amp;#1504;&amp;#1513;&amp;#1502;&amp;#1512;&amp;#1493; &amp;#1513;&amp;#1501;.</string>
   <string name="usb_media_format_final_desc">כל הקבצים המאוחסנים על אחסון USB יימחקו לצמיתות.</string>
   <string name="usb_media_format_gesture_explanation">צייר את תבנית הפתיחה שלך על מנת לאשר כי ברצונך לנקות את אחסון ה-USB.</string>
   <string name="usb_media_format_summary">מחק את כול הנתונים באחסון USB</string>
@@ -4009,9 +4009,9 @@
   <string name="virus_scanner_scan">לחץ לסריקה</string>
   <string name="virus_scanner_scanning">סורק…</string>
   <string name="virus_scanner_select_Cancel">ביטול</string>
+  <string name="virus_scanner_select_OK">אישור</string>
   <string name="virus_scanner_select_lib">בחר הגדרות וירוסים</string>
   <string name="virus_scanner_select_multi">בחירת יותר מקבוצה אחת של הגדרות תאט את ההתקנה והסריקה</string>
-  <string name="virus_scanner_select_OK">אישור</string>
   <string name="virus_scanner_select_single">השתמש בהגדרות ממקורות אמינים בלבד.</string>
   <string name="virus_scanner_select_trust_lib">בחר הגדרות וירוסים</string>
   <string name="virus_scanner_title">סורק וירוסים</string>
@@ -4132,11 +4132,11 @@
   <string name="wifi_allow_scan_with_traffic_summary">‏התר/מנע סריקות נדידה של Wi-Fi בהתבסס על נפח תנועת הנתונים הקיימת בממשק</string>
   <string name="wifi_and_mobile_skipped_message">"‏אם תדלג על Wi‑Fi‏:
 
-"<li>לא יהיה לטלפון חיבור לאינטרנט.</li>"
+"&lt;li&gt;&amp;#1500;&amp;#1488; &amp;#1497;&amp;#1492;&amp;#1497;&amp;#1492; &amp;#1500;&amp;#1496;&amp;#1500;&amp;#1508;&amp;#1493;&amp;#1503; &amp;#1495;&amp;#1497;&amp;#1489;&amp;#1493;&amp;#1512; &amp;#1500;&amp;#1488;&amp;#1497;&amp;#1504;&amp;#1496;&amp;#1512;&amp;#1504;&amp;#1496;.&lt;/li&gt;"
 
-"<li>לא תקבל עדכוני תוכנה עד שתתחבר לאינטרנט.</li>"
+"&lt;li&gt;&amp;#1500;&amp;#1488; &amp;#1514;&amp;#1511;&amp;#1489;&amp;#1500; &amp;#1506;&amp;#1491;&amp;#1499;&amp;#1493;&amp;#1504;&amp;#1497; &amp;#1514;&amp;#1493;&amp;#1499;&amp;#1504;&amp;#1492; &amp;#1506;&amp;#1491; &amp;#1513;&amp;#1514;&amp;#1514;&amp;#1495;&amp;#1489;&amp;#1512; &amp;#1500;&amp;#1488;&amp;#1497;&amp;#1504;&amp;#1496;&amp;#1512;&amp;#1504;&amp;#1496;.&lt;/li&gt;"
 
-"<li>בשלב זה לא תוכל להפעיל תכונות של הגנת מכשיר.</li></string>
+"&lt;li&gt;&amp;#1489;&amp;#1513;&amp;#1500;&amp;#1489; &amp;#1494;&amp;#1492; &amp;#1500;&amp;#1488; &amp;#1514;&amp;#1493;&amp;#1499;&amp;#1500; &amp;#1500;&amp;#1492;&amp;#1508;&amp;#1506;&amp;#1497;&amp;#1500; &amp;#1514;&amp;#1499;&amp;#1493;&amp;#1504;&amp;#1493;&amp;#1514; &amp;#1513;&amp;#1500; &amp;#1492;&amp;#1490;&amp;#1504;&amp;#1514; &amp;#1502;&amp;#1499;&amp;#1513;&amp;#1497;&amp;#1512;.&lt;/li&gt;</string>
   <string name="wifi_ap_band_config">‏בחר תדר AP</string>
   <string name="wifi_ap_choose_2G">‏פס של ‎2.4 GHz</string>
   <string name="wifi_ap_choose_5G">‏פס של ‎5 GHz</string>
@@ -4333,12 +4333,12 @@
   <string name="wifi_setup_back">הקודם</string>
   <string name="wifi_setup_cancel">ביטול</string>
   <string name="wifi_setup_connect">התחבר</string>
-  <string name="wifi_setup_description_connected">לחץ <b>הבא</b>" על מנת להמשיך את ההתקנה.
+  <string name="wifi_setup_description_connected">לחץ &lt;b&gt;&amp;#1492;&amp;#1489;&amp;#1488;&lt;/b&gt;" &amp;#1506;&amp;#1500; &amp;#1502;&amp;#1504;&amp;#1514; &amp;#1500;&amp;#1492;&amp;#1502;&amp;#1513;&amp;#1497;&amp;#1498; &amp;#1488;&amp;#1514; &amp;#1492;&amp;#1492;&amp;#1514;&amp;#1511;&amp;#1504;&amp;#1492;.
 
-לחץ "<b>הקודם</b> על מנת להתחבר לרשת אלחוטית אחרת.</string>
+&amp;#1500;&amp;#1495;&amp;#1509; "&lt;b&gt;&amp;#1492;&amp;#1511;&amp;#1493;&amp;#1491;&amp;#1501;&lt;/b&gt; &amp;#1506;&amp;#1500; &amp;#1502;&amp;#1504;&amp;#1514; &amp;#1500;&amp;#1492;&amp;#1514;&amp;#1495;&amp;#1489;&amp;#1512; &amp;#1500;&amp;#1512;&amp;#1513;&amp;#1514; &amp;#1488;&amp;#1500;&amp;#1495;&amp;#1493;&amp;#1496;&amp;#1497;&amp;#1514; &amp;#1488;&amp;#1495;&amp;#1512;&amp;#1514;.</string>
   <string name="wifi_setup_description_connecting">ההתחברות עשויה להימשך מספר דקות…</string>
   <string name="wifi_setup_detail">פרטי רשת</string>
-  <string name="wifi_setup_eap_not_supported">"אינך יכול לקבוע תצורת חיבור רשת אלחוטית EAP במהלך התקנה. לאחר ההתקנה, תוכל לעבור אל 'הגדרות' > אלחוטי &amp; רשתות."</string>
+  <string name="wifi_setup_eap_not_supported">"אינך יכול לקבוע תצורת חיבור רשת אלחוטית EAP במהלך התקנה. לאחר ההתקנה, תוכל לעבור אל 'הגדרות' &gt; אלחוטי &amp; רשתות."</string>
   <string name="wifi_setup_forget">שכח</string>
   <string name="wifi_setup_next">הבא</string>
   <string name="wifi_setup_not_connected">לא מחובר</string>

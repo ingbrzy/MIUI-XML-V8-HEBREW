@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">עבור למסך הבית</string>
   <string name="abc_action_bar_up_description">נווט למעלה</string>
@@ -131,7 +131,7 @@
   <string name="clip_dialog_title">לפתוח את הכתובת שהועתקה?</string>
   <string name="close_ads_choice_no">אפשר</string>
   <string name="close_ads_choice_yes">חסום</string>
-  <string name="close_ads_message">"לחסום תוכן מהאתר הזה? כדי לצפות באתרים שחסמת, עבור אל 'הגדרות' > 'מתקדם' > 'אתרים חסומים'."</string>
+  <string name="close_ads_message">"לחסום תוכן מהאתר הזה? כדי לצפות באתרים שחסמת, עבור אל 'הגדרות' &gt; 'מתקדם' &gt; 'אתרים חסומים'."</string>
   <string name="close_ads_title">לחסום תוכן?</string>
   <string name="close_all_tab_alert_message">לסגור את כל הכרטיסיות הפתוחות בדפדפן?</string>
   <string name="close_all_tab_alert_title">סגור את כל הכרטיסיות</string>
@@ -302,7 +302,7 @@
   <string name="geolocation_permissions_prompt_message">%s מעוניין לדעת את מיקומך</string>
   <string name="geolocation_permissions_prompt_remember">זכור העדפה</string>
   <string name="geolocation_permissions_prompt_share">שתף מיקום</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">"אתר זה יכול לגשת למיקומך. על מנת לשנות זאת, עבור אל 'הגדרות' > 'מתקדם' > 'נתוני אתר'."</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">"אתר זה יכול לגשת למיקומך. על מנת לשנות זאת, עבור אל 'הגדרות' &gt; 'מתקדם' &gt; 'נתוני אתר'."</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">אתר זה אינו יכול לגשת למיקומך</string>
   <string name="geolocation_settings_page_dialog_cancel_button">ביטול</string>
   <string name="geolocation_settings_page_dialog_message">בטל גישה למיקום עבור אתר זה?</string>
@@ -324,6 +324,7 @@
   <string name="homepage_top_card_menu">עליון</string>
   <string name="in_incognito">אתה גולש במצב נסתר! דפים בהם תצפה בכרטיסיה זו לא יופיעו בהיסטוריית הדפדפן שלך.</string>
   <string name="in_secureaccess">הדפדפן עבר למצב בטוח</string>
+  <string name="isReplacePage">הקובץ כבר קיים, להחליף?</string>
   <string name="is_first_history_item">זהו העמוד הראשון בהיסטוריית הדפדפן</string>
   <string name="is_first_tab">זוהי הכרטיסיה הראשונה</string>
   <string name="is_last_history_item">זהו העמוד האחרון בהיסטוריית הדפדפן</string>
@@ -331,7 +332,6 @@
   <string name="is_page_bottom">הגעת לתחתית העמוד</string>
   <string name="is_page_top">אתה נמצא בראש העמוד</string>
   <string name="isreplace">הקובץ כבר קיים, להחליף?</string>
-  <string name="isReplacePage">הקובץ כבר קיים, להחליף?</string>
   <string name="js_dialog_before_unload">"%s
 
 לצאת מעמוד זה?"</string>
@@ -647,7 +647,7 @@
   <string name="search_hint">חיפוש</string>
   <string name="search_keyword_browser">דפדפן</string>
   <string name="search_label">דפדפן</string>
-  <string name="search_path_browser">"'הגדרות' > 'יישומים מותקנים' > 'דפדפן'"</string>
+  <string name="search_path_browser">"'הגדרות' &gt; 'יישומים מותקנים' &gt; 'דפדפן'"</string>
   <string name="search_settings_description">סימניות והיסטוריית אתרים</string>
   <string name="search_shipin">וידאו</string>
   <string name="search_title_browser">דפדפן</string>

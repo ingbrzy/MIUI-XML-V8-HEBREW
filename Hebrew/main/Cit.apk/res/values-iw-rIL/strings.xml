@@ -1,7 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="SDCard">כרטיס זיכרון</string>
+  <string name="SD_INTERNAL_SDCard_mounted">אתר זיכרון אחסון פנימי</string>
+  <string name="SD_INTERNAL_SDCard_unmounted">זיכרון פנימי לא זמין</string>
+  <string name="SD_SDCard_available_szie">נפח זמין</string>
+  <string name="SD_SDCard_mounted">אתר כרטיס זיכרון</string>
+  <string name="SD_SDCard_total_size">נפח כולל</string>
+  <string name="SD_SDCard_unmounted">כרטיס זיכרון לא זמין</string>
   <string name="button_ok">אישור</string>
   <string name="camerainfo">מידע אודות המצלמה</string>
+  <string name="cit_OTG_plugin_check_summary">כאשר התקן OTG מחובר, טקסט \"התקן USB OTG מחובר\" אמור להיות מוצג להלן.</string>
+  <string name="cit_OTG_plugin_check_title">בדיקת OTG (זיהויי חיבור)</string>
+  <string name="cit_OTG_plugout_check_summary">כאשר התקן OTG מנותק, טקסט \"התקן USB OTG מנותק\" אמור להיות מוצג להלן.</string>
+  <string name="cit_OTG_plugout_check_title">בדיקת OTG (זיהויי ניתוק)</string>
+  <string name="cit_OTG_waiting_in">חבר כעת התקן USB OTG</string>
+  <string name="cit_OTG_waiting_out">נתק כעת התקן USB OTG</string>
   <string name="cit_ac_charger_in">טוען AC</string>
   <string name="cit_ac_charger_out">מטען AC מנותק</string>
   <string name="cit_accelermeter_sensor_check_summary">"הזיזו את המכשיר במהירות בכיוון אחד. לתאם הערכים מוצגים להלן. X，Y，Z (כאשר הטלפון נמצא בתנועה: X מייצג שמאלה/ מינה, Y מייצג קדימה/אחורה, Z מייצג למעלה ולמטה)
@@ -173,12 +186,6 @@
   <string name="cit_notificationlight_off">התראת תאורה (LED) כבויה</string>
   <string name="cit_notificationlight_on">התראת תאורה (LED) מופעלת</string>
   <string name="cit_otg_not_supported">מכשיר זה אינו תומך בבדיקת OTG</string>
-  <string name="cit_OTG_plugin_check_summary">כאשר התקן OTG מחובר, טקסט \"התקן USB OTG מחובר\" אמור להיות מוצג להלן.</string>
-  <string name="cit_OTG_plugin_check_title">בדיקת OTG (זיהויי חיבור)</string>
-  <string name="cit_OTG_plugout_check_summary">כאשר התקן OTG מנותק, טקסט \"התקן USB OTG מנותק\" אמור להיות מוצג להלן.</string>
-  <string name="cit_OTG_plugout_check_title">בדיקת OTG (זיהויי ניתוק)</string>
-  <string name="cit_OTG_waiting_in">חבר כעת התקן USB OTG</string>
-  <string name="cit_OTG_waiting_out">נתק כעת התקן USB OTG</string>
   <string name="cit_pass">אושר</string>
   <string name="cit_play_sd_mp3_hifi_summary">יוצרים קובץ בשם music.mp3 מעתיקים אותו תיקית השורש של הכרטיס-SD. בזמן ביצעה הבדיקה (השמעת הקובץ) צריך להיות מושמע דרך נתיב HIFI</string>
   <string name="cit_play_sd_mp3_hifi_title">השמעת (MP3(HIFI מכרטיס SD</string>
@@ -289,10 +296,10 @@
   <string name="cit_touch_calib_pass">כיול מסך מגע הסתיים, השתמש בו באופן טבעי</string>
   <string name="cit_touch_calib_summary">השלב הבא יהיה כיול מסך מגע, לחץ על \"הבא\" ולחץ על המסך אחרי זה, וחכה להודעה שהכיול הצליח</string>
   <string name="cit_touch_calib_title">כיול מסך מגע</string>
-  <string name="cit_usb_charger_in">טוען USB</string>
-  <string name="cit_usb_charger_out">מטען USB מנותק</string>
   <string name="cit_usb_OTG_in">זוהה התקן USB OTG</string>
   <string name="cit_usb_OTG_out">התקן USB OTG נותק</string>
+  <string name="cit_usb_charger_in">טוען USB</string>
+  <string name="cit_usb_charger_out">מטען USB מנותק</string>
   <string name="cit_version_check_summary">להלן מידע על המכשיר. ודא שהוא תואם למציאות.</string>
   <string name="cit_version_check_title">לבדוק את פרטי הגרסה</string>
   <string name="cit_vga_camera_capture">מצלמה</string>
@@ -333,13 +340,6 @@
   <string name="lcminfo">מידע LCM</string>
   <string name="magnetic_info_hint">סובב את המכשיר בצורת 8.</string>
   <string name="remove_headset_and_starttest">"נתק את האוזניות ולחץ על 'התחל' להרצת הבדיקה."</string>
-  <string name="SD_INTERNAL_SDCard_mounted">אתר זיכרון אחסון פנימי</string>
-  <string name="SD_INTERNAL_SDCard_unmounted">זיכרון פנימי לא זמין</string>
-  <string name="SD_SDCard_available_szie">נפח זמין</string>
-  <string name="SD_SDCard_mounted">אתר כרטיס זיכרון</string>
-  <string name="SD_SDCard_total_size">נפח כולל</string>
-  <string name="SD_SDCard_unmounted">כרטיס זיכרון לא זמין</string>
-  <string name="SDCard">כרטיס זיכרון</string>
   <string name="start">התחל</string>
   <string name="testagain">"באפשרותך ללחוץ על לחצן ה'בית' כדי לבדוק שוב"</string>
   <string name="testing">מריץ AutoTest…</string>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="act_find_city_hint">הזן מיקום</string>
   <string name="act_find_city_hot_title">הוסף</string>
@@ -66,10 +66,10 @@
   <string name="indices_desc_humidity">%1$s%% לחות</string>
   <string name="indices_no_restriction">אין</string>
   <string name="indices_title">פעילויות מומלצות</string>
+  <string name="indices_title_Precip1hr">שעת משקים אחת</string>
   <string name="indices_title_car_wash">שטיפת מכונית</string>
   <string name="indices_title_feel">הרגשה אמיתית</string>
   <string name="indices_title_humidity">לחות</string>
-  <string name="indices_title_Precip1hr">שעת משקים אחת</string>
   <string name="indices_title_pressure">לחץ</string>
   <string name="indices_title_restriction">יום ללא נהיגה</string>
   <string name="indices_title_sport">ספורט</string>

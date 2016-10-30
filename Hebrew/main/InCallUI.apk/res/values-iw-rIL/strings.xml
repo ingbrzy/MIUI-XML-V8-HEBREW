@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accept_modify_call_request_prompt">"אשר בקשות 'שינוי שיחה'"</string>
   <string name="add_vm_number_str">הוסף מספר</string>
@@ -10,6 +10,30 @@
   <string name="antispam_notification_title">מספר לא מזוהה</string>
   <string name="antispam_provider">זוהה ע\"י %s</string>
   <string name="areacode_set_default">הגדר כברירת מחדל</string>
+  <string name="callFailed_cb_enabled">לא ניתן לבצע שיחות יוצאות כאשר חסימת שיחות מופעלת.</string>
+  <string name="callFailed_congestion">רשת לא זמינה</string>
+  <string name="callFailed_dialToDial">בקשת חיוג שונתה לחיוג עם מספר שונה.</string>
+  <string name="callFailed_dialToSs">בקשת חיוג שונתה לבקשת SS.</string>
+  <string name="callFailed_dialToUssd">בקשת חיוג שונתה לבקשת USSD.</string>
+  <string name="callFailed_dsac_restricted">כל השיחות מוגבלות ע\"י בקרת גישה.</string>
+  <string name="callFailed_dsac_restricted_emergency">שיחות חירום מוגבלות ע\"י בקרת גישה.</string>
+  <string name="callFailed_dsac_restricted_normal">שיחות רגילות מוגבלות ע\"י בקרת גישה.</string>
+  <string name="callFailed_fdn_only">שיחות יוצאות מוגבלות ע\"י FDN.</string>
+  <string name="callFailed_incoming_cb_enabled">שיחות נכנסות נחסמות.</string>
+  <string name="callFailed_invalid_credentials">שם משתמש או סיסמה שגוי/ה</string>
+  <string name="callFailed_limitExceeded">חריגה ממגבלת ACM</string>
+  <string name="callFailed_noSignal">אין קליטה</string>
+  <string name="callFailed_number_unreachable">מספר לא מחובר</string>
+  <string name="callFailed_outOfService">מחוץ לאזור השירות</string>
+  <string name="callFailed_out_of_network">שיחה מחוץ לרשת</string>
+  <string name="callFailed_powerOff">האנטנה כבויה</string>
+  <string name="callFailed_server_error">שגיאת רשת. נסה שוב מאוחר יותר.</string>
+  <string name="callFailed_server_unreachable">לא ניתן לגשת לשרת</string>
+  <string name="callFailed_simError">תקלה בכרטיס SIM</string>
+  <string name="callFailed_timedOut">אין תגובה מהשרת</string>
+  <string name="callFailed_unobtainable_number">מספר לא חוקי</string>
+  <string name="callFailed_userBusy">הקו תפוס</string>
+  <string name="callUnanswered_forwarded">שיחה מועברת</string>
   <string name="call_button_dialer_text">לוח מקשים</string>
   <string name="call_button_tools_text">מאפיינים</string>
   <string name="call_contacts_deny_permission_msg">סירבת להרשאת קריאת אנשי קשר. לא ניתן להציג מידע אודות אנשי קשר.</string>
@@ -32,31 +56,7 @@
   <string name="call_self">לא ניתן לחייג לעצמך</string>
   <string name="call_title_redialing_with_times">חיוג חוזר %d פעמים</string>
   <string name="caller_manage_header">שיחת ועידה %s</string>
-  <string name="callFailed_cb_enabled">לא ניתן לבצע שיחות יוצאות כאשר חסימת שיחות מופעלת.</string>
-  <string name="callFailed_congestion">רשת לא זמינה</string>
-  <string name="callFailed_dialToDial">בקשת חיוג שונתה לחיוג עם מספר שונה.</string>
-  <string name="callFailed_dialToSs">בקשת חיוג שונתה לבקשת SS.</string>
-  <string name="callFailed_dialToUssd">בקשת חיוג שונתה לבקשת USSD.</string>
-  <string name="callFailed_dsac_restricted">כל השיחות מוגבלות ע\"י בקרת גישה.</string>
-  <string name="callFailed_dsac_restricted_emergency">שיחות חירום מוגבלות ע\"י בקרת גישה.</string>
-  <string name="callFailed_dsac_restricted_normal">שיחות רגילות מוגבלות ע\"י בקרת גישה.</string>
-  <string name="callFailed_fdn_only">שיחות יוצאות מוגבלות ע\"י FDN.</string>
-  <string name="callFailed_incoming_cb_enabled">שיחות נכנסות נחסמות.</string>
-  <string name="callFailed_invalid_credentials">שם משתמש או סיסמה שגוי/ה</string>
-  <string name="callFailed_limitExceeded">חריגה ממגבלת ACM</string>
-  <string name="callFailed_noSignal">אין קליטה</string>
-  <string name="callFailed_number_unreachable">מספר לא מחובר</string>
-  <string name="callFailed_out_of_network">שיחה מחוץ לרשת</string>
-  <string name="callFailed_outOfService">מחוץ לאזור השירות</string>
-  <string name="callFailed_powerOff">האנטנה כבויה</string>
-  <string name="callFailed_server_error">שגיאת רשת. נסה שוב מאוחר יותר.</string>
-  <string name="callFailed_server_unreachable">לא ניתן לגשת לשרת</string>
-  <string name="callFailed_simError">תקלה בכרטיס SIM</string>
-  <string name="callFailed_timedOut">אין תגובה מהשרת</string>
-  <string name="callFailed_unobtainable_number">מספר לא חוקי</string>
-  <string name="callFailed_userBusy">הקו תפוס</string>
   <string name="calling_via_template">מחייג באמצעות %s</string>
-  <string name="callUnanswered_forwarded">שיחה מועברת</string>
   <string name="can_not_call_oneself">לא ניתן לחייג למספר זה</string>
   <string name="can_not_use">לא ניתן לשימוש</string>
   <string name="cancel">ביטול</string>
@@ -124,6 +124,7 @@
   <string name="fraud_call_answer">ענה</string>
   <string name="fraud_call_decline">דחה</string>
   <string name="fraud_call_waring">הזהר: ודא תמיד את זהות איש הקשר באמצעות שיחה קולית או שיחת וידאו לפני שליחת הודעה המכילה פרטים אישיים אודותיך.</string>
+  <string name="inCallLabel">ממשק משתמש לשיחות</string>
   <string name="incall_call_type_label_sip">שיחת אינטרנט</string>
   <string name="incall_error_supp_service_conference">לא ניתן לבצע שיחת ועידה.</string>
   <string name="incall_error_supp_service_hangup">לא ניתן לנתק את השיחה.</string>
@@ -132,7 +133,6 @@
   <string name="incall_error_supp_service_switch">לא ניתן להחליף שיחות.</string>
   <string name="incall_error_supp_service_transfer">לא ניתן להעביר את השיחה.</string>
   <string name="incall_error_supp_service_unknown">שירות זה אינו נתמך.</string>
-  <string name="inCallLabel">ממשק משתמש לשיחות</string>
   <string name="incoming_answer_voice_text">מענה קולי</string>
   <string name="incoming_call_forwarded_title">הפניית שיחות נכנסות</string>
   <string name="incoming_circle_text_answer">שחרר</string>
@@ -194,6 +194,7 @@
   <string name="online_check_provider_info">זוהה ע\"י %s</string>
   <string name="online_check_warning_info_by_cmb">ודא תמיד את זהות איש הקשר באמצעות שיחה קולית או שיחת וידאו לפני שליחת הודעה המכילה פרטים אישיים אודותיך.</string>
   <string name="online_check_warning_type_by_cmb">ספאם</string>
+  <string name="onscreenEndCallText">נתק</string>
   <string name="onscreen_add_call_text">הוסף שיחה</string>
   <string name="onscreen_audio_mode_conference">ועידה</string>
   <string name="onscreen_audio_mode_handset">ללא ידיים</string>
@@ -211,7 +212,6 @@
   <string name="onscreen_rcs_text">הודעות</string>
   <string name="onscreen_swap_calls_text">החלף</string>
   <string name="onscreen_switch_camera">החלף מצלמה</string>
-  <string name="onscreenEndCallText">נתק</string>
   <string name="pause_prompt_no">לא</string>
   <string name="pause_prompt_yes">כן</string>
   <string name="payphone">שיחה בתשלום</string>

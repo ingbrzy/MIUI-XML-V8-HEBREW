@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account">חשבון</string>
   <string name="account_and_cloud">חשבון</string>
@@ -125,7 +125,7 @@
   <string name="desktop_lyric_button_close">סגור</string>
   <string name="desktop_lyric_button_lock">נעילה</string>
   <string name="desktop_lyric_color">צבע</string>
-  <string name="desktop_lyric_dialog_msg">"הפעל או כבה את תכונת 'מילות שירים במסך הבית' ב'מוזיקה' > 'הגדרות' > 'הגדרות מתקדמות'"</string>
+  <string name="desktop_lyric_dialog_msg">"הפעל או כבה את תכונת 'מילות שירים במסך הבית' ב'מוזיקה' &gt; 'הגדרות' &gt; 'הגדרות מתקדמות'"</string>
   <string name="desktop_lyric_dialog_positive_button">נסה כעת</string>
   <string name="desktop_lyric_dialog_title">נסה כעת</string>
   <string name="desktop_lyric_lock_toast">"נעול. תוכל לבטל נעילת 'מוזיקה' דרך לוח ההתראות."</string>
@@ -228,7 +228,7 @@
   <string name="download_traffic_dialog_msg">שימוש בחיבור הנתונים הסלולרי שלך להורדת שירים עשוי להגדיל את החיובים בעבור שימוש בנתונים</string>
   <string name="download_traffic_dialog_negative_button">ממתין לחיבור רשת אלחוטית</string>
   <string name="download_traffic_dialog_position_button">עדיין מוריד</string>
-  <string name="download_unknown_title">&lt;ללא שם></string>
+  <string name="download_unknown_title">&lt;ללא שם&gt;</string>
   <string name="download_wait_connect">ממתין לחיבור</string>
   <string name="download_when_network_connected">הורד בעת חיבור לאינטרנט</string>
   <string name="download_while_playing_no_vip_summary">הורדת שירים באופן אוטומטי שאתה מזרים אונליין (למעט תוכן בתשלום)</string>
@@ -347,8 +347,8 @@
   <string name="latest_song">היסטוריית ההשמעה (%d)</string>
   <string name="like">כמו</string>
   <string name="list_detail_title">פרטים</string>
-  <string name="list_item_play_all_tracks">נגן הכל</string>
   <string name="list_item_play_FM_radio">לחץ להפעלת רדיו FM</string>
+  <string name="list_item_play_all_tracks">נגן הכל</string>
   <string name="loadercontainer_loading">רק רגע…</string>
   <string name="loading_hint">רק רגע…</string>
   <string name="local_music">לא מקוון</string>
@@ -385,7 +385,7 @@
   <string name="metered_disallow">בטל</string>
   <string name="metered_play_toast">השתמש בחיבור רשת סלולרי בעל מנת להזרים</string>
   <string name="milink_unavaliable_please_update">Mi Link אינו זמין. עדכן את MIUI.</string>
-  <string name="missing_title">&lt;לא ידוע></string>
+  <string name="missing_title">&lt;לא ידוע&gt;</string>
   <string name="miui_music">Mi מוזיקה</string>
   <string name="miuishare_account_activate_confirmation">נדרשת הפעלה</string>
   <string name="miuishare_account_activate_ok">מופעל</string>
@@ -517,7 +517,7 @@
   <string name="pay_now">שרות נוכחי</string>
   <string name="payment_fail">תשלום נכשל</string>
   <string name="payment_success">התשלום הושלם</string>
-  <string name="permission_declaration_message">"אפשר גישה לאחסון ב'אבטחה' > 'הרשאות' > 'הרשאות' > 'אחסון' > 'מוזיקה' על מנת לאפשר למוזיקה לעבוד כראוי."</string>
+  <string name="permission_declaration_message">"אפשר גישה לאחסון ב'אבטחה' &gt; 'הרשאות' &gt; 'הרשאות' &gt; 'אחסון' &gt; 'מוזיקה' על מנת לאפשר למוזיקה לעבוד כראוי."</string>
   <string name="permission_declaration_negative_text">מאוחר יותר</string>
   <string name="permission_declaration_positive_text">עבור אל אבטחה</string>
   <string name="permission_declaration_title">אפשר גישה</string>

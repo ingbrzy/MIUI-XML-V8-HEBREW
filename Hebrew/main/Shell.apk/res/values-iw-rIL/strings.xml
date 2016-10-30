@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">מעטפת</string>
   <string name="bugreport_confirm">דוחות על באגים כוללים נתונים מקבצי היומן השונים במערכת, כולל מידע אישי ופרטי. שתף דוחות באגים רק עם יישומים ואנשים שאתה סומך עליהם.</string>

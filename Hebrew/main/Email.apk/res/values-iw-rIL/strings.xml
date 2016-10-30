@@ -1,5 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="SMTP_independent_verification_text">אימות עצמאי של SMTP</string>
+  <string name="SMTP_password_text">סיסמה</string>
+  <string name="SMTP_username_text">שם משתמש</string>
   <string name="account_duplicate_dlg_message_fmt">הינך משתמש כבר בשם משתמש זה בחשבון \"%s\".</string>
   <string name="account_duplicate_dlg_title">חשבון כפול</string>
   <string name="account_name_toast">חשבון עם שם זהה קיים כבר</string>
@@ -205,7 +208,7 @@
   <string name="cancel_action">ביטול</string>
   <string name="cant_move_or_change_labels">לא ניתן להעביר פריטים ממספר חשבונות.</string>
   <string name="cc">העתק</string>
-  <string name="cc_attribution">העתק: %1$s&lt;br></string>
+  <string name="cc_attribution">העתק: %1$s&lt;br&gt;</string>
   <string name="cc_bcc">העתק/העתק סמוי</string>
   <string name="cc_heading">"העתק: "</string>
   <string name="change_folders_selection_dialog_title">שנה תיקיות</string>
@@ -380,8 +383,8 @@
   <string name="folder_synchronization_mail_settings">הגדרות סנכרון תיקיה</string>
   <string name="forward">העבר</string>
   <string name="forward_attachment">העבר</string>
-  <string name="forward_attribution">"---------- הודעה שהועברה ----------&lt;br>מ: 
-%1$s&lt;br>תאריך: %2$s&lt;br>נושא: %3$s&lt;br>אל: %4$s&lt;br>"</string>
+  <string name="forward_attribution">"---------- הודעה שהועברה ----------&lt;br&gt;מ: 
+%1$s&lt;br&gt;תאריך: %2$s&lt;br&gt;נושא: %3$s&lt;br&gt;אל: %4$s&lt;br&gt;"</string>
   <string name="forward_attribution_no_headers">---------- הודעה שהועברה ----------</string>
   <string name="forward_download_failed_ticker">לא ניתן היה להעביר קובץ מצורף אחד או יותר.</string>
   <string name="forward_download_failed_title">הקובץ המצורף לא הועבר</string>
@@ -398,7 +401,7 @@
   <string name="general_preference_text_zoom_small">קטן</string>
   <string name="general_preference_text_zoom_tiny">זעיר</string>
   <string name="generic_attachment_problem">לא ניתן לצרף קובץ.</string>
-  <string name="get_database_exception">"נקה את נתוני יישום זה ב'הגדרות' > 'יישומי מערכת' ונסה שוב."</string>
+  <string name="get_database_exception">"נקה את נתוני יישום זה ב'הגדרות' &gt; 'יישומי מערכת' ונסה שוב."</string>
   <string name="gmail_acceleration">השתמש בשרת פרוקסי עבור חשבון Gmail</string>
   <string name="gmail_login_confirm_to_use_proxy">להשתמש בשרת פרוקסי על מנת לגשת לחשבון ה-Gmail שלך?</string>
   <string name="gmail_login_failed_non_proxy_title">לא ניתן היה לגשת לשרת של Gmail</string>
@@ -532,7 +535,7 @@
   <string name="mibill_privacy_policy_button1">מאוחר יותר</string>
   <string name="mibill_privacy_policy_button2">מסכים</string>
   <string name="mibill_privacy_policy_description">אפשר לארנק Mi לנתח ולנהל את החשבונות שלך באופן אוטומטי. תכונה זו כבויה כברירת מחדל במקרה של דוא\"ל הקשור לעבודה.</string>
-  <string name="mibill_privacy_policy_link">"ע\"י שימוש בתכונה זו, הינך מסכים ל"<a href="https://www.mipay.com/res/doc/eula/email.html">תנאי השירות</a>" שלנו"</string>
+  <string name="mibill_privacy_policy_link">"ע\"י שימוש בתכונה זו, הינך מסכים ל"&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;&amp;#1514;&amp;#1504;&amp;#1488;&amp;#1497; &amp;#1492;&amp;#1513;&amp;#1497;&amp;#1512;&amp;#1493;&amp;#1514;&lt;/a&gt;" &amp;#1513;&amp;#1500;&amp;#1504;&amp;#1493;"</string>
   <string name="mibill_privacy_policy_title">נהל חשבונות באופן אוטומטי</string>
   <string name="more_atts_remaining">%1$d נותרו</string>
   <string name="more_context">עוד</string>
@@ -775,10 +778,7 @@
   <string name="show_elided">▶ הצג טקסט מצוטט</string>
   <string name="show_images">הורד והצג תמונות</string>
   <string name="silent_ringtone">השתק</string>
-  <string name="SMTP_independent_verification_text">אימות עצמאי של SMTP</string>
   <string name="smtp_password_error">הסיסמה עבור שרת הדואר היוצא שגויה</string>
-  <string name="SMTP_password_text">סיסמה</string>
-  <string name="SMTP_username_text">שם משתמש</string>
   <string name="sort_attachment">מיין לפי</string>
   <string name="storage">אחסון</string>
   <string name="str_select_all">בחר הכל</string>

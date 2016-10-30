@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_frequent_phrases">הוסף ביטויים שכיחים</string>
   <string name="all_call_livetalk_enable">באמצעות חבילת Top-up עבור לשיחות מקומיות ובינלאומיות</string>
@@ -29,11 +29,11 @@
   <string name="enable_livetalk_title">הפעל חבילת Top-up</string>
   <string name="fc_dialog_body">שלח דוח באגים Mi לניתוח? דו\"ח זה עשוי להכיל מידע אישי מזהה. הדו\"ח שלך ישמש כדי לעזור לתקן את הבאג הזה ולעולם לא ישותף בכל קשר מסחרי.</string>
   <string name="fc_dialog_jump_to_preview">הצג סיכום</string>
-  <string name="first_back_long_press_message">"כדי להגדיר פעולות 'הקש והחזק' מותאמות אישית עבור לחצני הניווט, עבור אל 'הגדרות' > 'הגדרות נוספות' > 'כפתורים'."</string>
+  <string name="first_back_long_press_message">"כדי להגדיר פעולות 'הקש והחזק' מותאמות אישית עבור לחצני הניווט, עבור אל 'הגדרות' &gt; 'הגדרות נוספות' &gt; 'כפתורים'."</string>
   <string name="fm_record_smaple_prefix_miui">קלטת FM</string>
   <string name="force_exit_message">נסגרו באילוץ %1$s</string>
   <string name="force_exit_skip_message">לא ניתן לסגור את %1$s כי הוא מתבקש ע\"י המערכת.</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">"באפשרותך לחזור למסך הבית ע\"י הקשה על לחצן ה'בית'. עבור אל 'הגדרות' > 'הגדרות נוספות' > 'לחצנים' וסמן את \"לחץ למעבר למסך הבית\"."</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">"באפשרותך לחזור למסך הבית ע\"י הקשה על לחצן ה'בית'. עבור אל 'הגדרות' &gt; 'הגדרות נוספות' &gt; 'לחצנים' וסמן את \"לחץ למעבר למסך הבית\"."</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">לא כעת</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">"עבור ל'הגדרות'"</string>
   <string name="fp_nav_center_action_choose_dlg_title">לחיצה מהירה למעבר למסך הבית</string>
@@ -82,7 +82,7 @@
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">"על מנת לכבות תכונה זו, הקש על לחצן 'הגברת עוצמת השמע'."</string>
   <string name="screen_on_proximity_sensor_summary">אל תסתיר את המסך באיזור המסומן בכתום</string>
   <string name="screen_on_proximity_sensor_title">מצב כיס</string>
-  <string name="screen_paper_mode_enter_toast">"מצב קריאה מופעלת. כדי לכבות את התכונה הזו, עבור אל 'הגדרות' > 'תצוגה' > 'מצב קריאה'."</string>
+  <string name="screen_paper_mode_enter_toast">"מצב קריאה מופעלת. כדי לכבות את התכונה הזו, עבור אל 'הגדרות' &gt; 'תצוגה' &gt; 'מצב קריאה'."</string>
   <string name="screen_rotation_freeze_message">סיבוב אוטומטי מבוטל.</string>
   <string name="screenshot_gesture_detect_alert_button">"הפעל ב'הגדרות'"</string>
   <string name="screenshot_gesture_detect_alert_dont_again">אל תציג שוב</string>

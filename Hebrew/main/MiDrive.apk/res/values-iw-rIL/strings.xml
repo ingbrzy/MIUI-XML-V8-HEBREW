@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_logout">צא מחשבון \"%1$s\"</string>
   <string name="action_mode_deselect_all">הסר בחירה מהכל</string>
@@ -34,7 +34,7 @@
   <string name="file_change_btn_upload">העלה קובץ</string>
   <string name="file_loading">רק רגע…</string>
   <string name="file_name_empty">עליך להזין שם.</string>
-  <string name="file_name_invalid">שם הקובץ לא יכול להכיל את התווים הבאים: /\\:*?&lt;></string>
+  <string name="file_name_invalid">שם הקובץ לא יכול להכיל את התווים הבאים: /\\:*?&lt;&gt;</string>
   <string name="file_name_too_long">שם הקובץ שהזנת ארוך מדי.</string>
   <string name="file_not_exist">הקובץ לא קיים</string>
   <string name="file_too_large">הקובץ גדול מדי כדי להעלות.</string>
@@ -43,7 +43,7 @@
   <string name="folder_exist">התיקיה כבר קיימת.</string>
   <string name="folder_name_empty">שם התיקיה לא יכול להיות ריק</string>
   <string name="folder_name_illegal">שם תיקיה לא חוקי</string>
-  <string name="folder_name_invalid">שם התיקיה לא יכול להכיל את התווים הבאים: /\\:*?&lt;></string>
+  <string name="folder_name_invalid">שם התיקיה לא יכול להכיל את התווים הבאים: /\\:*?&lt;&gt;</string>
   <string name="image_loading_error">לא ניתן היה לטעון את התמונה</string>
   <string name="just_now">זה עתה</string>
   <string name="load_err">לא ניתן לטעון</string>
