@@ -1078,7 +1078,7 @@
   <string name="tethered_notification_message">גע כדי להגדיר.</string>
   <string name="tethered_notification_multi_device_message">%1$s התקנים מחוברים</string>
   <string name="tethered_notification_no_device_message">אין התקנים מחוברים</string>
-  <string name="tethered_notification_one_device_message">התקן אחד מחובר</string>
+  <string name="tethered_notification_one_device_message">התקן %1$s מחובר</string>
   <string name="tethered_notification_title">שיתוף אינטרנט פעיל</string>
   <string name="text_copied">הטקסט הועתק ללוח.</string>
   <string name="textSelectionCABTitle">בחירת טקסט</string>

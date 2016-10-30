@@ -84,6 +84,7 @@
     <item>לאחר דקה</item>
     <item>לאחר 5 דקות</item>
     <item>לאחר 10 דקות</item>
+    <item>לאחר 30 דקות</item>
     <item>אף פעם</item>
   </string-array>
   <string-array name="power_dialog_cpu_state_items">
