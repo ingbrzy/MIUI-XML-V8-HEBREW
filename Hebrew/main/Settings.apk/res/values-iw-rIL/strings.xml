@@ -1259,7 +1259,7 @@
   <string name="enable_service_password_reason">מאחר שהפעלת %1$s משפיעה על הצפנת הנתונים, עליך לאשר את הסיסמה שלך.</string>
   <string name="enable_service_pattern_reason">מאחר שהפעלת %1$s משפיעה על הצפנת הנתונים, עליך לאשר את תבנית ביטול הנעילה שלך.</string>
   <string name="enable_service_pin_reason">‏מאחר שהפעלת %1$s משפיעה על הצפנת הנתונים, עליך לאשר את מספר ה-PIN שלך.</string>
-  <string name="enable_service_title">האם להשתמש ב%1$s?</string>
+  <string name="enable_service_title">The service will perform these actions:</string>	
   <string name="enable_snapshot_screenlock">"לחיצה ארוכה על מקש 'חזרה' על מנת לצלם תמונה"</string>
   <string name="enable_terminal_summary">הפעל יישום מסוף המציע גישה מקומית למעטפת</string>
   <string name="enable_terminal_title">מסוף מקומי</string>
@@ -1433,7 +1433,7 @@
   <string name="free_wifi_connect_summary">לחץ על מנת להתחבר ל-%1$s.</string>
   <string name="free_wifi_connect_title">רשת אלחוטית זמינה</string>
   <string name="free_wifi_connected">מחובר לרשת אלחוטית חינמית</string>
-  <string name="free_wifi_connected_count">%1$s משתמשים מחוברים</string>
+  <string name="free_wifi_connected_count">%1$d משתמשים מחוברים</string>
   <string name="free_wifi_connected_time">משך זמן: %1$s</string>
   <string name="free_wifi_connecting">מתחבר…</string>
   <string name="free_wifi_login_again">היכנס שוב</string>

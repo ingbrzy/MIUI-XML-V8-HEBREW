@@ -900,7 +900,7 @@
   <string name="power_cell">מצב המתנה סלולרי</string>
   <string name="power_center_auto_shutdown">תזמון כיבוי/הפעלה</string>
   <string name="power_center_battery_full">"הסוללה טעונה במלואה "</string>
-  <string name="power_center_charge_time">"%1$ שנ' לטעינה מלאה"</string>
+  <string name="power_center_charge_time">%1$s until full</string>
   <string name="power_center_consume_rank">שימוש בסוללה</string>
   <string name="power_center_consume_time">%1$s נותרו</string>
   <string name="power_center_custom_title">פרופילי צריכת סוללה</string>

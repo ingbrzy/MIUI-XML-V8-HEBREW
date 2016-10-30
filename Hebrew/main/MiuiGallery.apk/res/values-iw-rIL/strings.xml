@@ -110,7 +110,7 @@
   <string name="backup_only_in_wifi">השתמש בחיבור Wi-Fi בלבד לגיבוי תמונות וסרטונים</string>
   <string name="backup_only_in_wifi_summary">לעולם אל תשתמש בחיבור נתונים סלולרי לגיבוי של תמונות או סרטונים</string>
   <string name="backup_waiting_button_text">גבה כעת</string>
-  <string name="backuping">מגבה %1$d2$d</string>
+  <string name="backuping">Backing up %1$d/%2$d</string>
   <string name="begin_share">"'אלבום התינוקות' \"%s\" נוצר, תוכל לשתף אותו כעת"</string>
   <string name="begin_share_toast">לייצר אלבום נפרד עבור הילד הזה לפני השיתוף?</string>
   <string name="browse_category_title">סייר</string>
