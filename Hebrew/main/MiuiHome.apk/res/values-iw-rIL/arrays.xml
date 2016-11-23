@@ -37,9 +37,6 @@
     <item>ברירת מחדל</item>
     <item>קלאסי</item>
   </string-array>
-  <string-array name="quality_business_devices">
-    <item>ליתיום</item>
-  </string-array>
   <string-array name="transformation_entries">
     <item>אוברסלייד</item>
     <item>קלאסי</item>
