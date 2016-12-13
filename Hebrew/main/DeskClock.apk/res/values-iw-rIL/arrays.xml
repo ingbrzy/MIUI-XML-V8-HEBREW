@@ -8,7 +8,7 @@
     <item>התרעה בעוד %3$s</item>
     <item>התרעה בעוד %1$s ו-%3$s</item>
     <item>התרעה בעוד %2$s ו-%3$s</item>
-    <item>התרעה בעוד %1$s, %2$s, ו-%3$s</item>
+    <item>התרעה בעוד %1$s, %2$s ו-%3$s</item>
   </string-array>
   <string-array name="alarm_repeat_type">
     <item>פעם אחת</item>
@@ -32,7 +32,7 @@
     <item>ההתרעה תופעל בעוד %3$s.</item>
     <item>ההתרעה תופעל בעוד %1$s ו-%3$s.</item>
     <item>ההתרעה תופעל בעוד %2$s ו-%3$s.</item>
-    <item>ההתרעה תופעל בעוד %1$s, %2$s, ו-%3$s.</item>
+    <item>ההתרעה תופעל בעוד %1$s, %2$s ו-%3$s.</item>
   </string-array>
   <string-array name="auto_silence_entries">
     <item>לעולם לא</item>
