@@ -36,7 +36,7 @@
   <string name="cmas_opt_out_button_yes">כן</string>
   <string name="cmas_opt_out_dialog_text">נכון לעכשיו אתה מקבל התרעות חירום. האם ברצונך להמשיך לקבל התרעות חירום?</string>
   <string name="cmas_presidential_level_alert">התראה נשיאותית</string>
-  <string name="cmas_required_monthly_test">בדיקה חודשית של התראות החירום</string>
+  <string name="cmas_required_monthly_test">בדיקה חודשית של התרעות החירום</string>
   <string name="cmas_response_assess">הערכה</string>
   <string name="cmas_response_avoid">הימנעות</string>
   <string name="cmas_response_evacuate">פנה</string>
