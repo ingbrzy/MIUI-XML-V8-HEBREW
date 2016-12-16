@@ -34,7 +34,7 @@
   <string name="cmas_operator_defined_alert">התרעת חירום (מפעיל)</string>
   <string name="cmas_opt_out_button_no">לא</string>
   <string name="cmas_opt_out_button_yes">כן</string>
-  <string name="cmas_opt_out_dialog_text">נכון לעכשיו אתה מקבל התראות חירום. האם ברצונך להמשיך לקבל התראות חירום?</string>
+  <string name="cmas_opt_out_dialog_text">נכון לעכשיו אתה מקבל התרעות חירום. האם ברצונך להמשיך לקבל התרעות חירום?</string>
   <string name="cmas_presidential_level_alert">התראה נשיאותית</string>
   <string name="cmas_required_monthly_test">בדיקה חודשית של התראות החירום</string>
   <string name="cmas_response_assess">הערכה</string>
@@ -73,7 +73,7 @@
   <string name="enable_cmas_severe_threat_alerts_title">הצג איומים חמורים</string>
   <string name="enable_cmas_test_alerts_summary">‏הצג שידורי בדיקה של Commercial Mobile Alert System</string>
   <string name="enable_cmas_test_alerts_title">‏הצג שידורי בדיקה של CMAS</string>
-  <string name="enable_emergency_alerts_summary">הצג שידורי התראות חירום</string>
+  <string name="enable_emergency_alerts_summary">הצג שידורי התרעות חירום</string>
   <string name="enable_emergency_alerts_title">הפעל התראות</string>
   <string name="enable_etws_test_alerts_summary">הצג שידורי בדיקה של מערכת ההתראות על צונאמי ורעידות אדמה</string>
   <string name="enable_etws_test_alerts_title">‏הצג שידורי בדיקה של ETWS</string>

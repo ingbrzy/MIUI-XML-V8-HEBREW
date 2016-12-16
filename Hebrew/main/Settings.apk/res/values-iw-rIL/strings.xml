@@ -730,7 +730,7 @@
   <string name="category_work">עבודה</string>
   <string name="cdma_security_settings_summary">"הגדר את 'המיקום שלי', ביטול נעילת מסך, נעילת אחסון אישורים"</string>
   <string name="cell_broadcast_settings">שידורי חירום</string>
-  <string name="cell_broadcast_settings_summary">בחר את סוגי התראות חירום לתצוגה</string>
+  <string name="cell_broadcast_settings_summary">בחר את סוגי התרעות חירום לתצוגה</string>
   <string name="cellular_data_summary">התר שימוש בנתונים באמצעות רשת סלולרית</string>
   <string name="cellular_data_title">נתונים סלולריים</string>
   <string name="change">שינוי</string>
