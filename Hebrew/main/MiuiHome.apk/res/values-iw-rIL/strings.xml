@@ -2,7 +2,7 @@
 <resources>
   <string name="activity_not_found">היישום אינו מותקן במכשיר שלך</string>
   <string name="add_screen">הוסף מסך</string>
-  <string name="app_already_exist">היישום קיים כבר</string>
+  <string name="app_already_exist">"היישום קיים כבר"</string>
   <string name="app_being_backup_message">היישום נמצא בתהליך גיבוי</string>
   <string name="app_being_restored_message">היישום נמצא בתהליך שחזור</string>
   <string name="app_category_books">קריאה</string>
