@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="alarm_in_furture">
-    <item>התרעה בעוד פחות מדקה</item>
-    <item>התרעה בעוד %1$s</item>
-    <item>התרעה בעוד %2$s</item>
-    <item>התרעה בעוד %1$s ו-%2$s</item>
-    <item>התרעה בעוד %3$s</item>
-    <item>התרעה בעוד %1$s ו-%3$s</item>
-    <item>התרעה בעוד %2$s ו-%3$s</item>
-    <item>התרעה בעוד %1$s, %2$s ו-%3$s</item>
+    <item>התראה בעוד פחות מדקה</item>
+    <item>התראה בעוד %1$s</item>
+    <item>התראה בעוד %2$s</item>
+    <item>התראה בעוד %1$s ו-%2$s</item>
+    <item>התראה בעוד %3$s</item>
+    <item>התראה בעוד %1$s ו-%3$s</item>
+    <item>התראה בעוד %2$s ו-%3$s</item>
+    <item>התראה בעוד %1$s, %2$s ו-%3$s</item>
   </string-array>
   <string-array name="alarm_repeat_type">
     <item>פעם אחת</item>
@@ -25,14 +25,14 @@
     <item>מותאם אישית</item>
   </string-array>
   <string-array name="alarm_set">
-    <item>ההתרעה תופעל בעוד פחות מדקה.</item>
-    <item>ההתרעה תופעל בעוד %1$s.</item>
-    <item>ההתרעה תופעל בעוד %2$s.</item>
-    <item>ההתרעה תופעל בעוד %1$s ו-%2$s.</item>
-    <item>ההתרעה תופעל בעוד %3$s.</item>
-    <item>ההתרעה תופעל בעוד %1$s ו-%3$s.</item>
-    <item>ההתרעה תופעל בעוד %2$s ו-%3$s.</item>
-    <item>ההתרעה תופעל בעוד %1$s, %2$s ו-%3$s.</item>
+    <item>ההתראה תופעל בעוד פחות מדקה.</item>
+    <item>ההתראה תופעל בעוד %1$s.</item>
+    <item>ההתראה תופעל בעוד %2$s.</item>
+    <item>ההתראה תופעל בעוד %1$s ו-%2$s.</item>
+    <item>ההתראה תופעל בעוד %3$s.</item>
+    <item>ההתראה תופעל בעוד %1$s ו-%3$s.</item>
+    <item>ההתראה תופעל בעוד %2$s ו-%3$s.</item>
+    <item>ההתראה תופעל בעוד %1$s, %2$s ו-%3$s.</item>
   </string-array>
   <string-array name="auto_silence_entries">
     <item>לעולם לא</item>

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string-array name="editing_mode_entries">
+    <item>הזזת יישומים</item>
+    <item>וידג'טים</item>
+    <item>טפט</item>
+    <item>אפקטים</item>
+  </string-array>
   <string-array name="gadget_weather_image">
     <item>בהיר</item>
     <item>מעונן</item>
@@ -31,6 +37,9 @@
     <item>ברירת מחדל</item>
     <item>קלאסי</item>
   </string-array>
+  <string-array name="quality_business_devices">
+    <item>ליתיום</item>
+  </string-array>
   <string-array name="transformation_entries">
     <item>אוברסלייד</item>
     <item>קלאסי</item>
@@ -42,7 +51,7 @@
     <item>קוביה</item>
   </string-array>
   <string-array name="wallpaper_scroll_entries">
-    <item>ערכת נושא ברירת מחדל</item>
+    <item>ברירת מחדל</item>
     <item>מרכז</item>
     <item>שמאל</item>
     <item>ימין</item>

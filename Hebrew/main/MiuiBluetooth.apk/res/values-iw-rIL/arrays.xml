@@ -3,7 +3,7 @@
   <string-array name="ble_profile_mi_band">
     <item>רטט בזמן צלצול</item>
     <item>רטט בזמן קבלת הודעה</item>
-    <item>רטט בזמן התרעה</item>
+    <item>רטט בזמן התראה</item>
   </string-array>
   <string-array name="ble_profile_mi_key">
     <item>צלם תמונה</item>

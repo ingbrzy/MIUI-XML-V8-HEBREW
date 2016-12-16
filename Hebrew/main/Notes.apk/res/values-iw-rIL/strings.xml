@@ -27,7 +27,7 @@
   <string name="dlg_btn_set_password">הגדר סיסמה</string>
   <string name="dlg_check_reminder">אל תציג שוב</string>
   <string name="dlg_delete_message">מוחק…</string>
-  <string name="dlg_desc_confirm_alarm_silent">התרעות פעילות לא יושמעו כאשר המכשיר במצב שקט</string>
+  <string name="dlg_desc_confirm_alarm_silent">התראות פעילות לא יושמעו כאשר המכשיר במצב שקט</string>
   <string name="dlg_hide_message">מסתיר…</string>
   <string name="dlg_info_creating_message">יוצר הודעות</string>
   <string name="dlg_message_password_reset">"'סיסמה לפתקים מוסתרים' תוחלף עם 'סיסמה להגנת הפרטיות' אשר עובדת עבור יישומים, תמונות, ותיקיות מוסתרות"</string>
@@ -37,7 +37,7 @@
   <string name="dlg_quick_delete_title">מחיקה מהירה</string>
   <string name="dlg_restore_message">משחזר…</string>
   <string name="dlg_stick_message">נועץ…</string>
-  <string name="dlg_title_confirm_alarm_silent">השתק התרעות</string>
+  <string name="dlg_title_confirm_alarm_silent">השתק התראות</string>
   <string name="dlg_title_password_reset">שדרג את הסיסמה שלך</string>
   <string name="dlg_title_set_password">הגדר סיסמה</string>
   <string name="dlg_title_use_privacy_password">"השתמש ב'סיסמה להגנת הפרטיות'"</string>
@@ -98,7 +98,7 @@
   <string name="notify_alarm_title">פתק לתזכורת</string>
   <string name="permdesc_accessNote">"ייתכן ומס' יישומים יעשו שימוש במידע האישי שלך."</string>
   <string name="permlab_accessNote">כניסה אל פתקים</string>
-  <string name="pref_desc_alarm_when_silent">התרעות עבור תזכורות יושמעו גם כשהטלפון במצב שקט</string>
+  <string name="pref_desc_alarm_when_silent">התראות עבור תזכורות יושמעו גם כשהטלפון במצב שקט</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">אל תבקש אישור בעת מחיקת פתק באמצעות מחווה</string>
   <string name="pref_title_alarm_when_silent">אל תשתיק תזכורות</string>
   <string name="pref_title_common">הגדרות נוספות</string>

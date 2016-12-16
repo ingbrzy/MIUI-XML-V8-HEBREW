@@ -171,7 +171,7 @@
   <string name="call_waiting_summary">במהלך שיחה, שלח לי הודעות על שיחות נכנסות</string>
   <string name="call_waiting_title">שיחה ממתינה</string>
   <string name="call_waiting_tone_continuously">השמע צליל התראה ברציפות</string>
-  <string name="call_waiting_tone_title">התרעת שיחה ממתינה</string>
+  <string name="call_waiting_tone_title">התראת שיחה ממתינה</string>
   <string name="call_waiting_tone_twice_and_vibrate">השמע צליל התראה ורוטט פעמים</string>
   <string name="call_waiting_tone_twice_only">השמע פעמיים צליל התראה</string>
   <string name="caller_id_summary">הסתר את המספר שלי עבור שיחות יוצאות (בדוק האם ספק השירות שלך תומך בתכונה זו)</string>

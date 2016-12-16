@@ -309,7 +309,7 @@
   <string name="micloud_setting_antispam_summary">מספרי טלפון חריגים וחסומים</string>
   <string name="micloud_setting_browser_summary">סימניות, הסטוריה, וכרטיסיות</string>
   <string name="micloud_setting_contact_summary">מידע ותמונות פרופיל של אנשי קשר</string>
-  <string name="micloud_setting_deskclock_summary">הגדרות אזור זמן והתרעות</string>
+  <string name="micloud_setting_deskclock_summary">הגדרות אזור זמן והתראות</string>
   <string name="micloud_setting_gallery_summary">תמונות וסרטונים</string>
   <string name="micloud_setting_music_summary">רשימות השמעה ומועדפים</string>
   <string name="micloud_setting_sms_summary">מסרונים והודעות מולטימדיה</string>

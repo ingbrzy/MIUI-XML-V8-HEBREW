@@ -22,7 +22,7 @@
   <string name="find_device_error_password_changed">סיסמת החשבון שונתה לאחרונה.</string>
   <string name="find_device_error_server">שגיאת שרת (%s).</string>
   <string name="find_device_error_unknown">שגיאה לא מוכרת (%s).</string>
-  <string name="find_device_noise_title">"התרעת 'איתור המכשיר'"</string>
+  <string name="find_device_noise_title">"התראת 'איתור המכשיר'"</string>
   <string name="find_device_notice_p1">עבור אל</string>
   <string name="find_device_notice_p3">"על מנת לאתר, לנעול, או לשחזר את המכשיר שלך.
 אם תחליף כרטיס SIM, הודעת SMS נוספת תשלח אוטומטית על מנת להפעיל מחדש תכונה זו."</string>

@@ -195,7 +195,7 @@
   <string name="path_calendar">יישומי מערכת/לוח שנה/הגדרות</string>
   <string name="prefDialogTitle_vibrateWhen">רטט</string>
   <string name="pref_error_no_ringtone_select">צילצול ברירת מחדל</string>
-  <string name="pref_title_alarm_remind">צור התרעה לתזכורות</string>
+  <string name="pref_title_alarm_remind">צור התראה לתזכורות</string>
   <string name="pref_title_alert_remind">הצג תזכורות בחלון קופץ</string>
   <string name="pref_title_no_remind">ללא תזכורת</string>
   <string name="pref_title_notification_remind">הצג תזכורת כהתראה</string>

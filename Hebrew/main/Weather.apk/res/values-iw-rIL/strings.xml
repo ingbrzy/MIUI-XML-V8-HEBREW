@@ -18,7 +18,7 @@
   <string name="activity_weathermain_locationg">מאתר…</string>
   <string name="activity_weathermain_locationg_error">לא ניתן לאתר</string>
   <string name="add_city">הוסף</string>
-  <string name="alert_warning">"התרעות 'מזג אוויר'"</string>
+  <string name="alert_warning">"התראות 'מזג אוויר'"</string>
   <string name="app_name">מזג אוויר</string>
   <string name="aqi_data_source">מופעל ע\"י Caiyun Weather</string>
   <string name="aqi_desc">מדד זיהום אוויר</string>
@@ -52,7 +52,7 @@
   <string name="daily_forcast_weather_transfer">%1$s. %2$s מאוחר יותר.</string>
   <string name="daily_forcast_whirl_wind">סופה</string>
   <string name="daily_forecast_detail_date">d/M</string>
-  <string name="edit_alert_city_title">נהל התרעות</string>
+  <string name="edit_alert_city_title">נהל התראות</string>
   <string name="edit_city">ערוך</string>
   <string name="first_start_network_msg">יישום זה זקוק לחיבור לאינטרנט ולגישה למיקומך על מנת לפעול כראוי.</string>
   <string name="first_start_network_title">חיבור לאינטרנט וגישה לנתוני מיקום</string>
@@ -128,7 +128,7 @@
   <string name="view_forecast_item_yesterday">אתמול</string>
   <string name="view_indexes_item_today">היום</string>
   <string name="view_indexes_item_tommorrow">מחר</string>
-  <string name="weather_alert">"התרעות 'מזג אוויר'"</string>
+  <string name="weather_alert">"התראות 'מזג אוויר'"</string>
   <string name="wind_miles_unit">%1$s מיל לשעה</string>
   <string name="wind_unit">%1$s קמ\"ש</string>
 </resources>

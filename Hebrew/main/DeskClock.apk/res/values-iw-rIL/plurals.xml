@@ -5,12 +5,12 @@
     <item quantity="one">נודניק למשך דקה אחת.</item>
   </plurals>
   <plurals name="auto_silence_summary">
-    <item quantity="other">ההתרעות יושתקו לאחר %d דקות</item>
-    <item quantity="one">ההתרעות יושתקו לאחר דקה אחת</item>
+    <item quantity="other">ההתראות יושתקו לאחר %d דקות</item>
+    <item quantity="one">ההתראות יושתקו לאחר דקה אחת</item>
   </plurals>
   <plurals name="delete_alarm_confirm">
-    <item quantity="other">למחוק את ההתרעות שנבחרו?</item>
-    <item quantity="one">למחוק התרעה זו?</item>
+    <item quantity="other">למחוק את ההתראות שנבחרו?</item>
+    <item quantity="one">למחוק התראה זו?</item>
   </plurals>
   <plurals name="delete_timezone_confirm">
     <item quantity="other">למחוק את אזורי הזמן שנבחרו?</item>

@@ -93,7 +93,7 @@
   <string name="pref_camera_antibanding_entry_3">אוטומטי</string>
   <string name="pref_camera_antibanding_title">מניעת פסים</string>
   <string name="pref_camera_asd_night_title">שפר תמונות בתנאי תאורה חלשה אוטומטית</string>
-  <string name="pref_camera_asd_popup_title">התרע כאשר יש צורך בפלאש</string>
+  <string name="pref_camera_asd_popup_title">הודע כאשר יש צורך בפלאש</string>
   <string name="pref_camera_audio_capture_title">שמע</string>
   <string name="pref_camera_auto_capture_when_stable_summary">לבחירת עצם, הקש בו זמנית על שתי נקודות אלכסוניות על גבולותיו. כאשר העצם דומם, המצלמה תצלם אותו אוטומטית.</string>
   <string name="pref_camera_auto_capture_when_stable_title">צלם עצמים נבחרים כאשר הם דוממים</string>

@@ -136,8 +136,8 @@
   <string name="agps_roaming_dia_title">השתמש ב-A-GPS בעת נדידה</string>
   <string name="agps_roaming_summary">השתמש בנתונים סלולריים על מנת לסייע ל-GPS בעת נדידה</string>
   <string name="airplane_mode">מצב טיסה</string>
-  <string name="alarm_sound_dialog_title">בחר צליל התרעה</string>
-  <string name="alarm_sound_title">צליל התרעה</string>
+  <string name="alarm_sound_dialog_title">בחר צליל התראה</string>
+  <string name="alarm_sound_title">צליל התראה</string>
   <string name="alarm_volume_option_title">עוצמת שמע של התראה</string>
   <string name="alarm_volume_title">התראה</string>
   <string name="all_volume_title">עוצמות קול</string>
@@ -1998,7 +1998,7 @@
   <string name="misc_files">"קבצי 'שונות'"</string>
   <string name="misc_files_selected_count">נבחרו %1$d מתוך %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s מתוך %2$s</string>
-  <string name="miui_allow_alarm">התרעות</string>
+  <string name="miui_allow_alarm">התראות</string>
   <string name="miui_allow_light">נורית התראה</string>
   <string name="miui_allow_music">מדיה</string>
   <string name="miui_allow_vibrate">רטט</string>
@@ -2286,7 +2286,7 @@
   <string name="path_account_list">הגדרות/חשבונות אחרים</string>
   <string name="path_advanced_settings">הגדרות/רשתות אלחוטיות/הגדרות מתקדמות</string>
   <string name="path_airplane_mode_settings">הגדרות/עוד/מצב טיסה</string>
-  <string name="path_alarm_sound_title">הגדרות/צלילים &amp; רטט/צליל התרעה</string>
+  <string name="path_alarm_sound_title">הגדרות/צלילים &amp; רטט/צליל התראה</string>
   <string name="path_android_beam_settings">הגדרות/עוד/Android Beam</string>
   <string name="path_apn_settings">הגדרות/כרטיסי SIM &amp; רשתות סלולריות/שמות של נקודות גישה</string>
   <string name="path_app_invisible">הגדרות/הגדרות נוספות/תכונות בטה/יישום בלתי נראה</string>
@@ -2935,7 +2935,7 @@
   <string name="search_accessibility_settings">נגישות</string>
   <string name="search_account_list">חשבונות אחרים;חשבון;חשבונות</string>
   <string name="search_airplane">מצב טיסה;מצב טיסה;מצב טיסה;מטוס;מטוס;טיסה</string>
-  <string name="search_alarm_sound_title">צליל התרעה;צלצול התרעה;התרעה</string>
+  <string name="search_alarm_sound_title">צליל התראה;צלצול התראה;התראה</string>
   <string name="search_android_beam">NFC;Android Beam;העברה</string>
   <string name="search_apn_settings">APN;שמות של נקודות גישה</string>
   <string name="search_app_invisible">היישום בלתי ניראה;יישומים בלתי ניראים</string>
@@ -3030,7 +3030,7 @@
   <string name="search_recents_queries_label">חיפושים אחרונים</string>
   <string name="search_results_label">תוצאות</string>
   <string name="search_results_title">הגדרות</string>
-  <string name="search_ring_volume">עוצמות;עוצמה;צלצולים &amp; התראות;צלצול;צלצולים;התרעה;מוזיקה</string>
+  <string name="search_ring_volume">עוצמות;עוצמה;צלצולים &amp; התראות;צלצול;צלצולים;התראה;מוזיקה</string>
   <string name="search_ringtone">צלצול הטלפון;צלצול;צלצולים</string>
   <string name="search_safe_result_header_title_system">פרטיות;אבטחה;מקורות לא ידועים;הצג סיסמה;חתימת היישום;חתימות היישומים;נקה אישורים;נקה אישור</string>
   <string name="search_screen_effect">צבעים; &amp; רוויה;צבעים &amp; ניגודיות;צבע;רווית צבעים;ניגודיות</string>
@@ -3114,7 +3114,7 @@
   <string name="security_enable_widgets_title">"הפעל יישומי ווידג'ט"</string>
   <string name="security_encryption_alert_dialog_info_first">הגדר סיסמה עבור מסך הנעילה על מנת להפעיל תכונה זו. יהיה עליך להזין את סיסמת מסך הנעילה לאחר כל אתחול על מנת לפענח את הצפנת המכשיר ולהשתמש בו באופן תקין.</string>
   <string name="security_encryption_alert_dialog_title_first">הגדר שיטה לנעילת המסך תחילה</string>
-  <string name="security_encryption_attention_1">לא תוכל להשתמש בהתרעות כאשר המכשיר כבוי.</string>
+  <string name="security_encryption_attention_1">לא תוכל להשתמש בהתראות כאשר המכשיר כבוי.</string>
   <string name="security_encryption_attention_2">יהיה עליך להזין את סיסמת מסך הנעילה לאחר כל אתחול על מנת לפענח את הצפנת המכשיר. האתחולים יארכו יותר ממשך הזמן הרגיל.</string>
   <string name="security_encryption_attention_3">יהיה עליך להגדיר סיסמה חדשה עבור מסך הנעילה.</string>
   <string name="security_encryption_attention_4">הקפד לזכור את סיסמת מסך הנעילה שלך, אחרת יהיה עליך לבצע איפוס מלא ולמחוק את כל הנתונים במכשיר זה.</string>
@@ -4028,7 +4028,7 @@
   <string name="voice_service_preference_section_title">שירותי קלט קולי</string>
   <string name="volte_provisioned_flag_off">‏כבה את הסימון של ניהול תצורת VoLTE</string>
   <string name="volte_provisioned_flag_on">‏הפעל את הסימון של ניהול תצורת VoLTE</string>
-  <string name="volume_alarm_description">התרעה</string>
+  <string name="volume_alarm_description">התראה</string>
   <string name="volume_alarm_mute">השתק התראות קוליות</string>
   <string name="volume_category_title">עוצמת שמע</string>
   <string name="volume_hifi_description">הגדרות Hi-Fi</string>
@@ -4162,7 +4162,7 @@
   <string name="wifi_connect_cmcc_dialog_confirm">אישור</string>
   <string name="wifi_connect_cmcc_dialog_content">המחוברים לשירותי נתונים ברשת CMCC.</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">אל תציג שוב</string>
-  <string name="wifi_connect_cmcc_dialog_title">התרעת שימוש בנתונים</string>
+  <string name="wifi_connect_cmcc_dialog_title">התראת שימוש בנתונים</string>
   <string name="wifi_connect_failed_message">לא ניתן היה להתחבר לרשת האלחוטית</string>
   <string name="wifi_connected_no_internet">מחובר. אין אינטרנט</string>
   <string name="wifi_context_menu_change_password">שנה סיסמה</string>

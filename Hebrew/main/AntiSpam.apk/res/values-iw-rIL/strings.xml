@@ -133,7 +133,7 @@
   <string name="info_unantispam_phone">אפשר שיחות</string>
   <string name="info_unantispam_phone_sms">אפשר שיחות והודעות</string>
   <string name="info_unantispam_sms">אפשר הודעה</string>
-  <string name="label_callwait">התרעת שיחה ממתינה</string>
+  <string name="label_callwait">התראת שיחה ממתינה</string>
   <string name="loding">טוען מידע</string>
   <string name="mark_agent">חסום נציגות שדווחה</string>
   <string name="mark_agent_block">מדווח כנציגות</string>
@@ -251,14 +251,14 @@
   <string name="st_antispam_mode_only_whitelist_sum">אפשר שיחות והודעות ממספרים המופיעים ברשימת החריגים בלבד</string>
   <string name="st_antispam_mode_smart">"מס' שדווחו"</string>
   <string name="st_antispam_mode_smart_sum">"חסום מס' שהוספת ידנית ומס' שדווחו ע\"י משתמשים אחרים"</string>
-  <string name="st_antispam_notification_sum">הצג התרעה כאשר שיחה או הודעה נחסמו</string>
+  <string name="st_antispam_notification_sum">הצג התראה כאשר שיחה או הודעה נחסמו</string>
   <string name="st_antispam_title_anoy_incoming">"שיחה ממס' זר"</string>
   <string name="st_antispam_title_anoy_sms">"הודעה ממס' זר"</string>
   <string name="st_antispam_title_contact_incoming">שיחה מאנשי קשר</string>
   <string name="st_antispam_title_contact_sms">הודעה מאנשי קשר</string>
   <string name="st_antispam_title_contactandanoy_group">הגדרות</string>
   <string name="st_antispam_title_null_incoming">מספר חסוי</string>
-  <string name="st_antispam_title_service_sms">התרעת שירות</string>
+  <string name="st_antispam_title_service_sms">התראת שירות</string>
   <string name="st_antispam_title_whitelist">חריגים</string>
   <string name="st_block_all">חסום שיחות והודעות</string>
   <string name="st_block_mute">חסום שיחות והשתק הודעות</string>
@@ -286,7 +286,7 @@
   <string name="st_mute_title">הפסק צלצול או רטט</string>
   <string name="st_other_setting_group">הגדרות נוספות</string>
   <string name="st_settings_name">הגדרות רשימת החסומים</string>
-  <string name="st_show_block_notification">הצג התרעות חסומות</string>
+  <string name="st_show_block_notification">הצג התראות חסומות</string>
   <string name="st_show_num_keyword">" מילות מפתח"</string>
   <string name="st_show_num_number">" מספרים"</string>
   <string name="st_sms_group">הודעות</string>
@@ -314,7 +314,7 @@
   <string name="st_title_back_sound_stop">אין שירות</string>
   <string name="st_title_backsound_group">"הודעת 'לא נמצא'"</string>
   <string name="st_title_blacklist_numbers">מספרים חסומים</string>
-  <string name="st_title_call_wait">התרעת שיחה ממתינה</string>
+  <string name="st_title_call_wait">התראת שיחה ממתינה</string>
   <string name="st_title_call_wait_setting">שיחה ממתינה</string>
   <string name="st_title_editblacklist">ערוך את רשימת החסומים</string>
   <string name="st_title_editwhitelist">ערוך חריגים</string>

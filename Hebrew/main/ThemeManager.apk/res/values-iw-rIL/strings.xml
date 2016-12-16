@@ -310,7 +310,7 @@
   <string name="search_hint_header_text">חיפושים נפוצים</string>
   <string name="selected_resource_file_invalid">לא ניתן להשתמש בקובץ משאבים הנבחר</string>
   <string name="settings">הגדרות</string>
-  <string name="theme_apply_audio_dialog_item_alarm">התרעה</string>
+  <string name="theme_apply_audio_dialog_item_alarm">התראה</string>
   <string name="theme_apply_audio_dialog_item_notification">התראה</string>
   <string name="theme_apply_audio_dialog_item_ringtone">צלצול</string>
   <string name="theme_apply_failured">לא ניתן להחיל את טפט מסך הנעילה</string>
@@ -325,8 +325,8 @@
   <string name="theme_changed_failed_message">לא ניתן להחיל את ערכת הנושא</string>
   <string name="theme_changed_message">ערכת הנושא הוחלה</string>
   <string name="theme_changing_dialog_title">"מחיל "</string>
-  <string name="theme_component_title_alarm">התרעה</string>
-  <string name="theme_component_title_alarmstyle">סגנון התרעה</string>
+  <string name="theme_component_title_alarm">התראה</string>
+  <string name="theme_component_title_alarmstyle">סגנון התראה</string>
   <string name="theme_component_title_all">ערכות נושא</string>
   <string name="theme_component_title_audio_effect">צלילים</string>
   <string name="theme_component_title_boot_animation">הנפשת אתחול</string>
