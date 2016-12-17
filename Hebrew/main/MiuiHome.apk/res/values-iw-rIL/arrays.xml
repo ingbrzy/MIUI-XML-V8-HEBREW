@@ -2,7 +2,7 @@
 <resources>
   <string-array name="editing_mode_entries">
     <item>הזזת יישומים</item>
-    <item>וידג'טים</item>
+    <item>"וידג'טים"</item>
     <item>טפט</item>
     <item>אפקטים</item>
   </string-array>
