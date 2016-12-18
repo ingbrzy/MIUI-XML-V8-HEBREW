@@ -363,11 +363,6 @@
     <item>בינוני</item>
     <item>ארוך</item>
   </string-array>
-  <string-array name="long_press_volume_down_action">
-    <item>ללא</item>
-    <item>"מצב 'צילום מהיר' (בחר ב'מצלמה')"</item>
-    <item>קיצורי דרך של תחבורה ציבורית</item>
-  </string-array>
   <string-array name="media_feedback_level_entries">
     <item>חזק</item>
     <item>בינוני</item>
