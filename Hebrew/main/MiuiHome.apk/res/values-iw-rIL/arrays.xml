@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="editing_mode_entries">
-    <item>ערכות נושא</item>
-    <item>"וידג'טים"</item>
+    <item>הזזת יישומים</item>
+    <item>וידג'טים</item>
     <item>טפט</item>
     <item>אפקטים</item>
-    <item>פריסה</item>
   </string-array>
   <string-array name="gadget_weather_image">
     <item>בהיר</item>
@@ -58,4 +57,3 @@
     <item>ימין</item>
   </string-array>
 </resources>
-
