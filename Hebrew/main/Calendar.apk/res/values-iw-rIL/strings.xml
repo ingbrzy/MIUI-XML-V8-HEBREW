@@ -46,7 +46,6 @@
   <string name="birthday_event_description_day_before_yesterday">שלשום היה</string>
   <string name="birthday_event_description_days_ago">%1$s ימים עברו מאז</string>
   <string name="birthday_event_description_days_later">%1$s נותרו ל-</string>
-  <string name="birthday_event_description_default">%2$s%3$s%4$s של %1$s</string>
   <string name="birthday_event_description_special">%1$s %3$s%4$s%5$s של %2$s</string>
   <string name="birthday_event_description_today">היום הוא</string>
   <string name="birthday_event_description_tomorrow">מחר הוא</string>
@@ -78,7 +77,6 @@
   <string name="daily">יומי</string>
   <string name="day_view">יום</string>
   <string name="day_view_new_event_hint">ארוע חדש</string>
-  <string name="default_reminder_mode">תזכורות</string>
   <string name="delete_label">מחק</string>
   <string name="delete_recurring_event_title">האם למחוק את %s?</string>
   <string name="delete_this_event_title">למחוק אירוע זה?</string>
@@ -210,8 +208,6 @@
   <string name="preferences_category_general_title">הגדרות כלליות</string>
   <string name="preferences_clear_search_history_summary">הסר את כל החיפושים שביצעת</string>
   <string name="preferences_clear_search_history_title">נקה את היסטוריית החיפושים</string>
-  <string name="preferences_default_reminder_dialog">ברירת מחדל של מועד תזכורת</string>
-  <string name="preferences_default_reminder_title">ברירת מחדל של מועד תזכורת</string>
   <string name="preferences_general_title">הגדרות תצוגה של יומן</string>
   <string name="preferences_hide_declined_title">הסתר אירועים שנדחו</string>
   <string name="preferences_history_events">הצג אירועים היסטוריים</string>

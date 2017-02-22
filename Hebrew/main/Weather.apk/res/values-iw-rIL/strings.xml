@@ -100,7 +100,6 @@
   <string name="pressure_connect">%1$s מ\"ב</string>
   <string name="realtime_aqi_title">מדד זיהום אוויר</string>
   <string name="realtime_humidity_title">לחות יחסית</string>
-  <string name="realtime_wind_default_title">רוח</string>
   <string name="refresh_fail">לא ניתן היה להתחבר לרשת</string>
   <string name="retry">נסה שוב</string>
   <string name="set">הגדרות</string>

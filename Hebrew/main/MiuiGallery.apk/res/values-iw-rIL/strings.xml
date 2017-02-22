@@ -180,7 +180,6 @@
   <string name="custom_select_title_select_all">בחר הכל</string>
   <string name="custom_select_title_select_item">בחר פריטים</string>
   <string name="debugging_tip">מייצר נתוני ניפוי שגיאות</string>
-  <string name="default_album_name">אלבום חדש</string>
   <string name="delete">מחיקה</string>
   <string name="delete_album_failed">לא ניתן היה למחוק את האלבום</string>
   <string name="delete_album_msg_format">למחוק את אלבום \"%2$s\" %1$s %3$s?</string>
@@ -553,7 +552,6 @@
   <string name="slideshow_interval_dialog_title">הזן מרווח</string>
   <string name="slideshow_interval_invalid">על המרווח להיות בין 3 ל-3600 שניות</string>
   <string name="slideshow_interval_title">הצג כל שקופית למשך</string>
-  <string name="slideshow_interval_value">%1$d שניות</string>
   <string name="slim_after_backuped_summary">החלף תמונות ברזולוציה מלאה עם גרסאות יעילות יותר לאחר שגובו ל-Mi Cloud. גרסאות המקור יישארו זמינות ב-Mi Cloud. כך תוכל לחסוך נפח אחסון פנימי רב.</string>
   <string name="slim_after_backuped_title">יעל את האחסון המקומי לאחר ביצוע גיבויים</string>
   <string name="slim_introduce">החלף תמונות ברזולוציה מלאה עם גרסאות יעילות יותר לאחר שגובו ל-Mi Cloud. גרסאות המקור יישארו זמינות ב-Mi Cloud.</string>

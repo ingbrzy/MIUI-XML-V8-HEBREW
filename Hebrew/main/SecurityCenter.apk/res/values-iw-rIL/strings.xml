@@ -30,7 +30,6 @@
   <string name="activity_title_auto_start_manager">הפעלה אוטומטית</string>
   <string name="activity_title_create_shortcut">נהל קיצורי דרך</string>
   <string name="activity_title_deep_clean">ניקוי עמוק</string>
-  <string name="activity_title_default_apps_manager">יישומי ברירת מחדל</string>
   <string name="activity_title_garbage_cleanup">מנקה</string>
   <string name="activity_title_license_manager">הרשאות</string>
   <string name="activity_title_memory">זיכרון</string>
@@ -112,7 +111,6 @@
   <string name="apps_item_sign_dialog_content">"חתימת '%s' שונה מהגרסה הקיימת בחנות היישומים. למחוק יישום זה ולהתקין את הגרסה הרשמית? שים לב: התקנת יישום בעל חתימה בעייתית עשוי להוביל לאובדן נתוני היישום."</string>
   <string name="apps_item_sign_dialog_title">התקן יישום רשמי</string>
   <string name="apps_item_sign_install_button_text">החלף</string>
-  <string name="apps_item_sms_default_set_success">הוגדר בהצלחה</string>
   <string name="apps_item_sms_reset_button_text">שחזור הגדרות ברירת מחדל</string>
   <string name="apps_item_sms_title">"הגדרות ברירת מחדל של 'הודעות'"</string>
   <string name="apps_item_summary_sms">ל-%s יש גישה להודעות שלך, הדבר עשוי לגרום לבעיות אבטחה</string>
@@ -552,7 +550,6 @@
   <string name="hints_virus_app_list_item_summary">וירוס (יישום)</string>
   <string name="hints_virus_app_summary">%s (יישום)</string>
   <string name="hints_virus_descx_title">תאור:</string>
-  <string name="hints_virus_lib_update_default_summary">זמן עדכון אחרון בלתי ידוע</string>
   <string name="hints_virus_name_title">וירוס:</string>
   <string name="hints_virus_scan_result_descx">יישום זה הוא סיכון חמור לביטחונו של מכשירך.</string>
   <string name="history_details_title">פרטי ההיסטוריה</string>
@@ -594,7 +591,6 @@
   <string name="last_check_date_yesterday">"נסרק אתמול "</string>
   <string name="last_check_never_checked">סרוק כעת</string>
   <string name="last_checked_date2">נסרק לפני %d ימים</string>
-  <string name="last_checked_default">נסרק לפני %s ימים</string>
   <string name="legal_workday">חג</string>
   <string name="legal_workday_invalidate">שני-שישי (פג תוקף פרטי החגים)</string>
   <string name="legal_workday_invalidate_message">לחץ לעדכון פרטי החגים הלאומיים.</string>
@@ -612,7 +608,6 @@
   <string name="lock_screen_warning_category">התראות מסך נעילה</string>
   <string name="lock_screen_warning_switch_summary">הצג אזהרה במסך הנעילה כאשר השימוש בנתונים חורג מכמות מסוימת</string>
   <string name="lock_screen_warning_switch_title">הצג אזהרות במסך נעילה</string>
-  <string name="lock_screen_warning_value">אזהרת שימוש בנתונים</string>
   <string name="lock_settings_title">מסך נעילה וסיסמא</string>
   <string name="lockpassword_confirm_your_password_header">אשר סיסמא</string>
   <string name="lockpassword_confirm_your_pattern_header">אשר את התבנית</string>
@@ -832,10 +827,7 @@
   <string name="optimize_result_button_to_set">הגדר</string>
   <string name="optimize_result_button_update_now">עדכן</string>
   <string name="optimize_result_summary_sucurity_risk">תכונות אבטחה מסוימות כבויות. הפעל תכונות אלו על מנת להפוך את מכשירך למאובטח יותר:</string>
-  <string name="optimize_result_summary_system_default_settings">שימוש ביישומי ברירת המחדל של MIUI מעלה את רמת יציבות ואבטחת המערכת.</string>
   <string name="optimize_result_title_sucurity_risk">התגלו סיכוני אבטחה</string>
-  <string name="optimize_result_title_system_default_settings">הגדרות ברירת המחדל שונו</string>
-  <string name="optimize_result_toast_system_default_settings">הגדרות ברירת המחדל שוחזרו</string>
   <string name="optimize_result_toast_system_no_item_selected">לא נבחרו פריטים</string>
   <string name="optmizingbar_optimize_done">יועל</string>
   <string name="optmizingbar_ready">מייעל…</string>
@@ -1058,7 +1050,6 @@
   <string name="power_save_mode_start_time">התחלה</string>
   <string name="power_save_mode_summary" formatted="false">"נטר תהליכי רקע, וכבה את הסנכרון. 'חיסכון בסוללה' יכבה אוטומטית כשהסוללה תהיה טעונה ב-60% או 100%."</string>
   <string name="power_save_on_time_auto_save_title">החלפת פרופיל לוח זמנים</string>
-  <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">סיים</string>
   <string name="power_save_on_time_end_time_summary_na">עד</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
@@ -1150,7 +1141,6 @@
   <string name="pref_title_update_notification">התראות שימוש בנתונים</string>
   <string name="pref_title_virus_white_list">חריגים</string>
   <string name="pref_version">גרסה %s</string>
-  <string name="pref_warning_values">רמת אזהרה אודות שימוש בנתונים</string>
   <string name="pref_whitelist_setting">חריגי נדידת נתונים</string>
   <string name="preferred_app_entries_browser">דפדפן</string>
   <string name="preferred_app_entries_camera">מצלמה</string>
@@ -1182,8 +1172,6 @@
   <string name="quick_optimize_no_issue_subtitle">הכל נראה תקין</string>
   <string name="quick_optimize_no_issue_title">לא התגלו בעיות סוללה</string>
   <string name="quick_optimize_sub_summary_text">%s נוספו לחיי הסוללה</string>
-  <string name="reach_daily_limit_value_body">הפחיתו את צריכת הנתונים הסלולריים שלך.</string>
-  <string name="reach_daily_limit_value_title">הגיעה הגבלת נתונים יומיים</string>
   <string name="recently_reject_message">דחה את התקנה של %1$s ו%2$d יישומים אחרים</string>
   <string name="recently_reject_message_one">דחה את %1$s בקשות התקנה</string>
   <string name="recommend_app">יישומים מומלצים</string>
@@ -1244,7 +1232,6 @@
   <string name="safe_result_item_info_app_sign">אין יישומים לא רשמיים</string>
   <string name="safe_result_item_info_app_virus">אין וירוסים ויישומים מסוכנים</string>
   <string name="safe_result_item_info_sms_auth">הגבל גישת יישומי צד שלישי לקודי הרשאה</string>
-  <string name="safe_result_item_info_sms_default">החלף ליישום ברירת המחדל של הודעות</string>
   <string name="safe_result_item_info_sms_url">הגנה מפני הודעות SMS בעלות קישורים זדוניים</string>
   <string name="safe_result_item_info_system_antivirus">הגנה מפני וירוסי דיוג</string>
   <string name="safe_result_item_info_system_root">Root מאובטח</string>
@@ -1362,7 +1349,6 @@
   <string name="summary_cmcc_app_check">לא ניתן לאמת יישומים מסוימים</string>
   <string name="summary_consume_power">התגלו בעיות חימום יתר, הן יכולות להשפיע על חיי הסוללה</string>
   <string name="summary_data_flow">שלוט על השימוש בנתונים סלולריים על מנת להימנע מחיובים נוספים</string>
-  <string name="summary_default_app">%s אינו מוגדר כיישום ברירת המחדל של המערכת</string>
   <string name="summary_dev">הימנע מהתוכנה הזדונית והגן על נתונים אישיים</string>
   <string name="summary_find_device">אתר ונעל את המכשיר מכל מקום</string>
   <string name="summary_flow_notification">הצג נתונים סטטיסטיים לגבי השימוש בנתונים החודשיים שלך בלוח ההודעות</string>
@@ -1442,7 +1428,6 @@
   <string name="tc_diagnostic_upload_success">תודה על המשוב שלך!</string>
   <string name="tc_sms_report_direction">קוד בקשת SMS</string>
   <string name="tc_sms_report_do_report">שלח</string>
-  <string name="tc_sms_report_get_default">תישלח הודעת SMS חינם כדי לקבל נתונים סטטיסטיים על השימוש בנתונים ממפעיל הרשת הסלולרית.</string>
   <string name="tc_sms_report_get_sms">קבל הודעת טקסט</string>
   <string name="tc_sms_report_get_sms2">קבל הודעת טקסט</string>
   <string name="tc_sms_report_get_sms_again">רענן הודעת טקסט</string>
@@ -1508,7 +1493,6 @@
   <string name="title_consume_power">התגלו בעיות סוללה</string>
   <string name="title_consume_power_rank">שימוש בסוללה</string>
   <string name="title_data_flow">שלוט על השימוש בנתונים סלולריים</string>
-  <string name="title_default_app">MIUI %s לא מוגדר כברירת מחדל</string>
   <string name="title_dev_no">"'הגדרות פיתוח' פעיל"</string>
   <string name="title_dev_yes">"'הגדרות פיתוח' כבוי"</string>
   <string name="title_find_device">איתור המכשיר</string>
@@ -1552,7 +1536,6 @@
   <string name="toast_add_virus_white_list_success">"נוסף ל'חריגים'. עיין בפריטים בהגדרות."</string>
   <string name="toast_auto_traffic_correct">השימוש בנתונים מותאם באופן אוטומטי</string>
   <string name="toast_cleaner_cloudscan">שירוטי ניקוי מופעלים ברשת</string>
-  <string name="toast_default_app">%1$s הגדר כברירת מחדל של המערכת %2$s</string>
   <string name="toast_flow_notification">ההתראות שימוש בנתונים מופעלים</string>
   <string name="toast_garbage_lib">"'מנקה' יעודכן אוטומטית"</string>
   <string name="toast_lockscreen_glogin_empty_password">מתבקשת סיסמא</string>

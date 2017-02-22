@@ -6,7 +6,6 @@
   <string name="activate_auto_sms_notification_desc_2_cards">"SMS נשלח מכרטיס SIM %s על מנת להפעיל את שירות 'איתור המכשיר'"</string>
   <string name="activate_auto_sms_notification_title">הפעלת כרטיס SIM</string>
   <string name="activate_feature_call_log_sync">סנכרן יומן שיחות</string>
-  <string name="activate_feature_default_name">שירותי Mi</string>
   <string name="activate_feature_find_device">איתור המכשיר</string>
   <string name="activate_feature_live_talk">חבילת Top-up</string>
   <string name="activate_feature_mms_sync">סנכרון הודעות</string>

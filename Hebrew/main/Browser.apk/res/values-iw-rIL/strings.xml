@@ -232,8 +232,6 @@
   <string name="download_btn_select_none">הסר בחירה מהכל</string>
   <string name="download_complete">ירד בהצלחה</string>
   <string name="download_completed">ההורדה הושלמה</string>
-  <string name="download_default_path_txt">זכור בחירה זו</string>
-  <string name="download_dialog_default_path_invalid">מיקום ההורדה שבחרת לא חוקי. שומר למיקום ברירת המחדל…</string>
   <string name="download_dialog_file_length_hint_txt">"גודל הקובץ: "</string>
   <string name="download_dialog_file_length_lessthan1kb">פחות מ-1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">לא ניתן היה להוריד</string>
@@ -504,17 +502,9 @@
   <string name="pref_enable_news">חדשות</string>
   <string name="pref_enable_novels">ספרים</string>
   <string name="pref_enable_videos">וידאו</string>
-  <string name="pref_extras_reset_default">שחזר לברירת המחדל</string>
-  <string name="pref_extras_reset_default_dlg">לשחזר הגדרות לערכי ברירת מחדל?</string>
-  <string name="pref_extras_reset_default_summary">שחזור הגדרות ברירת מחדל</string>
-  <string name="pref_extras_reset_default_title">אחר</string>
   <string name="pref_extras_send_feedback">שלח משוב</string>
   <string name="pref_extras_title">מתקדם</string>
   <string name="pref_extras_title_version">פרטי גרסה</string>
-  <string name="pref_file_downlaod_save_is_reset_default_settings">שמור קבצים למיקום ברירת המחדל של הדפדפן</string>
-  <string name="pref_file_downlaod_save_reset_default_settings">שחזר מיקום ברירת מחדל</string>
-  <string name="pref_file_download_default_path_prefix">מיקום ברירת מחדל: %s</string>
-  <string name="pref_file_download_save_modify_default_path">מיקום הורדות</string>
   <string name="pref_file_download_save_title">הורדות</string>
   <string name="pref_fling_on_border_enabled">החלק מהקצה להחלפת כרטיסיות</string>
   <string name="pref_fling_on_border_enabled_title_summary">גרור מהקצה השמאלי או הימני של המסך על מנת להחליף בין כרטיסיות</string>
@@ -587,7 +577,6 @@
   <string name="quicklink_saved_before">אתר זה כבר נוסף</string>
   <string name="quicklink_user_define_webpage_title">שם</string>
   <string name="quicklink_user_define_webpage_url">כתובת</string>
-  <string name="quicklinks_group_default_subtitle">ריק</string>
   <string name="quicklinks_management">פופולרי</string>
   <string name="quicklinks_most_visited">הוסף לעמוד הבית</string>
   <string name="quicklinks_most_visited_subtitle">הצג אתרים בהם ביקרת לאחרונה בכרטיסיה חדשה</string>
@@ -734,7 +723,6 @@
   <string name="v5_edit_mode_title_empty">0 נבחרו</string>
   <string name="v5_select_all">בחר הכל</string>
   <string name="version_check_button_checking">בודק…</string>
-  <string name="version_check_button_default">בדוק זמינות עדכונים</string>
   <string name="version_check_button_download_failed">המשך הורדה</string>
   <string name="version_check_button_downloading">מוריד…</string>
   <string name="version_check_button_install">התקן</string>

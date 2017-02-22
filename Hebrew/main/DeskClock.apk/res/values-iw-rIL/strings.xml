@@ -35,9 +35,6 @@
   <string name="control_set_alarm_with_existing">ההתראה מוגדרת: %s</string>
   <string name="day">יום אחד</string>
   <string name="days">%s ימים</string>
-  <string name="default_alarm_alert">הגדר צליל ברירת מחדל להתראות</string>
-  <string name="default_alarm_title">צלצול ברירת מחדל</string>
-  <string name="default_label">התראה</string>
   <string name="delete">מחיקה</string>
   <string name="delete_alarm">מחק התראה</string>
   <string name="delete_alarm_confirm">למחוק את ההתראה/ות שנבחרו?</string>

@@ -43,7 +43,6 @@
   <string name="action_bar_up_description">נווט למעלה</string>
   <string name="action_menu_overflow_description">אפשרויות נוספות</string>
   <string name="action_mode_done">סיום</string>
-  <string name="activity_chooser_view_dialog_title_default">בחר פעילות</string>
   <string name="activity_chooser_view_see_all">הצג הכל</string>
   <string name="activity_list_empty">לא נמצאו פעילויות תואמות.</string>
   <string name="activity_resolver_use_always">תמיד</string>
@@ -170,11 +169,6 @@
   <string name="day">יום</string>
   <string name="days">ימים</string>
   <string name="decline">דחה</string>
-  <string name="defaultVoiceMailAlphaTag">דואר קולי</string>
-  <string name="default_audio_route_category_name">מערכת</string>
-  <string name="default_audio_route_name">טלפון</string>
-  <string name="default_audio_route_name_dock_speakers">רמקולים של מעגן</string>
-  <string name="default_audio_route_name_headphones">אוזניות</string>
   <string name="delete">מחק</string>
   <string name="deleteText">מחק</string>
   <string name="deleted_key">%1$s נמחק</string>
@@ -355,7 +349,6 @@
   <string name="imTypeHome">בית</string>
   <string name="imTypeOther">אחר</string>
   <string name="imTypeWork">עבודה</string>
-  <string name="ime_action_default">בצע</string>
   <string name="ime_action_done">סיום</string>
   <string name="ime_action_go">התחל</string>
   <string name="ime_action_next">הבא</string>
@@ -483,7 +476,6 @@
   <string name="lockscreen_access_pattern_cleared">התבנית נמחקה</string>
   <string name="lockscreen_access_pattern_detected">התבנית הושלמה</string>
   <string name="lockscreen_access_pattern_start">יצירת התבנית החלה</string>
-  <string name="lockscreen_carrier_default">אין שירות</string>
   <string name="lockscreen_emergency_call">חירום</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">ביצעת %d ניסיונות שגויים לביטול נעילת הטלפון. לאחר %d ניסיונות כושלים נוספים, הטלפון יעבור איפוס לברירת המחדל של היצרן וכל נתוני המשתמש יאבדו.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"‏שרטטת את קו ביטול הנעילה באופן שגוי %d פעמים. בעוד %d ניסיונות כושלים נוספים, תתבקש לבטל את נעילת הטלפון באמצעות פרטי הכניסה שלך ל-Google‏.
@@ -946,8 +938,6 @@
   <string name="restr_pin_incorrect">שגוי</string>
   <string name="restr_pin_try_later">נסה שוב מאוחר יותר</string>
   <string name="revoke">בטל</string>
-  <string name="ringtone_default">רינגטון ברירת מחדל</string>
-  <string name="ringtone_default_with_actual">רינגטון ברירת מחדל (%1$s)</string>
   <string name="ringtone_picker_title">רינגטונים</string>
   <string name="ringtone_silent">ללא</string>
   <string name="ringtone_unknown">רינגטון לא ידוע</string>
@@ -1176,7 +1166,6 @@
   <string name="wifi_calling_off_summary">כבוי</string>
   <string name="wifi_connect_alert_message">היישום %1$s מנסה להתחבר אל רשת ה-Wi-Fi ‏%2$s</string>
   <string name="wifi_connect_alert_title">האם להתיר את החיבור?</string>
-  <string name="wifi_connect_default_application">יישום</string>
   <string name="wifi_no_internet">‏אין ל-Wi-Fi גישה לאינטרנט</string>
   <string name="wifi_no_internet_detailed">גע להצגת אפשרויות</string>
   <string name="wifi_p2p_dialog_title">‏Wi-Fi ישיר</string>
@@ -1203,9 +1192,6 @@
   <string name="years">שנים</string>
   <string name="yes">אישור</string>
   <string name="zen_mode_alarm">עד %1$s (ההתראה הבאה)</string>
-  <string name="zen_mode_default_events_name">אירוע</string>
-  <string name="zen_mode_default_weekends_name">סוף השבוע</string>
-  <string name="zen_mode_default_weeknights_name">ערב ביום חול</string>
   <string name="zen_mode_downtime_feature_name">זמן השבתה</string>
   <string name="zen_mode_feature_name">נא לא להפריע</string>
   <string name="zen_mode_forever">עד שתכבה</string>

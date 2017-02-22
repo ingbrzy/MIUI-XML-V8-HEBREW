@@ -38,7 +38,6 @@
   <string name="pref_category_quick_pay">תשלום מהיר</string>
   <string name="pref_category_quick_settings">הגדרות מהירות</string>
   <string name="pref_category_system">הגדרות מערכת</string>
-  <string name="restore_default">שחזור לברירת מחדל</string>
   <string name="restore_intro">שחזור הגדרות ברירת מחדל, כולל של קיצורי דרך ואופן סידורם. נתוני יישומים במכשירך לא יושפעו.</string>
   <string name="show_on_keyguard">הצג במסך הנעילה</string>
   <string name="theme_manager_not_supported">מנהל ערכות הנושא אינו נתמך.</string>

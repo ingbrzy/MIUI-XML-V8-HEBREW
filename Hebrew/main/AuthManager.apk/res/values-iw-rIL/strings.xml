@@ -271,7 +271,6 @@
   <string name="SysOpt_Boost_Receiver">ברקע</string>
   <string name="app_name">מנהל ההרשאות</string>
   <string name="current_permission_template">%1$s מתוך %2$s</string>
-  <string name="default_permission_description">לבצע פעולה לא ידועה</string>
   <string name="grant_confirm_question">האם ברצונך להעניק את ההרשאות הנ\"ל? תתקבל גישה אל:</string>
   <string name="grant_dialog_button_allow">אפשר</string>
   <string name="grant_dialog_button_deny">דחה</string>

@@ -5,8 +5,6 @@
   <string name="app_name">איתור המכשיר</string>
   <string name="captcha">קוד Captcha</string>
   <string name="change_find_device_status_failed">לא ניתן היה לבטל את הנעילה. %s</string>
-  <string name="default_lock_msg_words">מכשיר זה מקושר לחשבון Mi קיים. מסיבות אבטחה, עליך להזין סיסמה על מנת לאמת את המכשיר.</string>
-  <string name="default_lock_msg_words_with_phone">היי! איבדתי את המכשיר שלי. אנא צור איתי קשר בהקדם! תודה מראש!</string>
   <string name="device_locked">מכשיר זה נעול</string>
   <string name="device_lost">מכשיר זה אבד.</string>
   <string name="disable_find_device_error">"לא ניתן לכבות את 'איתור המכשיר'. %1$s"</string>

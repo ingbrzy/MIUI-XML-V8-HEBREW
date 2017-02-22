@@ -2,7 +2,6 @@
 <resources>
   <string name="accessibility_calllog_detail">פרטי יומן שיחות</string>
   <string name="account_container_title">יובא מ-</string>
-  <string name="account_default">טלפון</string>
   <string name="account_phone">בטלפון בלבד, לא מסונכרן</string>
   <string name="account_sim">כרטיס SIM</string>
   <string name="account_sim2">כרטיס SIM %d</string>
@@ -155,7 +154,6 @@
   <string name="clearFrequentsConfirmation_title">למחוק אנשי קשר בשימוש שכיח?</string>
   <string name="clearFrequentsProgress_title">מנקה אנשי קשר בשימוש שכיח…</string>
   <string name="clear_copy_number_description">נקה את המספר שהועתק</string>
-  <string name="clear_default">הסר הגדרת ברירת מחדל</string>
   <string name="clear_digits">נקה מספר טלפון</string>
   <string name="click_close">לחץ לסגירה</string>
   <string name="clip_dialog_title">לחייג למספר שהועתק?</string>
@@ -258,7 +256,6 @@
   <string name="date_picker_label">הזכר לי 3 ימים לפני ושוב ביום עצמו</string>
   <string name="date_time_set">הגדר</string>
   <string name="date_year_toggle">ציין שנה</string>
-  <string name="default_ringtone">צלצול ברירת מחדל</string>
   <string name="deleteConfirmation">איש קשר זה ימחק.</string>
   <string name="deleteConfirmationDetail">למחוק \"%s\"?</string>
   <string name="deleteConfirmation_title">למחוק איש קשר זה?</string>
@@ -879,7 +876,6 @@
   <string name="preference_contacts_display">העדפות תצוגה</string>
   <string name="preference_contacts_filter">קבע תצורת רשימות אנשי קשר</string>
   <string name="preference_contacts_more">סדר אנשי קשר</string>
-  <string name="preference_dial_pad_touch_tone_default">ברירת מחדל</string>
   <string name="preference_dial_pad_touch_tone_human">קול אנושי</string>
   <string name="preference_dial_pad_touch_tone_piano">קלידי פסנתר</string>
   <string name="preference_dial_pad_touch_tone_switch">צלילי לוח המקשים</string>
@@ -1025,7 +1021,6 @@
   <string name="service_provider">תיקיה</string>
   <string name="service_provider_detail">פרטי ספריה</string>
   <string name="set_data_package">הגדר תכנית נתונים תחילה</string>
-  <string name="set_default">הגדר כברירת מחדל</string>
   <string name="set_photo_failed_msg">לא ניתן היה להגדיר תמונה.</string>
   <string name="share_error">לא ניתן לשתף איש קשר זה</string>
   <string name="share_over_limit">לא ניתן לשתף יותר מ-1000 אנשי קשר</string>
@@ -1159,7 +1154,6 @@
   <string name="vcard_import_failed">לא ניתן לייבא קובץ vCard %s.</string>
   <string name="vcard_import_request_rejected_message">בקשת ייבוא vCard נדחתה. נסה שוב מאוחר יותר.</string>
   <string name="vcard_import_will_start_message">%s ייובא בקרוב.</string>
-  <string name="vcard_import_will_start_message_with_default_name">ייבוא הקובץ יתבצע בקרוב.</string>
   <string name="vcard_info_send_error">לא ניתן לשלוח עקב שגיאת קובץ Vcard</string>
   <string name="vcard_unknown_filename">איש קשר</string>
   <string name="video_call">שיחת וידאו</string>

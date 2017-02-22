@@ -44,7 +44,6 @@
   <string name="hide_mode_ultimate_desc">מצב האולטימטיבי פעיל. היישומים ברקע יוקפאו. בטל חיסכון בסוללה על מנת לצאת ממצב אולטימטיבי.</string>
   <string name="high">ביצועים</string>
   <string name="hints_loading_text">רק רגע…</string>
-  <string name="invalid_size_value">לא ניתן לקבל את גודל החבילה.</string>
   <string name="location_disable_description">יישומים הפועלים ברקע יכולים לגשת לשירותי המיקום לתקופה קצרה בלבד, בעת שהגישה הרציפה מוגבלת</string>
   <string name="location_disable_title">להגביל</string>
   <string name="location_enable_description">את היישומים יכולים להשתמש בשירותי מיקום ברקע</string>

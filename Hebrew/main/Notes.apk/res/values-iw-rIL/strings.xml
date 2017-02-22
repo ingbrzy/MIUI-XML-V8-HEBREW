@@ -22,7 +22,6 @@
   <string name="attachment_gallery">"בחר מתוך 'גלריה'"</string>
   <string name="button_new_note">חדש</string>
   <string name="call_folder_name">פתקי שיחות</string>
-  <string name="default_folder_name">תיקיה ללא שם</string>
   <string name="delete_folder_dialog_tile">מחק תיקיה</string>
   <string name="dlg_btn_set_password">הגדר סיסמה</string>
   <string name="dlg_check_reminder">אל תציג שוב</string>
@@ -130,7 +129,6 @@
   <string name="sns_choose_quality_high">גבוהה (%1$s)</string>
   <string name="sns_choose_quality_low">נמוכה</string>
   <string name="sns_choose_quality_title">בחר באיכות התמונה</string>
-  <string name="sns_content_default">שתף תמונה</string>
   <string name="sns_desc_image_preview">תצוגה מקדימה של תמונה</string>
   <string name="sns_desc_preview_wechat">תצוגת הודעת WeChat</string>
   <string name="sns_desc_preview_weibo">תצוגת הודעת Weibo</string>
@@ -148,7 +146,6 @@
   <string name="theme_title_blue">כחול</string>
   <string name="theme_title_candy">ממתק</string>
   <string name="theme_title_dark">אפל</string>
-  <string name="theme_title_default">ברירת מחדל</string>
   <string name="theme_title_green">ירוק</string>
   <string name="theme_title_invitation">הזמנה</string>
   <string name="theme_title_red">אדום</string>

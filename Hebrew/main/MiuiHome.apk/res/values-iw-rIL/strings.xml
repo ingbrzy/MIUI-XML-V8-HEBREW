@@ -56,10 +56,6 @@
   <string name="current_preview">תצוגה מקדימה</string>
   <string name="current_wallpaper">נוכחי</string>
   <string name="custom_wallpaper_picker">סייר</string>
-  <string name="default_folder_title_game">משחקים</string>
-  <string name="default_folder_title_recommend">יישומים נוספים</string>
-  <string name="default_folder_title_security">מערכת</string>
-  <string name="default_folder_title_tools">כלים</string>
   <string name="delete">מחיקה</string>
   <string name="delete_screen">מחק מסך</string>
   <string name="delete_wallpaper_message">למחוק טפט %1$d?</string>
@@ -203,7 +199,6 @@
   <string name="pref_wallpaper_scroll_type_title">גלילת טפט</string>
   <string name="preferences_general_title">הגדרות נוספות</string>
   <string name="preferences_title">הגדרות המשגר</string>
-  <string name="recommend_apps_default_title">ריק</string>
   <string name="recommend_apps_notice">יישומים מומלצים</string>
   <string name="recommend_apps_notice_nodata">יישומים מומלצים (אין נתונים)</string>
   <string name="recommend_apps_switch_title">יישומים מומלצים</string>

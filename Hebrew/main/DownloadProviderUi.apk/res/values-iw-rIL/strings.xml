@@ -235,7 +235,6 @@
   <string name="paused_waiting_to_retry">ממתין לניסיון מחודש</string>
   <string name="percent_title">%1$s אנשים הורידו</string>
   <string name="period_of_validity">תוקף:</string>
-  <string name="pref_download_revert_default">ברירת מחדל</string>
   <string name="pref_download_settings_title">מגבלת גודל הורדה</string>
   <string name="pref_download_storage_path">צור תיקיה חדשה עבור ההורדות</string>
   <string name="pref_sniff_shortcut">"צור קיצור דרך לחיפוש באינטרנט ב'מסך הבית'"</string>
@@ -271,7 +270,6 @@
   <string name="resume_download">המשך</string>
   <string name="retry_after_network_available">לא ניתן להתחבר לרשת. בדוק את חיבור הנתונים שלך ונסה שוב.</string>
   <string name="retry_download">נסה שוב</string>
-  <string name="revert_default">שחזור הגדרות ברירת המחדל</string>
   <string name="revert_download_path">להשתמש במיקום ברירת המחדל עבור הורדות?</string>
   <string name="save_path">"שמור הורדות ב: "</string>
   <string name="save_text">חסוך ￥%1$s</string>
@@ -378,7 +376,6 @@
   <string name="text_showmore_infoflow">הצג עוד מקורות</string>
   <string name="third_web_cancel">ביטול</string>
   <string name="third_web_confirm">אישור</string>
-  <string name="third_web_default">זכור מיקום זה</string>
   <string name="third_web_filename_hint">שם</string>
   <string name="third_web_filesize">גודל</string>
   <string name="third_web_savepath">מיקום</string>

@@ -561,11 +561,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <item>10 דקות</item>
     <item>לעולם לא</item>
   </string-array>
-  <string-array name="security_settings_premium_sms_values">
-    <item>שאל</item>
-    <item>לעולם אל תאפשר</item>
-    <item>אפשר תמיד</item>
-  </string-array>
   <string-array name="select_logd_size_summaries">
     <item>‏64K לכל מאגר יומן</item>
     <item>‏256K לכל מאגר יומן</item>
