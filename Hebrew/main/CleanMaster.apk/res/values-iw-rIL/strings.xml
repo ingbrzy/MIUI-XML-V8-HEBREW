@@ -138,6 +138,7 @@
   <string name="deepclean_title_uninstall_apps">יישומים שהיו בשימוש לעיתים רחוקות</string>
   <string name="deepclean_video_content">מחק סרטונים שנצפו או סרטונים מיותרים</string>
   <string name="deepclean_video_summary_empty">הכל נראה טוב</string>
+  <string name="default_cache_type">קבצי נתונים</string>
   <string name="dialog_content_checkbox_delete_cloud_image">מחיקת תמונות מ-Mi Cloud</string>
   <string name="dialog_content_select_all_confirm">שמור עותק של תמונה זו?</string>
   <string name="dialog_msg_add_white_list_error">לא ניתן להוסיף לחריגים</string>
@@ -261,6 +262,7 @@
   <string name="low_memory_warning_dialog_ok_button">הסר</string>
   <string name="low_memory_warning_dialog_title">אין מספיק שטח פנוי</string>
   <string name="mainbtn_text_quick_cleanup">נקה %s</string>
+  <string name="mainbtn_text_quick_cleanup_default">נקה</string>
   <string name="memeory_check_content">%1$d יישומים, זיכרון %2$s</string>
   <string name="month_day_format">dd MMM</string>
   <string name="msg_cleanup_db_update_checking">בודק עדכונים…</string>

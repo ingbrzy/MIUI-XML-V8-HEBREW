@@ -48,6 +48,7 @@
   <string name="apn_settings">שמות של נקודות גישה</string>
   <string name="area_code_preference_be_set_summary">מיקום נוכחי: %s</string>
   <string name="area_code_preference_summary">חייג אזור חיוג אוטומטי</string>
+  <string name="areacode_set_default">ברירת מחדל</string>
   <string name="atr_disable">דיווחי תנועה אזוריים מבוטלים</string>
   <string name="atr_enable">דיווחי תנועה אזוריים מופעלים</string>
   <string name="audio_mode_earpiece">רמקול אוזניה</string>
@@ -128,6 +129,7 @@
   <string name="callFailed_userBusy">הקו לא פנוי</string>
   <string name="callUnanswered_forwarded">השיחה לא נעתנה והופניתה</string>
   <string name="call_advanced_setting_title">הגדרות מתקדמות</string>
+  <string name="call_background_default">ברירת מחדל</string>
   <string name="call_background_lock_wallpaper">"טפט 'מסך הנעילה'"</string>
   <string name="call_background_setting">רקע שיחה</string>
   <string name="call_barring">חסימת שיחות</string>
@@ -238,6 +240,8 @@
   <string name="cfnry_title">העבר כשאין מענה</string>
   <string name="cfu_title">העבר את כל השיחות</string>
   <string name="change_data_preference_4g_only_prompt">נראה כי ברשותך כרטיס SIM התומך ב-4G בלבד. להגדיר אותו כברירת המחדל עבור שימוש בנתונים סלולריים?</string>
+  <string name="change_default_data_card">ברירת מחדל של הגלישה סלולרית של ה-SIM</string>
+  <string name="change_default_data_card_summary">נראה כאילו שינית כרטיסי SIM. הגדר כרטיס SIM זה כברירת מחדל עבור חיבור הנתונים הסלולרי שלך?</string>
   <string name="change_num">ערוך</string>
   <string name="change_password">שינוי סיסמת החסימה</string>
   <string name="change_pin">שנה קוד PIN של כרטיס ה-SIM</string>
@@ -245,6 +249,7 @@
   <string name="chose_product_summary">התקשר בזול</string>
   <string name="chose_product_title">חבילת Top-up</string>
   <string name="clir_choices_hide_number">הסתר מספר</string>
+  <string name="clir_choices_network_default">רשת ברירת מחדל</string>
   <string name="clir_choices_show_number">הצג מספר</string>
   <string name="close_dialog">אישור</string>
   <string name="close_profile">סגור</string>
@@ -253,6 +258,7 @@
   <string name="command_error_fdn_failure">כודם אתה צריך לכבות FDN</string>
   <string name="common_problem_message">ברר עוד ב-%1$s, או התקשר לשירות הלקוחות שלנו ב-400-100-5678</string>
   <string name="common_setting">הגדרות כלליות</string>
+  <string name="config_default_data_sim">הגדרות</string>
   <string name="confirmPin2Label">אשר קוד 2 PIN חדש</string>
   <string name="confirmPinLabel">אשר קוד PIN חדש</string>
   <string name="confirm_password_label">אשר סיסמה חדשה</string>
@@ -264,6 +270,7 @@
   <string name="connect_disconnect_vibrate_title">הפעל רטט במענה לשיחתך</string>
   <string name="connect_disconnect_vibrate_weak">חלש</string>
   <string name="connect_later">לא ניתן להתחבר לרשת זו. נסה שוב מאוחר יותר.</string>
+  <string name="connection_service_default_label">שירות שיחה וירטואלית</string>
   <string name="contactAddFailed">" לא ניתן להוסיף איש קשר ל-SIM "</string>
   <string name="contactAddSuccess">הוספת איש קשר ל-SIM</string>
   <string name="contactPhoto">תמונת איש קשר</string>
@@ -280,6 +287,10 @@
   <string name="data_enable_summary">אפשר גישה לנתונים באמצעות רשת סלולרית</string>
   <string name="data_enabled">נתונים סלולריים</string>
   <string name="deactivate_all">בטל הכל</string>
+  <string name="default_area_code_setting">קידומת ברירת מחדל</string>
+  <string name="default_areacode">קידומת ברירת מחדל</string>
+  <string name="default_notification_description">צליל ברירת מחדל (%1$s)</string>
+  <string name="default_preference_summary">&lt;לא מוגדר&gt;</string>
   <string name="delete">מחק</string>
   <string name="deleteAllSimEntries">מחק את כל אנשי הקשר מה-SIM</string>
   <string name="deleteSimContacts">מוחק…</string>
@@ -680,7 +691,10 @@
   <string name="mobile_network_settings_not_available">הגדרות רשת להתקנים ניידים אינן זמינות למשתמש זה</string>
   <string name="mobile_networks">הגדרות רשת</string>
   <string name="msim_apn_not_set">לא הוגדר</string>
+  <string name="msim_default_setting">הגדרות ברירת מחדל</string>
   <string name="msim_disable_sim_card_btn_text">אישור</string>
+  <string name="msim_disable_sim_card_summary_default_card">כרטיס SIM זה מוגדר כעת כברירת מחדל במכשיר זה. אם תפסיק להשתמש בו, לא ניתן יהיה לבצע שיחות או להשתמש בחיבור הנתונים הסלולרי. אתה יכול לעצור כרטיס SIM זה לאחר הגדרת ה-SIM אחר ככרטיס ברירת המחדל שלך.</string>
+  <string name="msim_disable_sim_card_summary_non_default_card">אתה לא יכול להיות מסוגל לבצע שיחות או להשתמש בחיבור הנתונים הסלולרי שלך. להפסיק את השימוש בכרטיס ה-SIM ה%s?</string>
   <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">אל תגביל את ה-SIM המשני שלך במצב שיחת חרום חוזרת.</string>
   <string name="msim_disable_sim_card_title">להפסיק להשתמש בכרטיסי SIM</string>
   <string name="msim_enable_sim">הפעל</string>
@@ -952,6 +966,7 @@
   <string name="preference_category_ringtone">צלצול &amp; רטט</string>
   <string name="preference_data_usage_summary">הגדר את תוכנית הנתונים שלך על מנת לשלוט בצריכת הנתונים הסלולריים שלך</string>
   <string name="preference_data_usage_title">הגדר תוכנית נתונים</string>
+  <string name="preference_dial_pad_touch_tone_default">ברירת מחדל</string>
   <string name="preference_dial_pad_touch_tone_off">כבוי</string>
   <string name="preference_dial_pad_touch_tone_piano">צליל פסנתר</string>
   <string name="preference_dial_pad_touch_tone_title">צליל מקשי חיוג</string>
@@ -1100,6 +1115,7 @@
   <string name="respond_via_sms_cannot_empty">ההודעה לא יכולה להיות ריקה</string>
   <string name="respond_via_sms_confirmation_format">ההודעה נשלחה ל-%s.</string>
   <string name="respond_via_sms_edittext_dialog_title">תגובה מהירה</string>
+  <string name="respond_via_sms_menu_reset_default_activity">לשחזר לברירות מחדל</string>
   <string name="respond_via_sms_setting_summary">ערוך תבניות ערוכות מראש</string>
   <string name="respond_via_sms_setting_title">תגובות מהירות</string>
   <string name="response_error">תגובה לא צפויה מהרשת.</string>
@@ -1172,6 +1188,7 @@
   <string name="sim_card_summary_no_sim_card">נא להתקין את כרטיס ה-SIM</string>
   <string name="sim_contact_name">שם</string>
   <string name="sim_contact_number">מספר</string>
+  <string name="sim_description_default">כרטיס SIM, חריץ: %s</string>
   <string name="sim_description_emergency_calls">שיחות חירום בלבד</string>
   <string name="sim_label_emergency_calls">שיחת חירום</string>
   <string name="sim_ndp_dismiss_text">התעלם</string>
@@ -1230,6 +1247,7 @@
   <string name="sum_cfu_enabled_no_number">המספר אינו זמין</string>
   <string name="sum_cw_disabled">במהלך שיחה, הודע לי על שיחה נכנסת</string>
   <string name="sum_cw_enabled">במהלך שיחה, הודע לי על שיחה נכנסת</string>
+  <string name="sum_default_caller_id">השתמש בהגדרות ברירת המחדל של ספק השירות על מנת להציג את המספר שלי בשיחות יוצאות</string>
   <string name="sum_fdn">נהל מספרי חיוג קבועים</string>
   <string name="sum_fdn_change_pin">שנה את קוד ה-PIN לקבלת גישת FDN</string>
   <string name="sum_fdn_manage_list">נהל מספרי חיוג קבועים</string>
@@ -1333,6 +1351,7 @@
   <string name="voice_report_incoming_call">מתקשר</string>
   <string name="voice_report_unknown_num">מספר לא מזוהה</string>
   <string name="voicemail">תא קולי</string>
+  <string name="voicemail_default">המפעיל שלי</string>
   <string name="voicemail_notification_ringtone_title">צליל</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">רטט</string>
   <string name="voicemail_notification_vibrate_when_title">רטט</string>

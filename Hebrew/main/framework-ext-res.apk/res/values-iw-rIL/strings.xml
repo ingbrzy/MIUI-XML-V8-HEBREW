@@ -24,6 +24,7 @@
   <string name="cancel_action">בטל</string>
   <string name="copy">העתק</string>
   <string name="cut">גזור</string>
+  <string name="default_name">ברירת מחדל</string>
   <string name="enable_livetalk_summary">חסוך 70% בחיובים בגין השיחות שלך</string>
   <string name="enable_livetalk_title">הפעל חבילת Top-up</string>
   <string name="fc_dialog_body">שלח דוח באגים Mi לניתוח? דו\"ח זה עשוי להכיל מידע אישי מזהה. הדו\"ח שלך ישמש כדי לעזור לתקן את הבאג הזה ולעולם לא ישותף בכל קשר מסחרי.</string>

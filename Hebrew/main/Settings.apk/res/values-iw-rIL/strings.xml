@@ -63,6 +63,7 @@
 
 &amp;#1513;&amp;#1497;&amp;#1501; &amp;#1500;&amp;#1489;: &amp;#1492;&amp;#1511;&amp;#1513;&amp;#1492; &amp;#1502;&amp;#1513;&amp;#1493;&amp;#1500;&amp;#1513;&amp;#1514; &amp;#1500;&amp;#1492;&amp;#1490;&amp;#1491;&amp;#1500;&amp;#1492; &amp;#1508;&amp;#1493;&amp;#1506;&amp;#1500;&amp;#1514; &amp;#1489;&amp;#1499;&amp;#1500; &amp;#1502;&amp;#1511;&amp;#1493;&amp;#1501; &amp;#1502;&amp;#1500;&amp;#1489;&amp;#1491; &amp;#1489;&amp;#1502;&amp;#1511;&amp;#1500;&amp;#1491;&amp;#1514; &amp;#1493;&amp;#1489;&amp;#1505;&amp;#1512;&amp;#1490;&amp;#1500; &amp;#1492;&amp;#1504;&amp;#1497;&amp;#1493;&amp;#1493;&amp;#1496;."</string>
   <string name="accessibility_screen_magnification_title">תנועות לשינוי גודל</string>
+  <string name="accessibility_service_default_description">לא סופק תיאור.</string>
   <string name="accessibility_services_title">שירותים</string>
   <string name="accessibility_settings">נגישות</string>
   <string name="accessibility_settings_title">הגדרות נגישות</string>
@@ -203,6 +204,7 @@
   <string name="app_launch_domain_links_title">קישורים של יישום</string>
   <string name="app_launch_open_domain_urls_summary">פתח בלי לשאול</string>
   <string name="app_launch_open_domain_urls_title">פתח קישורים נתמכים</string>
+  <string name="app_launch_other_defaults_title">ברירות מחדל אחרות</string>
   <string name="app_launch_supported_domain_urls_title">קישורים נתמכים</string>
   <string name="app_link_open_always">פתח ביישום זה</string>
   <string name="app_link_open_ask">שאל בכל פעם</string>
@@ -315,6 +317,7 @@
   <string name="background_data_dialog_title">להשבית נתוני רקע?</string>
   <string name="background_data_summary">יישומים יכולים לסנכרן, לשלוח ולקבל נתונים בכל עת</string>
   <string name="background_process_stop_description">זהו תהליך יישום ישן שעדיין פועל למקרה שיהיה נחוץ שוב. בדרך כלל אין סיבה להפסיק אותו.</string>
+  <string name="backup_configure_account_default_summary">אף חשבון אינו מאחסן כרגע נתונים מגובים</string>
   <string name="backup_configure_account_title">חשבון גיבוי</string>
   <string name="backup_data_summary">גבה נתוני יישומים, סיסמאות רשת אלחוטית והגדרות אחרות בשרתי Google</string>
   <string name="backup_data_title">גיבוי הנתונים שלי</string>
@@ -550,6 +553,8 @@
   <string name="bluetooth_pb_remember_choice">אל תשאל שוב</string>
   <string name="bluetooth_permission_request">‏בקשה להרשאת Bluetooth</string>
   <string name="bluetooth_phonebook_request">בקשת גישה לספר טלפונים</string>
+  <string name="bluetooth_pin_values_hint">בדרך כלל 0000 או 1234</string>
+  <string name="bluetooth_pin_values_hint_16_digits">חייב להיות בן 16 ספרות</string>
   <string name="bluetooth_preference_connected_devices">התקנים מחוברים</string>
   <string name="bluetooth_preference_device_settings">הגדרות המכשיר</string>
   <string name="bluetooth_preference_found_devices">מכשירים זמינים</string>
@@ -1011,6 +1016,17 @@
   <string name="debug_monitoring_category">מעקב</string>
   <string name="debug_networking_category">תקשורת רשתות</string>
   <string name="debug_view_attributes">אפשר בדיקת תכונת תצוגה</string>
+  <string name="default_app">(ברירת מחדל)</string>
+  <string name="default_apps_title">ברירת מחדל של יישומים</string>
+  <string name="default_assist_none">ללא</string>
+  <string name="default_assist_title">"יישום 'סיע'"</string>
+  <string name="default_browser_title">יישום דפדפן</string>
+  <string name="default_browser_title_none">אין ברירת מחדל לדפדפן</string>
+  <string name="default_emergency_app">יישום לשעת חירום</string>
+  <string name="default_input_method">בחר מקלדת ברירת מחדל</string>
+  <string name="default_phone_title">יישום הטלפון</string>
+  <string name="default_sound">צליל ברירת מחדל</string>
+  <string name="default_usb_mode">חיבור USB</string>
   <string name="delete">מחק</string>
   <string name="delete_fingerprint_confirm_msg">להסיר טביעת אצבע?</string>
   <string name="delete_fingerprint_text">הסר טביעת אצבע</string>
@@ -1040,6 +1056,7 @@
   <string name="device_cpu8_info">שמונה ליבות</string>
   <string name="device_edit_title">שנה את שם הטלפון</string>
   <string name="device_feedback">שלח משוב על המכשיר הזה</string>
+  <string name="device_info_default">לא ידוע</string>
   <string name="device_info_label">מידע על המכשיר</string>
   <string name="device_info_not_available">לא זמין</string>
   <string name="device_info_settings">סטטוס הטלפון</string>
@@ -1569,6 +1586,7 @@
   <string name="internal_storage">אחסון פנימי</string>
   <string name="internal_storage_sentence">אחסון פנימי</string>
   <string name="invalid_location">מיקום ההתקנה אינו חוקי.</string>
+  <string name="invalid_size_value">לא ניתן לחשב את גודל החבילה.</string>
   <string name="join_many_items_last">%1$s ו-%2$s</string>
   <string name="join_two_items">%1$s ו-%2$s</string>
   <string name="keep_legacy_fingerprint">השאר</string>
@@ -1578,6 +1596,7 @@
   <string name="key_position_cat">מיקום הלחצנים</string>
   <string name="key_settings">לחצנים</string>
   <string name="key_settings_title">לחצנים</string>
+  <string name="keyboard_layout_default_label">ברירת מחדל</string>
   <string name="keyboard_layout_dialog_setup_button">הגדר פריסות מקלדת</string>
   <string name="keyboard_layout_dialog_switch_hint">‏כדי להחליף פריסה, הקש Control-מקש רווח</string>
   <string name="keyboard_layout_dialog_title">בחירת פריסת מקלדת</string>
@@ -1597,6 +1616,8 @@
   <string name="keywords_app_permissions">אבטחה של הרשאות ליישומים</string>
   <string name="keywords_battery">חיוב על שימוש באספקת מתח</string>
   <string name="keywords_date_and_time">שעון צבאי</string>
+  <string name="keywords_default_apps">ברירת מחדל ליישומים</string>
+  <string name="keywords_default_phone_app">ברירת מחדל לחייגן הטלפון</string>
   <string name="keywords_display">מסך מגע</string>
   <string name="keywords_display_auto_brightness">מסך עמום סוללה מסך מגע</string>
   <string name="keywords_display_brightness_level">מסך עמום סוללה מסך מגע</string>
@@ -1612,6 +1633,7 @@
   <string name="keywords_location">היסטוריית מיקומים מהסביבה הקרובה</string>
   <string name="keywords_location_mode">דיוק</string>
   <string name="keywords_lockscreen">‏החלקה סיסמה קו ביטול נעילה מספר PIN</string>
+  <string name="keywords_more_default_sms_app">הודעת טקסט שליחת הודעות טקסט הודעות העברת הודעות</string>
   <string name="keywords_more_mobile_networks">‏סלולרי תא ספק אלחוטי נתונים 4 g ‏3g ‏2g ‏lte</string>
   <string name="keywords_network_reset">איפוס להגדרות יצרן</string>
   <string name="keywords_printing">מדפסת</string>
@@ -1634,6 +1656,9 @@
   <string name="large_font">גדול</string>
   <string name="last_synced">סונכרן לאחרונה ב-%1$s</string>
   <string name="last_time_used_label">מועד שימוש אחרון</string>
+  <string name="launch_by_default">פתח כברירת מחדל</string>
+  <string name="launch_defaults_none">לא הוגדרו ברירות מחדל</string>
+  <string name="launch_defaults_some">הוגדרו כמה ברירת מחדל</string>
   <string name="launching_cit">מפעיל את CIT</string>
   <string name="launching_pho">טוען את פרטי הטלפון, אנא המתן.</string>
   <string name="launching_rep">מדווח…</string>
@@ -1671,6 +1696,7 @@
   <string name="local_backup_password_toast_validation_failure">הגדרת סיסמת גיבוי נכשלה</string>
   <string name="local_backup_section_summary">גיבוי הגדרות המערכת, פרטי חשבון ויישומים</string>
   <string name="local_backup_section_title">גיבויים מקומיים</string>
+  <string name="locale_default">ברירת מחדל</string>
   <string name="locale_settings">אזור</string>
   <string name="location_access_off">מכובה</string>
   <string name="location_access_on">פועל</string>
@@ -2091,11 +2117,18 @@
   <string name="nfc_how_it_works_got_it">הבנתי</string>
   <string name="nfc_how_it_works_title">תשלום במסוף</string>
   <string name="nfc_more_title">עוד…</string>
+  <string name="nfc_payment_default">ברירת המחדל לתשלום</string>
+  <string name="nfc_payment_default_not_set">לא מוגדרת</string>
+  <string name="nfc_payment_favor_default">תמיד</string>
   <string name="nfc_payment_favor_open">מלבד כשיישום תשלום אחר פועל</string>
   <string name="nfc_payment_how_it_works">איך זה עובד</string>
   <string name="nfc_payment_no_apps">שלם עם הטלפון בחנויות</string>
   <string name="nfc_payment_pay_with">"במסוף 'הקש ושלם', שלם באמצעות:"</string>
+  <string name="nfc_payment_set_default">"האם להשתמש תמיד ב-%1$s בפעולת 'הקש ושלם'?"</string>
+  <string name="nfc_payment_set_default_instead_of">"האם להשתמש תמיד ב-%1$s במקום ב-%2$s בפעולת 'הקש ושלם'?"</string>
+  <string name="nfc_payment_set_default_label">האם להגדיר בתור ההעדפה שלך?</string>
   <string name="nfc_payment_settings_title">הקש ושלם</string>
+  <string name="nfc_payment_use_default">השתמש בברירת המחדל</string>
   <string name="nfc_quick_toggle_summary">אפשר החלפת נתונים כאשר הטלפון נוגע במכשיר אחר</string>
   <string name="nfc_se_route_title">מיקום הרכיב המאובטח</string>
   <string name="nfc_se_wallet_title">ארנק ברירת מחדל</string>
@@ -2109,6 +2142,7 @@
   <string name="no_battery_summary">לא נעשה שימוש בסוללה מאז הטעינה המלאה האחרונה</string>
   <string name="no_connected_devices">אין התקנים מחוברים</string>
   <string name="no_data_usage">לא נעשה שימוש בנתונים</string>
+  <string name="no_default_apps">אין ברירת מחדל של יישומים</string>
   <string name="no_device_admins">אין מנהלי מכשירים זמינים</string>
   <string name="no_internet_access_remember">אל תשאל שוב בשביל הרשת הזו</string>
   <string name="no_internet_access_text">לרשת האלחוטית %1$s אין גישה לאינטרנט. להישאר מחובר?</string>
@@ -2493,6 +2527,7 @@
   <string name="pref_volume_wake_title">הער באמצעות לחצני עוצמת השמע</string>
   <string name="preference_change_password_title">שנה סיסמה</string>
   <string name="preferred_app_settings">ברירות מחדל</string>
+  <string name="preferred_app_settings_default">ברירת מחדל</string>
   <string name="preferred_app_settings_not_selected">לא נבחר</string>
   <string name="preferred_app_settings_reset">אפס לברירת המחדל</string>
   <string name="preferred_app_settings_reset_button">אפס</string>
@@ -2606,6 +2641,7 @@
   <string name="provision_skip">דלג</string>
   <string name="proxy_action_text">סיום</string>
   <string name="proxy_clear_text">נקה</string>
+  <string name="proxy_defaultView_text">שחזר ברירות מחדל</string>
   <string name="proxy_error">שים לב</string>
   <string name="proxy_error_dismiss">אישור</string>
   <string name="proxy_error_empty_host_set_port">שדה היציאה חייב להיות ריק אם שדה המארח ריק.</string>
@@ -2720,6 +2756,8 @@
   <string name="reset_network_title">איפוס של הגדרות הרשת</string>
   <string name="resolver_settings_label">מיון</string>
   <string name="resource_ringtone_volume_mute">מצב שקט</string>
+  <string name="restore_default_apn">‏משחזר את הגדרות ברירת המחדל של APN.</string>
+  <string name="restore_default_apn_completed">‏איפוס הגדרות ברירת המחדל של APN הושלם.</string>
   <string name="restr_pin_enter_admin_pin">‏הזן את מספר ה-PIN של מנהל המערכת</string>
   <string name="restriction_bluetooth_config_summary">‏אפשר שינויים של התאמות והגדרות Bluetooth</string>
   <string name="restriction_location_enable_summary">התר ליישום להשתמש בנתוני המיקום שלך</string>
@@ -3286,6 +3324,9 @@
   <string name="small_font">קטן</string>
   <string name="smartcover_sensitive_title">כיסוי חכם</string>
   <string name="sms_application_title">‏יישום SMS</string>
+  <string name="sms_change_default_dialog_text">‏האם להשתמש ב-%1$s במקום ב-%2$s כיישום ה-SMS?</string>
+  <string name="sms_change_default_dialog_title">‏לשנות את יישום ה-SMS?</string>
+  <string name="sms_change_default_no_previous_dialog_text">‏האם להשתמש ב-%s כיישום ה-SMS?</string>
   <string name="sms_delivered_sound_dialog_title">בחר צליל עבור שליחת הודעה</string>
   <string name="sms_delivered_sound_title">הודעה נשלחה</string>
   <string name="sms_messages_title">‏הודעות SMS</string>
@@ -3641,6 +3682,16 @@
   <string name="trusted_credentials_system_tab">מערכת</string>
   <string name="trusted_credentials_user_tab">משתמש</string>
   <string name="tts_data_installed_summary">הקולות הדרושים לסינתזת דיבור כבר הותקנו כראוי</string>
+  <string name="tts_default_lang_summary">מגדיר קול ספציפי לשפה עבור הטקסט הנאמר</string>
+  <string name="tts_default_lang_title">שפה</string>
+  <string name="tts_default_pitch_summary">משפיע על הטון של הטקסט הנאמר</string>
+  <string name="tts_default_pitch_title">גובה צליל</string>
+  <string name="tts_default_rate_summary">המהירות שבה הטקסט נאמר</string>
+  <string name="tts_default_rate_title">קצב דיבור</string>
+  <string name="tts_default_sample_string">זוהי דוגמה לסינתזת דיבור</string>
+  <string name="tts_default_settings_section">הגדרות ברירת מחדל</string>
+  <string name="tts_default_synth_summary">הגדר את מנוע סינתזת הדיבור שישמש עבור קריאת טקסט</string>
+  <string name="tts_default_synth_title">מנוע ברירת המחדל</string>
   <string name="tts_engine_error">לא ניתן להפעיל את המנוע שבחרת.</string>
   <string name="tts_engine_error_config">הגדר</string>
   <string name="tts_engine_error_reselect">בחר מנוע אחר</string>
@@ -3817,6 +3868,8 @@
   <string name="usb_use_charging_only">טעינה בלבד</string>
   <string name="usb_use_file_transfers">‏העברת קבצים (MTP)</string>
   <string name="usb_use_photo_transfers">‏העברת תמונות (PTP)</string>
+  <string name="use_default_tts_settings_summary">הגדרות ברירת המחדל שלמטה עוקפות את הגדרות היישומים</string>
+  <string name="use_default_tts_settings_title">השתמש תמיד בהגדרות שלי</string>
   <string name="use_location_summary">‏אפשר ל-Google להשתמש במיקום שלך כדי לשפר את תוצאות החיפוש ושירותים נוספים</string>
   <string name="use_location_title">‏מיקום וחיפוש Google</string>
   <string name="use_personalized_ad_service">פרסומות מותאמות אישית</string>

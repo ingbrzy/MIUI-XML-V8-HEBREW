@@ -10,6 +10,7 @@
   <string name="debug_dump_email_subject">מצורף מסד הנתונים של אנשי הקשר</string>
   <string name="debug_dump_start_button">התחל</string>
   <string name="debug_dump_title">העתק את מסד הנתונים של אנשי הקשר</string>
+  <string name="default_directory">אנשי קשר</string>
   <string name="edit_contact">הוסף לאיש קשר</string>
   <string name="local_invisible_directory">אחרים</string>
   <string name="pound_search_tip">הכנס מספר לאחר # על מנת לחפש איש קשר</string>

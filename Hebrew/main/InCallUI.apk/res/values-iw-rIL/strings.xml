@@ -9,6 +9,7 @@
   <string name="antispam_marked_count">דווח ע\"י %1$d משתמשי MIUI</string>
   <string name="antispam_notification_title">מספר לא מזוהה</string>
   <string name="antispam_provider">זוהה ע\"י %s</string>
+  <string name="areacode_set_default">הגדר כברירת מחדל</string>
   <string name="callFailed_cb_enabled">לא ניתן לבצע שיחות יוצאות כאשר חסימת שיחות מופעלת.</string>
   <string name="callFailed_congestion">רשת לא זמינה</string>
   <string name="callFailed_dialToDial">בקשת חיוג שונתה לחיוג עם מספר שונה.</string>
@@ -84,6 +85,7 @@
   <string name="conference_callers_exceeded">חריגה ממגבלת המשתתפים בשיחת ועידה</string>
   <string name="contactPhoto">תמונת איש קשר</string>
   <string name="contacts_icon_label">אנשי קשר</string>
+  <string name="default_area_code_setting">קידומת ברירת מחדל</string>
   <string name="description_image_button_answer">ענה</string>
   <string name="description_image_button_dialpad">לוח מקשים</string>
   <string name="description_image_button_eight">שמונה</string>

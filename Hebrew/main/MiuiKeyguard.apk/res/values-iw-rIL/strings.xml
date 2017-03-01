@@ -4,6 +4,7 @@
   <string name="click_to_enter_text">לחץ לצפייה</string>
   <string name="confirm_pin_msg">הזן PIN פעם נוספת</string>
   <string name="custom_lock_wallpaper_enter">היכנס</string>
+  <string name="default_lockscreen_unlock_hint_text">החלק מעלה לשחרור הנעילה</string>
   <string name="delete">מחיקה</string>
   <string name="emergency_call_string">חירום</string>
   <string name="experimental_try_string">ניסיון</string>
@@ -35,6 +36,7 @@
   <string name="invalid_sim_pin_hint">על PIN להכיל 4-8 ספרות</string>
   <string name="invalid_sim_puk_hint">על קוד PUK להכיל לפחות 8 ספרות</string>
   <string name="keyguard_torch_cover_text">להשארת הפנס דולק, החזק את מקש ההפעלה</string>
+  <string name="left_action_default_hint_text">שלט Mi</string>
   <string name="lock_screen_date">EEEE، d MMMM</string>
   <string name="lock_screen_date_12">EEEE، d MMMM</string>
   <string name="lock_wallpaper_enter">היכנס</string>

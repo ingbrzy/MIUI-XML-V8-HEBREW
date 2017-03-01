@@ -44,6 +44,7 @@
   <string name="bt_toast_5">שולח %1$s קבצים אל \"%2$s\"</string>
   <string name="bt_toast_6">שליחת קובץ אל \"%1$s\" הופסקה</string>
   <string name="btopp_live_folder">‏התקבל באמצעות Bluetooth</string>
+  <string name="defaultname">דיבורית לרכב</string>
   <string name="deleteAll_record">מחק את כל הרשומות</string>
   <string name="delete_record">מחק רשומה</string>
   <string name="download_cancel">עצור</string>

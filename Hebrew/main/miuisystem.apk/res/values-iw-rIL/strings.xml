@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_frequent_phrases">הוסף ביטויים שכיחים</string>
+  <string name="android_ringtone_default_with_actual">צלצול ברירת מחדל (%1$s)</string>
   <string name="android_ringtone_silent">אין</string>
   <string name="android_ringtone_unknown">צלצול לא מוכר</string>
   <string name="arbor_day">חג האילנות</string>

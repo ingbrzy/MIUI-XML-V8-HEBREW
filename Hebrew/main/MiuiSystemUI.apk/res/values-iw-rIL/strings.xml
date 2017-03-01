@@ -167,6 +167,7 @@
   <string name="invalid_charger">"טעינה באמצעות USB אינה נתמכת.
 השתמש אך ורק במטען שסופק."</string>
   <string name="label_view">הצג</string>
+  <string name="lockscreen_carrier_default">אין שירות</string>
   <string name="long_screenshot_not_support_msg">היישום הנוכחי אינו תומך בצילומי מסך נגללים</string>
   <string name="long_screenshot_out_of_memory_error">התמונה גדולה מדי</string>
   <string name="long_screenshot_processing">מעבד…</string>

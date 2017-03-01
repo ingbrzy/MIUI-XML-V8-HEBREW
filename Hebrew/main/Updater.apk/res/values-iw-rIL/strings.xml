@@ -76,6 +76,7 @@
   <string name="download_title_full_download">מקבל מידע…</string>
   <string name="edit_comment">הוספת הערות</string>
   <string name="edit_comment_title">עריכת הערה</string>
+  <string name="edit_text_default">כתיבת הערה</string>
   <string name="emegency_build">"בניה "</string>
   <string name="expect">ציפיות</string>
   <string name="experimental_build">אלפא</string>

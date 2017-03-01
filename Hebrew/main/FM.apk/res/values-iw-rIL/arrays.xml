@@ -156,6 +156,12 @@
     <item>מגוון</item>
     <item>מזג אוויר</item>
   </string-array>
+  <string-array name="sleep_duration_values">
+    <item>15 דקות</item>
+    <item>30 דקות</item>
+    <item>45 דקות</item>
+    <item>1 שעה</item>
+  </string-array>
   <string-array name="stats_options">
     <item>הגדרות נוספות</item>
     <item>הגדר פרמטרים לחיפוש FM</item>

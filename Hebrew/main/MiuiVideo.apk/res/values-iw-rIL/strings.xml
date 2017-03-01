@@ -101,6 +101,7 @@
 3. &amp;#1514;&amp;#1493;&amp;#1505;&amp;#1507; &amp;#1492;-HD Video &amp;#1513;&amp;#1500;&amp;#1504;&amp;#1493; &amp;#1497;&amp;#1493;&amp;#1514;&amp;#1511;&amp;#1503; &amp;#1488;&amp;#1493;&amp;#1496;&amp;#1493;&amp;#1502;&amp;#1496;&amp;#1497;&amp;#1514;.
 4. &amp;#1497;&amp;#1497;&amp;#1513;&amp;#1493;&amp;#1501; &amp;#1494;&amp;#1492; &amp;#1494;&amp;#1511;&amp;#1493;&amp;#1511; &amp;#1500;&amp;#1495;&amp;#1497;&amp;#1489;&amp;#1493;&amp;#1512; &amp;#1500;&amp;#1488;&amp;#1497;&amp;#1504;&amp;#1496;&amp;#1512;&amp;#1504;&amp;#1496; &amp;#1506;&amp;#1500; &amp;#1502;&amp;#1504;&amp;#1514; &amp;#1500;&amp;#1508;&amp;#1506;&amp;#1493;&amp;#1500; &amp;#1499;&amp;#1512;&amp;#1488;&amp;#1493;&amp;#1497;."</string>
   <string name="declaration_content_td_custom">יישום זה זקוק לחיבור לאינטרנט על מנת לפעול כראוי.</string>
+  <string name="defaults">ברירת מחדל</string>
   <string name="delete">מחק</string>
   <string name="delete_action_text">מחק (%d)</string>
   <string name="delete_addon">מחק</string>

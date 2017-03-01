@@ -5,6 +5,7 @@
   <string name="account_unactivated">חשבון לא הופעל</string>
   <string name="all_resources">הכל</string>
   <string name="app_name">ערכות נושא</string>
+  <string name="apply_default_font_tip">המשך להשתמש בגופן הנוכחי של המערכת?</string>
   <string name="apply_font_btn_exclude">לא כעת</string>
   <string name="apply_font_btn_reboot">הפעל מחדש</string>
   <string name="apply_font_tip">אתחל את המכשיר על מנת להחיל את הגופן של ערכת נושא זו.</string>
@@ -106,6 +107,7 @@
   <string name="online_search_hint">חיפוש עבור משאבים מקוונים</string>
   <string name="present_local_themes">הורדו</string>
   <string name="present_online_themes">קבל ערכות נושא נוספים בחינם</string>
+  <string name="provision_default_theme_title">ברירת מחדל</string>
   <string name="provision_loading_tips">רק רגע…</string>
   <string name="provision_second_title">בחר אחת מחמש ברירות המחדל לערכות הנושא</string>
   <string name="provision_title">בחר ערכת נושא</string>
@@ -118,6 +120,7 @@
   <string name="resource_account_login_before_action">היכנס עכשיו באמצעות חשבון ה-Mi שלך</string>
   <string name="resource_account_login_title">היכנס</string>
   <string name="resource_account_switch">החלף</string>
+  <string name="resource_alarm_default">אזעקה</string>
   <string name="resource_app_name">מנהל משאבים</string>
   <string name="resource_apply">החל</string>
   <string name="resource_apply_trial">נסה כעת</string>
@@ -138,6 +141,7 @@
   <string name="resource_comment_current_version">גרסה נוכחית</string>
   <string name="resource_comment_edit_comment">הוסף תגובה</string>
   <string name="resource_comment_edit_comment_waiting">בודק היסטוריה…</string>
+  <string name="resource_comment_edit_text_default">כתוב תגובה</string>
   <string name="resource_comment_edit_title">תגובה אודות %1$s</string>
   <string name="resource_comment_entry_tips">תגובות (%1$s)</string>
   <string name="resource_comment_expand_full_text">הרחב את כל הטקסט ▼</string>
@@ -145,6 +149,7 @@
   <string name="resource_comment_good_comments">חיובי</string>
   <string name="resource_comment_invalid">לחץ על הכוכבים לדירוג ערכת הנושא</string>
   <string name="resource_comment_loading_list">רק רגע…</string>
+  <string name="resource_comment_name_default">משתמש %1$s</string>
   <string name="resource_comment_no_average_score">אין</string>
   <string name="resource_comment_no_comment">אין תגובות</string>
   <string name="resource_comment_publish">פרסם</string>
@@ -161,6 +166,8 @@
   <string name="resource_comment_upload_success">התגובה שלך תוצג לאחר בדיקה קצרה.</string>
   <string name="resource_continue">הבא</string>
   <string name="resource_data_empty">התוכן ריק.</string>
+  <string name="resource_default">צלצול ברירת מחדל</string>
+  <string name="resource_default_name">משאבים</string>
   <string name="resource_delete">מחק</string>
   <string name="resource_delete_all">למחק %1$d מקורות שנבחרו?</string>
   <string name="resource_delete_confirm">מחק את המשאבים הללו?</string>
@@ -222,6 +229,7 @@
   <string name="resource_no_match_app">לא נמצא יישום מתאים לביצוע פעולה זו</string>
   <string name="resource_no_network_text">לא הייתה אפשרות להתחבר לרשת.</string>
   <string name="resource_no_result">לא נמצא שום דבר</string>
+  <string name="resource_notification_default">התראות</string>
   <string name="resource_on_trial">מנסה: %1$s</string>
   <string name="resource_online">מקוון</string>
   <string name="resource_pack_confirm">למרות שכבר רכשת %1$d רכיבים מערכת נושא זו, הערכה המלאה עדיין תעלה לך פחות.</string>
@@ -241,6 +249,7 @@
   <string name="resource_ranking">פופולרי</string>
   <string name="resource_ranking_free">חינם</string>
   <string name="resource_ranking_purchase">שולם</string>
+  <string name="resource_ringtone_default">צלצולים</string>
   <string name="resource_ringtone_playing_error">שגיאה</string>
   <string name="resource_ringtone_volume_mute">הצילצול מושתק</string>
   <string name="resource_save_to_note">שמור להערות</string>
@@ -340,6 +349,7 @@
   <string name="theme_component_title_wallpaper">מסך הבית</string>
   <string name="theme_current_using_has_update">עדכון ערכת נושא זמין</string>
   <string name="theme_description_title_customized">מותאם אישית</string>
+  <string name="theme_description_title_default">ברירת מחדל</string>
   <string name="theme_empty_redirect">חזרה לחנות ערכת נושא</string>
   <string name="theme_favorite_add_fail">לא ניתן להוסיף למועדפים</string>
   <string name="theme_favorite_add_success">נוסף למועדפים</string>
