@@ -940,8 +940,6 @@
   <string name="power_consume_rank_hardware">חומרה</string>
   <string name="power_consume_rank_software">יישומים</string>
   <string name="power_consume_rank_title">שימוש בסוללה</string>
-  <string name="power_consume_total_hardware">חומרה: %1$d%%</string>
-  <string name="power_consume_total_software">יישומים: %1$d%%</string>
   <string name="power_customize_giveup_change">לבטל שינויים?</string>
   <string name="power_customizer_cancel">בטל</string>
   <string name="power_customizer_delete">מחק</string>
