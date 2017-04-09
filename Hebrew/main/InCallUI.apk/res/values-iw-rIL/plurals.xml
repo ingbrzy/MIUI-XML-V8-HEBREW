@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="call_recording_notification_complete">
-    <item quantity="other">%d שיחות הוקלטו.</item>
-    <item quantity="one">שיחה אחת הוקלטה.</item>
-  </plurals>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">%d שיחות הוקלטו.</item>
+        <item quantity="one">שיחה %d הוקלטה.</item>
+        <item quantity="two">%d שיחות הוקלטו.</item>
+        <item quantity="many">%d שיחות הוקלטו.</item>
+    </plurals>
+    <plurals name="livetalk_left_minute">
+        <item quantity="other">%d דקות נותרו</item>
+        <item quantity="one">דקה %d נותרה</item>
+        <item quantity="two">%d דקות נותרו</item>
+        <item quantity="many">%d דקות נותרו</item>
+    </plurals>
 </resources>

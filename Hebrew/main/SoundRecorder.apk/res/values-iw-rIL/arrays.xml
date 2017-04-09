@@ -1,29 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="interview_record_scenes_entries">
-    <item>מוזיקה</item>
-    <item>קול</item>
-    <item>ראיון</item>
-  </string-array>
-  <string-array name="hd_record_scenes_entries">
-    <item>מוזיקה</item>
-    <item>קול</item>
-    <item>ראיון</item>
-    <item>HD</item>
-  </string-array>
-  <string-array name="record_quality_entries">
-    <item>גבוהה</item>
-    <item>רגילה</item>
-    <item>נמוכה</item>
-  </string-array>
-  <string-array name="record_scenes_entries">
-    <item>מוזיקה</item>
-    <item>קול</item>
-  </string-array>
-  <string-array name="record_scenes_summaries">
-    <item>הקלט דרך 2 ערוצים, האזן לצליל סטריאופוני באוזניות</item>
-    <item>לאיכות טובה יותר, קרב את המיקרופון למקור הצליל</item>
-    <item>הצב את הטלפון בין 2 אנשים על מנת להקליט את שניהם באופן ברור</item>
-    <item>טכנולוגיית טווח דינמי רחב (HDR) מאפשרת למיקרופון ללכוד צליל מפורט יותר</item>
-  </string-array>
+    <string-array name="record_type_entries">
+        <item>MP3</item>
+        <item>AMR</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>מוסיקה</item>
+        <item>קול</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>מוסיקה</item>
+        <item>קול</item>
+        <item>ראיון</item>
+    </string-array>
+    <string-array name="hd_record_scenes_entries">
+        <item>מוסיקה</item>
+        <item>קול</item>
+        <item>ראיון</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="record_scenes_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>הקלט מוסיקה באיכות טובה יותר</item>
+        <item>לאיכות טובה יותר, קרב את המיקרופון למקור הצליל</item>
+        <item>הצב את הטלפון בין 2 אנשים על מנת להקליט את שיחתם באופן ברור</item>
+        <item>"טכנולוגית 'טווח עיבוד דינמי רחב' מאפשרת למיקרופון לקלוט צלילים יותר מפורטים"</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>הקלט דרך 2 ערוצים, האזן לצליל סטראופוני באוזניות</item>
+        <item>לאיכות טובה יותר, קרב את המיקרופון למקור הצליל</item>
+        <item>הצב את הטלפון בין 2 אנשים על מנת להקליט את שיחתם באופן ברור</item>
+        <item>"טכנולוגית 'טווח עיבוד דינמי רחב' מאפשרת למיקרופון לקלוט צלילים יותר מפורטים"</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>גבוהה</item>
+        <item>רגילה</item>
+        <item>נמוכה</item>
+    </string-array>
+    <string-array name="record_quality_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/h</item>
+        <item>MP3, ~100kbit/s, ~45MB/h</item>
+        <item>MP3, ~75kbit/s, ~32MB/h</item>
+    </string-array>
+    <string-array name="record_locale_language">
+        <item>fa</item>
+        <item>ar</item>
+        <item>bn</item>
+    </string-array>
 </resources>

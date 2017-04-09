@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="attachment_chooser">
-    <item>מצלמה</item>
-    <item>גלריה</item>
-  </string-array>
-  <string-array name="contact_entries">
-    <item>שם</item>
-    <item>כינוי</item>
-    <item>טלפון</item>
-    <item>דוא\"ל</item>
-    <item>חברה</item>
-    <item>IM</item>
-    <item>"מס' SIP"</item>
-    <item>תאריך לידה</item>
-    <item>אתר</item>
-    <item>כתובת</item>
-    <item>הערה</item>
-  </string-array>
-  <string-array name="folder_operations">
-    <item>שנה שם</item>
-    <item>מחק</item>
-  </string-array>
-  <string-array name="font_size_names">
-    <item>קטן</item>
-    <item>בינוני</item>
-    <item>גדול</item>
-    <item>ענק</item>
-  </string-array>
-  <string-array name="note_sort_way">
-    <item>מיין לפי תאריך יצירה</item>
-    <item>מיין לפי תאריך שינוי</item>
-  </string-array>
-  <string-array name="welcome_notes_content">
-    <item>"ברוך הבא לפתקים
+    <string-array name="folder_operations">
+        <item>שינוי שם</item>
+        <item>מחיקה</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>מצלמה</item>
+        <item>גלריה</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>מסודר על פי תאריך יצירה</item>
+        <item>מסודר על פי תאריך שינוי אחרון</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>שם</item>
+        <item>כינוי</item>
+        <item>טלפון</item>
+        <item>דוא\"ל</item>
+        <item>חברה</item>
+        <item>IM</item>
+        <item>טלפון SIP</item>
+        <item>יום הולדת</item>
+        <item>אתר</item>
+        <item>כתובת</item>
+        <item>פתק</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>קטן</item>
+        <item>בינוני</item>
+        <item>גדול</item>
+        <item>ענק</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"ברוכים הבאים אל 'פתקים'
 "</item>
-    <item>"צור פתק
+        <item>"צור פתק
 לחץ על סימן הפלוס ליצירת פתק."</item>
-    <item>"בחר תבניות
+        <item>"בחר תבניות
 השתמש בתבניות לשינוי הרקע והסגנון של הפתקים שלך.
-לחץ על המקש הימני בתחתית הפתק לבחירת תבנית."</item>
-    <item>"צור תקיות
+לחץ על המקש השמאלי בתחתית הפתק לבחירת תבנית."</item>
+        <item>"צור תקיות
 ארגן את הפתקים שלך בתיקיות.
 ישנן 2 דרכים ליצירת תיקיות:
 1. לחץ על סמל התיקיה בפינה השמאלית העליונה, ואז לחץ על סימן הפלוס.
-2. החזק פתק עד להופעת חלון קופץ, ובחר \"העבר אל\"- \"תיקיה חדשה\"."</item>
-    <item>"הסתר פתקים
-הגן על פתקים פרטיים ע\"י סיסמה.
+2. לחץ והחזק פתק עד להופעת חלון קופץ, ובחר \"העבר אל\"- \"תיקיה חדשה\"."</item>
+        <item>"הסתר פתקים
+הגן על פתקים פרטיים על ידי סיסמה.
  ישנן 2 דרכים להסתרת פתק:
 1. לחץ על מקש \"עוד\" בפינה השמאלית העליונה של הפתק, ואז בחר \"הסתר\".
-2. החזק פתק עד להופעת חלון קופץ, ואז בחר \"הסתר\"."</item>
-    <item>"ותכונות מדהימות נוספות!
+2. לחץ והחזק פתק עד להופעת חלון קופץ, ואז בחר \"הסתר\"."</item>
+        <item>"ותכונות מדהימות נוספות!
  - תמונות, רשימות תיוג, תזכורות.
 
 הוסף תמונות
@@ -66,5 +66,13 @@
 הגדר תזכורות ישירות מתוך פתקים.
 לחץ על מקש \"עוד\" בפינה השמאלית העליונה של הפתק, בחר \"תזכורות\", הגדר זמן.
 "</item>
-  </string-array>
+    </string-array>
+    <string-array name="welcome_notes_image">
+        <item>guide_1</item>
+        <item></item>
+        <item>guide_3_1</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
 </resources>

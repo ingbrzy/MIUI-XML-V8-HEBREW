@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="install_game_count_title">
+        <item quantity="other">%d משחקים נוספו</item>
+        <item quantity="one">משחק %d נוסף</item>
+        <item quantity="two">%d משחקים נוספו</item>
+        <item quantity="many">%d משחקים נוספו</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">%d משחקים לא נוספו</item>
+        <item quantity="one">משחק %d לא נוסף</item>
+        <item quantity="two">%d משחקים לא נוספו</item>
+        <item quantity="many">%d משחקים לא נוספו</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">נמצאו %d יישומים</item>
+        <item quantity="one">נמצא יישום %d</item>
+        <item quantity="two">נמצאו %d יישומים</item>
+        <item quantity="many">נמצאו %d יישומים</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">חפש בין %d יישומים</item>
+        <item quantity="one">חפש בין יישום %d</item>
+        <item quantity="two">חפש בין %d יישומים</item>
+        <item quantity="many">חפש בין %d יישומים</item>
+    </plurals>
+</resources>

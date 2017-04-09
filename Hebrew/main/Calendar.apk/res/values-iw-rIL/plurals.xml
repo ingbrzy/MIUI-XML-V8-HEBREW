@@ -1,30 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="N_remaining_events">
-    <item quantity="other">+%d אירועים</item>
-    <item quantity="one">+אירוע אחד</item>
-  </plurals>
-  <plurals name="Ndays">
-    <item quantity="other">%d ימים</item>
-    <item quantity="one">יום אחד</item>
-  </plurals>
-  <plurals name="Nevents">
-    <item quantity="other">%d אירועים</item>
-    <item quantity="one">אירוע אחד</item>
-  </plurals>
-  <plurals name="Nhours">
-    <item quantity="other">%d שעות</item>
-    <item quantity="one">שעה אחת</item>
-  </plurals>
-  <plurals name="Nmins">
-    <item quantity="other">%d דקות</item>
-    <item quantity="one">דקה אחת</item>
-  </plurals>
-  <plurals name="Nminutes">
-    <item quantity="other">%d דקות</item>
-    <item quantity="one">דקה אחת</item>
-  </plurals>
-  <plurals name="weekN">
-    <item quantity="other">שבוע %d</item>
-  </plurals>
+    <plurals name="Ndays_ago_at">
+        <item quantity="other">לפני %1$d ימים ב- %2$s</item>
+        <item quantity="one">לפני יום %1$d ב- %2$s</item>
+        <item quantity="two">לפני %1$d ימים ב- %2$s</item>
+        <item quantity="many">לפני %1$d ימים ב- %2$s</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">בעוד %1$d ימים ב- %2$s</item>
+        <item quantity="one">בעוד יום %1$d ב- %2$s</item>
+        <item quantity="two">בעוד %1$d ימים ב- %2$s</item>
+        <item quantity="many">בעוד %1$d ימים ב- %2$s</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d שבועות</item>
+        <item quantity="one">שבוע 1</item>
+        <item quantity="two">שבועיים</item>
+        <item quantity="many">%d שבועות</item>
+    </plurals>
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">יום השנה: %2$d שנים מאז %1$s</item>
+        <item quantity="one">יום השנה: שנה %2$d מאז %1$s</item>
+        <item quantity="two">יום השנה: %2$d שנים מאז %1$s</item>
+        <item quantity="many">יום השנה: %2$d שנים מאז %1$s</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">יום השנה: %2$d שנים מאז %1$s בעוד 3 ימים</item>
+        <item quantity="one">יום השנה: שנה %2$d מאז %1$s בעוד 3 ימים</item>
+        <item quantity="two">יום השנה: %2$d שנים מאז %1$s בעוד 3 ימים</item>
+        <item quantity="many">יום השנה: %2$d שנים מאז %1$s בעוד 3 ימים</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">שנים</item>
+        <item quantity="one">שנה</item>
+        <item quantity="two">שנים</item>
+        <item quantity="many">שנים</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">ימים</item>
+        <item quantity="one">יום</item>
+        <item quantity="two">ימים</item>
+        <item quantity="many">ימים</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">days left</item>
+        <item quantity="one">נותר יום</item>
+        <item quantity="two">days left</item>
+        <item quantity="many">days left</item>
+    </plurals>
 </resources>

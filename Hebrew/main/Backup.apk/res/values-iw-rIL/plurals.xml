@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="data_item_count">
-    <item quantity="other">%d פריטים</item>
-    <item quantity="one">פריט אחד</item>
-  </plurals>
-  <plurals name="trans_time_format_hours">
-    <item quantity="other">%d שעות</item>
-    <item quantity="one">שעה אחת</item>
-    <item quantity="two">שעתיים</item>
-  </plurals>
-  <plurals name="trans_time_format_minute">
-    <item quantity="other">%d דקות</item>
-    <item quantity="one">דקה אחת</item>
-  </plurals>
+    <plurals name="data_item_count">
+        <item quantity="other">%d פריטים</item>
+        <item quantity="one">פריט %d</item>
+        <item quantity="two">%d פריטים</item>
+        <item quantity="many">%d פריטים</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה %d</item>
+        <item quantity="two">%d דקות</item>
+        <item quantity="many">%d דקות</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה %d</item>
+        <item quantity="two">שעתיים</item>
+        <item quantity="many">%d שעות</item>
+    </plurals>
 </resources>

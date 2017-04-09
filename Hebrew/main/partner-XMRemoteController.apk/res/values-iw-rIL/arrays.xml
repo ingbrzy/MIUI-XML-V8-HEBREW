@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>קירור</item>
+        <item>חימום</item>
+        <item>הפחתת לחות</item>
+        <item>מאוורר</item>
+    </string-array>
+    <string-array name="answer">
+        <item>המכשיר שלך יכול לבצע צימוד עם טלוויזיית Mi, Mi Box ומכשירי אנדרואיד רבים אחרים באמצעות שימוש ברשת אלחוטית.</item>
+        <item>וודא כי בחרת את דגם המזגן המתאים בתהליך הצימוד. עקוב אחר ההוראות במכשירך עד שהצימוד יושלם בהצלחה.</item>
+        <item>לא. כעת באפשרותך להשתמש ב- Mi 4, Mi 4c ו- Redmi Note 2 כשלטי אינפרא אדום.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>חמישי</item>
+        <item>שישי</item>
+        <item>שבת</item>
+    </string-array>
+    <string-array name="question">
+        <item>מדוע הטלפון שלי ממשיך לחפש אחר התקנים אלחוטיים?</item>
+        <item>מדוע אני יכול להפעיל את המזגן שלי אך איני יכול לכבות אותו?</item>
+        <item>אני יכול להשתמש ב- Mi 3, Mi 2, ו- Redmi כשלט אינפרא אדום?</item>
+    </string-array>
+</resources>

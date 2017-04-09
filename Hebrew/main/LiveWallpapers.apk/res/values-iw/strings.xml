@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpapers">‏טפטים מונפשים של Android</string>
+    <string name="wallpaper_walkaround">שקוף</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">אתה מוזמן לראות דרך הטלפון ולצעוד ללא סכנת תאונות.</string>
+    <string name="wallpaper_clock">שעון פולארי</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">מציג את התאריך והשעה בתור קשתות בכיוון השעון: חודש, יום, שעה, דקה ושנייה.</string>
+    <string name="clock_settings">הגדרות של שעון פולארי</string>
+    <string name="show_seconds">הצג שניות</string>
+    <string name="variable_line_width">שנה את אורכי הצלצול</string>
+    <string name="palette">לוח צבעים</string>
+    <string name="palette_gray">ברזל</string>
+    <string name="palette_violet">חצות</string>
+    <string name="palette_matrix">מסך ירוק</string>
+    <string name="palette_white_c">דוב קוטב (דינמי)</string>
+    <string name="palette_black_c">חור שחור (דינמי)</string>
+    <string name="palette_halloween">פשטידת דלעת</string>
+    <string name="palette_zenburn">סלט פירות חייזרי</string>
+    <string name="palette_oceanic">לייזר כחול</string>
+</resources>

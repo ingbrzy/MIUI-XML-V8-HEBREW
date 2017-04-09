@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="theme_batch_has_update_text">
-    <item quantity="other">עדכונים קיימים עבור %1$d ערכות נושא.</item>
-    <item quantity="one">עדכן קיים עבור ערכת נושא אחת.</item>
-  </plurals>
-  <plurals name="theme_update_local_resource_notifaction">
-    <item quantity="other">עדכונים קיימים עבור %1$d ערכות נושא</item>
-    <item quantity="one">עדכן קיים עבור ערכת נושא אחת</item>
-  </plurals>
+    <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">קיימים עדכונים זמינים עבור %1$d ערכות נושא</item>
+        <item quantity="one">קיים עדכון זמין עבור ערכת נושא %1$d</item>
+        <item quantity="two">קיימים עדכונים זמינים עבור %1$d ערכות נושא</item>
+        <item quantity="many">קיימים עדכונים זמינים עבור %1$d ערכות נושא</item>
+    </plurals>
+    <plurals name="theme_batch_has_update_text">
+        <item quantity="other">קיימים עדכונים זמינים עבור %1$d ערכות נושא.</item>
+        <item quantity="one">קיים עדכון זמין עבור ערכת נושא %1$d.</item>
+        <item quantity="two">קיימים עדכונים זמינים עבור %1$d ערכות נושא.</item>
+        <item quantity="many">קיימים עדכונים זמינים עבור %1$d ערכות נושא.</item>
+    </plurals>
 </resources>

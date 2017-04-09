@@ -1,62 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="calendar_remind_string_array">
-    <item>הלילה</item>
-    <item>מחר</item>
-    <item>בסוף השבוע</item>
-    <item>בשבוע הבא</item>
-    <item>בחודש הבא</item>
-    <item>בחר תאריך</item>
-  </string-array>
-  <string-array name="compose_modes">
-    <item>השב</item>
-    <item>השב לכולם</item>
-    <item>העבר</item>
-  </string-array>
-  <string-array name="general_preference_text_zoom_summary_array">
-    <item>זעיר</item>
-    <item>קטן</item>
-    <item>רגיל</item>
-    <item>גדול</item>
-    <item>ענק</item>
-  </string-array>
-  <string-array name="menu_att_mgr_sort_string_array">
-    <item>נצפו לאחרונה</item>
-    <item>סוג הקובץ</item>
-    <item>שם</item>
-    <item>השולח</item>
-    <item>תאריך הקבלה</item>
-  </string-array>
-  <string-array name="moveto_folder_sections">
-    <item>מערכת</item>
-    <item>בשימוש שכיח</item>
-    <item>כל התיקיות</item>
-  </string-array>
-  <string-array name="prefEntries_autoAdvance">
-    <item>הודעה חדשה יותר</item>
-    <item>הודעה ישנה יותר</item>
-    <item>דואר נכנס</item>
-  </string-array>
-  <string-array name="signature_normal_string_array_next">
-    <item>כתובת:</item>
-    <item>טל:</item>
-    <item>שם:</item>
-    <item>דוא\"ל:</item>
-    <item>נייד:</item>
-    <item>WeChat:</item>
-    <item>פקס:</item>
-    <item>מיקוד:</item>
-  </string-array>
-  <string-array name="signature_special_string_array_next">
-    <item>תודה,</item>
-    <item>איחולים</item>
-    <item>נשלח מ-</item>
-    <item>דוא\"ל מקורי</item>
-    <item>נשלח מ-</item>
-    <item>נשלח מ-</item>
-    <item>מ-</item>
-    <item>דוא\"ל זה</item>
-    <item>כתב ויתור</item>
-    <item>דוא\"ל כתב ויתור</item>
-  </string-array>
+    <string-array name="all_month_str">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>הלילה</item>
+        <item>מחר</item>
+        <item>בסוף השבוע</item>
+        <item>בשבוע הבא</item>
+        <item>בחודש הבא</item>
+        <item>בחר תאריך</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>השב</item>
+        <item>השב לכולם</item>
+        <item>העבר</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>זעיר</item>
+        <item>קטן</item>
+        <item>רגיל</item>
+        <item>גדול</item>
+        <item>ענק</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>נצפו לאחרונה</item>
+        <item>סוג הקובץ</item>
+        <item>שם</item>
+        <item>השולח</item>
+        <item>תאריך הקבלה</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>מערכת</item>
+        <item>בשימוש שכיח</item>
+        <item>כל התיקיות</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>הודעה חדשה יותר</item>
+        <item>הודעה ישנה יותר</item>
+        <item>דואר נכנס</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>כתובת:</item>
+        <item>טל:</item>
+        <item>שם:</item>
+        <item>דוא\"ל:</item>
+        <item>נייד:</item>
+        <item>WeChat:</item>
+        <item>פקס:</item>
+        <item>מיקוד:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>תודה,</item>
+        <item>איחולים</item>
+        <item>נשלח מ-</item>
+        <item>דוא\"ל מקורי</item>
+        <item>נשלח מ-</item>
+        <item>נשלח מ-</item>
+        <item>מ-</item>
+        <item>דוא\"ל זה</item>
+        <item>כתב ויתור</item>
+        <item>דוא\"ל כתב ויתור</item>
+    </string-array>
 </resources>

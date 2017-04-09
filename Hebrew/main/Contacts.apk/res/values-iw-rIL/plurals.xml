@@ -1,147 +1,273 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="batch_delete_msg">
-    <item quantity="other">למחוק %d אנשי קשר?</item>
-    <item quantity="one">למחוק איש קשר אחד?</item>
-  </plurals>
-  <plurals name="btn_delete_multi_contacts">
-    <item quantity="other">מחק %d אנשי קשר</item>
-    <item quantity="one">מחק איש קשר אחד</item>
-  </plurals>
-  <plurals name="callNoAnswerTimeFormat">
-    <item quantity="other">צלצל %d פעמים</item>
-    <item quantity="one">צלצל פעם אחד</item>
-  </plurals>
-  <plurals name="cloud_state_unsynced_count">
-    <item quantity="other">%d אנשי קשר או תמונות לא סונכרנו</item>
-    <item quantity="one">איש קשר או תמונה אחד/אחת לא סונכרנ/ה</item>
-  </plurals>
-  <plurals name="confirm_delete_sim_entry_miui">
-    <item quantity="other">למחוק %d אנשי קשר מכרטיס ה-SIM?</item>
-    <item quantity="one">למחוק איש קשר אחד מכרטיס ה-SIM?</item>
-  </plurals>
-  <plurals name="contacts_count">
-    <item quantity="other">%1$d אנשי קשר</item>
-    <item quantity="one">איש קשר אחד</item>
-  </plurals>
-  <plurals name="device_import_done_toast">
-    <item quantity="other">%1$d אנשי קשר יובאו</item>
-    <item quantity="one">איש קשר אחד יובא</item>
-  </plurals>
-  <plurals name="dlg_add_blacklist">
-    <item quantity="other">לחסום %1$d מספרי טלפון?</item>
-    <item quantity="one">לחסום מספר טלפון אחד?</item>
-  </plurals>
-  <plurals name="dlg_remove_blacklist">
-    <item quantity="other">להסיר חסימה של %1$d מספרי טלפון?</item>
-    <item quantity="one">להסיר חסימה של מספר טלפון אחד?</item>
-  </plurals>
-  <plurals name="export_sim_contacts_dialog_message">
-    <item quantity="other">כרטיס ה-SIM יכול לאחסן %d אנשי קשר.</item>
-    <item quantity="one">כרטיס ה-SIM יכול לאחסן איש קשר אחד.</item>
-  </plurals>
-  <plurals name="group_add_success_toast">
-    <item quantity="other">%1$d אנשי קשר נוספו</item>
-    <item quantity="one">איש קשר אחד נוסף</item>
-  </plurals>
-  <plurals name="group_copy_success_toast">
-    <item quantity="other">%1$d אנשי קשר הועתקו</item>
-    <item quantity="one">איש קשר אחד הועתק</item>
-  </plurals>
-  <plurals name="group_list_num_contacts_in_group">
-    <item quantity="other">%1$d אנשים</item>
-    <item quantity="one">אדם אחד</item>
-  </plurals>
-  <plurals name="group_list_num_numbers_in_group">
-    <item quantity="other">%1$d מספרים</item>
-    <item quantity="one">מספר אחד</item>
-  </plurals>
-  <plurals name="group_move_success_toast">
-    <item quantity="other">%1$d אנשי קשר הועברו</item>
-    <item quantity="one">איש קשר אחד הועבר</item>
-  </plurals>
-  <plurals name="hint_account_contacts">
-    <item quantity="other">%1$d פריטים נמצאו</item>
-    <item quantity="one">נמצא פריט אחד</item>
-  </plurals>
-  <plurals name="hint_search_contacts">
-    <item quantity="other">%1$d אנשי קשר</item>
-    <item quantity="one">איש קשר אחד</item>
-  </plurals>
-  <plurals name="hint_search_emails">
-    <item quantity="other">%1$d כתובות דוא\"ל</item>
-    <item quantity="one">כתובת דוא\"ל אחת</item>
-  </plurals>
-  <plurals name="hint_search_phone_numbers">
-    <item quantity="other">%1$d מספרים</item>
-    <item quantity="one">מספר אחד</item>
-  </plurals>
-  <plurals name="listFoundAllContacts">
-    <item quantity="other">%d נמצאו</item>
-    <item quantity="one">אחד נמצא</item>
-  </plurals>
-  <plurals name="listTotalAllContacts">
-    <item quantity="other">%d אנשי קשר</item>
-    <item quantity="one">איש קשר אחד</item>
-  </plurals>
-  <plurals name="listTotalPhoneContacts">
-    <item quantity="other">%d אנשי קשר עם מספרי טלפון</item>
-    <item quantity="one">איש קשר אחד עם מספר טלפון</item>
-  </plurals>
-  <plurals name="merge_info">
-    <item quantity="other">מוזג מ-%0$d מקורות</item>
-    <item quantity="one">לא מוזג</item>
-  </plurals>
-  <plurals name="notification_voicemail_title">
-    <item quantity="other">%1$d הודעות קוליות</item>
-    <item quantity="one">הודעה קולית אחת</item>
-  </plurals>
-  <plurals name="num_contacts_in_group">
-    <item quantity="other">%1$d אנשים מ-%2$s</item>
-    <item quantity="one">אדם אחד מ-%2$s</item>
-  </plurals>
-  <plurals name="num_groups_in_account">
-    <item quantity="other">%0$d קבוצות</item>
-    <item quantity="one">קבוצה אחת</item>
-  </plurals>
-  <plurals name="number_of_items_available">
-    <item quantity="other">%1$d נותרו</item>
-    <item quantity="one">אחד נותר</item>
-  </plurals>
-  <plurals name="number_of_items_selected">
-    <item quantity="other">%1$d נבחרו</item>
-    <item quantity="one">אחד נבחר</item>
-  </plurals>
-  <plurals name="pick_favorites_list_title">
-    <item quantity="other">%1$d מועדפים</item>
-    <item quantity="one">מועדף אחד</item>
-  </plurals>
-  <plurals name="pick_recent_list_title">
-    <item quantity="other">%1$d אנשי קשר אחרונים</item>
-    <item quantity="one">איש קשר אחרון אחד</item>
-  </plurals>
-  <plurals name="pick_favorites_contacts_list_title">
-    <item quantity="other">%1$d מועדפים</item>
-    <item quantity="one">מועדף אחד</item>
-  </plurals>
-  <plurals name="pick_recent_contacts_list_title">
-    <item quantity="other">%1$d אנשי קשר אחרונים</item>
-    <item quantity="one">איש קשר אחרון אחד</item>
-  </plurals>
-  <plurals name="smart_group_member_count">
-    <item quantity="other">%d אנשים</item>
-    <item quantity="one">אדם אחד</item>
-  </plurals>
-  <plurals name="numSelectedSimContacts">
-    <item quantity="other">%1$d נבחרו</item>
-    <item quantity="one">אחד נבחר</item>
-  </plurals>
-  <plurals name="searchFoundContacts">
-    <item quantity="other">%d נמצאו</item>
-    <item quantity="one">אחד נמצא</item>
-  </plurals>
-  <plurals name="voip_contacts_count">
-    <item quantity="other">%1$d אנשים</item>
-    <item quantity="one">אדם אחד</item>
-  </plurals>
+    <plurals name="group_move_success_toast">
+        <item quantity="other">%1$d אנשי קשר הועברו</item>
+        <item quantity="one">איש קשר %1$d הועבר</item>
+        <item quantity="two">%1$d אנשי קשר הועברו</item>
+        <item quantity="many">%1$d אנשי קשר הועברו</item>
+    </plurals>
+    <plurals name="group_copy_success_toast">
+        <item quantity="other">%1$d אנשי קשר הועתקו</item>
+        <item quantity="one">איש קשר %1$d הועתק</item>
+        <item quantity="two">%1$d אנשי קשר הועתקו</item>
+        <item quantity="many">%1$d אנשי קשר הועתקו</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d אנשי קשר עם מספרי טלפון</item>
+        <item quantity="one">איש קשר 1 עם מספר טלפון</item>
+        <item quantity="two">%d אנשי קשר עם מספרי טלפון</item>
+        <item quantity="many">%d אנשי קשר עם מספרי טלפון</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d אנשי קשר</item>
+        <item quantity="one">איש קשר 1</item>
+        <item quantity="two">%d אנשי קשר</item>
+        <item quantity="many">%d אנשי קשר</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d נמצאו</item>
+        <item quantity="one">1 נמצא</item>
+        <item quantity="two">%d נמצאו</item>
+        <item quantity="many">%d נמצאו</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d נמצאו</item>
+        <item quantity="one">1 נמצא</item>
+        <item quantity="two">%d נמצאו</item>
+        <item quantity="many">%d נמצאו</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">מוזג מ-%0$d מקורות</item>
+        <item quantity="one">לא מוזג</item>
+        <item quantity="two">מוזג מ-%0$d מקורות</item>
+        <item quantity="many">מוזג מ-%0$d מקורות</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$dקבוצות</item>
+        <item quantity="one">קבוצה אחת</item>
+        <item quantity="two">%0$dקבוצות</item>
+        <item quantity="many">%0$dקבוצות</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d אנשים מ- %2$s</item>
+        <item quantity="one">אדם %1$d מ-%2$s</item>
+        <item quantity="two">%1$d אנשים מ- %2$s</item>
+        <item quantity="many">%1$d אנשים מ- %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d אנשים</item>
+        <item quantity="one">אדם %1$d</item>
+        <item quantity="two">%1$d אנשים</item>
+        <item quantity="many">%1$d אנשים</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d מספרים</item>
+        <item quantity="one">מספר %1$d</item>
+        <item quantity="two">%1$d מספרים</item>
+        <item quantity="many">%1$d מספרים</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d הודעות קוליות</item>
+        <item quantity="one">הודעה קולית</item>
+        <item quantity="two">%1$d הודעות קוליות</item>
+        <item quantity="many">%1$d הודעות קוליות</item>
+    </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">כרטיס ה-SIM יכול לאחסן %1$d אנשי קשר.</item>
+        <item quantity="one">כרטיס ה-SIM יכול לאחסן איש קשר %1$d.</item>
+        <item quantity="two">כרטיס ה-SIM יכול לאחסן %1$d אנשי קשר.</item>
+        <item quantity="many">כרטיס ה-SIM יכול לאחסן %1$d אנשי קשר.</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">למחוק %1$d אנשי קשר מכרטיס ה-SIM?</item>
+        <item quantity="one">למחוק איש קשר %1$d מכרטיס ה-SIM?</item>
+        <item quantity="two">למחוק %1$d אנשי קשר מכרטיס ה-SIM?</item>
+        <item quantity="many">למחוק %1$d אנשי קשר מכרטיס ה-SIM?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d נבחרו</item>
+        <item quantity="one">%1$d נבחר</item>
+        <item quantity="two">%1$d נבחרו</item>
+        <item quantity="many">%1$d נבחרו</item>
+    </plurals>
+    <plurals name="number_of_items_available">
+        <item quantity="other">%1$d פריטים נותרו</item>
+        <item quantity="one">נותר פריט %1$d</item>
+        <item quantity="two">%1$d פריטים נותרו</item>
+        <item quantity="many">%1$d פריטים נותרו</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d מועדפים</item>
+        <item quantity="one">מועדף %1$d</item>
+        <item quantity="two">%1$d מועדפים</item>
+        <item quantity="many">%1$d מועדפים</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d אנשי קשר בשימוש לאחרונה</item>
+        <item quantity="one">איש קשר בשימוש לאחרונה %1$d</item>
+        <item quantity="two">%1$d אנשי קשר בשימוש לאחרונה</item>
+        <item quantity="many">%1$d אנשי קשר בשימוש לאחרונה</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d אנשי קשר</item>
+        <item quantity="one">איש קשר %1$d</item>
+        <item quantity="two">%1$d אנשי קשר</item>
+        <item quantity="many">%1$d אנשי קשר</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d מספרים</item>
+        <item quantity="one">מספר %1$d</item>
+        <item quantity="two">%1$d מספרים</item>
+        <item quantity="many">%1$d מספרים</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d דברי דוא\"ל</item>
+        <item quantity="one">דוא\"ל %1$d</item>
+        <item quantity="two">%1$d דברי דוא\"ל</item>
+        <item quantity="many">%1$d דברי דוא\"ל</item>
+    </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">נמצאו %1$d פריטים</item>
+        <item quantity="one">נמצא פריט %1$d</item>
+        <item quantity="two">נמצאו %1$d פריטים</item>
+        <item quantity="many">נמצאו %1$d פריטים</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d מועדפים</item>
+        <item quantity="one">מועדף %1$d</item>
+        <item quantity="two">%1$d מועדפים</item>
+        <item quantity="many">%1$d מועדפים</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d אנשי קשר בשימוש לאחרונה</item>
+        <item quantity="one">איש קשר בשימוש לאחרונה %1$d</item>
+        <item quantity="two">%1$d אנשי קשר בשימוש לאחרונה</item>
+        <item quantity="many">%1$d אנשי קשר בשימוש לאחרונה</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">%1$d אנשי קשר נוספו</item>
+        <item quantity="one">איש קשר %1$d נוסף</item>
+        <item quantity="two">%1$d אנשי קשר נוספו</item>
+        <item quantity="many">%1$d אנשי קשר נוספו</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">מחק %1$d אנשי קשר</item>
+        <item quantity="one">מחק איש קשר %1$d</item>
+        <item quantity="two">מחק %1$d אנשי קשר</item>
+        <item quantity="many">מחק %1$d אנשי קשר</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%1$d אנשים</item>
+        <item quantity="one">אדם %1$d</item>
+        <item quantity="two">%1$d אנשים</item>
+        <item quantity="many">%1$d אנשים</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d אנשי קשר יובאו</item>
+        <item quantity="one">איש קשר %1$d יובא</item>
+        <item quantity="two">%1$d אנשי קשר יובאו</item>
+        <item quantity="many">%1$d אנשי קשר יובאו</item>
+    </plurals>
+    <plurals name="batch_delete_msg">
+        <item quantity="other">למחוק %1$d אנשי קשר?</item>
+        <item quantity="one">למחוק איש קשר %1$d?</item>
+        <item quantity="two">למחוק %1$d אנשי קשר?</item>
+        <item quantity="many">למחוק %1$d אנשי קשר?</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">%1$d נבחרו</item>
+        <item quantity="one">%1$d נבחר</item>
+        <item quantity="two">%1$d נבחרו</item>
+        <item quantity="many">%1$d נבחרו</item>
+    </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">לחסום %1$d מספרי טלפון?</item>
+        <item quantity="one">לחסום מספר טלפון %1$d?</item>
+        <item quantity="two">לחסום %1$d מספרי טלפון?</item>
+        <item quantity="many">לחסום %1$d מספרי טלפון?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">לבטל חסימה של %1$d מספרי טלפון?</item>
+        <item quantity="one">לבטל חסימה של מספר טלפון %1$d?</item>
+        <item quantity="two">לבטל חסימה של %1$d מספרי טלפון?</item>
+        <item quantity="many">לבטל חסימה של %1$d מספרי טלפון?</item>
+    </plurals>
+    <plurals name="voip_contacts_count">
+        <item quantity="other">%1$d אנשים</item>
+        <item quantity="one">אדם %1$d</item>
+        <item quantity="two">%1$d אנשים</item>
+        <item quantity="many">%1$d אנשים</item>
+    </plurals>
+    <plurals name="livetalk_unit">
+        <item quantity="other">דקות</item>
+        <item quantity="one">דקה</item>
+        <item quantity="two">דקות</item>
+        <item quantity="many">דקות</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">צלצל %1$d פעמים</item>
+        <item quantity="one">צלצל פעם %1$d</item>
+        <item quantity="two">צלצל %1$d פעמים</item>
+        <item quantity="many">צלצל %1$d פעמים</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%1$d אנשי קשר</item>
+        <item quantity="one">איש קשר %1$d</item>
+        <item quantity="two">%1$d אנשי קשר</item>
+        <item quantity="many">%1$d אנשי קשר</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%1$d אנשי קשר או תמונות לא סונכרנו</item>
+        <item quantity="one">איש קשר או תמונה %1$d לא סונכרנו</item>
+        <item quantity="two">%1$d אנשי קשר או תמונות לא סונכרנו</item>
+        <item quantity="many">%1$d אנשי קשר או תמונות לא סונכרנו</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 hour ago</item>
+        <item quantity="one">לפני שעה 1</item>
+        <item quantity="two">1 hour ago</item>
+        <item quantity="many">1 hour ago</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Half an hour ago</item>
+        <item quantity="one">לפני חצי שעה</item>
+        <item quantity="two">Half an hour ago</item>
+        <item quantity="many">Half an hour ago</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Just now</item>
+        <item quantity="one">ממש עכשיו</item>
+        <item quantity="two">Just now</item>
+        <item quantity="many">Just now</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">לפני %1$d דקות</item>
+        <item quantity="one">לפני דקה %1$d</item>
+        <item quantity="two">לפני %1$d דקות</item>
+        <item quantity="many">לפני %1$d דקות</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">In 1 hour</item>
+        <item quantity="one">בעוד שעה 1</item>
+        <item quantity="two">In 1 hour</item>
+        <item quantity="many">In 1 hour</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">In half an hour</item>
+        <item quantity="one">בעוד חצי שעה</item>
+        <item quantity="two">In half an hour</item>
+        <item quantity="many">In half an hour</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Immediately</item>
+        <item quantity="one">מידית</item>
+        <item quantity="two">Immediately</item>
+        <item quantity="many">Immediately</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">בעוד %1$d דקות</item>
+        <item quantity="one">בעוד דקה %1$d</item>
+        <item quantity="two">בעוד %1$d דקות</item>
+        <item quantity="many">בעוד %1$d דקות</item>
+    </plurals>
 </resources>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="baby_sexy">
-    <item>ילד</item>
-    <item>ילדה</item>
-  </string-array>
-  <string-array name="owner_relation">
-    <item>אבא</item>
-    <item>אמא</item>
-    <item>סבא מצד האבא</item>
-    <item>סבתא מצד האבא</item>
-    <item>סבא מצד האמא</item>
-    <item>סבתא מצד האמא</item>
-  </string-array>
-  <string-array name="relation_with_me">
-    <item>אני</item>
-    <item>ילד</item>
-    <item>משפחה</item>
-    <item>עמיתים לעבודה</item>
-    <item>חברים לכיתה</item>
-    <item>חברים</item>
-    <item>לא מוכר</item>
-  </string-array>
+    <string-array name="baby_sexy">
+        <item>ילד</item>
+        <item>ילדה</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>אבא</item>
+        <item>אמא</item>
+        <item>סבא מצד האבא</item>
+        <item>סבתא מצד האבא</item>
+        <item>סבא מצד האמא</item>
+        <item>סבתא מצד האמא</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>אני</item>
+        <item>ילד</item>
+        <item>משפחה</item>
+        <item>עמיתים</item>
+        <item>חברים לכיתה</item>
+        <item>חברים</item>
+        <item>לא בקבוצה</item>
+    </string-array>
 </resources>

@@ -1,88 +1,173 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="aqi_title_prefix">
-    <item>מדד זיהום אוויר %1$s</item>
-    <item>מדד זיהום אוויר %1$s</item>
-    <item>מדד זיהום אוויר %1$s</item>
-    <item>מדד זיהום אוויר %1$s</item>
-    <item>מדד זיהום אוויר %1$s</item>
-    <item>מדד זיהום אוויר %1$s</item>
-  </string-array>
-  <string-array name="hot_city">
-    <item>"בייג'ינג"</item>
-    <item>שאנגחאי</item>
-    <item>הונג קונג</item>
-    <item>העיר טאיפיי</item>
-    <item>"ג'קרטה"</item>
-    <item>דלהי</item>
-    <item>מומבאי</item>
-    <item>מוסקבה</item>
-    <item>היידראבאד</item>
-    <item>"צ'נאי"</item>
-    <item>איסטנבול</item>
-    <item>"ריו דה ז'ניירו"</item>
-    <item>סינגפור</item>
-    <item>ברלין</item>
-    <item>רומא</item>
-    <item>ניו יורק</item>
-    <item>"לוס אנג'לס"</item>
-    <item>שיקגו</item>
-    <item>טוקיו</item>
-    <item>פריז</item>
-    <item>בנגקוק</item>
-    <item>סיאול</item>
-    <item>קואלה לומפור</item>
-  </string-array>
-  <string-array name="indices_car_wash">
-    <item>מתאים</item>
-    <item>לא מתאים</item>
-  </string-array>
-  <string-array name="indices_sport">
-    <item>מתאים</item>
-    <item>לא מתאים</item>
-  </string-array>
-  <string-array name="indices_uv_level">
-    <item>חלש</item>
-    <item>בינוני</item>
-    <item>חזק</item>
-  </string-array>
-  <string-array name="weather_type">
-    <item>בהיר</item>
-    <item>מעונן</item>
-    <item>קודר</item>
-    <item>ערפילי</item>
-    <item>סופת גשמים כבדה</item>
-    <item>מבול</item>
-    <item>סופת גשמים</item>
-    <item>סופת ברקים</item>
-    <item>ממטר</item>
-    <item>גשם כבד</item>
-    <item>גשם חלש</item>
-    <item>גשם קל</item>
-    <item>שלג מעורב בגשם</item>
-    <item>סופת שלגים</item>
-    <item>שלג</item>
-    <item>שלג כבד</item>
-    <item>שלג חלש</item>
-    <item>שלג קל</item>
-    <item>סופת חול חזקה</item>
-    <item>סופת חול</item>
-    <item>חול</item>
-    <item>סוער</item>
-    <item>ברד</item>
-    <item>אבק</item>
-    <item>אובך</item>
-    <item>גשם מקפיא</item>
-    <item></item>
-  </string-array>
-  <string-array name="wind_direction">
-    <item>צ</item>
-    <item>"צ-מז'"</item>
-    <item>"מז'"</item>
-    <item>"ד-מז'"</item>
-    <item>ד</item>
-    <item>"ד-מע'"</item>
-    <item>"מע'"</item>
-    <item>"צ-מע'"</item>
-  </string-array>
+    <string-array name="hot_city">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Hong Kong</item>
+        <item>Taipei City</item>
+        <item>Jakarta</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Moscow</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Istanbul</item>
+        <item>Rio de Janeiro</item>
+        <item>Singapore</item>
+        <item>Berlin</item>
+        <item>Rome</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Bangkok</item>
+        <item>Seoul</item>
+        <item>Kuala Lumpur</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_detail_title">
+        <item>טוב</item>
+        <item>מתון</item>
+        <item>Unhealthy for sensitive groups</item>
+        <item>לא בריא</item>
+        <item>Very unhealthy</item>
+        <item>מסוכן מאוד</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>בהיר</item>
+        <item>מעונן</item>
+        <item>קודר</item>
+        <item>ערפילי</item>
+        <item>סופת גשמים כבדה</item>
+        <item>מבול</item>
+        <item>סופת גשמים</item>
+        <item>סופת ברקים</item>
+        <item>גשם</item>
+        <item>גשמים כבדים</item>
+        <item>גשם מתון</item>
+        <item>גשם קל</item>
+        <item>שלג מעורב בגשם</item>
+        <item>סופת שלגים</item>
+        <item>שלג</item>
+        <item>שלג כבד</item>
+        <item>שלג מתון</item>
+        <item>שלג קל</item>
+        <item>סופת חול חזקה</item>
+        <item>סופת חול</item>
+        <item>חול</item>
+        <item>סוער</item>
+        <item>ברד</item>
+        <item>אבק</item>
+        <item>אובך</item>
+        <item>גשם מקפיא</item>
+        <item></item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Low</item>
+        <item>Moderate</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>מתאים</item>
+        <item>לא מתאים</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>מתאים</item>
+        <item>לא מתאים</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>צפון</item>
+        <item>צפון מזרח</item>
+        <item>מזרח</item>
+        <item>דרום מזרח</item>
+        <item>דרום</item>
+        <item>דרום מערב</item>
+        <item>מערב</item>
+        <item>צפון מערב</item>
+    </string-array>
+    <string-array name="wind_direction_simple">
+        <item>צ</item>
+        <item>"צ-מז'"</item>
+        <item>"מז'"</item>
+        <item>"ד-מז'"</item>
+        <item>ד</item>
+        <item>"ד-מע'"</item>
+        <item>"מע'"</item>
+        <item>"צ-מע'"</item>
+    </string-array>
+    <string-array name="wind_power">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>טוב</item>
+        <item>משביע רצון</item>
+        <item>מזוהם באופן בינוני</item>
+        <item>דל</item>
+        <item>דל מאוד</item>
+        <item>חמור</item>
+    </string-array>
+    <string-array name="wind_unit_simple">
+        <item>סולם בופורט</item>
+        <item>קמ\"ש</item>
+        <item>מטר לשניה</item>
+        <item>מיל לשעה</item>
+        <item>קשר</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;עוצמה 2</item>
+        <item>&lt;6.0 קמ\"ש</item>
+        <item>&lt;1.7 מטר לשניה</item>
+        <item>&lt;3.7 מיל לשעה</item>
+        <item>&lt;3.2 קשר</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>סולם בופורט</item>
+        <item>Kilometers per hour (km/h)</item>
+        <item>Meters per second (m/s)</item>
+        <item>מיל לשעה</item>
+        <item>קשר</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>עוצמה %1$s</item>
+        <item>%1$s קמ\"ש</item>
+        <item>%1$s מטר לשניה</item>
+        <item>%1$s מיל לשעה</item>
+        <item>%1$s קשר</item>
+    </string-array>
 </resources>

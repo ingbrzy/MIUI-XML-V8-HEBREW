@@ -1,44 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="adblock_rules_number_text">
-    <item quantity="other">%d פריטים נחסמו</item>
-    <item quantity="one">פריט אחד נחסם</item>
-  </plurals>
-  <plurals name="find_on_page_matches">
-    <item quantity="other">%d התאמות</item>
-    <item quantity="one">התאמה אחת</item>
-  </plurals>
-  <plurals name="last_num_days">
-    <item quantity="other">ב-%d הימים האחרונים</item>
-    <item quantity="one">ביום האחרון</item>
-    <item quantity="two">ביומיים האחרונים</item>
-  </plurals>
-  <plurals name="matches_found">
-    <item quantity="other">%1$d מתוך %2$d</item>
-    <item quantity="one">התאמה אחת</item>
-  </plurals>
-  <plurals name="v5_edit_mode_title">
-    <item quantity="other">%1$d נבחרו</item>
-    <item quantity="one">אחת נבחרה</item>
-  </plurals>
-  <plurals name="video_download_clear_info">
-    <item quantity="other">הסרת %1$d סרטונים הצליחה.</item>
-    <item quantity="one">הסרת סרטון אחד הצליחה.</item>
-  </plurals>
-  <plurals name="video_download_clear_prompt">
-    <item quantity="other">לנקות %1$d סרטונים?</item>
-    <item quantity="one">לנקות סרטון אחד?</item>
-  </plurals>
-  <plurals name="video_history_clear_info">
-    <item quantity="other">%1$d פריטים נמחקו מההיסטוריה.</item>
-    <item quantity="one">פריט אחד נמחק מההיסטוריה.</item>
-  </plurals>
-  <plurals name="video_history_clear_prompt">
-    <item quantity="other">למחוק %1$d פריטים מההיסטוריה?</item>
-    <item quantity="one">למחוק פריט אחד מההיסטוריה?</item>
-  </plurals>
-  <plurals name="video_subtitle_last_message">
-    <item quantity="other">נותרו %d דקות</item>
-    <item quantity="one">נותרה דקה אחת</item>
-  </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d פריטים נחסמו</item>
+        <item quantity="one">פריט אחד נחסם</item>
+        <item quantity="two">%d פריטים נחסמו</item>
+        <item quantity="many">%d פריטים נחסמו</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d התאמות</item>
+        <item quantity="one">התאמה אחת</item>
+        <item quantity="two">%d התאמות</item>
+        <item quantity="many">%d התאמות</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">ב- %d ימים האחרונים</item>
+        <item quantity="one">ביום האחרון</item>
+        <item quantity="two">ב- %d ימים האחרונים</item>
+        <item quantity="many">ב- %d ימים האחרונים</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d מתוך %2$d</item>
+        <item quantity="one">התאמה אחת</item>
+        <item quantity="two">%1$d מתוך %2$d</item>
+        <item quantity="many">%1$d מתוך %2$d</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d נבחרו</item>
+        <item quantity="one">%1$d נבחרה</item>
+        <item quantity="two">%1$d נבחרו</item>
+        <item quantity="many">%1$d נבחרו</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">הסרת %1$d סרטונים בוצעה בהצלחה.</item>
+        <item quantity="one">הסרת וידאו %1$d בוצעה בהצלחה.</item>
+        <item quantity="two">הסרת %1$d סרטונים בוצעה בהצלחה.</item>
+        <item quantity="many">הסרת %1$d סרטונים בוצעה בהצלחה.</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">לנקות %1$d סרטוני וידאו?</item>
+        <item quantity="one">לנקות וידאו %1$d?</item>
+        <item quantity="two">לנקות %1$d סרטוני וידאו?</item>
+        <item quantity="many">לנקות %1$d סרטוני וידאו?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d פריטים נמחקו מההיסטוריה.</item>
+        <item quantity="one">פריט %1$d נמחק מההיסטוריה.</item>
+        <item quantity="two">%1$d פריטים נמחקו מההיסטוריה.</item>
+        <item quantity="many">%1$d פריטים נמחקו מההיסטוריה.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">למחוק %1$d פריטים מההיסטוריה?</item>
+        <item quantity="one">למחוק פריט %1$d מההיסטוריה?</item>
+        <item quantity="two">למחוק %1$d פריטים מההיסטוריה?</item>
+        <item quantity="many">למחוק %1$d פריטים מההיסטוריה?</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">נותרו %d דקות</item>
+        <item quantity="one">נותרה דקה</item>
+        <item quantity="two">נותרו %d דקות</item>
+        <item quantity="many">נותרו %d דקות</item>
+    </plurals>
 </resources>

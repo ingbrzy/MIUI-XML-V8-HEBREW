@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="dirty_contacts_count">
-    <item quantity="other">%d אנשי קשר</item>
-    <item quantity="one">איש קשר אחד</item>
-  </plurals>
-  <plurals name="dirty_mms_count">
-    <item quantity="other">%d הודעות</item>
-    <item quantity="one">הודעה אחת</item>
-  </plurals>
-  <plurals name="dirty_note_count">
-    <item quantity="other">%d פתקים</item>
-    <item quantity="one">פתק אחד</item>
-  </plurals>
-  <plurals name="updated_contacts">
-    <item quantity="other">%s אנשי קשר עודכנו</item>
-    <item quantity="one">איש קשר אחד עודכן</item>
-  </plurals>
-  <plurals name="view_all_devices">
-    <item quantity="other">הצג %d מכשירים</item>
-    <item quantity="one">הצג מכשיר אחד</item>
-  </plurals>
-  <plurals name="view_all_apps">
-    <item quantity="other">הצג %d יישומים</item>
-    <item quantity="one">הצג יישום אחד</item>
-  </plurals>
-  <plurals name="view_all_browsers">
-    <item quantity="other">הצג %d דפדפנים</item>
-    <item quantity="one">הצג דפדפן אחד</item>
-  </plurals>
+    <plurals name="updated_contacts">
+        <item quantity="other">%s אנשי קשר עודכנו</item>
+        <item quantity="one">איש קשר %s עודכן</item>
+        <item quantity="two">%s אנשי קשר עודכנו</item>
+        <item quantity="many">%s אנשי קשר עודכנו</item>
+    </plurals>
+    <plurals name="view_all_devices">
+        <item quantity="other">הצג %d מכשירים</item>
+        <item quantity="one">הצג מכשיר %d</item>
+        <item quantity="two">הצג %d מכשירים</item>
+        <item quantity="many">הצג %d מכשירים</item>
+    </plurals>
+    <plurals name="view_all_apps">
+        <item quantity="other">הצג %d יישומים</item>
+        <item quantity="one">הצג יישום %d</item>
+        <item quantity="two">הצג %d יישומים</item>
+        <item quantity="many">הצג %d יישומים</item>
+    </plurals>
+    <plurals name="view_all_browsers">
+        <item quantity="other">הצג %d דפדפנים</item>
+        <item quantity="one">הצג דפדפן %d</item>
+        <item quantity="two">הצג %d דפדפנים</item>
+        <item quantity="many">הצג %d דפדפנים</item>
+    </plurals>
 </resources>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="disable_notification_confirm_title">
-    <item quantity="other">להסתיר התראות של %d יישומים?</item>
-    <item quantity="one">להסתיר התראות של יישום זה?</item>
-  </plurals>
-  <plurals name="status_bar_accessibility_recent_apps">
-    <item quantity="other">%d יישומים אחרונים</item>
-    <item quantity="one">יישום אחרון אחד</item>
-  </plurals>
-  <plurals name="view_realtime_clear">
-    <item quantity="other">בהיר</item>
-  </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d יישומים אחרונים</item>
+        <item quantity="one">יישום אחרון 1</item>
+        <item quantity="two">%d יישומים אחרונים</item>
+        <item quantity="many">%d יישומים אחרונים</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">להסתיר התראות של %d יישומים?</item>
+        <item quantity="one">להסתיר התראות של יישום זה?</item>
+        <item quantity="two">להסתיר התראות של %d יישומים?</item>
+        <item quantity="many">להסתיר התראות של %d יישומים?</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">בהיר</item>
+        <item quantity="one">בהיר</item>
+        <item quantity="two">בהיר</item>
+        <item quantity="many">בהיר</item>
+    </plurals>
 </resources>

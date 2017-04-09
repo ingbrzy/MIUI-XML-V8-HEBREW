@@ -1,53 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="account_user_gender_name">
-    <item>זכר</item>
-    <item>נקבה</item>
-  </string-array>
-  <string-array name="education">
-    <item>חטיבת ביניים</item>
-    <item>מכינה</item>
-    <item>תיכון</item>
-    <item>בית ספר מקצועי</item>
-    <item>מכללה</item>
-    <item>תואר שני</item>
-    <item>דוקטורט</item>
-  </string-array>
-  <string-array name="question_no1">
-    <item>משפחה</item>
-    <item>שם סבתא מצד האמא</item>
-    <item>שם סבא מצד האמא</item>
-    <item>שם סבא מצד האבא</item>
-    <item>שם סבתא מצד האבא</item>
-    <item>יום ההולדת של האבא</item>
-    <item>יום ההולדת של האמא</item>
-    <item>מהו ההפרש בין גילאי ההורים שלך (שנים וחודשים)?</item>
-  </string-array>
-  <string-array name="question_no2">
-    <item>שם מוסד הלימודים</item>
-    <item>מה היה שמו של נשיא הכיתה בחטיבת הביניים?</item>
-    <item>מה היה שמו של נשיא הכיתה בבית הספר היסודי?</item>
-    <item>מספר הסטודנט שלך במכללה</item>
-    <item>מהו שמו של השותף שלך לחדר במכללה?</item>
-    <item>מהו שמו של הממונה עליך במכללה?</item>
-  </string-array>
-  <string-array name="question_no3">
-    <item>מידע אישי</item>
-    <item>איך ההורים שלך קוראים לך?</item>
-    <item>6 הספרות האחרונות של מספר הדרכון שלך</item>
-    <item>באיזה בית חולים נולדת?</item>
-    <item>מהו שמו של החבר הכי טוב שלך?</item>
-  </string-array>
-  <string-array name="question_no4">
-    <item>הפעמים הראשונות</item>
-    <item>מהו שמה של חיית המחמד הראשונה שלך?</item>
-    <item>מהו השם של החבר/ה הראשונ/ה שלך?</item>
-    <item>מהו שם מקום העבודה הראשון שלך?</item>
-  </string-array>
-  <string-array name="question_no5">
-    <item>נישואין</item>
-    <item>מתי התחתנת?</item>
-    <item>שם בן/בת הזוג שלך</item>
-    <item>יום ההולדת של בן/בת הזוג שלך</item>
-  </string-array>
+    <string-array name="account_user_gender_name">
+        <item>זכר</item>
+        <item>נקבה</item>
+    </string-array>
+    <string-array name="education">
+        <item>חטיבת ביניים</item>
+        <item>מכינה</item>
+        <item>תיכון</item>
+        <item>בית ספר מקצועי</item>
+        <item>תואר ראשון</item>
+        <item>תואר שני</item>
+        <item>דוקטורט</item>
+    </string-array>
+    <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>> 12000</item>
+    </string-array>
+    <string-array name="question_no1">
+        <item>משפחה</item>
+        <item>שם סבתא מצד האמא</item>
+        <item>שם סבא מצד האמא</item>
+        <item>שם סבא מצד האבא</item>
+        <item>שם סבתא מצד האבא</item>
+        <item>יום ההולדת של האבא</item>
+        <item>יום ההולדת של האמא</item>
+        <item>מהו ההפרש בין גילאי ההורים שלך (שנים וחודשים)?</item>
+    </string-array>
+    <string-array name="question_no2">
+        <item>שם מוסד הלימודים</item>
+        <item>מה היה שמו של נשיא הכיתה בחטיבת הביניים?</item>
+        <item>מה היה שמו של נשיא הכיתה בבית הספר היסודי?</item>
+        <item>מספר הסטודנט שלך במכללה</item>
+        <item>מהו שמו של השותף שלך לחדר במכללה?</item>
+        <item>מהו שמו של הממונה עליך במכללה?</item>
+    </string-array>
+    <string-array name="question_no3">
+        <item>מידע אישי</item>
+        <item>איך ההורים שלך קוראים לך?</item>
+        <item>6 הספרות האחרונות של מספר הדרכון שלך</item>
+        <item>באיזה בית חולים נולדת?</item>
+        <item>מהו שמו של החבר הכי טוב שלך?</item>
+    </string-array>
+    <string-array name="question_no4">
+        <item>הפעמים הראשונות</item>
+        <item>מהו שמה של חיית המחמד הראשונה שלך?</item>
+        <item>מהו השם של החבר/ה הראשונ/ה שלך?</item>
+        <item>מהו שם מקום העבודה הראשון שלך?</item>
+    </string-array>
+    <string-array name="question_no5">
+        <item>נישואין</item>
+        <item>מתי התחתנת?</item>
+        <item>שם בן/בת הזוג שלך</item>
+        <item>יום ההולדת של בן/בת הזוג שלך</item>
+    </string-array>
 </resources>

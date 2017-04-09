@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="new_notifications_msg">
-    <item quantity="other">%d התראות חדשות</item>
-    <item quantity="one">התראה חדשה אחת</item>
-  </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d התראות חדשות</item>
+        <item quantity="one">התראה חדשה %d</item>
+        <item quantity="two">%d התראות חדשות</item>
+        <item quantity="many">%d התראות חדשות</item>
+    </plurals>
 </resources>

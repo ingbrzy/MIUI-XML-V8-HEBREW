@@ -1,125 +1,142 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="alarm_repeat_type">
-    <item>פעם אחת</item>
-    <item>כל יום</item>
-    <item>ימי עבודה המשפטיות</item>
-    <item>ימי חול</item>
-    <item>מותאם אישית</item>
-  </string-array>
-  <string-array name="alarm_repeat_type_no_workdays">
-    <item>פעם אחת</item>
-    <item>כל יום</item>
-    <item>ימי חול</item>
-    <item>מותאם אישית</item>
-  </string-array>
-  <string-array name="date_of_app">
-    <item>אתמול (נתונים)</item>
-    <item>היום (נתונים)</item>
-    <item>החודש (נתונים)</item>
-  </string-array>
-  <string-array name="date_of_app_all">
-    <item>אתמול (נתונים)</item>
-    <item>היום (נתונים)</item>
-    <item>החודש (נתונים)</item>
-    <item>אתמול (Wi-Fi)</item>
-    <item>היום (Wi-Fi)</item>
-    <item>החודש (Wi-Fi)</item>
-  </string-array>
-  <string-array name="date_of_traffic">
-    <item>"אתמול "</item>
-    <item>"היום "</item>
-    <item>"החודש "</item>
-  </string-array>
-  <string-array name="date_of_traffic_cmcc">
-    <item>"השבוע "</item>
-    <item>"היום "</item>
-    <item>"החודש "</item>
-  </string-array>
-  <string-array name="date_of_traffic_prefix">
-    <item>"אתמול: "</item>
-    <item>"היום: "</item>
-    <item>"החודש: "</item>
-  </string-array>
-  <string-array name="date_of_traffic_prefix_cmcc">
-    <item>"השבוע: "</item>
-    <item>"היום: "</item>
-    <item>"החודש: "</item>
-  </string-array>
-  <string-array name="lock_mode">
-    <item>כאשר המכשיר נעול</item>
-    <item>כאשר המכשיר נעול או לאחר יציאה מיישום</item>
-    <item>כאשר המכשיר נעול או דקה אחת לאחר יציאה מיישום</item>
-  </string-array>
-  <string-array name="long_add_menu">
-    <item>"הוסף ל'חריגים'"</item>
-  </string-array>
-  <string-array name="mi_service_traffic_type">
-    <item>"שימוש בנתונים "</item>
-    <item>"שימוש ב-Wi-Fi "</item>
-  </string-array>
-  <string-array name="network_speed_update_internals">
-    <item>3 שניות</item>
-    <item>4 שניות</item>
-    <item>5 שניות</item>
-    <item>6 שניות</item>
-    <item>7 שניות</item>
-    <item>8 שניות</item>
-    <item>9 שניות</item>
-  </string-array>
-  <string-array name="over_limit_traffic_waring_style">
-    <item>הצג אזהרה</item>
-    <item>הצג התראה וכבה את חיבור הנתונים הסלולרי</item>
-  </string-array>
-  <string-array name="roaming_apps_sorted_type">
-    <item>בשימוש התדיר ביותר</item>
-    <item>שם</item>
-  </string-array>
-  <string-array name="roaming_network_type">
-    <item>תמיד</item>
-    <item>עבור חריגים בלבד</item>
-    <item>לעולם לא</item>
-  </string-array>
-  <string-array name="power_dialog_auto_clean_memory_items">
-    <item>לאחר דקה</item>
-    <item>לאחר 5 דקות</item>
-    <item>לאחר 10 דקות</item>
-    <item>לאחר 30 דקות</item>
-    <item>אף פעם</item>
-  </string-array>
-  <string-array name="power_dialog_cpu_state_items">
-    <item>פרודוקטיביות</item>
-    <item>מאוזן</item>
-  </string-array>
-  <string-array name="power_dialog_sleep_items">
-    <item>15 שניות</item>
-    <item>30 שניות</item>
-    <item>דקה</item>
-    <item>שתי דקות</item>
-    <item>5 דקות</item>
-    <item>10 דקות</item>
-    <item>אף פעם</item>
-  </string-array>
-  <string-array name="power_dialog_vibration_items">
-    <item>לעולם אל תפעיל רטט</item>
-    <item>רטט וכשהושתק</item>
-    <item>תמיד לרטוט</item>
-  </string-array>
-  <string-array name="power_dialog_wifi_internet_state_items">
-    <item>בטל</item>
-    <item>הפעל</item>
-    <item>ברירת מחדל</item>
-  </string-array>
-  <string-array name="traffic_setting_sms_template">
-    <item>קבל באופן אוטומטי</item>
-    <item>הגדר באופן ידני</item>
-  </string-array>
-  <string-array name="traffic_sort_type">
-    <item>"שימוש בנתונים "</item>
-    <item>"שימוש ב-Wi-Fi "</item>
-  </string-array>
-  <string-array name="traffic_type">
-    <item>"שימוש בנתונים "</item>
-    <item>"שימוש ב-Wi-Fi "</item>
-  </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"השבוע "</item>
+        <item>"היום "</item>
+        <item>"החודש "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"אתמול "</item>
+        <item>"היום "</item>
+        <item>"החודש "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"השבוע: "</item>
+        <item>"היום: "</item>
+        <item>"החודש: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"אתמול: "</item>
+        <item>"היום: "</item>
+        <item>"החודש: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>אתמול (נתונים)</item>
+        <item>היום (נתונים)</item>
+        <item>החודש (נתונים)</item>
+        <item>אתמול באמצעות רשת אלחוטית</item>
+        <item>היום באמצעות רשת אלחוטית</item>
+        <item>החודש באמצעות רשת אלחוטית</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>אתמול (נתונים)</item>
+        <item>היום (נתונים)</item>
+        <item>החודש (נתונים)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 שניות</item>
+        <item>4 שניות</item>
+        <item>5 שניות</item>
+        <item>6 שניות</item>
+        <item>7 שניות</item>
+        <item>8 שניות</item>
+        <item>9 שניות</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"שימוש ברשת סלולרית "</item>
+        <item>"שימוש ברשת אלחוטית "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"שימוש ברשת סלולרית "</item>
+        <item>"שימוש ברשת אלחוטית "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"שימוש בנתונים סלולריים "</item>
+        <item>"שימוש ברשת אלחוטית "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>קבל באופן אוטומטי</item>
+        <item>הגדר באופן ידני</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>הצג אזהרה</item>
+        <item>התרע וכבה את חיבור הנתונים הסלולרי</item>
+    </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>בשימוש התדיר ביותר</item>
+        <item>שם</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>תמיד</item>
+        <item>עבור חריגים בלבד</item>
+        <item>לעולם לא</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>כאשר המכשיר נעול</item>
+        <item>כאשר המכשיר נעול או לאחר יציאה מיישום</item>
+        <item>כאשר המכשיר נעול או דקה 1 לאחר יציאה מיישום</item>
+    </string-array>
+    <string-array name="lock_mode_value">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="long_add_menu">
+        <item>הוסף לחריגים</item>
+    </string-array>
+    <string-array name="sort_type">
+        <item>sort_order_alpha</item>
+        <item>sort_order_size</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Data Usage</item>
+        <item>Phone balance</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>לאחר דקה</item>
+        <item>לאחר 5 דקות</item>
+        <item>לאחר 10 דקות</item>
+        <item>אף פעם</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>פעם אחת</item>
+        <item>כל יום</item>
+        <item>ימי עבודה המשפטיות</item>
+        <item>ימי חול</item>
+        <item>מותאם אישית</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>פעם אחת</item>
+        <item>כל יום</item>
+        <item>ימי חול</item>
+        <item>מותאם אישית</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 שניות</item>
+        <item>30 שניות</item>
+        <item>דקה</item>
+        <item>שתי דקות</item>
+        <item>5 דקות</item>
+        <item>10 דקות</item>
+        <item>אף פעם</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>פרודוקטיביות</item>
+        <item>מְאוּזָן</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>בטל</item>
+        <item>הפעל</item>
+        <item>בררת מחדל</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>לעולם אל תפעיל רטט</item>
+        <item>רטט וכשהושתק</item>
+        <item>תמיד לרטוט</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
 </resources>

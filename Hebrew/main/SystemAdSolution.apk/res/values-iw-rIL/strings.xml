@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="install">התקנה</string>
+    <string name="installing">מתקין…</string>
+    <string name="launch">פתיחה</string>
+    <string name="carddownloading">ביטול</string>
+    <string name="pass">דלג</string>
+    <string name="downloading">מוריד</string>
+    <string name="download_retry">לא ניתן היה להוריד, לחץ על מנת לנסות שוב.</string>
+    <string name="install_retry">לא ניתן היה להתקין, לחץ על מנת לנסות שוב.</string>
+    <string name="installed">הותקן בהצלחה.</string>
+    <string name="start_download">מוריד</string>
+    <string name="waiting">ממתין</string>
+    <string name="introduction">אודות שירותי הפרסום</string>
+    <string name="dismiss">אינני מעוניין לראות את זה</string>
+    <string name="provider_title">ספקי פרסומות</string>
+    <string name="dismiss_reason_title">מדוע אינך מעוניין לראות פרסומת זו?</string>
+    <string name="no_interest">אין לי עניין בה</string>
+    <string name="ad_too_much">מופיעה לעיתים תכופות מידי</string>
+    <string name="bad_content">איכות תוכן ירודה</string>
+    <string name="ad_service_introduction">אודות שירותי הפרסום</string>
+    <string name="loading">רק רגע…</string>
+    <string name="feedback_information">תודה לך על המשוב.</string>
+    <string name="ERROR_FILE_ERROR">שגיאת קובץ</string>
+    <string name="ERROR_UNHANDLED_HTTP_CODE">שגיאת קוד HTTP</string>
+    <string name="ERROR_HTTP_DATA_ERROR">שגיאת נתוני HTTP</string>
+    <string name="ERROR_TOO_MANY_REDIRECTS">הפניות רבות מידי</string>
+    <string name="ERROR_INSUFFICIENT_SPACE">אין מספיק שטח אחסון</string>
+    <string name="ERROR_DEVICE_NOT_FOUND">לא ניתן היה למצוא את ההתקן</string>
+    <string name="ERROR_CANNOT_RESUME">לא ניתן להמשיך</string>
+    <string name="ERROR_FILE_ALREADY_EXISTS">הקובץ קיים כבר</string>
+    <string name="PAUSED_WAITING_TO_RETRY">אירעה שגיאה, נסה שוב</string>
+    <string name="PAUSED_WAITING_FOR_NETWORK">לא ניתן היה להתחבר לרשת</string>
+    <string name="PAUSED_QUEUED_FOR_WIFI">לא ניתן היה להתחבר לרשת האלחוטית</string>
+    <string name="PAUSED_UNKNOWN">אירעה שגיאה לא מוכרת</string>
+    <string name="skip_ad">דלג</string>
+    <string name="ad_flag_text">פרסומת</string>
+    <string name="mimo_download_card_title">שים לב</string>
+    <string name="mimo_download_card_info">מוריד פרטים…</string>
+    <string name="mimo_download_card_hide">הסתרה</string>
+    <string name="mimo_download_card_cancel">ביטול</string>
+    <string name="mimo_notification_title">מוריד את ההרחבה</string>
+    <string name="mimo_notification_download_fail">לא ניתן היה להוריד</string>
+</resources>

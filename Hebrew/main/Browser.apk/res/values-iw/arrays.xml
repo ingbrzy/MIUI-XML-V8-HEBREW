@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_homepage_choices">
+        <item>דף נוכחי</item>
+        <item>דף ריק</item>
+        <item>דף ברירת מחדל</item>
+        <item>האתרים הפופולריים ביותר</item>
+        <item>אחר</item>
+    </string-array>
+</resources>
