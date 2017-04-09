@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_in_furture">
-        <item>התרעה מוגדרת לפחות מדקה מעכשיו</item>
-        <item>התרעה בעוד %1$s</item>
-        <item>התרעה בעוד %2$s</item>
-        <item>התרעה בעוד %1$s%2$s</item>
-        <item>התרעה בעוד %3$s</item>
-        <item>התרעה בעוד %1$s%3$s</item>
-        <item>התרעה בעוד %2$s%3$s</item>
-        <item>התרעה בעוד %1$s%2$s%3$s</item>
+        <item>התראה מוגדרת לפחות מדקה מעכשיו</item>
+        <item>התראה בעוד %1$s</item>
+        <item>התראה בעוד %2$s</item>
+        <item>התראה בעוד %1$s%2$s</item>
+        <item>התראה בעוד %3$s</item>
+        <item>התראה בעוד %1$s%3$s</item>
+        <item>התראה בעוד %2$s%3$s</item>
+        <item>התראה בעוד %1$s%2$s%3$s</item>
     </string-array>
     <string-array name="days">
         <item>אתמול</item>
@@ -38,14 +38,14 @@
         <item>חמור</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>ההתרעה תופעל בעוד פחות מדקה 1.</item>
-        <item>ההתרעה תופעל בעוד %1$s.</item>
-        <item>ההתרעה תופעל בעוד %2$s.</item>
-        <item>ההתרעה תופעל בעוד %1$s ו- %2$s.</item>
-        <item>ההתרעה תופעל בעוד %3$s.</item>
-        <item>ההתרעה תופעל בעוד %1$s ו- %3$s.</item>
-        <item>ההתרעה תופעל בעוד %2$s ו- %3$s.</item>
-        <item>ההתרעה תופעל בעוד %1$s%2$s ו- %3$s.</item>
+        <item>ההתראה תופעל בעוד פחות מדקה 1.</item>
+        <item>ההתראה תופעל בעוד %1$s.</item>
+        <item>ההתראה תופעל בעוד %2$s.</item>
+        <item>ההתראה תופעל בעוד %1$s ו- %2$s.</item>
+        <item>ההתראה תופעל בעוד %3$s.</item>
+        <item>ההתראה תופעל בעוד %1$s ו- %3$s.</item>
+        <item>ההתראה תופעל בעוד %2$s ו- %3$s.</item>
+        <item>ההתראה תופעל בעוד %1$s%2$s ו- %3$s.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>דקה 1</item>

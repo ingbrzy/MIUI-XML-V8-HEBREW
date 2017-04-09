@@ -114,7 +114,7 @@
     <string name="preferences_notification_ringtone_title">צליל</string>
     <string name="pref_title_no_remind">ללא תזכורת</string>
     <string name="pref_title_notification_remind">הצג תזכורת כהתראה</string>
-    <string name="pref_title_alarm_remind">צור התרעה לתזכורות</string>
+    <string name="pref_title_alarm_remind">צור התראה לתזכורות</string>
     <string name="pref_error_no_ringtone_select">צלצול ברירת מחדל</string>
     <string name="alarm_label">התעלם</string>
     <string name="preferences_alerts_vibrateWhen_title">רטט</string>
