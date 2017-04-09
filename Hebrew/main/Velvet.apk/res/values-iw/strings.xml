@@ -1348,7 +1348,6 @@
     <string name="no_wifi_network_connected">אינך מחובר לרשת</string>
     <string name="no_wifi_networks_available">אין רשתות זמינות</string>
     <string name="no_zero_prefix_suggestion_shown">אין תוצאות זמינות</string>
-    <string name="non_empty_edit_text_preference_invalid_value">הזן שם שאינו ריק.</string>
     <string name="none">ללא</string>
     <string name="notification_cancel_text">לא תישלח הודעה כשתתחבר שוב לאינטרנט.</string>
     <string name="notification_cancel_title">החיפוש בוטל</string>
@@ -1367,10 +1366,6 @@
     <string name="now_opt_in_card_description">‏ב-Google תוכל לקבל עדכוני מזג אוויר, דיווחי תנועה וכל מידע אחר ברגע שתזדקק לו</string>
     <string name="now_opt_in_card_title">רוצה לקבל תשובות עוד לפני שתשאל?</string>
     <string name="now_update_tab">בקרוב</string>
-    <string name="now_value_proposition_continue">המשך</string>
-    <string name="now_value_proposition_text">‏האפליקציה של Google יכולה גם לספק לך עדכונים מותאמים אישית, כגון עדכונים על מזג האוויר, זמני נסיעה לעבודה וטיסות או פגישות שהמועד שלהן מתקרב. ככל שתשתמש בה יותר, היא תהיה מועילה יותר.</string>
-    <string name="now_value_proposition_title">‏תן ל-Google לעבוד בשבילך</string>
-    <string name="now_value_proposition_title_loading">בודק…</string>
     <string name="np_stream">הצגת כרטיסים בסיסיים בלבד</string>
     <string name="np_stream_summary">"קבלת עדכונים בסיסיים בלבד, כמו חדשות, גם כאשר האפשרות 'הצגת כל הכרטיסים' כבויה"</string>
     <string name="num_remaining">%1$d מתוך %2$d תוצאות חיפוש מוכנות</string>
@@ -1498,12 +1493,6 @@
     <string name="opa_title">Google Assistant</string>
     <string name="opa_try_again_error_message">אופס, תוכל לחזור שוב על מה שאמרת?</string>
     <string name="opa_user_recoverable_error_message">אופס, יש בעיה. הקש למטה כדי לתקן אותה.</string>
-    <string name="opa_value_proposition_continue">המשך</string>
-    <string name="opa_value_proposition_p1_summary">‏שאל אותו שאלות. אמור לו לעשות דברים. זהו Google אישי משלך, שתמיד מוכן לעזור.</string>
-    <string name="opa_value_proposition_p2_summary">"‏אמור \"Ok Google\" או גע בלחצן 'דף הבית' והחזק אותו."</string>
-    <string name="opa_value_proposition_p2_title">כדי לקבל עזרה מהאסיסטנט שלך</string>
-    <string name="opa_value_proposition_title">היי, במה אפשר לעזור?</string>
-    <string name="opa_value_proposition_title_loading">בודק…</string>
     <string name="opa_warm_welcome_greeting_0">‏שלום! אני ה-Google Assistant שלך.</string>
     <string name="opa_warm_welcome_greeting_1">אני יכול לעזור לך למצוא את מה שאתה צריך ולבצע משימות. אם אתה זקוק לעזרה, פשוט שאל \"מה אתה יכול לעשות?\".</string>
     <string name="opa_warm_welcome_greeting_1_backup_0">אני יכול לעזור לך למצוא את מה שאתה צריך, לבצע משימות ואפילו ליהנות קצת.</string>

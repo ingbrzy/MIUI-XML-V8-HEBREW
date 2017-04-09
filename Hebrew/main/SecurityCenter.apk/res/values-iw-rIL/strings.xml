@@ -958,7 +958,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="memory_check_content">%s התפנו</string>
     <string name="memory_check_content_none">ריק</string>
     <string name="system_check_content_none">בטוח</string>
-    <string name="cache_check_content_none">@string/memory_check_content_none</string>
     <string name="system_header_title">נקה %1$d תהליכים לשחרור %2$s מהזכרון</string>
     <string name="cache_header_title">נקה %1$d קבצים המאוחסנים במטמון על מנת לפנות %2$s שטח</string>
     <string name="activity_title_virus">וירוס</string>
@@ -1414,7 +1413,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="card_main_monthreport_action">הצג</string>
     <string name="card_main_speeddetail_title">מהירות החיבור</string>
     <string name="card_main_speeddetailt_summary">הצג את מהירות החיבור של יישומים אינדיבדואליים</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>

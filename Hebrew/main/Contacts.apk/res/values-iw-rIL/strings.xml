@@ -714,7 +714,6 @@
     <string name="miprofile_alertdialog_message">הצג שם זה לאנשי קשר כאשר תבקש לבצע החלפת כרטיסים.</string>
     <string name="miprofile_alertdialog_edit">הכנס שם</string>
     <string name="miprofile_switch_off_alertdialog_message">לא תוכל להחליף כרטיסי איש קשר עם אנשים אחרים.</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">הוסף מספר טלפון</string>
     <string name="miprofile_bind_account_alertdialog_message">עליך להוסיף את מספר הטלפון של מכשיר זה לחשבון Mi שלך על מנת להשתמש בתכונה זו.</string>
     <string name="miprofile_bind_account_alertdialog_positive">הוסף מספר</string>

@@ -538,8 +538,4 @@
         <item>‏Wi-Fi מועדף</item>
         <item>סלולרי מועדף</item>
     </string-array>
-    <string-array name="wifi_calling_mode_values">
-        <item>2</item>
-        <item>1</item>
-    </string-array>
 </resources>

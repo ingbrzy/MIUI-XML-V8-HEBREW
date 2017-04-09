@@ -114,7 +114,6 @@
     <string name="forum_result_title">קטעים קשורים</string>
     <string name="fragment_post_view">תגובה מספר #%1$s</string>
     <string name="from">מ-%1$s</string>
-    <string name="gender_default_value">סוד</string>
     <string name="general_settings">כללי</string>
     <string name="get_cookie_failed">לא ניתן היה להשיג את פרטי החשבון, היכנס שוב</string>
     <string name="hardware_entry_label">חומרה</string>
@@ -179,7 +178,6 @@
     <string name="my_drafts_label">טיוטות</string>
     <string name="my_favorites_label">מועדפים</string>
     <string name="my_feedbacks_label">משוב</string>
-    <string name="my_info_default_value">עריכה</string>
     <string name="my_message_empty_hint">אין הודעות</string>
     <string name="my_message_group_label">פרופיל</string>
     <string name="my_mission">המשימות שלי</string>

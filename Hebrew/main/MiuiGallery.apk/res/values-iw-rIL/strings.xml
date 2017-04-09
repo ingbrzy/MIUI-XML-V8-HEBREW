@@ -579,7 +579,6 @@
     <string name="welcome_to_slim">יעל את האחסון המקומי</string>
     <string name="slim_introduce">החלף תמונות ברזולוצייה מלאה עם גרסאות יעילות יותר לאחר שגובו ל-Mi Cloud. גרסאות המקור יישארו זמינות ב- Mi Cloud.</string>
     <string name="slim_introduce_with_specific_size">החלף תמונות ברזולוצייה מלאה עם גרסאות יעילות יותר לאחר שגובו ל-Mi Cloud. גרסאות המקור יישארו זמינות ב- Mi Cloud. כך תוכל לחסוך עד %1$s מנפח האחסון המקומי (נדרש חשבון Mi).</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">גיבוי אוטומטי של תמונות וסרטונים (נדרש חשבון Mi)</string>
     <string name="next">הבא</string>
     <string name="login_and_enable_service">היכנס באמצעות חשבון Mi</string>

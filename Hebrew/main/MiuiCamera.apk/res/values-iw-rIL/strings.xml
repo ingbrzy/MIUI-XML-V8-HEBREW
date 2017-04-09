@@ -356,7 +356,6 @@
     <string name="pref_camera_beautify_entry_low">נמוך</string>
     <string name="pref_camera_beautify_entry_normal">בינוני</string>
     <string name="pref_camera_beautify_entry_high">גבוה</string>
-    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">מצבים</string>
     <string name="button_front_camera_title">צלם סלפי</string>
     <string name="button_normal_video_title">הקלט וידאו</string>

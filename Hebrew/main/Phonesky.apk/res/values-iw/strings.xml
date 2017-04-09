@@ -115,9 +115,6 @@
     <string name="auto_update_label">עדכון אפליקציות באופן אוטומטי</string>
     <string name="auto_update_migration_dialog_message_on_mobile">האם לעדכן אפליקציות באופן אוטומטי? עשויים לחול חיובים בגין שימוש בנתונים.</string>
     <string name="auto_update_migration_dialog_message_on_wifi">האם לעדכן אפליקציות באופן אוטומטי כשאתה מחובר ל-Wi-Fi?</string>
-    <string name="auto_update_value_disabled">ללא עדכון אוטומטי</string>
-    <string name="auto_update_value_enabled">עדכון אוטומטי תמיד. השימוש בנתונים עשוי לגרום לחיובים.</string>
-    <string name="auto_update_value_wifi_only">עדכון אוטומטי רק באמצעות Wi-Fi</string>
     <string name="availability_restriction_carrier">פריט זה אינו זמין אצל הספק שלך.</string>
     <string name="availability_restriction_country">פריט זה אינו זמין בארצך.</string>
     <string name="availability_restriction_country_or_carrier">פריט זה אינו זמין בארצך או אצל הספק שלך.</string>
@@ -354,9 +351,6 @@
     <string name="download_pending">ההורדה בהמתנה...</string>
     <string name="download_progress_bytes">^1/^2</string>
     <string name="download_settings_label">הורד אפליקציות</string>
-    <string name="download_settings_value_ask">הצג שאלה לפני הורדה ברשת לנייד</string>
-    <string name="download_settings_value_download_always">הורד בכל סוג רשת</string>
-    <string name="download_settings_value_wifi_only">הורד ברשת Wi-Fi בלבד</string>
     <string name="downloading_section">מוריד…</string>
     <string name="early_access">גישה מוקדמת</string>
     <string name="early_access_app_installed">תודה שניסית את האפליקציה לפני ההשקה שלה!</string>
@@ -948,9 +942,6 @@
     <string name="purchase_auth_message_session">בכל פעם שתבצע אימות של רכישה, תוכל להמשיך לקנות את כל סוגי התוכן הדיגיטלי באמצעות Google Play (כולל רכישות מתוך אפליקציות) למשך 30 הדקות הבאות, מבלי שתידרש לבצע שוב אימות. עם זאת, יש תמיד צורך באימות עבור רכישות המבוצעות באמצעות Google Play מתוך אפליקציות המיועדות לגיל 12 ומטה. &lt;a href=%1$s>שנה הגדרות&lt;/a> או &lt;a href=%2$s>למידע נוסף&lt;/a>.</string>
     <string name="purchase_auth_settings_label">נדרש אימות לביצוע רכישות</string>
     <string name="purchase_auth_underage_disclaimer">יש תמיד צורך באימות עבור רכישות המבוצעות באמצעות Google Play מתוך אפליקציות המיועדות לגיל 12 ומטה.</string>
-    <string name="purchase_auth_value_always">לכל הרכישות באמצעות Google Play במכשיר זה</string>
-    <string name="purchase_auth_value_never">לעולם לא</string>
-    <string name="purchase_auth_value_session">כל 30 דקות</string>
     <string name="purchase_flow_ask_to_buy_prompt">%1$s. %2$s</string>
     <string name="purchase_flow_start_description">%1$s‏, %2$s</string>
     <string name="purchase_or_rent_resolution">החל מ-%1$s</string>
