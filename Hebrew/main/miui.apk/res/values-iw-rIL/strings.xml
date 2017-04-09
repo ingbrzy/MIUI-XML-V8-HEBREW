@@ -282,7 +282,7 @@
     <string name="the_armys_day">Armys Day</string>
     <string name="the_teachers_day">יום המורה</string>
     <string name="the_national_day">יום העצמאות</string>
-    <string name="the_christmas_day">יום חג המולד</string>
+    <string name="the_christmas_day"></string>
     <string name="the_peace_day">יום השלום</string>
     <string name="the_anti_aggression_day">Anti-aggression Day</string>
     <string name="the_tw_youth_day">Youth Day</string>
@@ -293,7 +293,7 @@
     <string name="the_retrocession_day">Retrocession Day</string>
     <string name="the_national_father_day">National Father Day</string>
     <string name="the_hksar_establishment_day">HKSAR Establishment Day</string>
-    <string name="the_easter_day">Easter</string>
+    <string name="the_easter_day"></string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_second">"s's'"</string>
     <string name="fmt_time_second_millis">"s.S's'"</string>
