@@ -1186,7 +1186,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="delete_from_manual_item_white_list">הסר מרשימת החריגים</string>
     <string name="manual_white_list_header">%d חריגים</string>
     <string name="button_text_ignore">התעלם</string>
-    <string name="button_text_ignore_alert_title">להתעלם מהתרעה זו?</string>
+    <string name="button_text_ignore_alert_title">להתעלם מהתראה זו?</string>
     <string name="back">חזור</string>
     <string name="empty_title_manual_item_white_list">אין חריגים.</string>
     <string name="title_cloud_account">חשבון Mi</string>

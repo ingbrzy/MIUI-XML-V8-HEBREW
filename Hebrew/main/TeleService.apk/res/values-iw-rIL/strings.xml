@@ -958,7 +958,7 @@
     <string name="telocation_auto_country_code">הוסף קידומת מדינה</string>
     <string name="telocation_auto_country_code_summary">הוסף קידומת מדינה באופן אוטומטי לפני חיוג לאנשי קשר</string>
     <string name="telocation_countrycode_alert_message_warning">יתכן כי קידומת המדינה שהזנת שגויה.</string>
-    <string name="telocation_countrycode_alert_title">התרעה</string>
+    <string name="telocation_countrycode_alert_title">התראה</string>
     <string name="telocation_countrycode_alert_message_wrong">קידומת המדינה שהזנת שגויה.</string>
     <string name="telocation_custom_empty">הוסף מספר על ידי לחיצה על הפלוס (+)</string>
     <string name="telocation_edit_custom_location_title">הגדר מיקום</string>

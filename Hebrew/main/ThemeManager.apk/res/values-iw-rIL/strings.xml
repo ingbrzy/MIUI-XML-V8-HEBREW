@@ -12,7 +12,7 @@
     <string name="resource_default">צלצול ברירת המחדל</string>
     <string name="resource_ringtone_default">צלצולים</string>
     <string name="resource_notification_default">התראות</string>
-    <string name="resource_alarm_default">התרעה</string>
+    <string name="resource_alarm_default">התראה</string>
     <string name="resource_detail_header_theme_designer_title">מעצב: %1$s</string>
     <string name="description_designer">מעצב</string>
     <string name="description_author">יוצר</string>
@@ -121,7 +121,7 @@
     <string name="resource_title_select_ringtone">בחר צלצול</string>
     <string name="resource_tip_select_none">לא נבחר דבר</string>
     <string name="resource_select_ringtone_audio_confirm">לבחור צלצול זה?</string>
-    <string name="resource_select_notification_audio_confirm">לבחור צליל התרעה זה?</string>
+    <string name="resource_select_notification_audio_confirm">לבחור צליל התראה זה?</string>
     <string name="resource_select_alarm_audio_confirm">לבחור צליל התראה זה?</string>
     <string name="resource_select_boot_audio_confirm">לבחור צליל הפעלה זה?</string>
     <string name="resource_select_audio_confirm_picker">לבחור צליל זה?</string>
@@ -198,7 +198,7 @@
     <string name="resource_menu_refresh">רענון</string>
     <string name="resource_unknow_error">אירעה שגיאה לא מוכרת</string>
     <string name="resource_user_know">אישור</string>
-    <string name="resource_hint">התרעה</string>
+    <string name="resource_hint">התראה</string>
     <string name="resource_ringtone_volume_mute">הצלצול מושתק</string>
     <string name="resource_has_been_downloaded">כבר הורדת את ערכת הנושא הזו.</string>
     <string name="resource_no_match_app">לא נמצא יישום מתאים לביצוע פעולה זו.</string>
@@ -243,13 +243,13 @@
     <string name="theme_component_title_font">גופנים</string>
     <string name="theme_component_title_ringtone">צלצול</string>
     <string name="theme_component_title_notification">התראה</string>
-    <string name="theme_component_title_alarm">התרעה</string>
+    <string name="theme_component_title_alarm">התראה</string>
     <string name="theme_component_title_contact">לוח מקשים</string>
     <string name="theme_component_title_lockstyle">סגנון נעילה</string>
     <string name="theme_component_title_statusbar">שורת מצב</string>
     <string name="theme_component_title_launcher">מגש המועדפים</string>
     <string name="theme_component_title_audio_effect">צלילים</string>
-    <string name="theme_component_title_alarmstyle">סגנון התרעה</string>
+    <string name="theme_component_title_alarmstyle">סגנון התראה</string>
     <string name="theme_component_title_clock">שעון</string>
     <string name="theme_component_title_photo_frame">מסגרות תמונה</string>
     <string name="theme_component_title_others">אחר</string>
@@ -388,7 +388,7 @@
     <string name="current_using_desktop_wallpaper_text">מסך הבית</string>
     <string name="theme_apply_audio_dialog_item_ringtone">צלצול</string>
     <string name="theme_apply_audio_dialog_item_notification">התראה</string>
-    <string name="theme_apply_audio_dialog_item_alarm">התרעה</string>
+    <string name="theme_apply_audio_dialog_item_alarm">התראה</string>
     <string name="dev_options">אפשרויות מפתח</string>
     <string name="dev_options_summary">משאבי רשת</string>
     <string name="change_host_hint">שנה מארח</string>

@@ -152,7 +152,7 @@
     <string name="lock_sounds_enable_title">צליל נעילת המסך</string>
     <string name="volume_media_description">מוסיקה, וידאו, משחקים, ומדיה אחרת</string>
     <string name="volume_ring_description">צלצולים &amp; התראות</string>
-    <string name="volume_alarm_description">התרעה</string>
+    <string name="volume_alarm_description">התראה</string>
     <string name="screen_timeout_title">מצב שינה</string>
     <string name="sim_lock_settings">הגדרות נעילת SIM</string>
     <string name="sim_lock_settings_category">הגדר נעילת SIM</string>
@@ -426,10 +426,10 @@
     <string name="search_screen_paper_mode_title">מצב קריאה;מצב קריאה;קריאה;אור כחול;אור צהוב;מצב לילה</string>
     <string name="search_gesture_wakeup_title">הקש פעמיים על מנת להעיר את המסך;הקשה כפולה על מנת להעיר;הערת המסך;הקשה כפולה על המסך;הקשה כפולה</string>
     <string name="search_sound_settings">צליל;עוצמת שמע;רטט;השתק רעשים;השתקת רעשים</string>
-    <string name="search_ring_volume_option_title">עוצמות;עוצמה;צלצולים &amp; התראות;צלצול;צלצולים;התרעה;מוסיקה</string>
+    <string name="search_ring_volume_option_title">עוצמות;עוצמה;צלצולים &amp; התראות;צלצול;צלצולים;התראה;מוסיקה</string>
     <string name="search_ringtone_title">צלצול הטלפון;צלצול;צלצולים</string>
     <string name="search_sms_received_sound_title">ההודעה התקבלה;צליל הודעה;הודעה שהתקבלה;צלצול הודעה</string>
-    <string name="search_alarm_sound_title">צליל התרעה;צלצול התרעה;התרעה</string>
+    <string name="search_alarm_sound_title">צליל התראה;צלצול התראה;התראה</string>
     <string name="search_calendar_sound_title">צליל לוח השנה;צלצול לוח השנה;לוח השנה</string>
     <string name="search_notification_sound_title">Default notification sound;notification sound;notification sounds</string>
     <string name="search_sms_delivered_sound_title">ההודעה הועברה;הודעה שהועברה;צליל הודעה;דוח העברה</string>
@@ -606,8 +606,8 @@
     <string name="sms_delivered_sound_title">הודעה נשלחה</string>
     <string name="sms_received_sound_dialog_title">בחר צליל עבור קבלת הודעה</string>
     <string name="sms_delivered_sound_dialog_title">בחר צליל עבור שליחת הודעה</string>
-    <string name="alarm_sound_title">צליל התרעה</string>
-    <string name="alarm_sound_dialog_title">בחר צליל התרעה</string>
+    <string name="alarm_sound_title">צליל התראה</string>
+    <string name="alarm_sound_dialog_title">בחר צליל התראה</string>
     <string name="calendar_sound_title">צליל לוח שנה</string>
     <string name="calendar_sound_dialog_title">בחר צליל לוח שנה</string>
     <string name="ringtone_uniform_setting_title">הגדרות SIM כפול</string>
