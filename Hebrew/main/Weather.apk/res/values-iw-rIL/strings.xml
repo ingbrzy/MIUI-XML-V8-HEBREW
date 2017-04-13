@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
     <string name="temperature_unit">%1$s°</string>
     <string name="app_name">מזג אויר</string>
-
     <string name="location_management">מיקומים</string>
     <string name="gps_hint">מיקום נוכחי</string>
     <string name="add_city">הוסף</string>
@@ -12,10 +10,6 @@
     <string name="daily_forecast_no_data">"לא ניתן היה לקבל את פרטי מזג האויר
 החלק מטה לרענון או בדוק את הגדרות הרשת"</string>
     <string name="network_unavailable">לא ניתן להתחבר לרשת.</string>
-    <string name="connect_fail">לא ניתן היה להתחבר לרשת, נסה שוב</string>
-    <string name="act_find_city_hot_city_title">ערים פופולריות</string>
-
-    <string name="act_find_city_hot_attractions_title">אתרים פופולריים</string>
     <string name="connect_fail">החיבור לרשת אינו תקין. אנא נסה שוב מאוחר יותר.</string>
     <string name="act_find_city_hot_title">הוסף</string>
     <string name="act_find_city_hint">הזן מיקום</string>
@@ -131,7 +125,6 @@
     <string name="aqi_detail_5_days">תחזית עבור 5 ימים</string>
     <string name="aqi_detail_24_hours">תחזית עבור 24 שעות</string>
     <string name="menu_add_city">ערוך מיקומים</string>
-    <string name="menu_speeker">שידור קולי</string>
     <string name="button_add_city">הוסף מיקום</string>
     <string name="locate_fail_detail_err">"לא ניתן לאתר את המכשיר
 לחץ על המסך להוספת עיר או שינוי מיקום באופן ידני"</string>
@@ -140,169 +133,11 @@
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
     <string name="lunar_calendar" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string name="ads_extension" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string name="wind_direction_no_data">רוח</string>
-
-
-
-
-
-
-
-
-
     <string name="activity_main_one_alert" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string name="activity_main_alert" />
     <string name="activity_alert_detail_title" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string name="install">התקן</string>
     <string name="open">פתח</string>
     <string name="open_now">פתח כעת</string>
@@ -311,7 +146,6 @@
     <string name="aqi_publish_source">עודכן ב: %1$s על ידי CNEMC</string>
     <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="aqi_data_source">מופעל על ידי Colorful Clouds</string>
-
     <string name="traffic_controls">הקצבת ימי נהיגה</string>
     <string name="traffic_control_today_numbers">היום: %1$s</string>
     <string name="traffic_control_tomorrow_numbers">מחר: %1$s</string>
@@ -349,66 +183,14 @@
     <string name="unit_wind">יחידות מהירות הרוח</string>
     <string name="set">הגדרות</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
-
-
-
-
-
-
-
-
     <string name="common_loading_text">רק רגע…</string>
     <string name="change_alert">בדוק את חיבור הרשת שלך ונסה שוב</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="total_voted_num_text">"&lt;font color='#20a7ff'>%1$s&lt;/font> אנשים הצביעו"</string>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <string name="yes_vote_ratio">בעד %1$s%%</string>
     <string name="yes_vote_num">| %1$s אנשים</string>
-
-
-
-
-
     <string name="no_vote_ratio">נגד %1$s%%</string>
     <string name="no_vote_num">%1$s אנשים |</string>
-
-
-
-
-
     <string name="already_voted">הצבעת</string>
     <string name="already_voted_toast">כבר הצבעת היום</string>
 </resources>

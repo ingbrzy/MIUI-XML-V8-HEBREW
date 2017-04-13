@@ -52,7 +52,6 @@
     <string name="event_reminder_allday_day_zero">ביום האירוע ב- %2$s</string>
     <string name="event_reminders_to_max">ניתן להגדיר עד %d תזכורות</string>
     <string name="event_account">חשבון</string>
-    <string name="hint_what">שם אירוע</string>
     <string name="edit_event_tab_event">אירוע</string>
     <string name="edit_event_tab_birthday">יום הולדת</string>
     <string name="edit_event_tab_anniversary">יום השנה</string>
@@ -90,7 +89,6 @@
     <string name="event_info_where">איפה</string>
     <string name="event_info_descrip">תאור</string>
     <string name="event_info_end">סיום</string>
-    <string name="event_info_title">פרטי אירוע</string>
     <string name="event_info_jump_to_email">עבור לדואר</string>
     <string name="event_action_delete">מחק</string>
     <string name="event_action_edit">ערוך</string>
@@ -235,37 +233,4 @@
     <string name="insert_event_toast_add_failed">לא ניתן היה להוסיף</string>
     <string name="insert_event_toast_add_success">האירוע נוצר</string>
     <string name="force_touch_title_add_new_event">הוסף אירוע</string>
-  <string name="global_action_text_card_manager">לוח שנה מעניין יותר</string>
-  <string name="delete_calendar">ביטול הרשמה</string>
-  <string name="deleting_calendar">מבטל הרשמה</string>
-  <string name="action_text_card_manager">ערוץ</string>
-  <string name="horoscope_select_activity_label">בחירת מזל</string>
-  <string name="card_title_change">עוד</string>
-  <string name="card_manager">הרשמת מנהל</string>
-  <string name="card_detail_title">פרטים</string>
-  <string name="card_detail_dialog_title">להירשם כעת?</string>
-  <string name="card_detail_dialog_message">\"<xliff:g id="count">%1$s</xliff:g> יתעדכן מידי יום. הירשם לקבלת עדכונים יומיומיים.</string>
-  <string name="card_detail_dialog_positive">הירשם כעת</string>
-  <string name="card_detail_dialog_negative">הירשם מאוחר יותר</string>
-  <string name="card_detail_hint">התוכן יוצג בעמוד הבית ויתעדכן מידי יום לאחר ביצוע ההרשמה</string>
-  <string name="unsubscribe_card">ביטול הרשמה</string>
-  <string name="unsubscribing_card">מבטל הרשמה</string>
-  <string name="subscribe_card">הירשם כעת</string>
-  <string name="subscribing_card">מבצע הרשמה</string>
-  <string name="subscribe_card_success">נירשם בהצלחה! צפה בפרטים בעמוד הבית.</string>
-  <string name="unsubscribe_card_success">ביטול ההרשמה ל-\"<xliff:g id="count">%1$s</xliff:g>\" בוצע בהצלחה</string>
-  <string name="subscribe_card_success_for_homepage">ההרשמה ל-\"<xliff:g id="count">%1$s</xliff:g>\" בוצעה בהצלחה</string>
-  <string name="subscribe_channel_title">ערוץ</string>
-  <string name="subscribe_channel_hint">הירשם לשירותים שאתה אוהב וקבל עדכונים יומיומיים בעמוד הבית שלך.\nתוכל גם להוסיף תזכורות על מנת שלא תפספס אף תוכן חשוב.</string>
-  <string name="subscribe_channel_click_hint">נדרשת הרשמה </string>
-  <string name="subscribe_channel_footer_title">ההרשמה בוצעה</string>
-  <string name="subscribe_channel_footer_desc">צפה בהרשמות שלך או בטל הרשמה</string>
-  <string name="subscribe_channel_footer_button">נהל הרשמות</string>
-  <string name="subscribe_channel_footer_view">בדיקה</string>
-  <string name="subscribe_channel_subscribe">הרשמה</string>
-  <string name="subscribe_channel_subscribing">מבצע הרשמה</string>
-  <string name="subscribe_channel_bottom_hint">—— לוח שנה Mi ——</string>
-  <string name="card_manager_no_data">אין הרשמות עדיין</string>
-  <string name="no_network">"לא ניתן היה להתחבר לרשת.\nבדוק את הגדרות הרשת ונסה שוב."</string>
-  <string name="refresh">רענון</string>
 </resources>
