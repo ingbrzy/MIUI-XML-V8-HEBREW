@@ -698,6 +698,8 @@
     <string name="pref_volume_wake_summary">לחיצה על לחצני עוצמת השמע מעירה את המכשיר</string>
     <string name="pref_volume_launch_camera_title">הפעל את המצלמה</string>
     <string name="pref_volume_launch_camera_summary">"לחץ פעמיים על כפתור הנמכת עוצמת השמע על מנת להפעיל את ה'מצלמה'"</string>
+	<string name="suspend_gesture_enabled">הפוך את הטלפון לכיבוי המסך</string>
+    <string name="palm_enabled">כסה את המסך על מנת לכבות אותו</string>
     <string name="media_button">לחצן המדיה</string>
     <string name="preferred_media_app_summary">בחר נגן מוסיקה</string>
     <string name="no_media_button_receiver">לא</string>
@@ -1781,7 +1783,9 @@
     <string name="keywords_torch">פנס;אור</string>
     <string name="keywords_sync">סנכרון;סינכרון;ענן</string>
     <string name="keywords_paper_mode">Flux;קריאה;מצב קריאה;תאורה כחולה;הגנה על העיניים</string>
-    <string name="keywords_quick_ball">Quick nall;shortcut;shortcuts;toggles;toggle</string>
+    <string name="keywords_quick_ball">כדור מהיר;קיצור דרך;קיצורי דרך;כפתורים;כפתור</string>
+    <string name="http_invoke_app">יישומי רשת</string>
+    <string name="http_invoke_app_summary">פתח יישומים מהר יותר מבלי להתקינם</string>
     <string name="keyguard_shortcut_title">"קיצורי דרך ב'מסך הנעילה'"</string>
     <string name="keyguard_shortcut_summary">"הגדר קיצורי דרך עבור 2 יישומים ב'מסך הנעילה'"</string>
     <string name="keyguard_left_function_title">שמאל</string>

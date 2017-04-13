@@ -413,4 +413,21 @@
     <string name="push_notification_content">קבל קוד אימות</string>
     <string name="push_notify_dialog_title">אימות חשבון</string>
     <string name="push_notify_dialog_message">התבצעה כניסה לחשבון Mi שלך באמצעות התקן לא מוכר. הזן קוד אימות זה באמצעות ההתקן. במידה וזה לא היית אתה, שנה את סיסמת חשבון Mi שלך באופן מידי. אל תשתף את קוד האימות עם אנשים אחרים.</string>
+  <string name="account_secure_info_pref_title">פרטי החשבון</string>
+  <string name="account_user_email">דוא\"ל</string>
+  <string name="account_user_phone">טלפון</string>
+  <string name="account_user_recovery_phone">טלפון שחזור</string>
+  <string name="account_security_info_pref_title">פרטי אבטחה</string>
+  <string name="account_bind_settings">חשבונות</string>
+  <string name="account_bind_devices">מכשירים</string>
+  <string name="account_protection">הגנה על החשבון</string>
+  <string name="account_protection_on">פועל</string>
+  <string name="account_protection_off">כבוי</string>
+  <string name="logout_account">צא</string>
+  <string name="mipay">תשלום</string>
+  <string name="mipay_bank_card">כרטיס אשראי</string>
+  <string name="mipay_transit_card">כרטיס תחבורה</string>
+  <string name="mipay_balance">יתרה</string>
+  <string name="mipay_others">אחרים</string>
+  <string name="mipay_identity">זהות</string>
 </resources>

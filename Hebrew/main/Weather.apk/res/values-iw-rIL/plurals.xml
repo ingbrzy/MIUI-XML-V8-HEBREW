@@ -24,4 +24,17 @@
         <item quantity="two">בהיר</item>
         <item quantity="many">בהיר</item>
     </plurals>
+   <plurals name="yes_vote_num">
+    <item quantity="one">| אדם %1$s</item>
+    <item quantity="two">| %1$s אנשים</item>
+    <item quantity="many">| %1$s אנשים</item>
+    <item quantity="other">| %1$s אנשים</item>
+  </plurals>
+  <string name="no_vote_ratio">נגד %1$s%%</string>
+  <plurals name="no_vote_num">
+    <item quantity="one">אדם %1$s |</item>
+    <item quantity="two">%1$s אנשים |</item>
+    <item quantity="many">%1$s אנשים |</item>
+    <item quantity="other">%1$s אנשים |</item>
+  </plurals>
 </resources>

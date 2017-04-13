@@ -123,4 +123,70 @@
         <item>חודשית</item>
         <item>שנתית</item>
     </string-array>
+  <string-array name="aries_info">
+    <item name="simpleName">aries</item>
+    <item name="name">טלה</item>
+    <item name="date">21/3-19/4</item>
+  </string-array>
+  <string-array name="taurus_info">
+    <item name="simpleName">taurus</item>
+    <item name="name">שור</item>
+    <item name="date">20/4-20/5</item>
+  </string-array>
+  <string-array name="gemini_info">
+    <item name="simpleName">gemini</item>
+    <item name="name">תאומים</item>
+    <item name="date">21/5-21/6</item>
+  </string-array>
+  <string-array name="cancer_info">
+    <item name="simpleName">cancer</item>
+    <item name="name">סרטן</item>
+    <item name="date">22/6-22/7</item>
+  </string-array>
+  <string-array name="leo_info">
+    <item name="simpleName">leo</item>
+    <item name="name">אריה</item>
+    <item name="date">23/7-22/8</item>
+  </string-array>
+  <string-array name="virgo_info">
+    <item name="simpleName">virgo</item>
+    <item name="name">בתולה</item>
+    <item name="date">23/8-22/9</item>
+  </string-array>
+  <string-array name="libra_info">
+    <item name="simpleName">libra</item>
+    <item name="name">מאזניים</item>
+    <item name="date">23/9-23/10</item>
+  </string-array>
+  <string-array name="scorpio_info">
+    <item name="simpleName">scorpio</item>
+    <item name="name">עקרב</item>
+    <item name="date">24/10-22/11</item>
+
+
+
+  </string-array>
+  <string-array name="sagittarius_info">
+    <item name="simpleName">sagittarius</item>
+    <item name="name">קשת</item>
+    <item name="date">23/11-21/12</item>
+  </string-array>
+  <string-array name="capricorn_info">
+    <item name="simpleName">capricorn</item>
+    <item name="name">גדי</item>
+    <item name="date">22/12-19/1</item>
+  </string-array>
+  <string-array name="aquarius_info">
+    <item name="simpleName">aquarius</item>
+    <item name="name">דלי</item>
+    <item name="date">20/1-18/2</item>
+  </string-array>
+  <string-array name="pisces_info">
+    <item name="simpleName">pisces</item>
+    <item name="name">דגים</item>
+    <item name="date">19/2-20/3</item>
+
+
+
+  </string-array>
 </resources>
