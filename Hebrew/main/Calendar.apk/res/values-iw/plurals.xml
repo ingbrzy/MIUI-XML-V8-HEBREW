@@ -19,6 +19,10 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
     </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה אחת</item>
+    </plurals>
     <plurals name="Nevents">
         <item quantity="other">%d אירועים</item>
         <item quantity="one">אירוע אחד</item>
@@ -26,9 +30,5 @@
     <plurals name="N_remaining_events">
         <item quantity="other">+%d אירועים</item>
         <item quantity="one">+אירוע אחד</item>
-    </plurals>
-    <plurals name="Nmins">
-        <item quantity="other">%d דקות</item>
-        <item quantity="one">דקה אחת</item>
     </plurals>
 </resources>

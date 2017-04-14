@@ -504,7 +504,7 @@
     <string name="passed_synced_time_day">סונכרן לפני %d ימים</string>
     <string name="cloud_storage_is_full">מלא</string>
     <string name="micloud_wipe_data_confirm_label">הסר נתונים מ-Mi Cloud</string>
-    <string name="micloud_wipe_data_confirm_title">להסיר מהטלפון נתונים שסונכרנו עם Mi Cloud לאחר שתתנתק?</string>
+    <string name="micloud_wipe_data_confirm_title">להסיר מהטלפון נתונים שסונכרנו עם Mi Cloud לאחר שתצא?</string>
     <string name="micloud_wipe_data_retain">השאר</string>
     <string name="micloud_wipe_data_remove">הסר</string>
     <string name="wipe_data_dialog_title">פריטים מסוימים לא סונכרנו</string>

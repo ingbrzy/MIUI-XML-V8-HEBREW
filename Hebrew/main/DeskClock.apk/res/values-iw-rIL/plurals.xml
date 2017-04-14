@@ -43,16 +43,16 @@
         <item quantity="many">נודניק למשך %d דקות.</item>
     </plurals>
     <plurals name="auto_silence_summary">
-        <item quantity="other">ההתראות יושתקו לאחר %d דקות</item>
-        <item quantity="one">ההתראות יושתקו לאחר דקה %d</item>
-        <item quantity="two">ההתראות יושתקו לאחר %d דקות</item>
-        <item quantity="many">ההתראות יושתקו לאחר %d דקות</item>
+        <item quantity="other">ההתרעות יושתקו לאחר %d דקות</item>
+        <item quantity="one">ההתרעות יושתקו לאחר דקה %d</item>
+        <item quantity="two">ההתרעות יושתקו לאחר %d דקות</item>
+        <item quantity="many">ההתרעות יושתקו לאחר %d דקות</item>
     </plurals>
     <plurals name="delete_alarm_confirm">
-        <item quantity="other">למחוק את ההתראות שנבחרו?</item>
-        <item quantity="one">למחוק התראה זו?</item>
-        <item quantity="two">למחוק את ההתראות שנבחרו?</item>
-        <item quantity="many">למחוק את ההתראות שנבחרו?</item>
+        <item quantity="other">למחוק את ההתרעות שנבחרו?</item>
+        <item quantity="one">למחוק התרעה זו?</item>
+        <item quantity="two">למחוק את ההתרעות שנבחרו?</item>
+        <item quantity="many">למחוק את ההתרעות שנבחרו?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
         <item quantity="other">למחוק את אזור הזמן הנבחר?</item>

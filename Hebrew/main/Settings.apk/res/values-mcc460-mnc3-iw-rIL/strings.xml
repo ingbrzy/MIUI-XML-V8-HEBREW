@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="radioInfo_menu_viewADN">הצג את ספר הכתובות של UIM</string>
+    <string name="security_settings_summary">"הגדר את 'המיקום שלי', ביטול נעילת מסך, נעילת כרטיס UIM, נעילת אחסון האישורים"</string>
+    <string name="sim_lock_settings">הגדרות נעילת כרטיס UIM</string>
+    <string name="sim_lock_settings_category">הגדר נעילת כרטיס UIM</string>
+    <string name="sim_lock_settings_title">נעילת כרטיס UIM</string>
+    <string name="sim_pin_toggle">נעל כרטיס UIM</string>
+    <string name="sim_pin_change">שנה קוד PIN של כרטיס ה-UIM</string>
+    <string name="sim_enter_pin">UIM PIN</string>
+    <string name="sim_enable_sim_lock">נעל כרטיס UIM</string>
+    <string name="sim_disable_sim_lock">בטל נעילת כרטיס UIM</string>
+    <string name="sim_enter_old">PIN ישן של כרטיס UIM</string>
+    <string name="sim_enter_new">PIN חדש לכרטיס UIM</string>
+    <string name="sim_change_pin">UIM PIN</string>
+    <string name="sim_change_succeeded">קוד ה-PIN של UIM שונה בהצלחה</string>
+    <string name="sim_lock_failed">"לא ניתן לשנות את מצב נעילת כרטיס ה-UIM.
+ קוד PIN כנראה שגוי."</string>
+    <string name="sim_change_failed_enable_sim_lock">"לא ניתן לשנות את PIN כרטיס ה-UIM.
+ אפשר נעילת UIM."</string>
+    <string name="sim_lock_change_not_supported">"לא ניתן לשנות את 'נעילת UIM.
+ 'UIM אינו תומך בו."</string>
+</resources>

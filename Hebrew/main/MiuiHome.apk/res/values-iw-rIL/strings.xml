@@ -41,9 +41,9 @@
     <string name="permdesc_uninstall_shortcut">אפשר ליישום להסיר קיצורי דרך ללא התערבות המשתמש.</string>
     <string name="permlab_install_widget">"התקן ווידג'טים"</string>
     <string name="permdesc_install_widget">"אפשר ליישום להוסיף ווידג'טים ללא התערבות המשתמש."</string>
-    <string name="permlab_read_settings">Read Home screen settings and shortcuts</string>
+    <string name="permlab_read_settings">"קרא את קיצורי הדרך והגדרות 'מסך הבית'"</string>
     <string name="permdesc_read_settings">אפשר ליישום לקרוא את ההגדרות וקיצורי הדרך במסך הבית.</string>
-    <string name="permlab_write_settings">Edit Home screen settings and shortcuts</string>
+    <string name="permlab_write_settings">"ערוך את קיצורי הדרך והגדרות 'מסך הבית'"</string>
     <string name="permdesc_write_settings">מאפשר ליישום לשנות את ההגדרות וקיצורי הדרך במסך הבית.</string>
     <string name="status_pending">ממתין</string>
     <string name="status_downloading">מוריד</string>
@@ -71,7 +71,7 @@
     <string name="cant_remove_retained_app">לא ניתן היה להסיר יישום זה</string>
     <string name="uninstall_dialog_message">הסרת התקנת היישום תסיר את כל הנתונים שלו.</string>
     <string name="uninstall_dialog_title_format">להסיר התקנה של %s?</string>
-    <string name="uninstall_xspace_dialog_title_format">Uninstall dual \"%s\"?</string>
+    <string name="uninstall_xspace_dialog_title_format">להסיר התקנה של \"%s\" המשוכפל?</string>
     <string name="uninstall_xspace_dialog_message">הסרת היישום המשוכפל תסיר את כל נתוני היישום.</string>
     <string name="uninstall_with_xspace_dialog_message">יישומים משוכפלים תואמים יוסרו יחד עם נתוני היישום שלהם.</string>
     <string name="confirm_uninstall_dialog_title">יישומים משוכפלים תואמים יוסרו.</string>

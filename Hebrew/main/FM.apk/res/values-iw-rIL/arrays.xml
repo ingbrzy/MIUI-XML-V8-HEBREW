@@ -8,14 +8,13 @@
     </string-array>
     <string-array name="search_category_rbds_entries">
         <item>כל התחנות</item>
-        <item>להיטי מבוגרים</item>
+        <item>להיטים</item>
         <item>קלאסית</item>
         <item>רוק קלאסי</item>
-        <item>"קולג'"</item>
+        <item>מכללה</item>
         <item>קאנטרי</item>
         <item>חירום</item>
         <item>התרעות בדיקת חרום</item>
-        <item>נסיון חירום</item>
         <item>שפה זרה</item>
         <item>מידע</item>
         <item>"ג'אז"</item>
@@ -23,7 +22,6 @@
         <item>נוסטלגיה</item>
         <item>ישנים</item>
         <item>מותאם אישית</item>
-        <item>אישיות</item>
         <item>ציבורי</item>
         <item>מוסיקה דתית</item>
         <item>שיחות על דת</item>
@@ -41,36 +39,30 @@
         <item>כל התחנות</item>
         <item>תרבות</item>
         <item>נושאים נוכחיים</item>
-        <item>אקטואליה</item>
-        <item>תכניות ילדים</item>
+        <item>לילדים</item>
         <item>מוסיקת קאנטרי</item>
         <item>דוקומנטרי</item>
         <item>דרמה</item>
         <item>האזנה נוחה</item>
-        <item>מוסיקת אוירה</item>
         <item>השכלה</item>
         <item>חירום</item>
         <item>התרעות בדיקת חרום</item>
-        <item>נסיון חירום</item>
         <item>כלכלה</item>
         <item>מוסיקת פולק</item>
         <item>מידע</item>
-        <item>מוסיקת ג\'אז</item>
         <item>"מוסיקת ג'אז"</item>
         <item>קלאסי קל</item>
         <item>פנאי</item>
         <item>חדשות</item>
         <item>מוסיקת פולק מסורתית</item>
-        <item>מוסיקה לאומית</item>
-        <item>מוסיקה אחרת</item>
-        <item>מוסיקה ישנה</item>
+        <item>אחר</item>
+        <item>ישנים</item>
         <item>שיחות עם מאזינים</item>
-        <item>טלפון</item>
         <item>מוסיקת פופ</item>
         <item>דת</item>
         <item>מוסיקת רוק</item>
         <item>מדע</item>
-        <item>קלאסי כבד</item>
+        <item>קלאסית</item>
         <item>רווחה</item>
         <item>ספורט</item>
         <item>טיולים</item>
@@ -103,7 +95,6 @@
         <item>אירלנד</item>
         <item>איטליה</item>
         <item>דרום קוריאה</item>
-        <item>קוריאה</item>
         <item>מקסיקו</item>
         <item>הולנד</item>
         <item>ניו זילנד</item>
@@ -141,7 +132,7 @@
         <item>הודו (91.0MHz עד 106.4MHz בקפיצות של 100 Khz)</item>
         <item>אירלנד (87.5MHz עד 108.0MHz בקפיצות של 50 Khz)</item>
         <item>איטליה (87.5MHz עד 108.0MHz בקפיצות של 50 Khz)</item>
-        <item>קוריאה (87.5MHz עד 108.0MHz בקפיצות של 200 Khz)</item>
+        <item>דרום קוריאה (87.5MHz עד 108.0MHz בקפיצות של 200 Khz)</item>
         <item>מקסיקו (88.1MHz עד 107.9MHz בקפיצות של 200 Khz)</item>
         <item>הולנד (87.5MHz עד 108.0MHz בקפיצות של 100 Khz)</item>
         <item>ניו זילנד (88.0MHz עד 107.0MHz בקפיצות של 100 Khz)</item>
@@ -162,7 +153,7 @@
     <string-array name="rf_cfg">
         <item>קבל פרמטרים של התחנה הנוכחית</item>
         <item>קבל פרמטרים של התחנה (חזור 20 פעמים)</item>
-        <item>"קבל פרמטרים של 'תחנת החיפוש'"</item>
+        <item>קבל פרמטרים עבור חיפוש התחנות</item>
         <item>קבל פרמטרים של מחי פס FM</item>
         <item>הגדר פרמטרים לחיפוש FM</item>
     </string-array>

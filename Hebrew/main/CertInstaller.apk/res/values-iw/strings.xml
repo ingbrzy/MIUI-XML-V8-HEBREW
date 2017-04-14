@@ -18,7 +18,6 @@
     <string name="password_empty_error">הקלד את הסיסמה.</string>
     <string name="name_empty_error">הקלד שם.</string>
     <string name="name_char_error">הקלד שם שמכיל רק אותיות ומספרים.</string>
-    <string name="storage_error">"לא ניתן לשמור את האישור. גע ב'אישור' כדי לנסות שוב."</string>
     <string name="unable_to_save_cert">לא ניתן לשמור את האישור. אחסון האישורים לא מאופשר או שלא אותחל כראוי.</string>
     <string name="cert_not_saved">האישור לא מותקן.</string>
     <string name="no_cert_to_saved">אין אישור להתקנה.</string>

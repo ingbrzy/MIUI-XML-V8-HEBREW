@@ -114,8 +114,8 @@
     <string name="new_phrase_hint">הזן תגובה חדשה</string>
     <string name="pref_title_notification_body_enabled">"הצג הודעות ב'מסך הנעילה'"</string>
     <string name="pref_summary_notification_body_enabled">"הצג הודעות ב'מסך הנעילה' וב'לוח ההתראות'"</string>
-    <string name="pref_title_delivery_reports">דוח מסירה</string>
-    <string name="pref_summary_delivery_reports">הצג דוח מסירה להודעות שנשלחו</string>
+    <string name="pref_title_delivery_reports">דו\"ח מסירה</string>
+    <string name="pref_summary_delivery_reports">הצג דו\"ח מסירה להודעות שנשלחו</string>
     <string name="pref_title_ringtone_repeat">מספר צלילי ההתראות</string>
     <string name="pref_other_title">הגדרות נוספות</string>
     <string name="pref_system_title">מערכת</string>
@@ -157,7 +157,7 @@
     <string name="prvate_contact">אנשי קשר פרטיים</string>
     <string name="private_protect">סיסמאות</string>
     <string name="private_new_notification">התראות הודעה</string>
-    <string name="enable_password_protect">נדרשת סיסמה</string>
+    <string name="enable_password_protect">דרוש סיסמה</string>
     <string name="enable_visible_pattern_title">הפוך תבנית לגלויה</string>
     <string name="confirm_export_dialog_description">שיחות קודמות עם איש קשר זה לא יוסתרו עוד.</string>
     <string name="number_add_hint">הזן מספר טלפון</string>

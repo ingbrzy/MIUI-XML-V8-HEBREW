@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sender_file_num">
+        <item quantity="other">ממתין ל-%1$d קבצים</item>
+        <item quantity="one">ממתין לקובץ %1$d</item>
+        <item quantity="two">ממתין ל-%1$d קבצים</item>
+        <item quantity="many">ממתין ל-%1$d קבצים</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d קבצים מ-%1$s</item>
+        <item quantity="one">קובץ %2$d מ-%1$s</item>
+        <item quantity="two">%2$d קבצים מ-%1$s</item>
+        <item quantity="many">%2$d קבצים מ-%1$s</item>
+    </plurals>
+    <plurals name="receiver_file_current">
+        <item quantity="other">מקבל %2$d קבצים מ-%1$s</item>
+        <item quantity="one">מקבל קובץ %2$d מ-%1$s</item>
+        <item quantity="two">מקבל %2$d קבצים מ-%1$s</item>
+        <item quantity="many">מקבל %2$d קבצים מ-%1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_num">
+        <item quantity="other">%2$d תמונות מ-%1$s</item>
+        <item quantity="one">תמונה %2$d מ-%1$s</item>
+        <item quantity="two">%2$d תמונות מ-%1$s</item>
+        <item quantity="many">%2$d תמונות מ-%1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_current">
+        <item quantity="other">מקבל %2$d תמונות מ-%1$s</item>
+        <item quantity="one">מקבל תמונה %2$d מ-%1$s</item>
+        <item quantity="two">מקבל %2$d תמונות מ-%1$s</item>
+        <item quantity="many">מקבל %2$d תמונות מ-%1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_num">
+        <item quantity="other">%2$d שירים מ-%1$s</item>
+        <item quantity="one">שיר %2$d מ-%1$s</item>
+        <item quantity="two">%2$d שירים מ-%1$s</item>
+        <item quantity="many">%2$d שירים מ-%1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_current">
+        <item quantity="other">מקבל %2$d שירים מ-%1$s</item>
+        <item quantity="one">מקבל שיר %2$d מ-%1$s</item>
+        <item quantity="two">מקבל %2$d שירים מ-%1$s</item>
+        <item quantity="many">מקבל %2$d שירים מ-%1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_num">
+        <item quantity="other">%2$d סרטונים מ-%1$s</item>
+        <item quantity="one">סרטון %2$d מ-%1$s</item>
+        <item quantity="two">%2$d סרטונים מ-%1$s</item>
+        <item quantity="many">%2$d סרטונים מ-%1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_current">
+        <item quantity="other">מקבל %2$d סרטונים מ-%1$s</item>
+        <item quantity="one">מקבל סרטון %2$d מ-%1$s</item>
+        <item quantity="two">מקבל %2$d סרטונים מ-%1$s</item>
+        <item quantity="many">מקבל %2$d סרטונים מ-%1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_num">
+        <item quantity="other">%2$d יישומים מ-%1$s</item>
+        <item quantity="one">יישום %2$d מ-%1$s</item>
+        <item quantity="two">%2$d יישומים מ-%1$s</item>
+        <item quantity="many">%2$d יישומים מ-%1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_current">
+        <item quantity="other">מקבל %2$d יישומים מ-%1$s</item>
+        <item quantity="one">מקבל יישום %2$d מ-%1$s</item>
+        <item quantity="two">מקבל %2$d יישומים מ-%1$s</item>
+        <item quantity="many">מקבל %2$d יישומים מ-%1$s</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">מקבל %1$s קבצים…</item>
+        <item quantity="one">מקבל קובץ %1$s…</item>
+        <item quantity="two">מקבל %1$s קבצים…</item>
+        <item quantity="many">מקבל %1$s קבצים…</item>
+    </plurals>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">%1$s קבצים לא הועברו</item>
+        <item quantity="one">קובץ %1$s לא הועבר</item>
+        <item quantity="two">%1$s קבצים לא הועברו</item>
+        <item quantity="many">%1$s קבצים לא הועברו</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">התקבלו קבצים מ-%1$s</item>
+        <item quantity="one">התקבל קובץ מ-%1$s</item>
+        <item quantity="two">התקבלו קבצים מ-%1$s</item>
+        <item quantity="many">התקבלו קבצים מ-%1$s</item>
+    </plurals>
+</resources>

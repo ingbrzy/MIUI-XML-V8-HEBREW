@@ -149,7 +149,7 @@
     <string name="download_list_open_xl_cancel">ביטול</string>
     <string name="download_list_intoAuth">אמת את החשבון שלך</string>
     <string name="download_list_intoAuthAlert">טוען</string>
-    <string name="unbind_xunlei_success">בוצעה התנתקות מחשבון Xunlei</string>
+    <string name="unbind_xunlei_success">יצאת מחשבון Xunlei</string>
     <string name="unbind_xunlei_2_success">נוסף חשבון Xunlei</string>
     <string name="privacy_tip_title">להשתמש במאיץ של Xunlei?</string>
     <string name="privacy_tip_content">להשתמש במאיץ של Xunlei להאצת ההורדות? הקישור למארח ההורדה יועלה לשרתים של Xunlei. פרטי חשבון Mi שלך גם יועלו על מנת לבדוק אם יש לך מנויים פעילים לשירות זה.</string>

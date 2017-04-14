@@ -76,16 +76,21 @@
         <item>כאשר המכשיר נעול או לאחר יציאה מיישום</item>
         <item>כאשר המכשיר נעול או דקה 1 לאחר יציאה מיישום</item>
     </string-array>
+    <string-array name="lock_mode_value">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </string-array>
     <string-array name="long_add_menu">
         <item>הוסף לחריגים</item>
     </string-array>
     <string-array name="sort_type">
-        <item>sort_order_alpha</item>
-        <item>sort_order_size</item>
+        <item>מיון לפי שם</item>
+        <item>מיון לפי גודל</item>
     </string-array>
     <string-array name="sms_report_type">
-        <item>Data Usage</item>
-        <item>Phone balance</item>
+        <item>שימוש בנתונים</item>
+        <item>יתרת הטלפון</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>לאחר דקה</item>
@@ -128,5 +133,10 @@
         <item>לעולם אל תפעיל רטט</item>
         <item>רטט וכשהושתק</item>
         <item>תמיד לרטוט</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

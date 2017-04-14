@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="unknown">לא ידוע</string>
     <string name="telecommAppLabel">ניהול שיחות טלפון</string>
     <string name="userCallActivityLabel">טלפון</string>
-    <string name="unknown">לא ידוע</string>
     <string name="notification_missedCallTitle">שיחה שלא נענתה</string>
     <string name="notification_missedCallsTitle">שיחות שלא נענו</string>
     <string name="notification_missedCallsMsg">%s שיחות שלא נענו</string>
@@ -25,7 +25,6 @@
     <string name="outgoing_call_not_allowed_no_permission">"יישום זה אינו יכול לבצע שיחות יוצאות ללא אישור ה'טלפון'."</string>
     <string name="outgoing_call_error_no_phone_number_supplied">לביצוע שיחה, הזן מספר חוקי.</string>
     <string name="duplicate_video_call_not_allowed">לא ניתן להוסיף את השיחה ברגע זה.</string>
-    <string name="video_call_not_allowed_if_tty_enabled">כבה את מצב TTY על מנת לבצע שיחות וידאו.</string>
     <string name="no_vm_number">מספר תא קולי חסר</string>
     <string name="no_vm_number_msg">לא קיים מספר תא קולי בכרטיס ה-SIM.</string>
     <string name="add_vm_number_str">הוסף מספר</string>
@@ -50,4 +49,5 @@
     <string name="can_not_dial_while_vt_prompt">לא ניתן לחייג כאשר שיחת וידאו נמצאת בעיצומה</string>
     <string name="can_not_dial_vt_while_voice_prompt">לא ניתן לבצע שיחת וידאו במהלך ביצוע שיחה קולית</string>
     <string name="voice_dial_out">שיחה קולית</string>
+    <string name="video_call_not_allowed_if_tty_enabled">כבה את מצב TTY על מנת לבצע שיחות וידאו.</string>
 </resources>

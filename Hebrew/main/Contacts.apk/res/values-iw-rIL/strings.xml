@@ -349,7 +349,7 @@
     <string name="exporting_contact_list_message">מייצא ל%s.</string>
     <string name="fail_reason_could_not_initialize_exporter">לא ניתן היה להפעיל את המייצא: \"%s\".</string>
     <string name="fail_reason_error_occurred_during_export">אירעה שגיאה במהלך הייצוא: \"%s\".</string>
-    <string name="composer_failed_to_get_database_infomation">לא ניתן היה לקבל מידע מבסיס הנתונים.</string>
+    <string name="composer_failed_to_get_database_infomation">לא ניתן היה לקבל מידע ממסד הנתונים.</string>
     <string name="composer_has_no_exportable_contact">אין אנשי קשר לייצוא. אם יש לך אנשי קשר על הטלפון, ספקי נתונים מסוימים לא מאפשרים ייצוא של אנשי הקשר מהטלפון.</string>
     <string name="composer_not_initialized">יוצר קבצי vCard לא הופעל בצורה תקינה.</string>
     <string name="fail_reason_could_not_open_file" formatted="false">לא ניתן היה לפתוח את \"%s:%s.</string>
@@ -714,6 +714,7 @@
     <string name="miprofile_alertdialog_message">הצג שם זה לאנשי קשר כאשר תבקש לבצע החלפת כרטיסים.</string>
     <string name="miprofile_alertdialog_edit">הכנס שם</string>
     <string name="miprofile_switch_off_alertdialog_message">לא תוכל להחליף כרטיסי איש קשר עם אנשים אחרים.</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">הוסף מספר טלפון</string>
     <string name="miprofile_bind_account_alertdialog_message">עליך להוסיף את מספר הטלפון של מכשיר זה לחשבון Mi שלך על מנת להשתמש בתכונה זו.</string>
     <string name="miprofile_bind_account_alertdialog_positive">הוסף מספר</string>
@@ -801,9 +802,9 @@
     <string name="callrecordview_menu_conference">שיחת ועידה</string>
     <string name="openDialKeyboard">לוח מקשים</string>
     <string name="t9_search_guide_pinyin_title1">הזן מספרים למציאת אנשי קשר</string>
-    <string name="t9_search_guide_pinyin_title2">הזן \"9\" ו-\"4\" על מנת לחפש את \"<font fgcolor="">X</font>avier <font fgcolor="">H</font>enry\"</string>
+    <string name="t9_search_guide_pinyin_title2">הזן \"3\" ו-\"5\" על מנת לחפש את \"<font fgcolor="">א</font>בי <font fgcolor="">כ</font>הן\"</string>
     <string name="t9_search_guide_zhuyin_title1">הזן מספרים למציאת אנשי קשר</string>
-    <string name="t9_search_guide_zhuyin_title2">הזן \"5\" ו-\"6\" על מנת לחפש \"<font fgcolor="">J</font>eff <font fgcolor="">M</font>ax\"</string>
+    <string name="t9_search_guide_zhuyin_title2">הזן \"3\" ו-\"5\" על מנת לחפש את \"<font fgcolor="">א</font>בי <font fgcolor="">כ</font>הן\"</string>
     <string name="date_time_set">הגדר</string>
     <string name="service_provider">תיקיה</string>
     <string name="service_provider_detail">פרטי ספריה</string>

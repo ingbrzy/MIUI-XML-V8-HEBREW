@@ -137,7 +137,7 @@
     <string name="location_disable_title">הגבל</string>
     <string name="location_enable_description">יישומים יכולים להשתמש בשירותי מיקום ברקע</string>
     <string name="location_disable_description">יישומים הפועלים ברקע יכולים לגשת לשירותי המיקום לתקופה קצרה בלבד, בעת שהגישה הרציפה מוגבלת</string>
-    <string name="config_description">"MIUI יכול לזהות יישומים עם תהליכים מסויימים ברקע (לדוגמה: יישומי הודעות וניווט, נגני מדיה), ולהחיל את מצב 'חסכון בסוללה' בצורה שלא תשפיע על פעילות רקע חשובה."</string>
+    <string name="config_description">"מערכת MIUI יכולה לזהות יישומים עם תהליכים מסויימים ברקע (לדוגמה: יישומי הודעות וניווט, נגני מדיה), ולהחיל את מצב 'חסכון בסוללה' בצורה שלא תשפיע על פעילות רקע חשובה."</string>
     <string name="config_suggest_description">"זהה יישומים ופעילויות לצורך שמירה על פעילות תקינה של תהליכים חשובים.
 מצב 'חסכון בסוללה' יתן יחס מועדף ליישומים חשובים."</string>
     <string name="config_no_restrict_description">"'חיסכון בסוללה' אינו מגביל פעילות יישומים"</string>

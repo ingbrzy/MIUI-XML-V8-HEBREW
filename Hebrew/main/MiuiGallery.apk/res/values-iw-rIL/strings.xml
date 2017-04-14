@@ -285,7 +285,6 @@
     <string name="picker_cancel_download">בטל את ההורדה</string>
     <string name="picker_continue_download">המשך הורדה</string>
     <string name="picker_no_network_message">התחבר לרשת על מנת להוריד</string>
-    <string name="picker_mobile_data_video">לא ניתן להוריד סרטונים על ידי שימוש בנתונים סלולריים, %d דולגו.</string>
     <string name="picker_download_progress_message">מוריד %1$d/%2$d</string>
     <string name="operation_send">שליחה</string>
     <string name="operation_edit">עריכה</string>
@@ -359,7 +358,7 @@
     <string name="loading_video_fail_syncing">המתן להורדת המטא-נתונים בשלמותם ונסה שוב</string>
     <string name="loading_video_fail_sync_without_network">התחבר לרשת להורדת מטא-נתונים</string>
     <string name="download_without_wifi_title">אזהרת שימוש בנתונים</string>
-    <string name="download_without_wifi_msg">שימוש בחיבור נתונים סלולרי להורדת תמונות יגביר את צריכת הנתונים, חריגה ממסגרת תכנית הגלישה עשויה להיות כרוכה בחיובים נוספים.</string>
+    <string name="download_without_wifi_msg">שימוש בחיבור נתונים סלולרי להורדת קבצים יגביר את צריכת הנתונים, חריגה ממסגרת תכנית הגלישה עשויה להיות כרוכה בחיובים נוספים.</string>
     <string name="confirm_download_video_title">הורד וידאו</string>
     <string name="confirm_download_video_message">סיים את הורדת הוידאו על מנת לצפות בו. ההורדה תחודש עם חיבור לרשת אלחוטית.</string>
     <string name="download_tip">הורדה</string>
@@ -578,7 +577,8 @@
     <string name="micloud_introduce">גיבוי אוטומטי של תמונות וסרטונים (נדרש חשבון Mi)</string>
     <string name="welcome_to_slim">יעל את האחסון המקומי</string>
     <string name="slim_introduce">החלף תמונות ברזולוצייה מלאה עם גרסאות יעילות יותר לאחר שגובו ל-Mi Cloud. גרסאות המקור יישארו זמינות ב- Mi Cloud.</string>
-    <string name="slim_introduce_with_specific_size">החלף תמונות ברזולוצייה מלאה עם גרסאות יעילות יותר לאחר שגובו ל-Mi Cloud. גרסאות המקור יישארו זמינות ב- Mi Cloud. כך תוכל לחסוך עד %1$s מנפח האחסון המקומי (נדרש חשבון Mi).</string>
+    <string name="slim_introduce_with_specific_size">החלף קבצים ברזולוציה מלאה עם גרסאות יעילות יותר לאחר שגובו ל-Mi Cloud. גרסאות המקור יישארו זמינות ב- Mi Cloud. כך תוכל לחסוך עד %1$s מנפח האחסון המקומי (נדרש חשבון Mi).</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">גיבוי אוטומטי של תמונות וסרטונים (נדרש חשבון Mi)</string>
     <string name="next">הבא</string>
     <string name="login_and_enable_service">היכנס באמצעות חשבון Mi</string>
@@ -594,7 +594,7 @@
     <string name="slim_result_size">%1$s נחסכו</string>
     <string name="share">שיתוף</string>
     <string name="slim_tip_title">מייעל אחסון</string>
-    <string name="slim_tip_msg">התמונות ייועלו כשתהיה מחובר לרשת אלחוטית. הורד את קבצי המקור ברזולוצייה מלאה על ידי לחיצה על תפריט \"הורדת תמונה\" בעמוד פרטי התמונה.</string>
+    <string name="slim_tip_msg">הקבצים ייועלו כשתהיה מחובר לרשת אלחוטית. הורד את קבצי המקור ברזולוציה מלאה על ידי לחיצה על תפריט \"הורדת קובץ\" בעמוד פרטי התמונה.</string>
     <string name="slimming">מייעל…</string>
     <string name="backup_detail_page_title">גיבוי Mi Cloud</string>
     <string name="backup_pending">יגובה באופן אוטומטי</string>
@@ -752,7 +752,7 @@
     <string name="search_title_others">כל התוצאות</string>
     <string name="search_people_jump_failed">המתן עד לאחר שתמונות עם אנשים יסונכרנו עם Mi Cloud ואז נסה שוב</string>
     <string name="search_album_jump_failed">המתן עד לאחר שאלבומים יסונכרנו עם Mi Cloud ואז נסה שוב</string>
-    <string name="search_transition_element_input">קלט_חיפוש</string>
+    <string name="search_transition_element_input">search_input</string>
     <string name="search_transition_element_icon">search_icon</string>
     <string name="storage_no_space">אין מספיק מקום</string>
     <string name="share_album">שיתוף אלבום</string>

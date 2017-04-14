@@ -323,11 +323,11 @@
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">d MMM، yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">d MMMM، yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_timezone">z</string>

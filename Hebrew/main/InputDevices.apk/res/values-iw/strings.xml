@@ -7,6 +7,7 @@
     <string name="keyboard_layout_english_us_intl">אנגלית (ארה\"ב), סגנון בינ\"ל</string>
     <string name="keyboard_layout_english_us_colemak_label">‏אנגלית (ארה\"ב), סגנון Colemak</string>
     <string name="keyboard_layout_english_us_dvorak_label">‏אנגלית (ארה\"ב), סגנון Dvorak</string>
+    <string name="keyboard_layout_english_us_workman_label">‏אנגלית (ארה\"ב), סגנון Workman</string>
     <string name="keyboard_layout_german_label">גרמנית</string>
     <string name="keyboard_layout_french_label">צרפתית</string>
     <string name="keyboard_layout_french_ca_label">צרפתית (קנדה)</string>

@@ -24,4 +24,25 @@
         <item quantity="two">בהיר</item>
         <item quantity="many">בהיר</item>
     </plurals>
+<<<<<<< HEAD
+    <plurals name="total_voted_num_text">
+        <item quantity="other">"&amp;lt;font color='#20a7ff'>%1$s&amp;lt;/font> אנשים הצביעו"</item>
+        <item quantity="one">"אדם &amp;lt;font color='#20a7ff'>%1$s&amp;lt;/font> הצביע"</item>
+        <item quantity="two">"&amp;lt;font color='#20a7ff'>%1$s&amp;lt;/font> אנשים הצביעו"</item>
+        <item quantity="many">"&amp;lt;font color='#20a7ff'>%1$s&amp;lt;/font> אנשים הצביעו"</item>
+    </plurals>
+    <plurals name="yes_vote_num">
+        <item quantity="other">| %1$s אנשים</item>
+        <item quantity="one">| אדם %1$s</item>
+        <item quantity="two">| %1$s אנשים</item>
+        <item quantity="many">| %1$s אנשים</item>
+    </plurals>
+    <plurals name="no_vote_num">
+        <item quantity="other">%1$s אנשים |</item>
+        <item quantity="one">אדם %1$s |</item>
+        <item quantity="two">%1$s אנשים |</item>
+        <item quantity="many">%1$s אנשים |</item>
+    </plurals>
+=======
+>>>>>>> origin/master
 </resources>

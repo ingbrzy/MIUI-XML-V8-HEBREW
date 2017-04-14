@@ -6,6 +6,12 @@
         <item quantity="two">אתה כעת במרחק של %1$d צעדים מלהיות מפתח.</item>
         <item quantity="many">אתה כעת במרחק של %1$d צעדים מלהיות מפתח.</item>
     </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">האם להסיר את השפות שנבחרו?</item>
+        <item quantity="one">האם להסיר את השפה שנבחרה?</item>
+        <item quantity="two">האם להסיר את השפות שנבחרו?</item>
+        <item quantity="many">האם להסיר את השפות שנבחרו?</item>
+    </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">%1$d טביעות אצבע הוגדרו</item>
         <item quantity="one">טביעת אצבע %1$d הוגדרה</item>
@@ -53,6 +59,88 @@
         <item quantity="one">‏קוד PIN שגוי של כרטיס SIM. נותר לך ניסיון %d לפני שיהיה עליך ליצור קשר עם הספק כדי לבטל את נעילת המכשיר.</item>
         <item quantity="two">‏קוד PIN שגוי של כרטיס SIM. נותרו לך %d ניסיונות.</item>
         <item quantity="many">‏קוד PIN שגוי של כרטיס SIM. נותרו לך %d ניסיונות.</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">‏%d פריטים</item>
+        <item quantity="one">פריט אחד</item>
+        <item quantity="two">‏%d פריטים</item>
+        <item quantity="many">‏%d פריטים</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">השהיה קצרה מאוד (%1$d מילישניות)</item>
+        <item quantity="one">השהיה קצרה מאוד (%1$d מילישנייה)</item>
+        <item quantity="two">השהיה קצרה מאוד (%1$d מילישניות)</item>
+        <item quantity="many">השהיה קצרה מאוד (%1$d מילישניות)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">השהיה קצרה מאוד (%1$d מילישניות)</item>
+        <item quantity="one">השהיה קצרה מאוד (%1$d מילישנייה)</item>
+        <item quantity="two">השהיה קצרה מאוד (%1$d מילישניות)</item>
+        <item quantity="many">השהיה קצרה מאוד (%1$d מילישניות)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">השהיה קצרה (%1$d מילישניות)</item>
+        <item quantity="one">השהיה קצרה (%1$d מילישנייה)</item>
+        <item quantity="two">השהיה קצרה (%1$d מילישניות)</item>
+        <item quantity="many">השהיה קצרה (%1$d מילישניות)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">השהיה ארוכה (%1$d מילישניות)</item>
+        <item quantity="one">השהיה ארוכה (%1$d מילישנייה)</item>
+        <item quantity="two">השהיה ארוכה (%1$d מילישניות)</item>
+        <item quantity="many">השהיה ארוכה (%1$d מילישניות)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">השהיה ארוכה מאוד (%1$d מילישניות)</item>
+        <item quantity="one">השהיה ארוכה מאוד (%1$d מילישנייה)</item>
+        <item quantity="two">השהיה ארוכה מאוד (%1$d מילישניות)</item>
+        <item quantity="many">השהיה ארוכה מאוד (%1$d מילישניות)</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">‏%d משימות הדפסה</item>
+        <item quantity="one">משימת הדפסה אחת</item>
+        <item quantity="two">‏%d משימות הדפסה</item>
+        <item quantity="many">‏%d משימות הדפסה</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">קבלת מהימנות או הסרה של אישורים</item>
+        <item quantity="one">קבלת מהימנות או הסרה של אישור</item>
+        <item quantity="two">קבלת מהימנות או הסרה של אישורים</item>
+        <item quantity="many">קבלת מהימנות או הסרה של אישורים</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s התקין במכשירך רשויות אישורים שעשויות לאפשר לו לנהל מעקב אחר פעילות המכשיר ברשת, כולל אימיילים, אפליקציות ואתרים מאובטחים.
+
+לקבלת מידע נוסף על אישורים אלה, פנה למנהל המערכת."</item>
+        <item quantity="one">"%s התקין במכשירך רשות אישורים שעשויה לאפשר לו לנהל מעקב אחר פעילות המכשיר ברשת, כולל אימיילים, אפליקציות ואתרים מאובטחים.
+
+לקבלת מידע נוסף על אישור זה, פנה למנהל המערכת."</item>
+        <item quantity="two">"%s התקין במכשירך רשויות אישורים שעשויות לאפשר לו לנהל מעקב אחר פעילות המכשיר ברשת, כולל אימיילים, אפליקציות ואתרים מאובטחים.
+
+לקבלת מידע נוסף על אישורים אלה, פנה למנהל המערכת."</item>
+        <item quantity="many">"%s התקין במכשירך רשויות אישורים שעשויות לאפשר לו לנהל מעקב אחר פעילות המכשיר ברשת, כולל אימיילים, אפליקציות ואתרים מאובטחים.
+
+לקבלת מידע נוסף על אישורים אלה, פנה למנהל המערכת."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%s התקין רשויות אישורים לפרופיל העבודה שלך. ייתכן שהדבר יאפשר לו לנהל מעקב אחר פעילות רשת בעבודה, כולל אימיילים, אפליקציות ואתרים מאובטחים.
+
+לקבלת מידע נוסף על אישורים אלה, פנה למנהל המערכת."</item>
+        <item quantity="one">"%s התקין רשות אישורים לפרופיל העבודה שלך. ייתכן שהרשות תאפשר לו לנהל מעקב אחר פעילות רשת בעבודה, כולל אימיילים, אפליקציות ואתרים מאובטחים.
+
+לקבלת מידע נוסף על אישור זה, פנה למנהל המערכת."</item>
+        <item quantity="two">"%s התקין רשויות אישורים לפרופיל העבודה שלך. ייתכן שהדבר יאפשר לו לנהל מעקב אחר פעילות רשת בעבודה, כולל אימיילים, אפליקציות ואתרים מאובטחים.
+
+לקבלת מידע נוסף על אישורים אלה, פנה למנהל המערכת."</item>
+        <item quantity="many">"%s התקין רשויות אישורים לפרופיל העבודה שלך. ייתכן שהדבר יאפשר לו לנהל מעקב אחר פעילות רשת בעבודה, כולל אימיילים, אפליקציות ואתרים מאובטחים.
+
+לקבלת מידע נוסף על אישורים אלה, פנה למנהל המערכת."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">בדוק אישורים</item>
+        <item quantity="one">בדוק אישור</item>
+        <item quantity="two">בדוק אישורים</item>
+        <item quantity="many">בדוק אישורים</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">‏%d אפליקציות יכולות לקרוא הודעות</item>
@@ -107,5 +195,17 @@
         <item quantity="one">אפליקציה אחת השתמשה בזיכרון ב-%2$s האחרונות</item>
         <item quantity="two">%1$d אפליקציות השתמשו בזיכרון ב-%2$s האחרונות</item>
         <item quantity="many">%1$d אפליקציות השתמשו בזיכרון ב-%2$s האחרונות</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">%d אפליקציות חסומות לשליחה</item>
+        <item quantity="one">%d אפליקציה חסומה לשליחה</item>
+        <item quantity="two">%d אפליקציות חסומות לשליחה</item>
+        <item quantity="many">%d אפליקציות חסומות לשליחה</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">‏מותר להשתמש בנתונים בלתי מוגבלים ב-%1$d אפליקציות כשחוסך הנתונים (Data Saver) פועל</item>
+        <item quantity="one">‏מותר להשתמש בנתונים בלתי מוגבלים באפליקציה אחת כשחוסך הנתונים (Data Saver) פועל</item>
+        <item quantity="two">‏מותר להשתמש בנתונים בלתי מוגבלים ב-%1$d אפליקציות כשחוסך הנתונים (Data Saver) פועל</item>
+        <item quantity="many">‏מותר להשתמש בנתונים בלתי מוגבלים ב-%1$d אפליקציות כשחוסך הנתונים (Data Saver) פועל</item>
     </plurals>
 </resources>
