@@ -43,7 +43,7 @@
     <string name="main_no_info">אין נתונים</string>
     <string name="guide_quck_open">הפעלה</string>
     <string name="guide_wait_setting">לא כעת</string>
-    <string name="guide_primary_text">"הפעל את 'אשף הרשת'
+    <string name="guide_primary_text">"השתמש ביישום ה'אבטחה'
 על מנת לנהל את השימוש שלך בנתונים סלולריים"</string>
     <string name="guide_operator_text">"ספק הרשת הנוכחי שלך: "</string>
     <string name="guide_second_text">לאחר הגדרת ספק הרשת שלך, מערכת MIUI תבצע ניטור של השימוש שלך בנתונים סלולריים באופן יומיומי על ידי שליחה של מסרוני SMS חינמיים, כאשר MIUI תזהה חריגה ממגבלת הנתונים שלך, היא תנתק אותך מהרשת ותתריע בפניך.</string>
@@ -73,7 +73,7 @@
     <string name="firewall_fragment_sys_listempty">ריק</string>
     <string name="firewall_fragment_nonesys_listempty">ריק</string>
     <string name="firewall_service_network_blocked">השימוש ברשתות %2$s על ידי %1$s הוגבל</string>
-    <string name="firewall_network_restrict_notify_title">"%1$s can't use network"</string>
+    <string name="firewall_network_restrict_notify_title">%1$s לא יכול להשתמש ברשת</string>
     <string name="firewall_network_restrict_notify_mobile">נתונים סלולריים</string>
     <string name="firewall_network_restrict_notify_message">לחץ לשינוי ההגדרות.</string>
     <string name="firewall_restrict_android_dialog_title">שים לב</string>
@@ -144,7 +144,7 @@
     <string name="pref_auto_adjust_settings">הגדרות התאמת סטטיסטיקות שימוש בנתונים באופן אוטומטי</string>
     <string name="pref_adjust_data_usage">תבנית הודעה של ספק הרשת</string>
     <string name="pref_adjust_data_usage_summary">לאחר שתשנה את תבנית הכיול, מערכת MIUI תשתמש בה על מנת לקבל סטטיסטיקות אודות שימוש בנתונים מספק הרשת שלך</string>
-    <string name="pref_adjust_data_usage_value">Changed</string>
+    <string name="pref_adjust_data_usage_value">שונה</string>
     <string name="pref_confirm_operator_setting">ודא כי המידע שהזנת נכון</string>
     <string name="pref_correction_setting">הגדרות תבנית כיול</string>
     <string name="pref_correction_setting_switch">השתמש בתבנית כיול מותאמת אישית</string>
@@ -228,7 +228,7 @@
     <string name="traffic_setting_fragment_sms_content_tips">כתוב את ההודעה שלך כאן</string>
     <string name="traffic_setting_fragment_null">ריק</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">אל תציג שוב</string>
-    <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;U>Not sure about the carrier?&lt;/U>&lt;/font>"</string>
+    <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;U>לא בטוח לגבי ספק הרשת?&lt;/U>&lt;/font>"</string>
     <string name="data_usage_warning_title">אזהרת שימוש בנתונים</string>
     <string name="data_usage_warning_body">לחץ לצפיה בפרטים אודות השימוש בנתונים.</string>
     <string name="data_usage_mobile_limit_title">הגעת לתקרת השימוש בנתונים סלולריים</string>
@@ -298,7 +298,7 @@
     <string name="traffic_config_alert_package">"
 \"משתמש ביתרת הנתונים מהחודש שעבר\""</string>
     <string name="traffic_limit_error_alert_title">תזכורת מגבלת נתונים %s</string>
-    <string name="traffic_limit_error_alert_body">\"Your remaining data for this month (%1$s) is bigger than your monthly plan (%2$s). Monthly plan changed?\"</string>
+    <string name="traffic_limit_error_alert_body">\"יתרת הנתונים שלך לחודש זה (%1$s) גדולה מהתכנית החודשית שלך (%2$s). התכנית החודשית שונתה?\"</string>
     <string name="traffic_limit_error_alert_package">"
 
 \"היתרה כוללת נתונים שנותרו מהחודש הקודם.\""</string>
@@ -323,7 +323,7 @@
     <string name="show_traffic_dialog_title">הצג פרטי שימוש בנתונים בלוח ההתראות</string>
     <string name="show_traffic_dialog_message">"\"מידע אודות השימוש שלך בנתונים יוצג בלוח ההתראות. תוכל לכבות או להפעיל תכונה זו בכל עת ב'שימוש בנתונים' > 'הגדרות'\""</string>
     <string name="tc_sms_report_title">דווח על שגיאת שימוש בנתונים</string>
-    <string name="tc_sms_report_summary">עזור לנו לשפר תכונה זו על ידי שליחת דוח כאשר המידע אודות השימוש שלך בנתונים שגוי או אינו מתעדכן</string>
+    <string name="tc_sms_report_summary">עזור לנו לשפר תכונה זו על ידי שליחת דו\"ח כאשר המידע אודות השימוש שלך בנתונים שגוי או שאינו מתעדכן</string>
     <string name="tc_sms_report_direction">מסרון קוד</string>
     <string name="tc_sms_report_send_num">מספר טלפון של ספק הרשת</string>
     <string name="tc_sms_report_receive_num">מספר הנמען</string>
@@ -354,15 +354,15 @@
     <string name="tc_sms_report_get_sms_successs">פורמט מסרון השימוש בנתונים עודכן</string>
     <string name="tc_sms_report_get_default">\"לא ייגבו ממך תשלומים נוספים עבור מסרונים שישמשו לקבלת יתרת השימוש בנתונים שלך מספק הרשת שלך.\"</string>
     <string name="tc_sms_report_toast_text">מקבל מידע…</string>
-    <string name="tc_sms_report_type">Report type</string>
+    <string name="tc_sms_report_type">סוג הדיווח</string>
     <string name="privacy_declare_dialog_title">תנאי השירות</string>
     <string name="privacy_declare_dialog_message">על ידי שימוש בשירות זה, הינך מסכים ל&lt;a href=%s>תנאי השירות&lt;/a> של Opera.</string>
     <string name="sc_allow_network_dialog_tiltle">לא ניתן להשתמש בתכונה זו</string>
-    <string name="sc_allow_network_dialog_message">\"יישום זה זקוק לחיבור לאינטרנט על מנת לפעול באופן תקין.\"</string>
+    <string name="sc_allow_network_dialog_message">יישום זה זקוק לחיבור לאינטרנט על מנת לפעול באופן תקין.</string>
     <string name="privacy_prompt_upload">העלה</string>
-    <string name="privacy_prompt_traffic_adjust_message">"After you start the calibration, MIUI will connect to the network, encode your carrier's info, phone number, IMEI, and Mi Account, and upload these items to Mi servers. This is done in order to acquire the carrier's calibration template and learn if it's possible to purchase data in your location.
+    <string name="privacy_prompt_traffic_adjust_message">"לאחר התחלת הכיול, מערכת MIUI תבצע חיבור לרשת, תקודד את פרטי ספק הרשת שלך, מספר הטלפון, IMEI, וחשבון Mi ותעלה פריטים אלה לשרתי Mi. תהליך זה מתבצע על מנת להשיג את תבנית הכיול של ספק הרשת וללמוד האם ניתן לרכוש נתונים במיקומך.
 
-While calibrating, MIUI will send a text message to your carrier to receive the calibration template."</string>
+במהלך הכיול, MIUI תשלח הודעת טקסט לספק הרשת שלך על מנת לקבל את תבנית הכיול."</string>
     <string name="privacy_prompt_traffic_purchase_message">\"מספר הטלפון שלך ופרטי ספק הרשת יוצפנו ויועלו לשרתי Mi על מנת לקבל מידע נוסף אודות אפשרויות של רכישת נתונים.\"</string>
     <string name="privacy_prompt_tc_sms_report_message">\"מספר הטלפון שלך ופרטי ספק הרשת יוצפנו ויועלו לשרתי Mi על מנת לעדכן את פרטי השימוש שלך בנתונים.\"</string>
     <string name="international_roaming_setting">נדידת נתונים</string>
@@ -487,36 +487,36 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
     <string name="network_permission_exception_tips">לא ניתן להשתמש בנתונים סלולריים על מנת להתחבר לרשת</string>
     <string name="open_now">אפשר ליישום להשתמש בנתונים סלולריים</string>
     <string name="network_roaming_exception_tips">\"לא ניתן להשתמש בנתונים סלולריים בעת נדידה על מנת להתחבר לרשת.\"</string>
-    <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
+    <string name="network_mobile_exception_detail">"המכשיר שלך אינו מצליח להתחבר לאינטרנט:
 
- 1. Make sure you haven't exceeded your mobile data plan's limit.
+ 1. ודא שלא חרגת ממגבלת חבילת הנתונים שלך.
 
- 2. If you just topped up your device's balance, reboot your device and try again.
+ 2. במידה וטענת את יתרת המכשיר, אתחל את המכשיר ונסה להתחבר שוב.
 
- 3. Your carrier's network signal may be weak in your current location."</string>
-    <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
+ 3. אות הרשת של ספק הרשת שלך עשוי להיות חלש במיקומך הנוכחי."</string>
+    <string name="network_sim_exception_detail">"יתכן שישנה בעיה עם כרטיס ה-SIM שלך:
 
- 1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
+ 1. ודא כי חשבונך אינו חסום על ידי ספק הרשת שלך. נסה להשתמש בכרטיס SIM של חבר ולבדוק האם הינך יכול להתחבר כרגיל.
 
- 2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
+ 2. במידה והינך משתמש בשני כרטיסי SIM, נסה לעבור לשימוש בכרטיס האחר ולראות אם הינך יכול להתחבר כרגיל.
 
- 3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
-    <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
+ 3. ודא כי כרטיס ה-SIM שלך וחריץ ה-SIM במכשירך אינם פגומים. ודא כי כרטיס ה-SIM בו הינך משתמש מוכנס בצורה נכונה למגירת ה-SIM של מכשירך."</string>
+    <string name="network_route_exception_detail">"יתכן שישנה בעיה עם הנתב אליו הינך מחובר:
 
- "<b>1. Public Wi-Fi network issues</b>"
-If you're connected to a public Wi-Fi network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+ "<b>1. בעיות רשת אלחוטית ציבורית</b>"
+במידה והינך מחובר לרשת אלחוטית ציבורית, מספר המשתמשים המחוברים לרשת זו עשוי להאט אותה או ליצור בעיות חיבור. עבור לרשת אחרת ונסה שוב.
 
- "<b>2. Internet service provider issues</b>"
-Make sure that your account is in good standing with your Internet service provider.
+ "<b>2. בעיות ספק אינטרנט.</b>"
+ודא כי אינך חסום על ידי ספק האינטרנט שלך.
 
- "<b>3. Router hardware issues</b>"
-Try rebooting your router or checking the admin settings for your router.
+ "<b>3. בעיות חומרה בנתב</b>"
+נסה לאתחל את הנתב שלך או לבדוק את הגדרות המנהל של הנתב.
 
- "<b>4. Other router issues</b>"
-Read the instructions that came with your router and restore your router to its factory settings.
+ "<b>4. בעיות נתב אחרות</b>"
+קרא את ההוראות שהגיעו עם הנתב שלך ואפס את הנתב להגדרות ברירת המחדל של היצרן.
 
- "<b>5. Make sure your router is connected properly</b>"
-Try using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider. "</string>
+ "<b>5. ודא כי הנתב שלך מחובר כראוי</b>"
+ נסה שימוש בכבל רשת אחר לחיבור הנתב שלך. במידה ואתה חושד כי קיימת בעית חיבור בביתך, פנה לספק שירות האינטרנט שלך. "</string>
     <string name="permission_exception_title">הצג הרשאות רשת</string>
     <string name="permission_exception_summary">ליישומים מסוימים אין הרשאת חיבור לאינטרנט</string>
     <string name="networkchanged_exception_title">החיבור השתנה</string>
@@ -533,9 +533,9 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="tc_diagnostic_onekey_repair_botton">תקן</string>
     <string name="tc_diagnostic_repair_and_continue">תקן והמשך</string>
     <string name="tc_diagnostic_upload_button">דווח</string>
-    <string name="tc_diagnostic_fragment_default">"\"About diagnostics
-1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
-2. You can leave this page during the diagnostics, it will be carried out in the background.\""</string>
+    <string name="tc_diagnostic_fragment_default">"\"אודות האבחון
+1. המכשיר יתחבר לרשת של הספק, ישלח הודעה חינמית וימתין לתגובת הספק. פעולה זו עשויה להימשך עד 5דקות.
+2. תוכל לעזוב את הדף במהלך האבחון אשר ימשיך להתבצע ברקע.\""</string>
     <string name="sim_location_diagnostic">אבחון מיקום</string>
     <string name="operator_diagnostic">אבחון ספק הרשת</string>
     <string name="brand_diagnostic">אבחון מותג ספק הרשת</string>
@@ -547,11 +547,11 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>עבר הזמן&lt;/font>"</string>
     <string name="tc_diagnostic_status_error_brand">רשת הספק לא נמצאה</string>
     <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>רשת הספק מגיבה&lt;/font>"</string>
-    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>תוצאה: מיקום שגוי&lt;br/>&lt;br/>הגדר מיקום: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>מיקום נוכחי: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>תוצאה: ספק רשת שגוי&lt;br/>&lt;br/>הגדר ספק רשת: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>ספק רשת נוכחי: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>תוצאה: מותג ספק רשת שגוי&lt;br/>&lt;br/>הגדר מותג: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>מותג נוכחי: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>תוצאה: לא ניתן היה להשלים את האבחון&lt;br/>&lt;br/>דווח על בעיה זו על מנת לעזור ל-MIUI לשפר את כלי האבחון&lt;/font>"</string>
-    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>תוצאה: רשת ומותג הספק מוגדרים כהלכה&lt;br/>&lt;br/>לא ניתן היה להשלים התאמה מלאה:&lt;br/>1. נתונים סטטיסטיים של ספק הרשת אודות תחילת או סוף החודש עשויים להיות לא מהימנים.&lt;br/>2. סייע הרשת לא עודכן.&lt;br/>&lt;br/>דווח על בעיה זו על מנת לעזור ל-MIUI לשפר את כלי האבחון&lt;/font>"</string>
+    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>תוצאה: מיקום שגוי&lt;br/>&lt;br/>הגדר מיקום: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>מיקום נוכחי: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>;"</string>
+    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>תוצאה: ספק רשת שגוי&lt;br/>&lt;br/>הגדר ספק רשת: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>ספק רשת נוכחי: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>;"</string>
+    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>תוצאה: מותג ספק רשת שגוי&lt;br/>&lt;br/>הגדר מותג: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>מותג נוכחי: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>;"</string>
+    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>תוצאה: לא ניתן היה להשלים את האבחון&lt;br/>&lt;br/>דווח על בעיה זו על מנת לעזור ל-MIUI לשפר את כלי האבחון&lt;/font>;"</string>
+    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>תוצאה: רשת ומותג הספק מוגדרים כהלכה&lt;br/>&lt;br/>לא ניתן היה להשלים התאמה מלאה:&lt;br/>1. נתונים סטטיסטיים של ספק הרשת אודות תחילת או סוף החודש עשויים להיות לא מהימנים.&lt;br/>2. תכונות יישום ה'אבטחה' לא עודכנו.&lt;br/>&lt;br/>דווח על בעיה זו על מנת לעזור ל-MIUI לשפר את כלי האבחון&lt;/font>;"</string>
     <string name="tc_diagnostic_notification_title">אבחון ספק הרשת</string>
     <string name="tc_diagnostic_notification_summary">לא ניתן היה להתאים 5 פעמים ברציפות. לחץ להתחלת אבחון.</string>
     <string name="tc_diagnostic_upload_success">תודה לך על המשוב!</string>
@@ -639,7 +639,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="usage_type_audio">שמע</string>
     <string name="usage_type_video">וידאו</string>
     <string name="usage_type_on_time">משך ההפעלה</string>
-    <string name="battery_history_days">יום %1$d %2$d שעות %3$d דקות %4$d שניות</string>
+    <string name="battery_history_days">%1$d ימים %2$d שעות %3$d דקות %4$d שניות</string>
     <string name="battery_history_hours">%1$d שעות %2$d דקות %3$d שניות</string>
     <string name="battery_history_minutes">%1$d דקות %2$d שניות</string>
     <string name="battery_history_seconds">%1$d שניות</string>
@@ -746,7 +746,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="app_check_reason_wakeup_alarm">מסך הנעילה מוער בתדירות גבוהה</string>
     <string name="app_check_optimize_title">ייעול פעילויות רקע</string>
     <string name="power_save_mode_enable">חסכון בסוללה</string>
-    <string name="power_save_mode_summary" formatted="false">"נטר תהליכי רקע, וכבה את הסנכרון. 'חסכון בסוללה' יכבה אוטומטית כשהסוללה תהיה טעונה ב-60% או 100%."</string>
+    <string name="power_save_mode_summary" formatted="false">"נטר תהליכי רקע וכבה את הסנכרון. 'חסכון בסוללה' יכבה אוטומטית כשהסוללה תהיה טעונה ב-60% או 100%."</string>
     <string name="power_optimize_save_mode_not_opened">"'חסכון בסוללה' כבוי"</string>
     <string name="notification_exit_power_save_mode">"'חסכון בסוללה' כובה"</string>
     <string name="notification_exit_power_save_mode_subtitle">הסוללה טעונה ב- %s.</string>
@@ -864,7 +864,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="path_powercenter">יישומי מערכת/אבטחה/שימוש בסוללה</string>
     <string name="resource_auto_restart">ניהול התחלות אוטומטיות</string>
     <string name="keywords_auto_restart">התחלה אוטומטית;הרשאות;התחלה אוטומטית;התחלה אוטמטית; ניהול התחלות אוטומטיות; התחלה אוטומטית של MIUI; התחלה אוטומטית של יישומים; יישומים התחלה אוטומטית;התחלת שרשרת;התחלה משורשרת; התחלת טריגר</string>
-    <string name="path_auto_restart">יישומי מערכת/אבטחה/הרשאות/ניהול התחלות אוטומטיות</string>
+    <string name="path_auto_restart">יישומי מערכת/אבטחה/הרשאות/הפעלה אוטומטית</string>
     <string name="resource_usb_install">התקן באמצעות USB</string>
     <string name="keywords_usb_install">התקנת USB;התקן מהמחשב;התקנת ADB</string>
     <string name="path_usb_install">יישומי מערכת/אבטחה/הרשאות/התקן באמצעות USB</string>
@@ -958,6 +958,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="memory_check_content">%s התפנו</string>
     <string name="memory_check_content_none">ריק</string>
     <string name="system_check_content_none">בטוח</string>
+    <string name="cache_check_content_none">@string/memory_check_content_none</string>
     <string name="system_header_title">נקה %1$d תהליכים לשחרור %2$s מהזכרון</string>
     <string name="cache_header_title">נקה %1$d קבצים המאוחסנים במטמון על מנת לפנות %2$s שטח</string>
     <string name="activity_title_virus">וירוס</string>
@@ -1186,7 +1187,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="delete_from_manual_item_white_list">הסר מרשימת החריגים</string>
     <string name="manual_white_list_header">%d חריגים</string>
     <string name="button_text_ignore">התעלם</string>
-    <string name="button_text_ignore_alert_title">להתעלם מהתראה זו?</string>
+    <string name="button_text_ignore_alert_title">להתעלם מהתרעה זו?</string>
     <string name="back">חזור</string>
     <string name="empty_title_manual_item_white_list">אין חריגים.</string>
     <string name="title_cloud_account">חשבון Mi</string>
@@ -1278,7 +1279,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="cmcc_app_check_dialog_positive">אתחל כעת</string>
     <string name="cmcc_app_check_dialog_negative">מאוחר יותר</string>
     <string name="app_not_installed_toast">היישום אינו מותקן במכשירך.</string>
-    <string name="month_report_month_report_switch">הצג דוח חודשי</string>
+    <string name="month_report_month_report_switch">הצג דו\"ח חודשי</string>
     <string name="antivirus_choose_engine_settings">הגדרות זיהוי וירוסים</string>
     <string name="antivirus_choose_engine_title">הגדרות</string>
     <string name="antivirus_choose_engine_disable_toast">לא ניתן לשנות הגדרות במהלך סריקה</string>
@@ -1404,15 +1405,16 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="card_main_deepclean_title">ניקוי עמוק</string>
     <string name="card_main_deepclean_summary">מחק קבצים לא חיוניים</string>
     <string name="card_main_deepclean_action">נקה</string>
-    <string name="card_main_deepclean_wechat_title">WeChat cache</string>
-    <string name="card_main_deepclean_wechat_summary">Clear WeChat cache to free up storage space</string>
-    <string name="card_main_deepclean_wechat_action">Clear</string>
+    <string name="card_main_deepclean_wechat_title">מטמון WeChat</string>
+    <string name="card_main_deepclean_wechat_summary">נקה את מטמון WeChat על מנת לנקות שטח אחסון</string>
+    <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_title">סטטיסטיקות אבטחה</string>
-    <string name="card_main_monthreport_summary">הצג דוחות חודשיים</string>
+    <string name="card_main_monthreport_summary">הצג דוח\"ות חודשיים</string>
     <string name="card_main_monthreport_action">הצג</string>
     <string name="card_main_speeddetail_title">מהירות החיבור</string>
     <string name="card_main_speeddetailt_summary">הצג את מהירות החיבור של יישומים אינדיבדואליים</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>
@@ -1683,7 +1685,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="bind_xiaomi_account_title">הוסף חשבון Mi</string>
     <string name="bind_xiaomi_account_summary">הוסף חשבון Mi על מנת לאפס את סיסמתך</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">מוסיף חשבון Mi</string>
-    <string name="bind_xiaomi_account_dialog_summery">הינך עומד להוסיף חשבון Mi %s במידה ותשכח את סיסמתך, תוכל להשתמש בחשבון זה על מנת לאפס אותה. החשבון יוסר באופן אוטומטי במידה ותתנתק.</string>
+    <string name="bind_xiaomi_account_dialog_summery">הינך עומד להוסיף חשבון Mi %s במידה ותשכח את סיסמתך, תוכל להשתמש בחשבון זה על מנת לאפס אותה. החשבון יוסר באופן אוטומטי במידה ותצא.</string>
     <string name="bind_xiaomi_account_cancel">ביטול</string>
     <string name="bind_xiaomi_account_confirm">הוסף</string>
     <string name="password_promotion_title">סיסמה להגנת הפרטיות</string>
@@ -1763,7 +1765,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="app_manager_uninstall_xspace_app_dlg_title">להסיר את התקנת היישום המשוכפל?</string>
     <string name="app_manager_permission_read_contact_over">ניגש לאנשי הקשר 100000+ פעמים</string>
     <string name="app_manager_permission_call_phone_over">ביצע שיחות 100000+ פעמים</string>
-    <string name="app_manager_permission_send_mms_over">Send SMS 100000+ times</string>
+    <string name="app_manager_permission_send_mms_over">שלח מסרונים 100000+ פעמים</string>
     <string name="app_manager_permission_read_mms_over">קרא מסרונים 100000+ פעמים</string>
     <string name="app_manager_permission_read_record_over">קרא את יומן השיחות 100000+ פעמים</string>
     <string name="app_manager_reject_count_over">נחסם 100000+ פעמים</string>

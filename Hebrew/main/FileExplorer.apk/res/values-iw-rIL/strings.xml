@@ -631,9 +631,9 @@
     <string name="youliao_ad_update">עדכון</string>
     <string name="setting_message_notify">התראות</string>
     <string name="setting_account_bind">הוסף חשבון</string>
-    <string name="user_setting_logout">התנתק</string>
-    <string name="dialog_logout_title">התנתק</string>
-    <string name="dialog_logout_message">להתנתק כעת?</string>
+    <string name="user_setting_logout">צא</string>
+    <string name="dialog_logout_title">צא</string>
+    <string name="dialog_logout_message">לצאת כעת?</string>
     <string name="phone_num">מספר טלפון</string>
     <string name="bind">הוספה</string>
     <string name="wechat_btn_bind">WeChat</string>
@@ -822,4 +822,6 @@
     <string name="clockin_failed">"לא ניתן היה לבצע צ'ק אין, נסה שוב"</string>
     <string name="clockin_success">"צ'ק אין בוצע בהצלחה"</string>
     <string name="clockin_use">קבל פרס</string>
+    <string name="search_history">היסטורית חיפוש</string>
+    <string name="clear_record">נקה היסטוריה</string>
 </resources>

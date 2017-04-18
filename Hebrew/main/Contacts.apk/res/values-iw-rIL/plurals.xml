@@ -229,16 +229,16 @@
         <item quantity="many">1 hour ago</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">לפני חצי שעה</item>
         <item quantity="one">לפני חצי שעה</item>
-        <item quantity="two">Half an hour ago</item>
-        <item quantity="many">Half an hour ago</item>
+        <item quantity="two">לפני חצי שעה</item>
+        <item quantity="many">לפני חצי שעה</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">ממש עכשיו</item>
         <item quantity="one">ממש עכשיו</item>
-        <item quantity="two">Just now</item>
-        <item quantity="many">Just now</item>
+        <item quantity="two">ממש עכשיו</item>
+        <item quantity="many">ממש עכשיו</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">לפני %1$d דקות</item>
@@ -253,16 +253,16 @@
         <item quantity="many">In 1 hour</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
+        <item quantity="other">בעוד חצי שעה</item>
         <item quantity="one">בעוד חצי שעה</item>
-        <item quantity="two">In half an hour</item>
-        <item quantity="many">In half an hour</item>
+        <item quantity="two">בעוד חצי שעה</item>
+        <item quantity="many">בעוד חצי שעה</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
+        <item quantity="other">מידית</item>
         <item quantity="one">מידית</item>
-        <item quantity="two">Immediately</item>
-        <item quantity="many">Immediately</item>
+        <item quantity="two">מידית</item>
+        <item quantity="many">מידית</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">בעוד %1$d דקות</item>

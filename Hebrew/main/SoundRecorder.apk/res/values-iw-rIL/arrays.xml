@@ -19,6 +19,12 @@
         <item>ראיון</item>
         <item>HD</item>
     </string-array>
+    <string-array name="record_scenes_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
     <string-array name="record_scenes_summaries">
         <item>הקלט מוסיקה באיכות טובה יותר</item>
         <item>לאיכות טובה יותר, קרב את המיקרופון למקור הצליל</item>
@@ -35,6 +41,11 @@
         <item>גבוהה</item>
         <item>רגילה</item>
         <item>נמוכה</item>
+    </string-array>
+    <string-array name="record_quality_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="record_quality_summaries">
         <item>MP3, ~192kbit/s, ~90MB/h</item>

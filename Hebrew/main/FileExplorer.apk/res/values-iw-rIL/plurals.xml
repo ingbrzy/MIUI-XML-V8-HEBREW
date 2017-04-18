@@ -241,10 +241,10 @@
         <item quantity="many">"בוצע צ'ק אין %1$s ימים ברצף"</item>
     </plurals>
     <plurals name="clockin_new_chip">
-        <item quantity="other">You got &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> points</item>
-        <item quantity="one">You got &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> point</item>
-        <item quantity="two">You got &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> points</item>
-        <item quantity="many">You got &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> points</item>
+        <item quantity="other">קיבלת &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> נקודות</item>
+        <item quantity="one">קיבלת נקודה &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font></item>
+        <item quantity="two">קיבלת &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> נקודות</item>
+        <item quantity="many">קיבלת &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> נקודות</item>
     </plurals>
     <plurals name="clockin_day_count">
         <item quantity="other">"בוצע צ'ק אין %1$s ימים ברצף. המשך כך!"</item>

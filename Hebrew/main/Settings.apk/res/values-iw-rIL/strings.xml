@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="tether_settings_title_all">שיתוף אינטרנט &amp; נקודה חמה ניידת</string>
+    <string name="tethering_settings_not_available">"שנה את הגדרות שיתוף האינטרנט ב'שטח ראשון'"</string>
+    <string name="bt_hci_snoop_log">רישום Bluetooth HCI snoop</string>
+    <string name="bt_hci_snoop_log_summary">לכידת כל חבילות Bluetooth HCI בקובץ</string>
+    <string name="pointer_location_summary">הצג קואורדינטות מגע</string>
+    <string name="battery_info_status_unknown">לא ידוע</string>
+    <string name="battery_info_status_charging">טוען</string>
+    <string name="battery_info_status_charging_ac">טעינת AC</string>
+    <string name="battery_info_status_charging_usb">טעינת USB</string>
+    <string name="battery_info_status_charging_wireless">טעינה אלחוטית</string>
+    <string name="battery_info_status_discharging">לא טוען</string>
+    <string name="battery_info_status_not_charging">לא טוען</string>
+    <string name="battery_info_status_full">מלאה</string>
     <string name="launcher_title">מסך הבית</string>
     <string name="defalut_launcher_title">משגר היישומים ברירת המחדל</string>
     <string name="miui_screen_config_title">"הגדרות 'מסך הבית'"</string>
@@ -24,7 +37,7 @@
     <string name="status_bar_settings_notification_sound">צליל</string>
     <string name="status_bar_settings_notification_vibrate">רטט</string>
     <string name="status_bar_settings_notification_led">נורית התראה</string>
-    <string name="status_bar_settings_notification_bar">לוח התראות</string>
+    <string name="status_bar_settings_notification_bar">לוח ההתראות</string>
     <string name="status_bar_settings_app_notification_preferences">הגדרות יישומים</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">הסתר לאחר נגיעה</string>
     <string name="status_bar_settings_status_bar">שורת מצב</string>
@@ -73,14 +86,9 @@
     <string name="title_local_resource">משאבים מקומיים</string>
     <string name="online_resource_entry">משאבים מקוונים</string>
     <string name="header_category_wireless_networks">רשת</string>
-    <string name="battery_info_status_unknown">לא ידוע</string>
-    <string name="battery_info_status_charging">טוען</string>
-    <string name="battery_info_status_charging_ac">טעינת AC</string>
-    <string name="battery_info_status_charging_usb">טעינת USB</string>
-    <string name="battery_info_status_charging_wireless">טעינה אלחוטית</string>
-    <string name="battery_info_status_discharging">לא טוען</string>
-    <string name="battery_info_status_not_charging">לא טוען</string>
-    <string name="battery_info_status_full">מלאה</string>
+    <string name="font_size_summary">"שינוי גודל הטקסט עבור מסך הבית, לוח ההתראות, לוח המקשים ותפריטי המערכת.
+
+"</string>
     <string name="bluetooth_is_discoverable_always">הפוך מכשיר זה לגלוי לכל התקני ה-Bluetooth בקרבת המקום</string>
     <string name="bluetooth_device_name">שם:</string>
     <string name="proxy_port_label">Port</string>
@@ -137,7 +145,6 @@
     <string name="no_internet_access_text">לרשת האלחוטית %1$s אין גישה לאינטרנט. להישאר מחובר?</string>
     <string name="wifi_connect_failed_message">לא ניתן היה להתחבר לרשת האלחוטית</string>
     <string name="wifi_advanced_titlebar">רשת אלחוטית מתקדמת</string>
-    <string name="wifi_setting_frequency_band_title">תדרי רשת אלחוטית</string>
     <string name="wifi_gateway">כניסה</string>
     <string name="wifi_network_prefix_length">אורך קידומת</string>
     <string name="wifi_p2p_settings_title">רשת אלחוטית ישירה</string>
@@ -152,7 +159,7 @@
     <string name="lock_sounds_enable_title">צליל נעילת המסך</string>
     <string name="volume_media_description">מוסיקה, וידאו, משחקים, ומדיה אחרת</string>
     <string name="volume_ring_description">צלצולים &amp; התראות</string>
-    <string name="volume_alarm_description">התראה</string>
+    <string name="volume_alarm_description">התרעה</string>
     <string name="screen_timeout_title">מצב שינה</string>
     <string name="sim_lock_settings">הגדרות נעילת SIM</string>
     <string name="sim_lock_settings_category">הגדר נעילת SIM</string>
@@ -170,13 +177,9 @@
 ההעברה נמשכת כ- ^2 ותפנה ^3 באחסון הפנימי. יישומים מסויימים לא יוכלו לעבוד במהלך ההעברה."</string>
     <string name="storage_wizard_ready_title">^1 מוכן</string>
     <string name="storage_wizard_ready_external_body">^1 שלך מוכן לשימוש עם תמונות ומדיה אחרת.</string>
-    <string name="apn_ppp_number">מספר טלפון APN PPP</string>
     <string name="menu_restore">אפס</string>
-    <string name="tether_settings_title_all">שיתוף אינטרנט &amp; נקודה חמה ניידת</string>
     <string name="network_settings_title">רשתות סלולריות</string>
-    <string name="managed_profile_location_category">פרופיל עבודה</string>
     <string name="managed_profile_location_switch_title">מיקום עבור פרופיל העבודה</string>
-    <string name="managed_profile_location_switch_lockdown">כובה על ידי מנהל החברה.</string>
     <string name="location_mode_high_accuracy_description">השתמש ב-GPS, רשתות אלחוטיות ורשתות סלולריות על מנת לקבוע את מיקומך</string>
     <string name="location_mode_battery_saving_description">השתמש ברשתות אלחוטיות ורשתות סלולריות על מנת לקבוע את מיקומך</string>
     <string name="location_network_based">רשת אלחוטית &amp; רשת סלולרית</string>
@@ -235,9 +238,6 @@
     <string name="user_dict_settings_empty_text">"אין ברשותך יומנים
 לחץ על הפלוס להוספת מילים."</string>
     <string name="input_method">מקלדת</string>
-    <string name="tethering_settings_not_available">"שנה את הגדרות שיתוף האינטרנט ב'שטח ראשון'"</string>
-    <string name="bt_hci_snoop_log">רישום Bluetooth HCI snoop</string>
-    <string name="bt_hci_snoop_log_summary">לכידת כל חבילות Bluetooth HCI בקובץ</string>
     <string name="power_usage_summary_title">סוללה &amp; ביצועים</string>
     <string name="battery_stats_wifi_running_label">רשתות אלחוטיות</string>
     <string name="wifi_on_time">זמן חיבור לרשת אלחוטית</string>
@@ -264,7 +264,6 @@
     <string name="wifi_setup_description_connected">לחץ <b>הבא</b>" על מנת להמשיך את ההתקנה.
 
 לחץ "<b>הקודם</b> על מנת להתחבר לרשת אלחוטית אחרת.</string>
-    <string name="pointer_location_summary">הצג קואורדינטות מגע</string>
     <string name="data_usage_menu_show_wifi">הצג את נתוני השימוש ברשת אלחוטית</string>
     <string name="data_usage_disable_wifi_limit">הגדר מגבלת נתונים לחיבור רשת אלחוטית</string>
     <string name="data_usage_tab_wifi">רשתות אלחוטיות</string>
@@ -426,13 +425,13 @@
     <string name="search_screen_paper_mode_title">מצב קריאה;מצב קריאה;קריאה;אור כחול;אור צהוב;מצב לילה</string>
     <string name="search_gesture_wakeup_title">הקש פעמיים על מנת להעיר את המסך;הקשה כפולה על מנת להעיר;הערת המסך;הקשה כפולה על המסך;הקשה כפולה</string>
     <string name="search_sound_settings">צליל;עוצמת שמע;רטט;השתק רעשים;השתקת רעשים</string>
-    <string name="search_ring_volume_option_title">עוצמות;עוצמה;צלצולים &amp; התראות;צלצול;צלצולים;התראה;מוסיקה</string>
+    <string name="search_ring_volume_option_title">עוצמות;עוצמה;צלצולים &amp; התראות;צלצול;צלצולים;התרעה;מוסיקה</string>
     <string name="search_ringtone_title">צלצול הטלפון;צלצול;צלצולים</string>
     <string name="search_sms_received_sound_title">ההודעה התקבלה;צליל הודעה;הודעה שהתקבלה;צלצול הודעה</string>
-    <string name="search_alarm_sound_title">צליל התראה;צלצול התראה;התראה</string>
+    <string name="search_alarm_sound_title">צליל התרעה;צלצול התרעה;התרעה</string>
     <string name="search_calendar_sound_title">צליל לוח השנה;צלצול לוח השנה;לוח השנה</string>
-    <string name="search_notification_sound_title">Default notification sound;notification sound;notification sounds</string>
-    <string name="search_sms_delivered_sound_title">ההודעה הועברה;הודעה שהועברה;צליל הודעה;דוח העברה</string>
+    <string name="search_notification_sound_title">צליל ברירת מחדל עבור התראות;צליל התראות;צלילי התראות</string>
+    <string name="search_sms_delivered_sound_title">ההודעה הועברה;הודעה שהועברה;צליל הודעה;דו\"ח מסירה</string>
     <string name="search_music_audio_effect_optimize">הגדרות שמע;הגדרות שמע</string>
     <string name="search_music_headset_mode_settings">כפתורי שליטה מרחוק של אוזניות;כפתורי שליטה מרחוק</string>
     <string name="search_music_headset_calibrate">הקצה לחצנים;לחצנים</string>
@@ -454,8 +453,8 @@
     <string name="search_wakeup_for_keyguard_notification_title">הער את מסך הנעילה בקבלת התראות;הערת המסך;הערת המכשיר;הערת הטלפון</string>
     <string name="search_pref_volume_wake_title">הער באמצעות לחצני עוצמת השמע;לחצני עוצמת השמע</string>
     <string name="search_screen_on_proximity_sensor_title">מנע חיוג מהכיס;כיס;חיוג מהכיס;חיוגים מהכיס</string>
-    <string name="search_second_space">Second space;Two spaces;2 spaces;Hide apps;Hide files;Hide photos;Lock screen;Lock screen password;Privacy;Privacy mode;Private mode;Private;Guest mode;Guest session;Guest access;Guest account;Guest</string>
-    <string name="search_xspace">Dual app;Dual apps;Double app;Double apps;Clone app;Clone apps;App clone;App clones;Two accounts;2 accounts</string>
+    <string name="search_second_space">שטח שני;שני שטחים;2שטחים;הסתרת יישומים;הסתרת קבצים;הסתרת תמונות;מסך הנעילה;סיסמת מסך הנעילה;פרטיות;מצב פרטיות;מצב פרטי;פרטי;מצב אורח;כניסת אורח;גישת אורח;חשבון אורח;אורח</string>
+    <string name="search_xspace">יישום משוכפל;יישומים משוכפלים;יישום כפול;יישומים כפולים;יישום משובט;יישומים משובטים;שיבוט יישום;שיבוט יישומים;שני חשבונות;2 חשבונות</string>
     <string name="search_do_not_disturb_mode">"מצב 'נא לא להפריע'"</string>
     <string name="search_dndm_auto_time_setting">הגדר זמן;DND</string>
     <string name="search_dndm_vip_call_setting_title">VIP;חריגים;רשימה לבנה;רשימה לבנה</string>
@@ -485,7 +484,7 @@
     <string name="search_credentials_install">התקן מתוך האחסון;התקנה ישירה;התקן יישום</string>
     <string name="search_security_encryption_title">הצפן את המכשיר באמצעות סיסמת מסך הנעילה;הצפן;הצפנה;הצפן את המכשיר;הצפן את הטלפון</string>
     <string name="search_handy_mode">מצב יד אחת;מצב יד אחת;מצב יד אחת; יד אחת</string>
-    <string name="search_accessibility_settings">Accessibility</string>
+    <string name="search_accessibility_settings">נגישות</string>
     <string name="search_accessibility_captioning_title">כיתובים</string>
     <string name="search_accessibility_screen_magnification_title">מחוות הגדלה;הגדלה</string>
     <string name="search_accessibility_global_gesture_preference_title">קיצורי דרך לנגישות;נגישות</string>
@@ -602,12 +601,16 @@
     <string name="xiaomi_account">חשבון Mi</string>
     <string name="sync_settings">סנכרון</string>
     <string name="google_title">Google</string>
+    <string name="account_other">אחר</string>
+    <string name="xiaomi_cloud_service_disabled">כבוי</string>
+    <string name="xiaomi_cloud_service_unknown">לא ידוע</string>
+    <string name="xiaomi_cloud_service_description">"Mi Cloud מסנכרן את אנשי הקשר והתמונות שלך, מגבה את היישומים וההגדרות שלך ועוזר לך למצוא את מכשירך באמצעות 'איתור המכשיר'."</string>
     <string name="sms_received_sound_title">הודעה התקבלה</string>
     <string name="sms_delivered_sound_title">הודעה נשלחה</string>
     <string name="sms_received_sound_dialog_title">בחר צליל עבור קבלת הודעה</string>
     <string name="sms_delivered_sound_dialog_title">בחר צליל עבור שליחת הודעה</string>
-    <string name="alarm_sound_title">צליל התראה</string>
-    <string name="alarm_sound_dialog_title">בחר צליל התראה</string>
+    <string name="alarm_sound_title">צליל התרעה</string>
+    <string name="alarm_sound_dialog_title">בחר צליל התרעה</string>
     <string name="calendar_sound_title">צליל לוח שנה</string>
     <string name="calendar_sound_dialog_title">בחר צליל לוח שנה</string>
     <string name="ringtone_uniform_setting_title">הגדרות SIM כפול</string>
@@ -698,6 +701,11 @@
     <string name="pref_volume_wake_summary">לחיצה על לחצני עוצמת השמע מעירה את המכשיר</string>
     <string name="pref_volume_launch_camera_title">הפעל את המצלמה</string>
     <string name="pref_volume_launch_camera_summary">"לחץ פעמיים על כפתור הנמכת עוצמת השמע על מנת להפעיל את ה'מצלמה'"</string>
+<<<<<<< HEAD
+    <string name="suspend_gesture_enabled">הפוך את הטלפון לכיבוי המסך</string>
+    <string name="palm_enabled">כסה את המסך על מנת לכבות אותו</string>
+=======
+>>>>>>> origin/master
     <string name="media_button">לחצן המדיה</string>
     <string name="preferred_media_app_summary">בחר נגן מוסיקה</string>
     <string name="no_media_button_receiver">לא</string>
@@ -888,9 +896,6 @@
     <string name="volume_restore_alert">לאפס את כל רמות עוצמת השמע להגדרות ברירת המחדל שלהן?</string>
     <string name="music_equalizer">אקולייזר</string>
     <string name="font_size_preview">MIUI</string>
-    <string name="font_size_summary">"שינוי גודל הטקסט עבור מסך הבית, לוח ההתראות, לוח המקשים ותפריטי המערכת.
-
-"</string>
     <string name="font_size_summary1">"אם טקסט המערכת שלך עדיין קטן מידי, נסה "</string>
     <string name="font_size_summary2">מצב קל.</string>
     <string name="font_size_small">קטן יותר</string>
@@ -1001,7 +1006,7 @@
     <string name="device_name_input_hint">הזן שם</string>
     <string name="device_name_usage_point">שם זה גלוי להתקנים אחרים בקרבת מקום.</string>
     <string name="device_name_input_error">לא ניתן היה לשמור את שם המכשיר</string>
-    <string name="device_name_input_overlength">חריגה ממגבלת המילים</string>
+    <string name="device_name_input_overlength">חרגת ממגבלת התוים</string>
     <string name="drive_mode">מצב רכב</string>
     <string name="enable_drive_mode">מצב רכב</string>
     <string name="drive_mode_title">מצב רכב</string>
@@ -1069,9 +1074,8 @@
     <string name="screen_monochrome_mode_set_apps_title">"יישומי מצב 'מונוכרום'"</string>
     <string name="screen_monochrome_mode_apps_loading">רק רגע…</string>
     <string name="screen_resolution_title">רזולוצית המסך</string>
-    <string name="screen_resolution_switch">החלף רזולוציה</string>
     <string name="screen_resolution_summary">הנמכת רזולוצית התצוגה עשויה להאריך את חיי הסוללה ולהאיץ את מהירות המערכת, אך גם להפוך את התמונות המוצגות על גבי המסך לפחות ברורות. עליך לאתחל את המכשיר להחלת שינוי זה.</string>
-    <string name="screen_resolution_confirm">אתחל</string>
+    <string name="screen_resolution_switch">החלף רזולוציה</string>
     <string name="finish_application">כפה עצירה</string>
     <string name="header_category_accounts">חשבונות</string>
     <string name="auto_startup_application_manage">הפעלה אוטומטית</string>
@@ -1183,26 +1187,13 @@
     <string name="wifi_share_action_turn_off">הפסק שיתוף רשתות</string>
     <string name="wifi_share_list_empty">לא נמצאו רשתות משותפות.</string>
     <string name="wifi_share_connect">התחבר</string>
-    <string name="enalbe_identify_iPhone">זיהוי AP</string>
     <string name="wifi_share_qrcode_title">שתף רשת אלחוטית</string>
     <string name="wifi_share_qrcode_summary">על מנת לשתף, סרוק את קוד ה-QR המופיע מעלה.</string>
     <string name="wifi_share_qrcode_finish">אישור</string>
     <string name="tether_share_qrcode_title">שיתוף קוד QR</string>
     <string name="tether_devices_management_title">נהל התקנים</string>
-    <string name="tether_devices_max_number">מגבלת התקנים מחוברים</string>
     <string name="show_connected_devices_title">התקנים מחוברים</string>
     <string name="show_connected_devices_summary">הצג התקנים מחוברים</string>
-    <string name="block_list_title">רשימת החסומים</string>
-    <string name="block_list_summary">הצג התקנים אשר מנועים מלהתחבר לנקודה חמה זו</string>
-    <string name="block_list_connected_devices">התקנים מחוברים</string>
-    <string name="block_list_dialog_title">להתנתק כעת?</string>
-    <string name="block_list_qcom_dialog_content">פעולה זו תביא לניתוק של \"%s\" ממכשיר זה והוספתו לרשימת החסומים</string>
-    <string name="block_list_mtk_dialog_content">פעולה זו תביא לניתוק של \"%s\" ממכשיר זה</string>
-    <string name="block_list_remove_dialog_title">הסר את \"%s\" מרשימת החסומים</string>
-    <string name="block_list_remove_dialog_content">התקן \"%s\" יוכל להתחבר לנקודה חמה זו</string>
-    <string name="block_list_diaglog_ok">אישור</string>
-    <string name="block_list_diaglog_cancle">ביטול</string>
-    <string name="block_list_no_device">אין התקנים מחוברים ברשימת החסומים</string>
     <string name="no_connected_devices">אין התקנים מחוברים</string>
     <string name="tether_settings_disabled">נקודה חמה אישית כבויה</string>
     <string name="use_wifi_master_key_summary">"התחבר באמצעות 'מפתח מאסטר לרשתות אלחוטיות'"</string>
@@ -1212,7 +1203,7 @@
     <string name="show_wifi_master_key_title">גלה רשתות אלחוטיות משותפות</string>
     <string name="show_wifi_master_key_summary">"התחבר לרשתות אלחוטיות משותפות באמצעות 'מפתח מאסטר לרשתות אלחוטיות'"</string>
     <string name="wifi_master_key_service_dialog_title">רשתות אלחוטיות משותפות</string>
-    <string name="wifi_master_key_service_dialog_content">"WiFi Master Key is a free service that provides passwords for shared Wi-Fi networks. WiFi Master Key won't share your network's password. You can also %1$s。"</string>
+    <string name="wifi_master_key_service_dialog_content">"'מפתח מאסטר לרשתות אלחוטיות' הינו שירות חינמי המספק סיסמאות עבור רשתות אלחוטיות משותפות. 'מפתח מאסטר לרשתות אלחוטיות' לא ישתף את סיסמת הרשת שלך. תוכל גם לבצע %1$s."</string>
     <string name="enable_wifi_master_key_service">"הפעלת 'מפתח מאסטר לרשתות אלחוטיות'"</string>
     <string name="disable_wifi_master_key_service">כיבוי</string>
     <string name="enable_wifi_master_key_service_first">הפעלה</string>
@@ -1298,6 +1289,7 @@
     <string name="accessibility_screen_magnification_enable">מחוות הגדלה</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">לא ניתן להשתמש בתצוגה אלחוטית כאשר החיבור לרשת האלחוטית כבוי</string>
     <string name="wifi_required_info_text">על מנת להשלים את ההגדרה, המכשיר שלך זקוק לגישה לרשת אלחוטית. לאחר ההגדרה, תוכל להחליף בין חיבור רשת אלחוטית לחיבור נתונים סלולרי.</string>
+    <string name="wifi_setting_frequency_band_title">תדרי רשת אלחוטית</string>
     <string name="toast_need_login">היכנס לחשבון Mi שלך</string>
     <string name="preferred_app_settings">ברירות מחדל</string>
     <string name="preferred_app_settings_default">ברירת מחדל</string>
@@ -1558,8 +1550,8 @@
     <string name="install_no_market_app_title">סרוק יישומי צד שלישי</string>
     <string name="install_no_market_app_summary">סרוק אחר וירוסים ביישומי צד שלישי לפני התקנתם</string>
     <string name="lock_screen_secure_after_timeout_title">דרושה סיסמה</string>
-    <string name="lock_screen_secure_after_timeout_summary">דרושה סיסמה ב- %1$s</string>
-    <string name="lock_screen_secure_after_timeout_immediately_summary">דרושה סיסמה באופן מידי.</string>
+    <string name="lock_screen_secure_after_timeout_summary">דרושה סיסמה ב: %1$s</string>
+    <string name="lock_screen_secure_after_timeout_immediately_summary">דרושה סיסמה באופן מיידי</string>
     <string name="theme_settings_title">ערכות נושא</string>
     <string name="choose_smartcover_type">בחר סוג כיסוי</string>
     <string name="normal_smartcover_title">מכסה קדמי אטום</string>
@@ -1748,6 +1740,8 @@
     <string name="permission_settings_title">הרשאות יישומים</string>
     <string name="permission_settings_summary">נהל הרשאות הקשורות למיקום, אחסון, טלפון, הודעות ואנשי קשר.</string>
     <string name="permission_manage_global_build_title">הרשאות אחרות</string>
+    <string name="managed_profile_location_category">פרופיל עבודה</string>
+    <string name="managed_profile_location_switch_lockdown">כובה על ידי מנהל החברה.</string>
     <string name="add_fingerprint_failed_retry_text">לא ניתן היה להוסיף טביעת אצבע. נסה שוב</string>
     <string name="fingerprint_for_keyguard_disabled">"'טביעת אצבע' הושבתה על ידי הגדרות האבטחה."</string>
     <string name="fingerprint_removal_failed">לא ניתן היה להסיר את טביעת האצבע, נסה שוב מאוחר יותר</string>
@@ -1761,9 +1755,8 @@
     <string name="uninstall_dlg_title">להסיר התקנה כעת?</string>
     <string name="uninstall_dlg_msg">הסרת התקנת היישום תסיר את כל הנתונים שלו.</string>
     <string name="uninstall_with_xspace_app_dlg_msg">יישומים משוכפלים תואמים יוסרו יחד עם נתוני היישום שלהם.</string>
-    <string name="input_password_hint_text">הזן סיסמה</string>
-    <string name="miui_enable_service_title">השירות יבצע את הפעולות הבאות:</string>
-    <string name="storage_wizard_format_confirm_third_body">^1 נמצא בתהליך פירמוט</string>
+    <string name="apn_ppp_number">מספר טלפון APN PPP</string>
+    <string name="privacy_password">סיסמה להגנת הפרטיות</string>
     <string name="resetting_second_space_passwd">"מאפס את סיסמת 'שטח שני'"</string>
     <string name="reset_second_space_passwd">"אפס את סיסמת 'שטח שני'"</string>
     <string name="reset_second_space_passwd_detail">"הזן את סיסמת חשבון Mi המשמשת עבור 'שטח ראשון'"</string>
@@ -1782,6 +1775,12 @@
     <string name="keywords_sync">סנכרון;סינכרון;ענן</string>
     <string name="keywords_paper_mode">Flux;קריאה;מצב קריאה;תאורה כחולה;הגנה על העיניים</string>
     <string name="keywords_quick_ball">Quick nall;shortcut;shortcuts;toggles;toggle</string>
+<<<<<<< HEAD
+    <string name="storage_wizard_format_confirm_third_body">^1 נמצא בתהליך פירמוט</string>
+    <string name="http_invoke_app">יישומי רשת</string>
+    <string name="http_invoke_app_summary">פתח יישומים מהר יותר מבלי להתקינם</string>
+=======
+>>>>>>> origin/master
     <string name="keyguard_shortcut_title">"קיצורי דרך ב'מסך הנעילה'"</string>
     <string name="keyguard_shortcut_summary">"הגדר קיצורי דרך עבור 2 יישומים ב'מסך הנעילה'"</string>
     <string name="keyguard_left_function_title">שמאל</string>
@@ -1801,7 +1800,6 @@
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">המתן %d שניות ונסה שוב.</string>
     <string name="privacy_password_title">סיסמה להגנת הפרטיות</string>
     <string name="privacy_password_settings">"השתמש ב'סיסמה להגנת הפרטיות'"</string>
-    <string name="privacy_password">סיסמה להגנת הפרטיות</string>
     <string name="forget_privacy_password_setting">הוסף חשבון Mi</string>
     <string name="forget_privacy_password_summary">הוסף חשבון Mi על מנת לאפס את סיסמתך</string>
     <string name="confirm_privacy_password">"הזן 'סיסמה להגנת הפרטיות'"</string>
@@ -1849,7 +1847,7 @@
     <string name="privacy_password_enter_privacy">"הזן 'סיסמה להגנת הפרטיות'"</string>
     <string name="privacy_password_add_account_setting">חשבון ופרטיות</string>
     <string name="privacy_password_add_account_info">הוסף חשבון Mi על מנת שתוכל לאפס את סיסמתך במקרה ותשכח אותה</string>
-    <string name="privacy_password_exit_account_info">החשבון יוסר באופן אוטומטי לאחר שתתנתק</string>
+    <string name="privacy_password_exit_account_info">החשבון יוסר באופן אוטומטי לאחר שתצא</string>
     <string name="privacy_password_login_and_add_account">כניסה והוספה</string>
     <string name="privacy_password_not_add_account">לא כעת</string>
     <string name="privacy_password_add_account">הוספה</string>
@@ -1864,6 +1862,7 @@
     <string name="fingerprint_apply_to_privacy_password">סיסמה להגנת הפרטיות</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">"ה'סיסמה להגנת הפרטיות' מגינה על ההודעות, התמונות, הקבצים, הפתקים, והיישומים שלך."</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">לא תוכל לבטל את נעילת מכשירך באמצעות טביעת האצבע שלך לאחר כיבוי הסיסמה.</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"לאחר שתכבה את סיסמת 'מסך הנעילה' שלך, טביעת האצבע השמורה תימחק. לא תוכל עוד לבטל את נעילת מכשירך באמצעות טביעת האצבע שלך."</string>
     <string name="turn_off_keyguard_password_alert_title">כבה</string>
     <string name="new_password_to_new_fingerprint_dialog_tittle">הוסף טביעת אצבע</string>
     <string name="new_password_to_new_fingerprint_dialog_msg">הוסף את טביעת האצבע שלך על מנת לבטל את נעילת מכשירך באמצעותה.</string>
@@ -1871,10 +1870,10 @@
     <string name="new_password_to_new_fingerprint_dialog_negative_msg">ביטול</string>
     <string name="turn_on_keyguard_password">"הפעל את סיסמת 'מסך הנעילה'"</string>
     <string name="fingerprint_manage">נהל טביעות אצבע</string>
-    <string name="turn_off_keyguard_password_confirm_msg">"Some security features won't work without your password."</string>
-    <string name="work_space_delete">Delete Work space</string>
+    <string name="turn_off_keyguard_password_confirm_msg">תכונות אבטחה מסויימות לא יעבדו ללא הסיסמה שלך.</string>
+    <string name="work_space_delete">"מחק את 'שטח העבודה'"</string>
     <string name="work_space_delete_description">"לא תוכל להיכנס ל'שטח העבודה' לאחר שתמחק אותו. כל הנתונים יועברו או יימחקו."</string>
-    <string name="work_space_delete_confirm">Delete now</string>
+    <string name="work_space_delete_confirm">מחק כעת</string>
     <string name="music_audio_effect_optimize">הגדרות שמע</string>
     <string name="music_audio_effect_optimize_summary">הגדרות שמע אחרות (כולל Dirac ואוזניות)</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">הגדרות שמע אחרות (כולל Dirac ו-Hi-Fi)</string>
@@ -1921,6 +1920,7 @@
     <string name="music_dirac_mode_capsule">קפסולת Mi</string>
     <string name="music_audio_effect_settings">הגדרות אפקטים</string>
     <string name="music_equalizer_summary">התאמת עוצמות ייחודיות לסגנונות מוסיקה שונים</string>
+    <string name="music_unsupport_effect_summary">אוזניות USB אינן נתמכות</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_dolby_mode_off">כבוי</string>
     <string name="music_dolby_mode_music">מוסיקה</string>
@@ -1938,6 +1938,22 @@
     <string name="dirac_mode_piston_youth">Mi piston-youth</string>
     <string name="location_access_on">פועל</string>
     <string name="location_access_off">כבוי</string>
+    <string name="screen_resolution_confirm">אתחל</string>
+    <string name="enalbe_identify_iPhone">זיהוי AP</string>
+    <string name="tether_devices_max_number">מגבלת התקנים מחוברים</string>
+    <string name="block_list_title">רשימת החסומים</string>
+    <string name="block_list_summary">הצג התקנים אשר מנועים מלהתחבר לנקודה חמה זו</string>
+    <string name="block_list_connected_devices">התקנים מחוברים</string>
+    <string name="block_list_dialog_title">להתנתק כעת?</string>
+    <string name="block_list_qcom_dialog_content">פעולה זו תביא לניתוק של \"%s\" ממכשיר זה והוספתו לרשימת החסומים</string>
+    <string name="block_list_mtk_dialog_content">פעולה זו תביא לניתוק של \"%s\" ממכשיר זה</string>
+    <string name="block_list_remove_dialog_title">הסר את \"%s\" מרשימת החסומים</string>
+    <string name="block_list_remove_dialog_content">התקן \"%s\" יוכל להתחבר לנקודה חמה זו</string>
+    <string name="block_list_diaglog_ok">אישור</string>
+    <string name="block_list_diaglog_cancle">ביטול</string>
+    <string name="block_list_no_device">אין התקנים מחוברים ברשימת החסומים</string>
+    <string name="input_password_hint_text">הזן סיסמה</string>
+    <string name="miui_enable_service_title">השירות יבצע את הפעולות הבאות:</string>
     <string name="title_dolby_control">Dolby Digital Plus</string>
     <string name="dolby_mode_off">כבוי</string>
     <string name="dolby_mode_music">מוסיקה</string>

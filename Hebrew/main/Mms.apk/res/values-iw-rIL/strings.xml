@@ -113,7 +113,7 @@
     <string name="pref_mms_settings_title">הודעות מולטימדיה (MMS)</string>
     <string name="pref_summary_mms_read_reports">הצג התראה בחלון השיחה כאשר הנמען הוריד את תוכן הודעת המולטימדיה</string>
     <string name="pref_summary_delete_limit">%1$s הודעות לכל שיחה</string>
-    <string name="pref_title_mms_read_reports">דוחות קריאה עבור הודעות מולטימדיה</string>
+    <string name="pref_title_mms_read_reports">דוח\"ות קריאה עבור הודעות מולטימדיה</string>
     <string name="pref_title_sms_delete">מגבלת הודעות טקסט</string>
     <string name="pref_title_mms_delete">מגבלת הודעות מולטימדיה</string>
     <string name="pref_messages_to_save">הגדר מספר הודעות לשמירה</string>
@@ -210,7 +210,7 @@
     <string name="type_video">וידאו</string>
     <string name="type_attachment">קובץ מצורף</string>
     <string name="confirm">אישור</string>
-    <string name="message_send_read_report">יישלח דוח.</string>
+    <string name="message_send_read_report">הדו\"ח ישלח.</string>
     <string name="message_queued">לא ניתן לשלוח את ההודעה שלך כעת. ההודעה תישלח כשיהיה שירות זמין.</string>
     <string name="fdn_check_failure">באפשרותך לשלוח הודעות למספרי חיוג קבועים בלבד.</string>
     <string name="no_subject">(ללא נושא)</string>
@@ -231,7 +231,7 @@
     <string name="saved_ringtone_fail">לא ניתן היה לשמור את הצלצול</string>
     <string name="select_link_title">בחר פעולה</string>
     <string name="slide_number">שקופית %d</string>
-    <string name="delivery_report_activity">דוח העברות</string>
+    <string name="delivery_report_activity">דו\"ח מסירה</string>
     <string name="storage_limits_activity">מגבלות האחסון</string>
     <string name="change_duration_activity">שנה אורך</string>
     <string name="edit_slideshow_activity">עריכת מצגת</string>
@@ -264,7 +264,7 @@
     <string name="edit_nickname_for_nocontact">עליך להוסיף נמען תחילה</string>
     <string name="edit_nickname_for_nocontact_by_robot">עליך להוסיף נמען תחילה</string>
     <string name="nickname_placeholder">כינוי</string>
-    <string name="no_delivery_report">ללא דוח מסירה</string>
+    <string name="no_delivery_report">ללא דו\"ח מסירה</string>
     <string name="me">אני</string>
     <string name="to_count">%d נמענים</string>
     <string name="recipient_editor_count_format">%d</string>
@@ -322,8 +322,8 @@
     <string name="pref_title_wake_up_screen">הער את המסך</string>
     <string name="pref_summary_wake_up_screen">הער את המסך בכל פעם שמתקבלת הודעה חדשה</string>
     <string name="pref_title_delivery_reports">סטטוס מסירה</string>
-    <string name="pref_summary_delivery_reports">הצג דוח מסירה להודעות שנשלחו</string>
-    <string name="pref_title_send_delivery_reports">שלח דוחות מסירה</string>
+    <string name="pref_summary_delivery_reports">הצג דו\"ח מסירה להודעות שנשלחו</string>
+    <string name="pref_title_send_delivery_reports">שלח דוח\"ות מסירה</string>
     <string name="pref_summary_send_delivery_reports">שלח אישור קבלת הודעת מולטימדיה לשולח בעת קבלת הודעת מולטימדיה</string>
     <string name="pref_title_ringtone_repeat">צלילי התראה</string>
     <string name="pref_title_ringtone_repeat_summary">השמע צליל התראה כשהודעה מתקבלת בעת שהמסך כבוי</string>
@@ -554,8 +554,8 @@
     <string name="hms_add_image_progress_message">מעבד/u2026</string>
     <string name="view_hms_attachment_fail">לא ניתן להוריד את התמונה</string>
     <string name="mx_type_guide">"'הודעות Mi' מאפשר לך לשלוח הודעות למשתמשי MIUI אחרים בחינם"</string>
-    <string name="mx_dspt_provision">שירות הודעות Mi מאפשר לך לשלוח הודעות למשתמשי MIUI אחרים בחינם. יתכן וידרש מסרון SMS יוצא להפעלה מחודשת של הודעות Mi. ספק הרשת שלך יחייב אותך בעבור מסרון זה.</string>
-    <string name="mx_dspt_provision_ex">שליחת הודעות וביצוע שיחות למשתמשי MIUI אחרים ללא חיוב מספק הרשת שלך. VoIP נתמך על ידי Weihui. הצג את מדיניות הפרטיות של Weihui.</string>
+    <string name="mx_dspt_provision">שירות הודעות Mi מאפשר לך לשלוח הודעות למשתמשי MIUI אחרים באמצעות האינטרנט בחינם. יתכן וידרש מסרון SMS יוצא להפעלה מחודשת של הודעות Mi. ספק הרשת שלך יחייב אותך בעבור מסרון זה.</string>
+    <string name="mx_dspt_provision_ex">שליחת הודעות וביצוע שיחות למשתמשי MIUI אחרים באמצעות האינטרנט ללא חיוב מספק הרשת שלך. VoIP נתמך על ידי Weihui. הצג את מדיניות הפרטיות של Weihui.</string>
     <string name="mx_dspt_provision_ex2">מדיניות הפרטיות</string>
     <string name="mx_activate_dlg_title">הפעל את הודעות Mi</string>
     <string name="mx_activate_dlg_title_ex">הפעל את הודעות Mi &amp; קולי</string>
@@ -593,7 +593,7 @@
     <string name="storage_dialog_mms_size">נפח הודעות מולטימדיה:</string>
     <string name="storage_dialog_attachments">קבצים מצורפים להודעות מולטימדיה:</string>
     <string name="storage_dialog_sms">מסרונים: %d</string>
-    <string name="storage_dialog_database">מאגר מידע:</string>
+    <string name="storage_dialog_database">מסד נתונים:</string>
     <string name="storage_dialog_available_space">שטח פנוי:</string>
     <string name="storage_unavailable">אין שטח פנוי</string>
     <string name="security_alert_desc"><font color="#7f000000">"השולח אינו קיים באנשי הקשר שלך.\"
@@ -601,8 +601,8 @@
     <string name="security_alert_desc_highlight">דווח על מספר זה</string>
     <string name="security_alert_dialog_title">דווח</string>
     <string name="security_alert_dialog_desc">שלח הודעה ומספר זה (%s) ל-Xiaomi לבדיקה.</string>
-    <string name="sms_report_failed">לא ניתן היה לשלוח דוח</string>
-    <string name="sms_report_success">הדוח נשלח</string>
+    <string name="sms_report_failed">לא ניתן היה לשלוח דו\"ח</string>
+    <string name="sms_report_success">הדו\"ח נשלח</string>
     <string name="mx_activate_status_desc_query_activte_info">בודק מידע אודות כרטיס ה-SIM…</string>
     <string name="mx_activate_status_desc_fail">לא ניתן היה להפעיל את הודעות Mi</string>
     <string name="mx_activate_status_desc_activating_now">מפעיל…</string>

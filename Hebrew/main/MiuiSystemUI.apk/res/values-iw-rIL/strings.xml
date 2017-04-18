@@ -174,7 +174,7 @@ d MMMM"</string>
     <string name="usb_storage_message">התחברת למחשב באמצעות USB. לחץ על הכפתור המופיע מטה לשיתוף קבצים בין המחשב לאחסון ה-USB של האנדרואיד שלך.</string>
     <string name="usb_storage_error_message">אירעה שגיאה במהלך נסיון הצגת ההתקן שלך כאחסון USB.</string>
     <string name="usb_storage_notification_title">USB מחובר</string>
-    <string name="usb_storage_notification_message">Select to copy files to and from your computer.</string>
+    <string name="usb_storage_notification_message">בחר על מנת להעתיק קבצים למחשב ומהמחשב שלך.</string>
     <string name="usb_storage_stop_notification_title">כבוי אחסון USB</string>
     <string name="usb_storage_stop_notification_message">בחר על מנת לכבות אחסון USB.</string>
     <string name="usb_storage_stop_title">אחסון ה-USB בשימוש</string>

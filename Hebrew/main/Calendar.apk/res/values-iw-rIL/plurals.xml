@@ -13,10 +13,10 @@
         <item quantity="many">בעוד %1$d ימים ב- %2$s</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">%d שבועות</item>
-        <item quantity="one">שבוע 1</item>
-        <item quantity="two">שבועיים</item>
-        <item quantity="many">%d שבועות</item>
+        <item quantity="other">%d שבועות לפני</item>
+        <item quantity="one">שבוע %d לפני</item>
+        <item quantity="two">%d שבועות לפני</item>
+        <item quantity="many">%d שבועות לפני</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">יום השנה: %2$d שנים מאז %1$s</item>

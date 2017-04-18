@@ -151,4 +151,5 @@
     <string name="head_set_tip_dialog_title">השתמש במיקרופון הפנימי</string>
     <string name="head_set_tip_dialog_msg">נתק את האוזניות שלך על מנת שתוכל להקליט שמע בעל ערכים ספציפיים (לדוגמה: מוסיקה, קול).</string>
     <string name="head_set_tip_dialog_ok">הבנתי</string>
+    <string name="rename_fail_tip">לא ניתן היה לשנות את השם. פריט בעל שם זהה קיים כבר.</string>
 </resources>

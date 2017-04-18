@@ -112,6 +112,7 @@
     <string name="bookmark_title_lable">כותרת</string>
     <string name="bookmark_url">כתובת http://</string>
     <string name="bookmark_url_already_exisit">כתובת אתר זו כבר קיימת בסימניות</string>
+    <string name="bookmark_url_can_not_null">אנא הזן את קישור ה-URL.</string>
     <string name="bookmark_url_lable">כתובת</string>
     <string name="bookmark_url_not_valid">כתובת אינטרנט לא חוקית.</string>
     <string name="bookmarks_content_is_null">אין סימניות</string>
@@ -161,6 +162,7 @@
     <string name="color_picker_dialog_title">בחר צבע</string>
     <string name="color_picker_hue">צבע</string>
     <string name="color_picker_saturation">רוויה</string>
+    <string name="color_picker_value">ערך</string>
     <string name="comment_app_menu">הערה</string>
     <string name="comment_hint">הערה</string>
     <string name="comment_menu">הערה</string>
@@ -265,7 +267,7 @@
     <string name="download_pending">מתחיל הורדה…</string>
     <string name="download_phone_tip">טלפון</string>
     <string name="download_router_tip">הורד אל נתב Mi</string>
-    <string name="download_sdcard_busy_dlg_msg">כרטיס SD בשימוש, על מנת לאפשר הורדות, כבה את אפשרות אחסון USB בסרגל העדכונים.</string>
+    <string name="download_sdcard_busy_dlg_msg">כרטיס SD בשימוש, על מנת לאפשר הורדות, כבה את אפשרות אחסון USB בלוח ההתראות.</string>
     <string name="download_sdcard_busy_dlg_title">כרטיס SD לא זמין</string>
     <string name="download_status_failed">לא ניתן היה להוריד</string>
     <string name="download_status_pending">ממתין</string>
@@ -395,8 +397,8 @@
     <string name="miui_content_select_all">בחר הכל</string>
     <string name="miui_content_share">שתף</string>
     <string name="miui_content_web_search">חיפוש</string>
-    <string name="miui_quicksearch_enable_pref_summary">הצג קישור לשורת החיפוש בסרגל ההתראות</string>
-    <string name="miui_quicksearch_enable_pref_title">שורת חיפוש בסרגל ההתראות</string>
+    <string name="miui_quicksearch_enable_pref_summary">הצג קישור לשורת החיפוש בלוח ההתראות</string>
+    <string name="miui_quicksearch_enable_pref_title">שורת חיפוש בלוח ההתראות</string>
     <string name="miui_search_notification_message">לחץ לפתיחת שורת החיפוש.</string>
     <string name="miui_search_notification_title">חיפוש</string>
     <string name="miui_startpage">עמוד הבית</string>
@@ -648,7 +650,7 @@
     <string name="save_form_data_confirm_message">כיבוי תכונה זו עשוי להשפיע על השימוש.</string>
     <string name="save_image_failed">שמירת התמונה נכשלה</string>
     <string name="save_image_success">התמונה נשמרה</string>
-    <string name="save_page_capture_tip">פתח את סרגל ההתראות לצפיה בצילום מסך.</string>
+    <string name="save_page_capture_tip">פתח את לוח ההתראות לצפיה בצילום המסך.</string>
     <string name="save_page_capture_to_camera">צילום מסך נשמר</string>
     <string name="save_password_message">לזכור סיסמה זו?</string>
     <string name="save_password_never">לעולם לא</string>

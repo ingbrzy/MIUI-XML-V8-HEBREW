@@ -92,7 +92,7 @@
     <string name="event_info_jump_to_email">עבור לדואר</string>
     <string name="event_action_delete">מחק</string>
     <string name="event_action_edit">ערוך</string>
-    <string name="lunar_date">בחר תאריך</string>
+    <string name="lunar_date">תאריך ירחי</string>
     <string name="widget_select_style">בחר סגנון</string>
     <string name="widget_events">אירוע הבא</string>
     <string name="widget_no_events">אין אירועים</string>
@@ -114,7 +114,7 @@
     <string name="preferences_notification_ringtone_title">צליל</string>
     <string name="pref_title_no_remind">ללא תזכורת</string>
     <string name="pref_title_notification_remind">הצג תזכורת כהתראה</string>
-    <string name="pref_title_alarm_remind">צור התראה לתזכורות</string>
+    <string name="pref_title_alarm_remind">צור התרעה לתזכורות</string>
     <string name="pref_error_no_ringtone_select">צלצול ברירת מחדל</string>
     <string name="alarm_label">התעלם</string>
     <string name="preferences_alerts_vibrateWhen_title">רטט</string>
@@ -205,7 +205,7 @@
     <string name="travel_carriage_number_text">רכב</string>
     <string name="travel_seat_number_text">מושב</string>
     <string name="travel_ets_advice">סע אל %2$s לפני %1$s.</string>
-    <string name="travel_eta_advice">%2$s דקות נסיעה ל %1$s.</string>
+    <string name="travel_eta_advice">%2$s דקות נסיעה ל- %1$s.</string>
     <string name="travel_event_add_successfully">אירוע נוצר</string>
     <string name="travel_event_add_unsuccessfully">לא ניתן היה ליצור אירוע</string>
     <string name="travel_event_added">אירוע נוצר</string>
@@ -233,4 +233,42 @@
     <string name="insert_event_toast_add_failed">לא ניתן היה להוסיף</string>
     <string name="insert_event_toast_add_success">האירוע נוצר</string>
     <string name="force_touch_title_add_new_event">הוסף אירוע</string>
+<<<<<<< HEAD
+    <string name="global_action_text_card_manager">לוח שנה מעניין יותר</string>
+    <string name="delete_calendar">ביטול הרשמה</string>
+    <string name="deleting_calendar">מבטל הרשמה</string>
+    <string name="action_text_card_manager">ערוץ</string>
+    <string name="horoscope_select_activity_label">בחירת מזל</string>
+    <string name="card_title_change">עוד</string>
+    <string name="card_manager">הרשמת מנהל</string>
+    <string name="card_detail_title">פרטים</string>
+    <string name="card_detail_dialog_title">להירשם כעת?</string>
+    <string name="card_detail_dialog_message">\"%1$s יתעדכן מידי יום. הירשם לקבלת עדכונים יומיומיים.</string>
+    <string name="card_detail_dialog_positive">הירשם כעת</string>
+    <string name="card_detail_dialog_negative">הירשם מאוחר יותר</string>
+    <string name="card_detail_hint">התוכן יוצג בעמוד הבית ויתעדכן מידי יום לאחר ביצוע ההרשמה</string>
+    <string name="unsubscribe_card">ביטול הרשמה</string>
+    <string name="unsubscribing_card">מבטל הרשמה</string>
+    <string name="subscribe_card">הירשם כעת</string>
+    <string name="subscribing_card">מבצע הרשמה</string>
+    <string name="subscribe_card_success">נירשם בהצלחה! צפה בפרטים בעמוד הבית.</string>
+    <string name="unsubscribe_card_success">ביטול ההרשמה ל-\"%1$s\" בוצע בהצלחה</string>
+    <string name="subscribe_card_success_for_homepage">ההרשמה ל-\"%1$s\" בוצעה בהצלחה</string>
+    <string name="subscribe_channel_title">ערוץ</string>
+    <string name="subscribe_channel_hint">"הירשם לשירותים שאתה אוהב וקבל עדכונים יומיומיים בעמוד הבית שלך.
+תוכל גם להוסיף תזכורות על מנת שלא תפספס אף תוכן חשוב."</string>
+    <string name="subscribe_channel_click_hint">נדרשת הרשמה</string>
+    <string name="subscribe_channel_footer_title">ההרשמה בוצעה</string>
+    <string name="subscribe_channel_footer_desc">צפה בהרשמות שלך או בטל הרשמה</string>
+    <string name="subscribe_channel_footer_button">נהל הרשמות</string>
+    <string name="subscribe_channel_footer_view">בדיקה</string>
+    <string name="subscribe_channel_subscribe">הרשמה</string>
+    <string name="subscribe_channel_subscribing">מבצע הרשמה</string>
+    <string name="subscribe_channel_bottom_hint">—— לוח שנה Mi ——</string>
+    <string name="card_manager_no_data">אין הרשמות עדיין</string>
+    <string name="no_network">"לא ניתן היה להתחבר לרשת.
+בדוק את הגדרות הרשת ונסה שוב."</string>
+    <string name="refresh">רענון</string>
+=======
+>>>>>>> origin/master
 </resources>

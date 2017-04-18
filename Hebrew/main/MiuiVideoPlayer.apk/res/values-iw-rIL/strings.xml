@@ -106,8 +106,8 @@
     <string name="video_info_audio_coding_label">פורמט קידוד שמע:</string>
     <string name="video_info_audio_bitrate_label">קצב נתוני שמע:</string>
     <string name="video_info_audio_null">ללא</string>
-    <string name="video_info_frame_rate_label">קצב פריימים:</string>
-    <string name="airkan_control_device_des">לשליטה בנגינה, גע בשורת השליטה בתחתית</string>
+    <string name="video_info_frame_rate_label">קצב הפריימים:</string>
+    <string name="airkan_control_device_des">לשליטה בנגינה, לחץ על שורת השליטה בתחתית</string>
     <string name="airkan_device_xiaomi_phone">Mi</string>
     <string name="toast_back_key_pressed_notice">"ליציאה, לחץ שוב על 'חזרה'"</string>
     <string name="adjust_position_prev_media_notice">אחרון</string>
@@ -197,8 +197,8 @@
     <string name="vp_toast_downloadapk">מוריד…</string>
     <string name="vp_video_loading"><CDATA>טוען…</CDATA></string>
     <string name="vp_video_plugin_installation">מתקין %1$s…</string>
-    <string name="vp_video_bad_network_condition">חיבור אינטרנט באיכות ירודה. נסה שוב מאוחר יותר.</string>
-    <string name="vp_video_invalid_cp_info">מידע לא חוקי אודות מקור הוידאו, אנא הפעל מחדש את היישום</string>
+    <string name="vp_video_bad_network_condition">לא ניתן היה להתחבר לרשת, נסה שוב</string>
+    <string name="vp_video_invalid_cp_info">פרטי ספק בלתי חוקיים, אתחל את היישום</string>
     <string name="vp_datastream_alert_play">שימוש בחיבור הנתונים הסלולרי שלך לצפיה בסרטונים יגדיל את צריכת הנתונים, חריגה ממסגרת תכנית הגלישה שלך עלולה להיות כרוכה בחיובים נוספים.</string>
     <string name="vp_datastream_alert_hint">"באפשרותך לכבות את ההתראות אודות השימוש בנתונים בכל עת ב'הגדרות'."</string>
     <string name="vp_datastream_alert_positive_button">צפה בכל מקרה</string>
@@ -212,5 +212,5 @@
     <string name="vp_mobile_network_using_negative">ביטול</string>
     <string name="vp_player_plugin_dlg_neg_btn">סגור</string>
     <string name="vp_player_plugin_dlg_title">"הרחבה של 'נגן הוידאו'"</string>
-    <string name="vp_player_plugin_dlg_no_content">"לא נמצאו הרחבות ל'נגן הוידאו'"</string>
+    <string name="vp_player_plugin_dlg_no_content">"לא ניתן היה למצוא את הרחבת 'נגן הוידאו'"</string>
 </resources>

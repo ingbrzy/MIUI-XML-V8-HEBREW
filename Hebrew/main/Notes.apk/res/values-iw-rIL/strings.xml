@@ -6,6 +6,7 @@
     <string name="sina_token_expired_warning">פג תוקף חשבון Weibo: אנא קשר מחדש</string>
     <string name="sina_token_invalid_warning">חשבון Weibo לא חוקי: אנא קשר מחדש</string>
     <string name="sina_share_fail_content_repeat">לא ניתן היה לשתף, התוכן קיים כבר…</string>
+    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">פתקים;תזכורת</string>
     <string name="search_path_notes">יישומי מערכתתקים</string>
     <string name="dlg_move_message">מעביר…</string>
@@ -159,5 +160,4 @@
  - סנכרן עם Mi Cloud
  - קבע תזכורות"</string>
     <string name="cloud_trash_bin_title">מחק פתקים מ-Mi Cloud</string>
-    <string name="file_provider_authority">com.miui.notes</string>
 </resources>
