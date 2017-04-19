@@ -66,6 +66,7 @@
     <string name="left_action_default_hint_text">שלט Mi</string>
     <string name="click_to_enter_text">לחץ לצפיה</string>
     <string name="fingerprint_try_again_text">נסה שוב</string>
+    <string name="fingerprint_try_again_msg">"טביעת אצבע לא מזוהה, נסה שוב."</string>
     <string name="fingerprint_not_identified_title">הזן סיסמה</string>
     <string name="fingerprint_not_identified_msg">לביטול נעילת המכשיר, הזן סיסמתך.</string>
     <string name="fingerprint_add_title">הוסף טביעת אצבע</string>
