@@ -71,7 +71,7 @@
 "</string>
     <string name="sync_dspt_entrance_provision">"סנכרן את התמונות שלך, אנשי קשר, יומן שיחות והודעות בכל המכשירים שלך. גש לדברים שסינכרנת מכל דפדפן ב-%s. "</string>
     <string name="sync_dspt_entrance_provision_2">למידע נוסף</string>
-    <string name="sync_dspt_entrance_provision_confirm_close">אל תשמש</string>
+    <string name="sync_dspt_entrance_provision_confirm_close">אל תשתמש</string>
     <string name="sync_dspt_entrance_provision_confirm_open">השתמש ב-Mi Cloud</string>
     <string name="sync_dspt_entrance_provision_confirm_title">לא להשתמש ב-Mi Cloud?</string>
     <string name="sync_dspt_entrance_provision_confirm_content">יישומים מובנים של MIUI זקוקים ל-Mi Cloud על מנת לגבות את התמונות, אנשי הקשר הפתקים שלך ועוד. Mi Cloud פנוי ומוכן לשימוש מחוץ לקופסה.</string>
