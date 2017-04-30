@@ -860,7 +860,7 @@
     <string name="loading_group_members">רק רגע…</string>
     <string name="loading_recent">רק רגע…</string>
     <string name="contactMultiPickerActivityTitle">בחר אנשי קשר</string>
-    <string name="picker_join_title">מזע עם %s</string>
+    <string name="picker_join_title">מזג עם %s</string>
     <string name="picker_contact_title">בחר איש קשר</string>
     <string name="picker_number_title">בחר מספר</string>
     <string name="group_add_fail_toast">לא ניתן היה להוסיף נמענים</string>
