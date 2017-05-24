@@ -266,7 +266,7 @@
         <item>עוצמת קול של דיבור</item>
         <item>עוצמת קול של צלצול</item>
         <item>עוצמת קול של מדיה</item>
-        <item>עוצמת קול של התראה</item>
+        <item>עוצמת קול של התרעה</item>
         <item>עוצמת קול של התראה</item>
         <item>‏עוצמת קול של Bluetooth</item>
         <item>שמור במצב פעיל</item>
@@ -537,5 +537,9 @@
     <string-array name="wifi_calling_mode_choices">
         <item>‏Wi-Fi מועדף</item>
         <item>סלולרי מועדף</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>2</item>
+        <item>1</item>
     </string-array>
 </resources>
