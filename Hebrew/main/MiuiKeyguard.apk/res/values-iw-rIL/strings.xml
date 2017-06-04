@@ -21,20 +21,11 @@
     <string name="lockscreen_glogin_password_hint">סיסמה</string>
     <string name="lockscreen_glogin_checking_password">בודק…</string>
     <string name="login_website_in_case_forget_password">על מנת לאפס את סיסמתך, עבור אל i.mi.com</string>
-    <string name="experimental_validate_thanks">תודה!</string>
-    <string name="experimental_validate_warning">תודה על עזרתך לשיפור של MIUI!</string>
-    <string name="experimental_validate">נתינת תוקף</string>
-    <string name="experimental_try_string">נסיון</string>
-    <string name="experimental_validate_username">שם משתמש</string>
-    <string name="experimental_validate_password">סיסמה</string>
-    <string name="experimental_validate_progress">נכנס…</string>
-    <string name="experimental_validate_fail">לא ניתן היה להתחבר</string>
     <string name="lockscreen_glogin_invalid_input">שם משתמש או סיסמה לא חוקיים.</string>
     <string name="find_device_turn_off_flight_mode">כבה מצב טיסה</string>
     <string name="phone_locked_string">הטלפון ננעל</string>
     <string name="phone_locked_timeout_seconds_string">נסה שוב בעוד %s שניות</string>
     <string name="phone_locked_timeout_minutes_string">נסה שוב בעוד %s דקות</string>
-    <string name="unlock_sim_string">ביטול נעילת SIM</string>
     <string name="lockscreen_glogin_submit_button">היכנס</string>
     <string name="phone_locked_foget_password">שכחת את הסיסמה?</string>
     <string name="phone_locked_foget_password_header">מה עלי לעשות במידה ושכחתי את הסיסמה?</string>
@@ -55,7 +46,6 @@
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">ניסית לבטל את נעילת הטלפון %d פעמים. לאחר %d ניסיונות כושלים נוספים, הטלפון יאופס להגדרות ברירת המחדל של היצרן וכל נתוני המשתמש יאבדו.</string>
     <string name="lockscreen_failed_attempts_now_wiping">ניסית לבטל את נעילת הטלפון %d פעמים. הטלפון יאופס להגדרות ברירת המחדל של היצרן כעת.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">הנעילה בוטלה על ידי התקן Bluetooth</string>
-    <string name="missed_call_text">%d שיחות שלא נענו</string>
     <string name="wrong_password">סיסמה שגויה</string>
     <string name="keyguard_torch_cover_text">להשארת הפנס דולק, החזק את מקש ההפעלה</string>
     <string name="confirm_pin_msg">הזן PIN פעם נוספת</string>
@@ -85,4 +75,37 @@
     <string name="fingerprint_enter_second_psw_title">"הזן סיסמת 'שטח שני'"</string>
     <string name="fingerprint_enter_second_psw_msg">"הזן את סיסמת 'שטח שני' לאחר אתחול המכשיר על מנת שתוכל להשתמש בזיהוי טביעת אצבע"</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">"לא ניתן להיכנס ל'שטח שני' מ'מצב קל'"</string>
+    <string name="keyguard_charging_info_click_to_detail">View details</string>
+    <string name="keyguard_quick_charging_info_click_to_detail">快充中，点击查看</string>
+    <string name="keyguard_quickly_charging_info_charging_text">正在快充</string>
+    <string name="keyguard_charging_info_finished_charging_text">Fully charged</string>
+    <string name="keyguard_charging_info_charging_text">Charging</string>
+    <string name="keyguard_charging_info_charging_full_need_min_time__text">About %dmin until full​</string>
+    <string name="keyguard_charging_info_charging_full_need_hour_time__text">About %dhr until full</string>
+    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">About %dhr %dmin until full</string>
+    <string name="keyguard_charging_info_could_use_min_time_text">About %dmin left</string>
+    <string name="keyguard_charging_info_could_use_hour_time_text">About %dhr left</string>
+    <string name="keyguard_charging_info_could_use_time_text" formatted="false">About %dhr %dmin left</string>
+    <string name="keyguard_charging_info_last_charge_today_time">Today %s</string>
+    <string name="keyguard_charging_info_last_charge_yesterday_time">Yesterday %s</string>
+    <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
+    <string name="keyguard_charging_info_drained_hour_time_format">%dhr</string>
+    <string name="keyguard_charging_info_drained_min_time_format">%dmin</string>
+    <string name="keyguard_charging_info_drained_time_format" formatted="false">%dhr %dmin</string>
+    <string name="keyguard_charging_info_current_now_text">Real-time monitor</string>
+    <string name="keyguard_charging_info_charging_voltage_text">Voltage</string>
+    <string name="keyguard_charging_info_battery_temperature_text">Battery temperature</string>
+    <string name="keyguard_charging_info_last_charged_time_text">Last charge</string>
+    <string name="keyguard_charging_info_battery_used_time_text">On battery</string>
+    <string name="keyguard_charging_info_drained_power_percent_text">Drained</string>
+    <string name="keyguard_charging_info_tip_text1">Keep your device at least 10% charged all the time to extend battery life.</string>
+    <string name="keyguard_charging_info_tip_text2">"Don't overcharge your device. Multiple shorter charges are better than an overnight charge."</string>
+    <string name="keyguard_charging_info_tip_text3">Avoid charging your device when the surrounding temperature is lower than 0℃.</string>
+    <string name="keyguard_charging_info_tip_text4">"Don't use your device actively while it's charging to avoid overheating."</string>
+    <string name="keyguard_charging_info_tip_text5">Batteries charge longer when they get hotter than usual.</string>
+    <string name="keyguard_charging_info_tip_text6">Turn the screen off and put your device away to cool it off.</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
 </resources>

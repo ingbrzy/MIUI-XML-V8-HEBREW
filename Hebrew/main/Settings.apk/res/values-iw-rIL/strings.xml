@@ -72,12 +72,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">None</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_remembered">Saved</string>
@@ -2088,6 +2090,12 @@
     <string name="advanced_text_layout">אפשר פריסות טקסט מתקדמות</string>
     <string name="print_enable">אפשר הדפסה</string>
     <string name="print_remind">אפשר הדפסה תחילה</string>
+    <string name="usb_media_format_title">Erase USB storage</string>
+    <string name="use_media_format_desc">Erase all USB storage? You will lose <b>all</b> stored data!</string>
+    <string name="usb_media_format_final_desc">"Erase the USB storage, deleting all files stored there? You can't reverse this action!"</string>
+    <string name="usb_dlg_confirm_unmount_title">Unmount USB storage?</string>
+    <string name="usb_dlg_confirm_unmount_text">If you unmount the USB storage, some apps you are using will stop and may be unavailable until you remount the USB storage.</string>
+    <string name="usb_unmount_inform_text">USB storage will be unmounted.</string>
     <string name="quiet_mode">השתק את כל ההפרעות</string>
     <string name="miui_silent_title">מצב שקט</string>
     <string name="zen_mode_miui_disturb_category">נא לא להפריע</string>
@@ -2106,9 +2114,7 @@
     <string name="dlg_confirm_uicc_unmount_text">במידה ותנתק את אחסון ה-UICC, יישומים מסוימים עשויים לעצור ולהפוך ללא זמינים עד לאחר שתטען מחדש אחסון UICC.</string>
     <string name="dlg_error_usb_unmount_text">לא ניתן היה לנתק את אחסון ה-USB. נסה שוב מאוחר יותר.</string>
     <string name="dlg_error_uicc_unmount_text">לא ניתן היה לנתק את אחסון ה-UICC. נסה שוב מאוחר יותר.</string>
-    <string name="usb_unmount_inform_text">אחסון ה-USB ינותק.</string>
     <string name="uicc_unmount_inform_text">אחסון ה-UICC ינותק.</string>
-    <string name="usb_media_format_title">נקה אחסון USB</string>
     <string name="uicc_media_format_title">נקה אחסון UICC</string>
     <string name="usb_media_format_summary">מחק את כל הנתונים באחסון ה-USB</string>
     <string name="uicc_media_format_summary">מחק את כל הנתונים באחסון ה-UICC</string>
@@ -2116,7 +2122,6 @@
     <string name="uicc_media_format_desc">לנקות את אחסון ה-UICC? תאבד את <b>כל</b> הקבצים שנשמרו שם.</string>
     <string name="usb_media_format_button_text">נקה אחסון USB</string>
     <string name="uicc_media_format_button_text">נקה אחסון UICC</string>
-    <string name="usb_media_format_final_desc">כל הקבצים השמורים באחסון ה-USB ימחקו לצמיתות.</string>
     <string name="uicc_media_format_final_desc">כל הקבצים השמורים באחסון ה-UICC ימחקו לצמיתות.</string>
     <string name="usb_media_format_gesture_explanation">צייר את תבנית הפתיחה שלך על מנת לאשר כי ברצונך לנקות את אחסון ה-USB.</string>
     <string name="uicc_media_format_gesture_explanation">צייר את תבנית הפתיחה שלך על מנת לאשר כי ברצונך לנקות את אחסון ה-UICC.</string>

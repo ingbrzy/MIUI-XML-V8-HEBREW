@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">%d שיחות</item>
+        <item quantity="one">שיחה %d</item>
+        <item quantity="two">%d שיחות</item>
+        <item quantity="many">%d שיחות</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d הודעות</item>
+        <item quantity="one">הודעה %d</item>
+        <item quantity="two">%d הודעות</item>
+        <item quantity="many">%d הודעות</item>
+    </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d משתמשים נוספים סימנו זאת כ-</item>
+        <item quantity="one">משתמש נוסף %d סימן זאת כ-</item>
+        <item quantity="two">%d משתמשים נוספים סימנו זאת כ-</item>
+        <item quantity="many">%d משתמשים נוספים סימנו זאת כ-</item>
+    </plurals>
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">%d keywords</item>
+        <item quantity="one">%d keyword</item>
+        <item quantity="two">%d keywords</item>
+        <item quantity="many">%d keywords</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">%d numbers</item>
+        <item quantity="one">%d number</item>
+        <item quantity="two">%d numbers</item>
+        <item quantity="many">%d numbers</item>
+    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">לא קיים מעקב אחר צריכת הנתונים של %d יישומים</item>
         <item quantity="one">לא קיים מעקב אחר צריכת הנתונים של יישום %d</item>
@@ -12,11 +42,31 @@
         <item quantity="two">עוקב אחר צריכת הנתונים של %d יישומים</item>
         <item quantity="many">עוקב אחר צריכת הנתונים של %d יישומים</item>
     </plurals>
-    <plurals name="hints_install_apps_interval">
-        <item quantity="other">היה בשימוש לפני %d ימים</item>
-        <item quantity="one">היה בשימוש אתמול</item>
-        <item quantity="two">היה בשימוש לפני %d ימים</item>
-        <item quantity="many">היה בשימוש לפני %d ימים</item>
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d יישומים</item>
+        <item quantity="one">יישום %d</item>
+        <item quantity="two">%d יישומים</item>
+        <item quantity="many">%d יישומים</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">השתמשת כבר ב-%s מגבלות נתונים יומיות.</item>
+        <item quantity="one">השתמשת כבר במגבלת נתונים יומית %s.</item>
+        <item quantity="two">השתמשת כבר ב-%s מגבלות נתונים יומיות.</item>
+        <item quantity="many">השתמשת כבר ב-%s מגבלות נתונים יומיות.</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"You've already used %s daily data limits.
+
+If you turn on mobile data again, your carrier may charge you for additional data."</item>
+        <item quantity="one">"You've already used %s daily data limit.
+
+If you turn on mobile data again, your carrier may charge you for additional data."</item>
+        <item quantity="two">"You've already used %s daily data limits.
+
+If you turn on mobile data again, your carrier may charge you for additional data."</item>
+        <item quantity="many">"You've already used %s daily data limits.
+
+If you turn on mobile data again, your carrier may charge you for additional data."</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">חפש %d יישומים</item>
@@ -115,10 +165,10 @@
         <item quantity="many">הורד על ידי %1$d אנשים</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d צפיות</item>
-        <item quantity="one">צפיה %1$d</item>
-        <item quantity="two">%1$d צפיות</item>
-        <item quantity="many">%1$d צפיות</item>
+        <item quantity="other">%1$d views</item>
+        <item quantity="one">%1$d view</item>
+        <item quantity="two">%1$d views</item>
+        <item quantity="many">%1$d views</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d פריטים מאובטחים</item>
@@ -210,41 +260,11 @@
         <item quantity="two">%d יישומים מכילים סיכוני פרטיות</item>
         <item quantity="many">%d יישומים מכילים סיכוני פרטיות</item>
     </plurals>
-    <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">על הסיסמה להכיל %d אותיות לפחות.</item>
-        <item quantity="one">"על הסיסמה להכיל אות 1 לפחות. "</item>
-        <item quantity="two">על הסיסמה להכיל %d אותיות לפחות.</item>
-        <item quantity="many">על הסיסמה להכיל %d אותיות לפחות.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">על הסיסמה להכיל %d אותיות קטנות לפחות.</item>
-        <item quantity="one">על הסיסמה להכיל אות קטנה 1 לפחות.</item>
-        <item quantity="two">על הסיסמה להכיל %d אותיות קטנות לפחות.</item>
-        <item quantity="many">על הסיסמה להכיל %d אותיות קטנות לפחות.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">על הסיסמה להכיל %d אותיות גדולות לפחות.</item>
-        <item quantity="one">על הסיסמה להכיל אות גדולה 1 לפחות.</item>
-        <item quantity="two">על הסיסמה להכיל %d אותיות גדולות לפחות.</item>
-        <item quantity="many">על הסיסמה להכיל %d אותיות גדולות לפחות.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">על הסיסמה להכיל %d ספרות לפחות.</item>
-        <item quantity="one">על הסיסמה להכיל סיפרה 1 לפחות.</item>
-        <item quantity="two">על הסיסמה להכיל %d ספרות לפחות.</item>
-        <item quantity="many">על הסיסמה להכיל %d ספרות לפחות.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">על הסיסמה להכיל %d סמלים מיוחדים לפחות.</item>
-        <item quantity="one">על הסיסמה להכיל סמל מיוחד 1 לפחות.</item>
-        <item quantity="two">על הסיסמה להכיל %d סמלים מיוחדים לפחות.</item>
-        <item quantity="many">על הסיסמה להכיל %d סמלים מיוחדים לפחות.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">על הסיסמה להכיל %d סימנים לפחות בנוסף לאותיות.</item>
-        <item quantity="one">על הסיסמה להכיל סימן 1 לפחות בנוסף לאותיות.</item>
-        <item quantity="two">על הסיסמה להכיל %d סימנים לפחות בנוסף לאותיות.</item>
-        <item quantity="many">על הסיסמה להכיל %d סימנים לפחות בנוסף לאותיות.</item>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"המתן למשך %d שניות ונסה שוב. "</item>
+        <item quantity="one">"המתן למשך שניה %d ונסה שוב. "</item>
+        <item quantity="two">"המתן למשך %d שניות ונסה שוב. "</item>
+        <item quantity="many">"המתן למשך %d שניות ונסה שוב. "</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d יישומים נעולים</item>
@@ -366,11 +386,17 @@
         <item quantity="two">נפתח %d פעמים</item>
         <item quantity="many">נפתח %d פעמים</item>
     </plurals>
-    <plurals name="app_manager_permission_manager_summary">
-        <item quantity="other">ניתנו %d הרשאות</item>
-        <item quantity="one">ניתנה הרשאה %d</item>
-        <item quantity="two">ניתנו %d הרשאות</item>
-        <item quantity="many">ניתנו %d הרשאות</item>
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">Allowed %d permissions</item>
+        <item quantity="one">Allowed %d permission</item>
+        <item quantity="two">Allowed %d permissions</item>
+        <item quantity="many">Allowed %d permissions</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Ask for %d permissions</item>
+        <item quantity="one">Ask for %d permission</item>
+        <item quantity="two">Ask for %d permissions</item>
+        <item quantity="many">Ask for %d permissions</item>
     </plurals>
     <plurals name="app_manager_start_count">
         <item quantity="other">%d פעמים</item>
@@ -383,5 +409,23 @@
         <item quantity="one">נחסם פעם %d</item>
         <item quantity="two">נחסם %d פעמים</item>
         <item quantity="many">נחסם %d פעמים</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">לא היה בשימוש במשך %d ימים</item>
+        <item quantity="one">לא היה בשימוש במשך יום %d</item>
+        <item quantity="two">לא היה בשימוש במשך %d ימים</item>
+        <item quantity="many">לא היה בשימוש במשך %d ימים</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">לא היה בשימוש במשך %d חודשים</item>
+        <item quantity="one">לא היה בשימוש במשך חודש %d</item>
+        <item quantity="two">לא היה בשימוש במשך %d חודשים</item>
+        <item quantity="many">לא היה בשימוש במשך %d חודשים</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">לא היה בשימוש במשך %d שנים</item>
+        <item quantity="one">לא היה בשימוש במשך שנה %d</item>
+        <item quantity="two">לא היה בשימוש במשך %d שנים</item>
+        <item quantity="many">לא היה בשימוש במשך %d שנים</item>
     </plurals>
 </resources>

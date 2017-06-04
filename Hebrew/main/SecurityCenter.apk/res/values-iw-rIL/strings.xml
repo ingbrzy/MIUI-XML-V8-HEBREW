@@ -1,5 +1,294 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name_antispam">רשימת החסומים</string>
+    <string name="fw_blocked">רשימת החסומים</string>
+    <string name="fw_blocked_count">"נחסמו "</string>
+    <string name="fw_blocked_join">" ו-"</string>
+    <string name="tab_title">רשימת החסומים</string>
+    <string name="tab_blacklist">רשימת החסומים</string>
+    <string name="tab_sms">מסרונים</string>
+    <string name="tab_call">שיחות</string>
+    <string name="bl_no_block_call">אין שיחות חסומות.</string>
+    <string name="bl_no_block_sms">אין מסרונים חסומים.</string>
+    <string name="bl_no_blacklist">אין מספרים חסומים.</string>
+    <string name="wl_no_whitelist">אין חריגים.</string>
+    <string name="log_count">(%d)</string>
+    <string name="tab_block_log_unKnowNumber">מספר פרטי</string>
+    <string name="user_define_title">הוספת חוקים</string>
+    <string name="blacklist_prefix_add_hint">חסום את כל המספרים המתחילים עם קידומת זו</string>
+    <string name="whitelist_prefix_add_hint">הוסף את כל המספרים בעלי קידומת זו לרשימת החריגים</string>
+    <string name="customizer_mode_user_define_name">החוקים שלי</string>
+    <string name="all_address_choose_hint">כל המספרים במחוז זה</string>
+    <string name="address_choose_hint">%1$s, %2$s, ו- %3$d מיקומים אחרים</string>
+    <string name="two_address_choose_hint">%1$s ו- %2$s</string>
+    <string name="one_address_choose_hint">%s1</string>
+    <string name="marked_by_user">סימנת זאת כ-</string>
+    <string name="dlg_black_antispam_message">להוסיף מספר זה לרשימת החסומים?</string>
+    <string name="dlg_white_antispam_message">להוסיף מספר זה לרשימת החריגים?</string>
+    <string name="dlg_black_address_antispam_message">להוסיף מיקום זה לרשימת החסומים?</string>
+    <string name="dlg_white_address_antispam_message">להוסיף מיקום זה לרשימת החריגים?</string>
+    <string name="dlg_white_antispam_hint">רשימת החריגים</string>
+    <string name="dlg_black_antispam_hint">רשימת החסומים</string>
+    <string name="dlg_clear_all_sms">למחוק מסרונים שנחסמו?</string>
+    <string name="dlg_clear_all_call">לנקות שיחות שנחסמו?</string>
+    <string name="dlg_clear_current_sms">למחוק את כל המסרונים החסומים שנשלחו ממספר זה?</string>
+    <string name="dlg_clear_current_call">להסיר את כל השיחות החסומות ממספר זה?</string>
+    <string name="dlg_clear_all_ok">הסר הכל</string>
+    <string name="dlg_clear_current_ok">הסרה</string>
+    <string name="dlg_no_block">להסיר חסימת מספר זה ולהחזיר שיחות שהתקבלו ממספר זה ליומן השיחות?</string>
+    <string name="dlg_no_block_ok">בטל חסימה</string>
+    <string name="dlg_add_blacklist_title">הוסף לרשימת החסומים</string>
+    <string name="dlg_add_blacklist">לחסום מספר זה?</string>
+    <string name="dlg_remove_blacklist">להסיר מספרים אלה מרשימת החסומים?</string>
+    <string name="dlg_remove_whitelist_title">הסרה</string>
+    <string name="dlg_remove_whitelist_content">להסיר מספרים אלה מרשימת החריגים?</string>
+    <string name="dlg_remove_address_blacklist">להסיר מיקום זה מרשימת החסומים?</string>
+    <string name="dlg_remove_address_whitelist">להסיר מיקום זה מרשימת החריגים?</string>
+    <string name="dlg_remove_blacklist_ok">הסרה</string>
+    <string name="dlg_import_blacklist">מוסיף…</string>
+    <string name="dlg_remove_blacklist_ing">מסיר…</string>
+    <string name="dlg_import_whitelist">מוסיף…</string>
+    <string name="dlg_remove_whitelist_ing">מסיר…</string>
+    <string name="dlg_add_keyword">הוספת מילות מפתח</string>
+    <string name="dlg_edit_keyword">עריכת מילות מפתח</string>
+    <string name="dlg_delete_keyword">לנקות את מילות המפתח שנבחרו?</string>
+    <string name="dlg_keyword_ok">שמירה</string>
+    <string name="dlg_retore">לשחזר את ההודעה אל תיבת הדואר הנכנס?</string>
+    <string name="dlg_retore_ok">שחזור</string>
+    <string name="toast_keyword_blank">עליך להזין מילת מפתח</string>
+    <string name="toast_keyword_exist">מילת מפתח נוספה</string>
+    <string name="toast_keyword_invalid">מילת המפתח בלתי חוקית</string>
+    <string name="dlg_antispam_mode_delete_title">למחוק את החוקים?</string>
+    <string name="dlg_antispam_mode_delete_message">אין באפשרותך לשחזר חוקים לאחר מחיקתם.</string>
+    <string name="dlg_antispam_using_mode_delete_message">"Delete the rules you're currently using and switch back to blocklist's default rules?"</string>
+    <string name="dlg_antispam_using_mode_international_delete_message">"Delete the rules you're currently using and switch back to blocklist's default rules?"</string>
+    <string name="menu_clear_all_sms">מחק מסרונים שנחסמו</string>
+    <string name="menu_clear_all_call">נקה שיחות שנחסמו</string>
+    <string name="menu_clear_current_sms">מחק את כל המסרונים החסומים שנשלחו ממספר זה</string>
+    <string name="menu_clear_current_call">נקה את כל השיחות ממספר זה</string>
+    <string name="menu_mark">דווח על מספר</string>
+    <string name="menu_call">חיוג</string>
+    <string name="menu_sms">שליחת הודעה</string>
+    <string name="menu_restore">שחזור אל תיבת דואר נכנס</string>
+    <string name="menu_bl_call_log">צפיה בשיחות שנחסמו</string>
+    <string name="menu_bl_sms_log">צפיה במסרונים שנחסמו</string>
+    <string name="menu_bl_remove">ביטול חסימה</string>
+    <string name="menu_wh_remove">הסרה מרשימת החריגים</string>
+    <string name="menu_add_new_contact">איש קשר חדש</string>
+    <string name="menu_add_into_contact">הוספה לאיש קשר קיים</string>
+    <string name="menu_add">הוספה</string>
+    <string name="menu_edit">עריכה</string>
+    <string name="menu_remove">מחיקה</string>
+    <string name="st_settings_name">"הגדרות 'רשימת החסומים'"</string>
+    <string name="st_block_setting_group">"הגדרות 'רשימת החסומים'"</string>
+    <string name="st_block_setting_title">שיחות והודעות</string>
+    <string name="st_block_all">חסום שיחות והודעות</string>
+    <string name="st_mute_all">השתק שיחות והודעות</string>
+    <string name="st_block_mute">חסום שיחות והשתק הודעות</string>
+    <string name="st_mute_block">השתק שיחות וחסום הודעות</string>
+    <string name="st_call_group">שיחות</string>
+    <string name="st_sms_group">הודעות</string>
+    <string name="st_block_title">העבר ליומן החסימות</string>
+    <string name="st_mute_title">אל תפעיל רטט או צלצול</string>
+    <string name="st_common_setting_group">הגדרות סנן</string>
+    <string name="st_block_private_call_button">חסום מספרים חסויים</string>
+    <string name="st_filter_sms_button">סנן הודעות</string>
+    <string name="st_filter_keywords_setting_title">קביעת מילות מפתח לסינון</string>
+    <string name="st_filter_keywords_setting_summary1">הודעות ממספרים חסויים המכילות מילים מרשימה זו יחסמו.</string>
+    <string name="st_filter_keywords_setting_summary2">"
+(השתמש בפיסוק על מנת להפריד בין מילות המפתח השונות)"</string>
+    <string name="st_advanced_setting_group">מתקדם</string>
+    <string name="st_block_unknown_call">חסום שיחות ממספרים בלתי מזוהים</string>
+    <string name="st_block_unknown_sms">חסום הודעות ממספרים בלתי מזוהים</string>
+    <string name="st_other_setting_group">הגדרות נוספות</string>
+    <string name="st_show_block_notification">Notify about blocked items</string>
+    <string name="label_callwait">התראת שיחה ממתינה</string>
+    <string name="open_callwait">הפעלה</string>
+    <string name="close_callwait">כיבוי</string>
+    <string name="st_hint_add_phonenumber">הזן מספר טלפון</string>
+    <string name="st_hint_add_head_number">הזן קידומת</string>
+    <string name="st_message_SMSpass">אפשר מסרונים</string>
+    <string name="st_message_phonepass">אפשר שיחות</string>
+    <string name="SMSpass">אפשר מסרונים</string>
+    <string name="Phonepass">אפשר שיחות</string>
+    <string name="st_message_SMS_AntiSpam">חסום מסרונים</string>
+    <string name="st_message_phone_AntiSpam">חסום שיחות</string>
+    <string name="st_title_addblacklist">הוסף לרשימת החסומים</string>
+    <string name="st_title_editblacklist">עריכת רשימת החסומים</string>
+    <string name="st_title_addwhitelist">הוסף לרשימת החריגים</string>
+    <string name="st_title_editwhitelist">עריכת רשימת החריגים</string>
+    <string name="st_title_man_head_addblacklist">הוסף את קידומת מספר הטלפון לרשימת החסומים</string>
+    <string name="st_title_man_addblacklist">הוסף מספר לרשימת החסומים</string>
+    <string name="st_title_man_head_addwhitelist">הוסף את קידומת מספר הטלפון לרשימת החריגים</string>
+    <string name="st_title_man_addwhitelist">הוסף את מספר הטלפון לרשימת החריגים</string>
+    <string name="st_title_man_editblacklist">בחר באזור החיוג שברצונך להוסיף לרשימת החסומים</string>
+    <string name="st_title_man_editwhitelist">בחר באזור החיוג שברצונך להוסיף לרשימת החריגים</string>
+    <string name="st_title_back_sound_choose">"הודעת 'לא זמין'"</string>
+    <string name="st_title_back_sound_busy">עסוק</string>
+    <string name="st_title_back_sound_none">המספר לא קיים</string>
+    <string name="st_title_back_sound_closed">כובה</string>
+    <string name="st_title_back_sound_stop">אין שירות</string>
+    <string name="st_title_call_wait_setting">שיחה ממתינה</string>
+    <string name="st_title_call_wait">התראת שיחה ממתינה</string>
+    <string name="st_title_sim_card">%1$s - SIM %2$s</string>
+    <string name="st_title_not_sim">ריק</string>
+    <string name="st_sum_call_wait">"הודעת ה'לא זמין' שלך תושמע גם כצליל 'תפוס' עבור שיחות נכנסות."</string>
+    <string name="sim_not_ready">כרטיס ה-SIM אינו מוכן</string>
+    <string name="sim_not_ready_toast">כרטיס ה-SIM אינו מוכן</string>
+    <string name="st_antispam_bw_man_add">הוספת מספר טלפון</string>
+    <string name="st_antispam_bw_head_add">הוספת קידומת</string>
+    <string name="st_antispam_bw_pick_add">הוספת אנשי קשר</string>
+    <string name="st_antispam_bw_adress_add">הוספת מיקומים</string>
+    <string name="st_antispam_black_adress_add">הוספת מיקומים</string>
+    <string name="st_antispam_bw_choose_modes">הוסף לרשימה</string>
+    <string name="hint_antispam_mode_edit">"מצב 'מותאם אישית'"</string>
+    <string name="st_title_adress">הוספת מיקומים</string>
+    <string name="st_title_adress_num">%d נבחרו</string>
+    <string name="SMS_BLACKLIST">רשימת הודעות חסומות</string>
+    <string name="SMS_PREFIX">רשימת קידומות חסומות</string>
+    <string name="SMS_DEFAULT">רשימת חסומים חכמה</string>
+    <string name="SMS_KEYWORDS">רשימת מילות מפתח חסומות</string>
+    <string name="SMS_ADRESS">רשימת מיקומים חסומים</string>
+    <string name="SMS_SERVICE">רשימת שירותים חסומים</string>
+    <string name="Call_BLACKLIST">רשימת שיחות חסומות</string>
+    <string name="Call_PREFIX">רשימת קידומות חסומות</string>
+    <string name="Call_ADRESS">רשימת מיקומים חסומים</string>
+    <string name="Call_PRIVATE_CALL">שיחות ממספר חסוי</string>
+    <string name="PAST_BLOCK">נחסמו בעבר</string>
+    <string name="STRANGER_BLOCK">רשימת זרים חסומים</string>
+    <string name="MALICIOUS_URL">קישור זדוני</string>
+    <string name="ad_update_time">עדכון אחרון %s</string>
+    <string name="ad_update_time_unKnown">מועד העדכון האחרון אינו ידוע</string>
+    <string name="sms_delete_title">Delete messages</string>
+    <string name="call_delete_title">Delete call history</string>
+    <string name="sms_delete_hint">למחוק את כל ההודעות החסומות ממספר זה?</string>
+    <string name="call_delete_hint">למחוק את כל השיחות החסומות ממספר זה?</string>
+    <string name="backsound_set_hint">"להגדיר את הודעת ה'לא זמין' שלך כ: %s?"</string>
+    <string name="report">דווח</string>
+    <string name="report_only">בחר הודעה לדיווח</string>
+    <string name="report_success">ההודעה דווחה</string>
+    <string name="report_error">לא ניתן היה לדווח על ההודעה</string>
+    <string name="report_warning">לדווח על %1$s מסרונים ל-Mi? הודעות אלו, ומספרי הטלפון מהם הן נשלחו יועלו לשרתי Mi לצורך בדיקה. כל מידע אישי הקשור להודעות אלו לעולם ישאר אנונימי.</string>
+    <string name="report_warning_title">דווח על מסרון</string>
+    <string name="st_sub_title_customize_mode_name">שם</string>
+    <string name="read_all_sms">קרא הכל</string>
+    <string name="loding">טוען נתונים</string>
+    <string name="action_source_sms_title">מסרונים שנחסמו</string>
+    <string name="st_title_open_antispam">רשימת החסומים</string>
+    <string name="st_title_antispam_mode">חוקים</string>
+    <string name="st_sub_title_whiteblack_list_group">רשימת החסומים</string>
+    <string name="st_title_keywords_blacklist">מסנן מילות מפתח</string>
+    <string name="st_title_blacklist_numbers">מספרים שנחסמו</string>
+    <string name="st_title_whitelist_numbers">חריגים</string>
+    <string name="st_title_backsound_group">"הודעת 'לא זמין'"</string>
+    <string name="st_title_anticomintcall_backsound_setting">הודעה שתושמע למספרים החסומים</string>
+    <string name="st_title_settings_other_group">הגדרות נוספות</string>
+    <string name="st_title_show_antispamnotification">"התראות אודות 'רשימת החסומים'"</string>
+    <string name="st_title_mode_choose_group">בחר פרופיל</string>
+    <string name="st_antispam_mode_smart">מספרים שדווחו</string>
+    <string name="st_antispam_mode_blacklist">מספרים שנחסמו</string>
+    <string name="st_antispam_mode_only_contacts">אפשר אנשי קשר בלבד</string>
+    <string name="st_antispam_mode_only_whitelist">אפשר חריגים בלבד</string>
+    <string name="st_antispam_mode_only_all_deny">חסום הכל</string>
+    <string name="st_antispam_mode_add_new">הוספת חוקים</string>
+    <string name="st_antispam_title_whitelist">חריגים</string>
+    <string name="st_antispam_title_contactandanoy_group">הגדרות</string>
+    <string name="st_antispam_title_contact_sms">הודעות מאנשי קשר</string>
+    <string name="st_antispam_title_contact_incoming">שיחות מאנשי קשר</string>
+    <string name="st_antispam_title_anoy_sms">הודעות מזרים</string>
+    <string name="st_antispam_title_anoy_incoming">שיחות מזרים</string>
+    <string name="st_antispam_title_null_incoming">מספרים חסויים</string>
+    <string name="st_antispam_title_service_sms">התראות שירות</string>
+    <string name="st_summary_keywords_blacklist">הוסף מילות מפתח לחסימת הודעות</string>
+    <string name="st_summary_blacklist_numbers">חסום קבלת שיחות והודעות ממספרים ואזורים מסויימים</string>
+    <string name="st_summary_whitelist_numbers">אפשר קבלת שיחות והודעות ממספרים ואזורים מסויימים</string>
+    <string name="st_summary_blacklist_numbers_international">חסום קבלת שיחות והודעות ממספרים מסויימים</string>
+    <string name="st_summary_whitelist_numbers_international">אפשר קבלת שיחות והודעות ממספרים מסויימים</string>
+    <string name="st_summary_special_numbers">חסום מספרי טלפון המסומנים בדגל</string>
+    <string name="st_antispam_mode_smart_sum">חסום מספרים שהוספת באופן ידני ומספרים שדווחו על ידי משתמשים אחרים</string>
+    <string name="st_antispam_mode_blacklist_sum">חסום קבלת שיחות ומסרונים ממספרים שהוספת באופן ידני לרשימת החסומים</string>
+    <string name="st_antispam_mode_only_contacts_sum">אפשר שיחות והודעות מאנשי קשר בלבד</string>
+    <string name="st_antispam_mode_only_whitelist_sum">אפשר שיחות והודעות ממספרים המופיעים ברשימת החריגים בלבד</string>
+    <string name="st_antispam_mode_only_all_deny_sum">חסום את כל השיחות וההודעות</string>
+    <string name="st_antispam_mode_denyownself_sum">חוקיות מותאמת אישית</string>
+    <string name="st_antispam_notification_sum">הצג התראה כאשר שיחה או הודעה נחסמו</string>
+    <string name="st_antispam_des_anti">חסום</string>
+    <string name="st_antispam_des_smart_anti">סנן</string>
+    <string name="st_antispam_des_permit">אפשר</string>
+    <string name="st_antispam_des_uesless">כבוי</string>
+    <string name="st_antispam_des_permit_nokeyword">אפשר</string>
+    <string name="info_antispam_sms">חסום מסרונים</string>
+    <string name="info_antispam_phone">חסום שיחות</string>
+    <string name="info_antispam_phone_sms">חסום שיחות ומסרונים</string>
+    <string name="info_unantispam_sms">אפשר מסרונים</string>
+    <string name="info_unantispam_phone">אפשר שיחות</string>
+    <string name="info_unantispam_phone_sms">אפשר שיחות ומסרונים</string>
+    <string name="st_antispam_delete">מחיקה</string>
+    <string name="info_antispam_current_mode">%s</string>
+    <string name="note_list_none">הרשימה ריקה</string>
+    <string name="note_sms_none">אין הודעות</string>
+    <string name="note_call_none">אין שיחות</string>
+    <string name="note_keyword_none">אין מילות מפתח</string>
+    <string name="block_message_number">הודעות: &lt;font color=#5fab1b>%d&lt;/font></string>
+    <string name="block_phone_number">שיחות: &lt;font color=#5fab1b>%d&lt;/font></string>
+    <string name="info_antispam_close">"'אנטי-ספאם' כבוי"</string>
+    <string name="mark_fraud">חסום הונאות שדווחו</string>
+    <string name="mark_agent">חסום סוכנויות שדווחו</string>
+    <string name="mark_sell">חסום נציגי טלמרקטינג שדווחו</string>
+    <string name="mark_harass">חסום מטרדים שדווחו</string>
+    <string name="mark_fraud_block">דווח כהונאה</string>
+    <string name="mark_agent_block">דווח כסוכנות</string>
+    <string name="mark_sell_block">דווח כטלמרקטינג</string>
+    <string name="mark_harass_block">דווח כמטרד</string>
+    <string name="mark_fraud_block_large">הונאות</string>
+    <string name="mark_agent_block_large">סוכנויות</string>
+    <string name="mark_sell_block_large">נציגי טלמרקטינג</string>
+    <string name="mark_harass_block_large">מטרדים</string>
+    <string name="mark_number_info">"Note that sometimes these calls may be useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
+    <string name="dlg_title_not_open_stranger_identify">Caller ID</string>
+    <string name="dlg_message_not_open_stranger_identify">"להפעלת תכונה זו, עבור אל 'הגדרות' > 'טלפון'."</string>
+    <string name="button_to_setting">הגדרות</string>
+    <string name="special_number_group">חסום מספרים שדווחו</string>
+    <string name="st_title_markednumber_group">חסום מספרים שדווחו</string>
+    <string name="st_title_other_group">אחר</string>
+    <string name="call_transfer_block">חסום שיחות שהופנו</string>
+    <string name="call_transfer_block_type">חסום שיחות שהופנו</string>
+    <string name="call_transfer_info">חסום שיחות שהופנו ממספרים לא מוכרים</string>
+    <string name="button_text_delete">מחיקה</string>
+    <string name="repeated_marked_number_title">אל תחסום שיחות חוזרות ממספרים שדווחו</string>
+    <string name="repeated_marked_number_summary">אל תחסום שיחה שניה מאותו מספר מדווח במשך 3 דקות</string>
+    <string name="mark_fraud_time_setting">חסום מספרים שדווחו כהונאה מספר מסוים של פעמים</string>
+    <string name="mark_agent_time_setting">חסום מספרים שדווחו כסוכנות מספר מסוים של פעמים</string>
+    <string name="mark_sell_time_setting">חסום מספרים שדווחו כנציגי טלמרקטינג מספר מסוים של פעמים</string>
+    <string name="mark_harass_time_setting">חסום מספרים שדווחו כמטרד מספר מסוים של פעמים</string>
+    <string name="mark_time_text">%d</string>
+    <string name="mark_time_setting_dialog_title">דווח על מספר</string>
+    <string name="sms_smart_engine_update">עדכן את סנן המסרונים באופן אוטומטי</string>
+    <string name="mark_number_setting_guide_title">חסום מספרים שדווחו</string>
+    <string name="mark_number_setting_guide_content1">לחסום שיחות ממספרים שדווחו?</string>
+    <string name="mark_number_setting_guide_content2">חסום שיחות ממספרים שדווחו על ידי משתמשים אחרים באופן אוטומטי</string>
+    <string name="mark_number_setting_guide_content3">דיווחת על מספר כ- %1$s. האם ברצונך לחסום שיחות ממספרים אשר דווחו כ- %2$s?</string>
+    <string name="mark_number_setting_guide_forward">"הגדרות 'רשימת החסומים'"</string>
+    <string name="mark_number_fraud">הונאה</string>
+    <string name="mark_number_agent">סוכן</string>
+    <string name="mark_number_sell">נציג טלמרקטינג</string>
+    <string name="mark_number_harass">מטרד</string>
+    <string name="antispam_notification_setting_title">התראות</string>
+    <string name="antispam_notificaiton_type_show_all">כל המספרים</string>
+    <string name="antispam_notificaiton_type_show_except_blacklist">לא מרשימת החסומים</string>
+    <string name="antispam_notificaiton_type_show_none">לעולם לא</string>
+    <string name="name">שם</string>
+    <string name="nickname">כינוי</string>
+    <string name="phone">טלפון</string>
+    <string name="email">דוא\"ל</string>
+    <string name="organization">ארגון</string>
+    <string name="im">IM</string>
+    <string name="sip_phone">טלפון SIP</string>
+    <string name="birthday">יום הולדת</string>
+    <string name="website">אתר</string>
+    <string name="address">כתובת</string>
+    <string name="note">הערה</string>
+    <string name="antispam_xpace_text">"החלף ל'שטח ראשון' על מנת להגדיר את 'רשימת החסומים'"</string>
     <string name="cta_dialog_title">חיבור אינטרנט</string>
     <string name="cta_dialog_msg">"יישום ה'אבטחה' דורש חיבור לאינטרנט על מנת לקבל עדכונים, כמו גם גישה למיקום על מנת לעבוד כראוי."</string>
     <string name="cta_checkbox_title">אל תציג שוב</string>
@@ -32,21 +321,18 @@
     <string name="main_primary_message_leisure_remain">נתונים בשפל</string>
     <string name="main_primary_message_leisure_alert">אזהרת נתונים בשפל</string>
     <string name="main_primary_message_leisure_overlimit">חרגת ממגבלת הנתונים בשפל</string>
-    <string name="main_alert_message_month_limit_error">מגבלת נתונים שגויה</string>
     <string name="main_alert_message_open_traffic_ctrl">אנו ממליצים על הגבלת שימוש בנתונים</string>
     <string name="main_open_traffic_ctrl_button">הגבל שימוש בנתונים</string>
     <string name="main_today_used">נוצלו היום</string>
-    <string name="main_month_used">נוצלו החודש</string>
+    <string name="main_month_used">תכנית נתונים</string>
     <string name="main_leisure_remained">נתונים בשפל שנותרו</string>
     <string name="main_bill_remained">יתרת הטלפון</string>
     <string name="main_used_bill">%s CNY</string>
     <string name="main_no_info">אין נתונים</string>
     <string name="guide_quck_open">הפעלה</string>
     <string name="guide_wait_setting">לא כעת</string>
-    <string name="guide_primary_text">"הפעל את 'אשף הרשת'
-על מנת לנהל את השימוש שלך בנתונים סלולריים"</string>
     <string name="guide_operator_text">"ספק הרשת הנוכחי שלך: "</string>
-    <string name="guide_second_text">לאחר הגדרת ספק הרשת שלך, מערכת MIUI תבצע ניטור של השימוש שלך בנתונים סלולריים באופן יומיומי על ידי שליחה של מסרוני SMS חינמיים, כאשר MIUI תזהה חריגה ממגבלת הנתונים שלך, היא תנתק אותך מהרשת ותתריע בפניך.</string>
+    <string name="guide_second_text">"After you set your carrier, MIUI will monitor your mobile data usage daily by sending free carrier SMS. When MIUI detects you've gone over your data limit, it will disconnect from the network and notify you."</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>ספק רשת שגוי?&lt;/U>&lt;/font>"</string>
     <string name="card_tc_failed">לא ניתן היה לבצע כיול</string>
     <string name="card_tc_failed_content">"סיבות אפשריות:
@@ -64,6 +350,7 @@
     <string name="main_tc_over">כויל בהצלחה</string>
     <string name="main_purchase_tips">מבצע</string>
     <string name="main_month_total_used">נוצלו החודש</string>
+    <string name="main_daily_package">חבילת נתונים יומית</string>
     <string name="firewall_activity_lable">הגבל שימוש בנתונים על ידי יישומים</string>
     <string name="firewall_applist">יישומים</string>
     <string name="firewall_rule_group_title_mobile">סלולרי</string>
@@ -73,13 +360,13 @@
     <string name="firewall_fragment_sys_listempty">ריק</string>
     <string name="firewall_fragment_nonesys_listempty">ריק</string>
     <string name="firewall_service_network_blocked">השימוש ברשתות %2$s על ידי %1$s הוגבל</string>
-    <string name="firewall_network_restrict_notify_title">"%1$s can't use network"</string>
-    <string name="firewall_network_restrict_notify_mobile">נתונים סלולריים</string>
+    <string name="firewall_network_restrict_notify_title">%1$s לא יכול להשתמש ברשת</string>
+    <string name="firewall_network_restrict_notify_mobile">Mobile data</string>
     <string name="firewall_network_restrict_notify_message">לחץ לשינוי ההגדרות.</string>
     <string name="firewall_restrict_android_dialog_title">שים לב</string>
-    <string name="firewall_restrict_android_dialog_content">על מנת לודא כי מכשירך עובד בצורה תקינה, מספר יישומי מערכת של Android ימשיכו להתחבר לאינטרנט. יישומים אלה יעשו שימוש ברשת הנתונים הסלולרית שלך ועשויים לגרום לחיובים מינוריים על ידי ספק הרשת שלך.</string>
+    <string name="firewall_restrict_android_dialog_content">To make sure your device works normally, a few Android system apps will still connect to the internet. These apps will use your mobile data connection and may generate minor charges from your carrier.</string>
     <string name="firewall_allow_network">מאופשר</string>
-    <string name="firewall_network_allow">ליישום %1$s ניתנה האפשרות להשתמש בחיבור של %2$s</string>
+    <string name="firewall_network_allow">Allowed %1$s to use %2$s connection</string>
     <string name="search_result_text">לא נמצאו יישומים</string>
     <string name="usage_sorted_activity_lable">שימוש בנתונים</string>
     <string name="usage_sorted_loading_text">רק רגע…</string>
@@ -105,35 +392,29 @@
     <string name="pref_traffic_manage_title">שימוש בנתונים</string>
     <string name="pref_package_traffic_normal">בשיא: %s</string>
     <string name="pref_package_traffic_overlay">%1$s | נוסף: %2$s</string>
-    <string name="pref_package_traffic_leisure">"%1$s
- בשפל: %2$s"</string>
     <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">מגבלת נתונים סלולריים</string>
     <string name="pref_adjust_traffic_data">הגדר שימוש בנתונים</string>
     <string name="pref_app_traffic_managent">הגבל שימוש בנתונים על ידי יישומים</string>
-    <string name="pref_connect_settings_exceed_limit_hint">כבה את חיבור הנתונים הסלולרי בהגעה לתקרת השימוש בשיא שהוגדרה</string>
+    <string name="pref_connect_settings_exceed_limit_hint">Turn off data connection when peak data usage reaches limit</string>
     <string name="pref_connect_settings_exceed_limit">הגדר מגבלת שימוש בנתונים בשיא</string>
     <string name="pref_free_traffic_exceed_limit">הודע לי בהגעה לתקרת השימוש בנתונים</string>
     <string name="pref_free_traffic_limit_warn">אזהרת שימוש בנתונים בשפל</string>
     <string name="pref_special_traffic_exceed_limit">הודע לי בהגעה לתקרת השימוש בנתונים</string>
     <string name="pref_special_traffic_limit_warn">הגדר אזהרת שימוש בנתונים</string>
     <string name="pref_connect_settings_enable_background">אפשר נתוני רקע</string>
-    <string name="pref_connect_settings_enable_background_hint">אפשר ליישומים להשתמש בנתונים סלולריים גם כאשר אינך משתמש בהם</string>
-    <string name="pref_title_network_diagnostics">בדיקת רשת</string>
-    <string name="pref_check_network_diagnostics">בדוק את חיבור האינטרנט של המכשיר</string>
+    <string name="pref_connect_settings_enable_background_hint">"Allow apps to use mobile data when you're not using them"</string>
     <string name="pref_category_title_other">הגדרות נוספות</string>
     <string name="pref_title_update_notification">התראות שימוש בנתונים</string>
     <string name="pref_title_diagnostics_show_float_notification">התראות צפות</string>
     <string name="pref_title_traffic_speed_state">הצג את מהירות החיבור של הרשת</string>
-    <string name="pref_show_mobile_traffic">הצג סטטיסטיקת שימוש בנתונים בעת שחרור הנעילה, לאחר שהמכשיר היה נעול למשך למעלה מ-5 דקות</string>
+    <string name="pref_show_mobile_traffic">Show data usage stats during unlock after device has been locked for more than 5 minutes</string>
     <string name="pref_title_mobile_traffic">הצג שימוש בנתונים בעת נעילה</string>
     <string name="pref_title_declaration">כתב ויתור חשוב</string>
-    <string name="pref_about">אודות</string>
-    <string name="pref_version">גירסה %s</string>
-    <string name="pref_leisure_no_overlay">פועל</string>
-    <string name="pref_leisure_not_opened">כבוי</string>
     <string name="pref_new_installed_preconfig_title">הגדרות ברירת מחדל עבור יישומים חדשים</string>
     <string name="pref_mi_sim_settings">הגדרות Mi SIM</string>
+    <string name="pref_title_upload_data_usage">Report data usage stats</string>
+    <string name="pref_summary_upload_data_usage">Report your data usage stats to help us improve MIUI. Reporting is carried out in accordance with our Privacy Policy.</string>
     <string name="pref_manual_adjust">הגדר סטטיסטיקות שימוש בנתונים באופן ידני</string>
     <string name="pref_daily_adjust">הגדר שימוש בנתונים בשיא</string>
     <string name="pref_free_adjust">הגדר שימוש בנתונים בשפל</string>
@@ -143,14 +424,14 @@
     <string name="pref_auto_adjust_traffic">התאם סטטיסטיקות שימוש בנתונים באופן אוטומטי</string>
     <string name="pref_auto_adjust_settings">הגדרות התאמת סטטיסטיקות שימוש בנתונים באופן אוטומטי</string>
     <string name="pref_adjust_data_usage">תבנית הודעה של ספק הרשת</string>
-    <string name="pref_adjust_data_usage_summary">לאחר שתשנה את תבנית הכיול, מערכת MIUI תשתמש בה על מנת לקבל סטטיסטיקות אודות שימוש בנתונים מספק הרשת שלך</string>
-    <string name="pref_adjust_data_usage_value">Changed</string>
+    <string name="pref_adjust_data_usage_summary">After you changed the calibration template, MIUI will use it to get data usage stats from your carrier</string>
+    <string name="pref_adjust_data_usage_value">שונה</string>
     <string name="pref_confirm_operator_setting">ודא כי המידע שהזנת נכון</string>
     <string name="pref_correction_setting">הגדרות תבנית כיול</string>
     <string name="pref_correction_setting_switch">השתמש בתבנית כיול מותאמת אישית</string>
     <string name="pref_correction_sms_number">שלח מסרון כיול אל</string>
     <string name="pref_correction_sms_content">תבנית כיול</string>
-    <string name="pref_setting_operators_message">ערוך את ההודעה שמכשירך ישלח אל ספק הרשת שלך לצורך קבלת סטטיסטיקות שימוש בנתונים</string>
+    <string name="pref_setting_operators_message">Edit the message your device sends your carrier to sync your data usage stats</string>
     <string name="adjust_traffic_carrier_summary_today">עודכן היום ב- %s</string>
     <string name="adjust_traffic_carrier_summary_yesterday">עודכן אתמול ב- %s</string>
     <string name="adjust_traffic_carrier_summary_two_day_before">עודכן לפני יומיים</string>
@@ -165,10 +446,10 @@
     <string name="pref_special_package_setting">תכנית נתונים מותאמת אישית</string>
     <string name="pref_data_usage_not_set">תוכנית נתונים לא מוכרת</string>
     <string name="pref_operator_not_set">ספק הרשת אינו מוגדר</string>
+    <string name="pref_special_package_setting_summary">נהל את הנתונים בשפל, חבילות ה-Top-up, תכניות הנתונים היומיות והנתונים המיועדים</string>
     <string name="pref_warning_values">רמת אזהרה אודות שימוש בנתונים</string>
     <string name="pref_pkg_begin_date">תאריך איפוס שימוש</string>
     <string name="pref_month_first_day">1</string>
-    <string name="pref_month_begin_date">תאריך איפוס שימוש</string>
     <string name="pref_more_settings">הגדרות נוספות</string>
     <string name="pref_add_traffic_pkg">נתונים שנרכשו בנוסף</string>
     <string name="pref_free_traffic_settings">הגדרות שימוש בנתונים בשפל</string>
@@ -182,8 +463,6 @@
     <string name="daily_pkg_traffic">מגבלת נתונים בשיא</string>
     <string name="input_aviable_traffic">הגדר מגבלת שימוש בנתונים</string>
     <string name="pkg_traffic">הגדר מגבלת שימוש בנתונים</string>
-    <string name="datausage_ignore_app_list_count">מתעלם מצריכת הנתונים של %d יישומים</string>
-    <string name="traffic_setting_app_count">%d יישומים</string>
     <string name="free_traffic_settings">הגדרות שימוש בנתונים בשפל</string>
     <string name="free_time_traffic">מגבלת נתונים בשפל</string>
     <string name="power_save_on_time_default_time_na">00:00</string>
@@ -191,7 +470,7 @@
     <string name="power_save_on_time_end_time_summary_na">עד</string>
     <string name="manual_input_traffic">הגדר שימוש בנתונים</string>
     <string name="manual_input_free_traffic">הגדר שימוש בנתונים בשפל</string>
-    <string name="declaration_dialog_msg">תכונה זו יכולה לסייע לך לעקוב אחר השימוש שלך, אך איננה מבטיחה למנוע חיובים נוספים. לקבלת התוצאות הטובות ביותר, הגדר מגבלה מתונה.</string>
+    <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
     <string name="input_used_hint">הזן שימוש בנתונים</string>
     <string name="input_used_max_hint">הזן שימוש בנתונים (פחות מ- %s)</string>
     <string name="text_day" />
@@ -201,7 +480,6 @@
     <string name="per_month_pkg_traffic_settings">הגדר מגבלת נתונים</string>
     <string name="free_time_traffic_settings">מגבלת נתונים בשפל</string>
     <string name="pref_category_extra_package_tile">חבילת Top-up</string>
-    <string name="pref_key_extra_package_switch">חבילת Top-up Top-up חודשית</string>
     <string name="pref_key_extra_package_value">גודל החבילה</string>
     <string name="pref_category_half_year_package_tile">חבילת נתונים חצי שנתית</string>
     <string name="pref_key_half_year_package_switch">חבילת נתונים חצי שנתית</string>
@@ -211,6 +489,7 @@
     <string name="pref_key_daily_package_switch">חבילת נתונים יומית</string>
     <string name="pref_key_daily_package_value">חבילת נתונים יומית</string>
     <string name="pref_key_direction_traffic">נתונים סלולריים מיועדים</string>
+    <string name="pref_key_daily_package_summary">הפעל על מנת לאפס את תכנית הנתונים מידי יום</string>
     <string name="traffic_setting_fragment_title">שאילתת שימוש בנתונים</string>
     <string name="traffic_setting_fragment_button1_text">ביטול</string>
     <string name="traffic_setting_fragment_button2_text">שמור</string>
@@ -221,22 +500,20 @@
     <string name="traffic_setting_fragment_template">תבנית הודעה</string>
     <string name="traffic_setting_fragment_loading_text">משיג פרטי רשת…</string>
     <string name="traffic_setting_fragment_no_network">לא ניתן להתחבר לרשת</string>
-    <string name="traffic_setting_fragment_get_template_falure">לא ניתן להתחבר לרשת. בדוק את חיבור הנתונים שלך ונסה שוב.</string>
+    <string name="traffic_setting_fragment_get_template_falure">"Can't connect to the network. Check your data connection and try again."</string>
     <string name="traffic_setting_fragment_send_num">מספר הטלפון של ספק הרשת</string>
     <string name="traffic_setting_fragment_sms_content">תוכן הודעה</string>
     <string name="traffic_setting_fragment_send_num_tips">הזן מספר טלפון</string>
     <string name="traffic_setting_fragment_sms_content_tips">כתוב את ההודעה שלך כאן</string>
     <string name="traffic_setting_fragment_null">ריק</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">אל תציג שוב</string>
-    <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;U>Not sure about the carrier?&lt;/U>&lt;/font>"</string>
+    <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;U>לא בטוח לגבי ספק הרשת?&lt;/U>&lt;/font>"</string>
     <string name="data_usage_warning_title">אזהרת שימוש בנתונים</string>
     <string name="data_usage_warning_body">לחץ לצפיה בפרטים אודות השימוש בנתונים.</string>
-    <string name="data_usage_mobile_limit_title">הגעת לתקרת השימוש בנתונים סלולריים</string>
+    <string name="data_usage_mobile_limit_title">Reached mobile data limit</string>
     <string name="data_usage_limit_body">לחץ להפעלת חיבור הנתונים הסלולרי.</string>
-    <string name="data_usage_disabled_dialog">\"הגעת לתקרת השימוש בתכנית הנתונים שלך. במידה ותחרוג מתקרת השימוש, ספק הרשת עשוי לגבות ממך חיובים נוספים.\"</string>
+    <string name="data_usage_disabled_dialog">"You've reached your plan's data usage limit. If you go over your limit, your carrier may charge you additional fees."</string>
     <string name="data_usage_disabled_dialog_enable">הפעל את חיבור הנתונים הסלולרי</string>
-    <string name="data_usage_mobile_limit_snoozed_title">אירעה חריגה מתקרת השימוש בנתונים</string>
-    <string name="data_usage_limit_snoozed_body">אירעה חריגה מתקרת השימוש בנתונים לחודש זה.</string>
     <string name="data_usage_restricted_title">נתוני הרקע מוגבלים</string>
     <string name="data_usage_restricted_body">לחץ להפעלת נתוני הרקע.</string>
     <string name="data_usage_leisure_warning_title">מגבלת שימוש בנתונים בשפל</string>
@@ -246,18 +523,14 @@
     <string name="data_usage_no_total_package_title">הגדר מגבלת שימוש בנתונים</string>
     <string name="data_usage_no_total_package_body">לחץ להגדרת מגבלת נתונים</string>
     <string name="data_usage_no_total_package_body_dual">לא הוגדרה מגבלת נתונים עבור %s</string>
-    <string name="network_assistant_upgraded_title">עודכן</string>
-    <string name="network_assistant_upgraded_body">לחץ לצפיה בפרטים.</string>
     <string name="data_usage_warning_title_notify">חרגת ממגבלת הנתונים שלך</string>
     <string name="data_usage_warning_body_notify">לחץ להצגת פרטים</string>
     <string name="leisure_usage_dialog_title">חרגת ממגבלת הנתונים בשפל שלך, חיבור הנתונים כבוי</string>
-    <string name="leisure_usage_dialog_message">"הגעת לתקרת מגבלת הנתונים בשפל שלך.
+    <string name="leisure_usage_dialog_message">"You've reached your off-peak data limit.
 
- ספק הרשת עשוי לגבות ממך חיובים נוספים במידה ותשתמש שוב בחיבור הנתונים הסלולרי."</string>
+Carrier may charge you additional fees if you use mobile data connection again."</string>
     <string name="lock_screen_traffic_warn_title">התראות מסך הנעילה</string>
     <string name="lock_screen_traffic_notify_body">ננעל למשך %2$s ב- %1$s, נתונים שנוצלו %3$s</string>
-    <string name="timeshow_h_m">%1$d שעות %2$d דקות</string>
-    <string name="timeshow_m_s">%1$d דקות %2$d שניות</string>
     <string name="timeshow_s">%d שנ</string>
     <string name="timeshow_m">%d ד</string>
     <string name="timeshow_h">%.1f ש</string>
@@ -268,43 +541,43 @@
     <string name="free_time_traffic_title">הזן מגבלת נתונים בשפל</string>
     <string name="free_time_traffic_hint">הזן מגבלת נתונים בשפל</string>
     <string name="traffic_correction_start_correction">מתקשר עם שרתי ספק הרשת…</string>
-    <string name="traffic_correction_start_correction_failed">הבקשה נכשלה, אנא בדוק את הגדרות המפעיל</string>
+    <string name="traffic_correction_start_correction_failed">"Couldn't send request. Check your carrier settings."</string>
     <string name="traffic_correction_success">סטטוס השימוש בנתונים עודכן</string>
     <string name="traffic_correction_failed">לא ניתן לקבל מידע</string>
     <string name="traffic_correction_success_notify_message">לחץ לצפיה בפרטים.</string>
     <string name="sim_location_error_notify_title">שגיאת כרטיס SIM</string>
     <string name="sim_location_error_notify_message">לחץ לשינוי מיקום ה-SIM.</string>
-    <string name="sim_location_error_dialog_message">\"כרטיס ה-SIM שלך הינו מ- %1$s. זהו מיקום שונה מזה שהגדרת באופן ידני (%2$s). לשנות את מיקום ה-SIM ל- %3$s?\"</string>
+    <string name="sim_location_error_dialog_message">"The SIM you're using is from %1$s. This is different from the location you set manually (%2$s). Change SIM location to %3$s?"</string>
     <string name="package_change_notification_title">התאם מגבלת נתונים באופן אוטומטי</string>
     <string name="package_change_notification_summary">לחץ למידע נוסף.</string>
     <string name="package_setted_error_notification_titile">לא ניתן היה להגדיר תכנית נתונים</string>
     <string name="package_setted_error_notification_summary">לחץ לצפיה בפרטים אודות השימוש בנתונים.</string>
-    <string name="traffic_config_alert_title">תיקון %s</string>
+    <string name="traffic_config_alert_title">%s correction</string>
     <string name="traffic_config_alert_auto_modify">עדכן את תכנית הנתונים באופן אוטומטי</string>
     <string name="traffic_config_alert_body">"חישובי ספק הרשת שלך מראים: %s.
 
 אתה מסכים לכך?"</string>
     <string name="traffic_config_alert_body_normal">"
-\"מגבלת השימוש החודשי שלך בנתונים בשיא הינה %1$s. מגבלה זו שונה ממגבלת ה- %2$s שהגדרת באופן ידני.\""</string>
+Your plan's monthly peak-time data usage limit is %1$s. This is different from the %2$s limit you set manually."</string>
     <string name="traffic_config_alert_body_leisure">"
-\"מגבלת השימוש החודשי שלך בנתונים בשפל הינה %1$s. מגבלה זו שונה ממגבלת ה- %2$s שהגדרת באופן ידני.\""</string>
+Your plan's monthly off-peak data usage limit is %1$s. This is different from the %2$s limit you set manually."</string>
     <string name="traffic_config_alert_body_leisure_notset">"
-\"מגבלת השימוש החודשי שלך בנתונים בשפל הינה %1$s. לא הגדרת מגבלת שימוש בנתונים בשפל.\""</string>
+Your plan's monthly off-peak data usage limit is %1$s. You haven't set an off-peak data usage limit."</string>
     <string name="traffic_config_alert_body_extra">"
-\"רכשת %1$s נתונים נוספים בחודש זה. בשונה מה- %2$s שהוספת באופן ידני.\""</string>
+You bought %1$s of additional data this month. This is different from the %2$s you added manually."</string>
     <string name="traffic_config_alert_body_extra_notset">"
-\"רכשת %s נתונים נוספים בחודש זה. הדבר לא בא לידי ביטוי במגבלת הנתונים החודשית שהגדרת באופן ידני.\""</string>
+You bought %s of additional data this month. This isn't reflected in the monthly data limit you set manually."</string>
     <string name="traffic_config_alert_setted">ההגדרות הוחלו</string>
     <string name="traffic_config_alert_package">"
-\"משתמש ביתרת הנתונים מהחודש שעבר\""</string>
+Rolled over extra data"</string>
     <string name="traffic_limit_error_alert_title">תזכורת מגבלת נתונים %s</string>
-    <string name="traffic_limit_error_alert_body">\"Your remaining data for this month (%1$s) is bigger than your monthly plan (%2$s). Monthly plan changed?\"</string>
+    <string name="traffic_limit_error_alert_body">Your remaining data for this month (%1$s) is bigger than your monthly plan (%2$s). Monthly plan changed?</string>
     <string name="traffic_limit_error_alert_package">"
 
-\"היתרה כוללת נתונים שנותרו מהחודש הקודם.\""</string>
+Remaining data includes data that has been rolled over from the previous month."</string>
     <string name="traffic_alert_auto_modify_notification_titile">תכנית נתונים מעודכנת</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">התכנית החודשית שונתה ל- %s.</string>
-    <string name="traffic_alert_auto_modify_package_summary">התאם אוטומטית את חבילת הנתונים על פי פרטי ספק הרשת</string>
+    <string name="traffic_alert_auto_modify_package_summary">"Automatically adjust data package according to the carrier's info"</string>
     <string name="operator_name_cmcc">China Mobile</string>
     <string name="operator_name_unicom">China Unicom</string>
     <string name="operator_name_telcom">China Telecom</string>
@@ -320,15 +593,15 @@
     <string name="mi_service_traffic_detail">פרטי המסגרת</string>
     <string name="none_mi_service_app_detail">ריק</string>
     <string name="label_mi_stats">ניתוחי Mi</string>
-    <string name="show_traffic_dialog_title">הצג פרטי שימוש בנתונים בלוח ההתראות</string>
-    <string name="show_traffic_dialog_message">"\"מידע אודות השימוש שלך בנתונים יוצג בלוח ההתראות. תוכל לכבות או להפעיל תכונה זו בכל עת ב'שימוש בנתונים' > 'הגדרות'\""</string>
+    <string name="show_traffic_dialog_title">Show usage in Notification shade</string>
+    <string name="show_traffic_dialog_message">Your data usage info will be displayed in the Notification shade. You can turn this feature on or off anytime in Data usage > Settings.</string>
     <string name="tc_sms_report_title">דווח על שגיאת שימוש בנתונים</string>
-    <string name="tc_sms_report_summary">עזור לנו לשפר תכונה זו על ידי שליחת דוח כאשר המידע אודות השימוש שלך בנתונים שגוי או אינו מתעדכן</string>
+    <string name="tc_sms_report_summary">Help us improve this feature by sending a report when your data usage info is incorrect or fails to update.</string>
     <string name="tc_sms_report_direction">מסרון קוד</string>
     <string name="tc_sms_report_send_num">מספר טלפון של ספק הרשת</string>
     <string name="tc_sms_report_receive_num">מספר הנמען</string>
     <string name="tc_sms_report_receive_content">תוכן מסרוני דיווח אודות השימוש בנתונים (אשר סטטיסטיקות שימוש בנתונים)</string>
-    <string name="tc_sms_report_receive_content_null">עזור לנו בשיפור תכונה זו!&lt;br/>באופן הבא:&lt;br/>1. עבור אל \"בדוק מסרון פקודה\" ואל \"מספר הנמען\"&lt;br/>2. לחץ על \"קבל תבנית מסרון\"&lt;br/>3. המתן לקבלת מסרון SMS מספק הרשת שלך &lt;br/>4. לחץ על \"העלה אל MIUI\"</string>
+    <string name="tc_sms_report_receive_content_null">"​Help us improve this feature!&lt;br/>Here's how:&lt;br/>1. Go to \"Check command SMS\" and \"Recipient number\"&lt;br/>2. Tap \"Get SMS template\"&lt;br/>3. Wait to receive SMS message from your carrier &lt;br/>4. Tap \"Upload to MIUI\"​"</string>
     <string name="tc_sms_report_get_sms">קבל מסרון</string>
     <string name="tc_sms_report_get_sms_bill">קבל מסרון</string>
     <string name="tc_sms_report_get_sms_calltime">קבל מסרון</string>
@@ -336,35 +609,33 @@
     <string name="tc_sms_report_geting_sms">משיג את פרטי המסרון…</string>
     <string name="tc_sms_report_get_sms_again">קבל מסרון שוב</string>
     <string name="tc_sms_report_do_report">שלח</string>
-    <string name="tc_sms_report_get_success">\"מסרון דיווח אודות שימוש בנתונים התקבל מספק הרשת. ודא כי הוא אכן מדויק ושלח אותו אלינו.\"</string>
+    <string name="tc_sms_report_get_success">"Received data usage report SMS from carrier. Make sure it's accurate and submit it to us."</string>
     <string name="tc_sms_report_get_success_notify_title">מסרון דיווח אודות שימוש בנתונים התקבל</string>
-    <string name="tc_sms_report_get_success_notify_body">ודא כי הדו\"ח מדויק ושלח אותו אל MIUI.\"</string>
+    <string name="tc_sms_report_get_success_notify_body">Make sure the report is accurate and submit it to MIUI.</string>
     <string name="tc_sms_report_upload_success">מסרון דיווח אודות השימוש בנתונים נשלח. אנחנו כבר מתחילים לעבוד על זה!</string>
     <string name="tc_sms_report_upload_when_net">תודה לך על המשוב!</string>
     <string name="tc_sms_report_notify_get_timeout_title">לא ניתן לקבל את מסרון הדיווח אודות שימוש בנתונים</string>
-    <string name="tc_sms_report_notify_get_timeout_body">פג תוקף התהליך. אמת אל מול ספק הרשת שלך כי מסרון הקוד שהזנת נכון.</string>
+    <string name="tc_sms_report_notify_get_timeout_body">Process timed out. Confirm with your carrier that the SMS enquiry code you entered is correct.</string>
     <string name="tc_sms_report_notify_get_failure_title">לא ניתן לקבל את מסרון הדיווח אודות שימוש בנתונים</string>
     <string name="tc_sms_report_notify_correction_failure_title">לא ניתן לעדכן את המידע אודות השימוש בנתונים</string>
-    <string name="tc_sms_report_notify_correction_body">"עבור ליישום 'שימוש בנתונים' ב'מרכז האבטחה' ונסה שוב באופן ידני."</string>
-    <string name="tc_sms_report_notify_get_failure_body">\"לא ניתן היה לשלוח את דו\"ח השימוש בנתונים. ודא כי הינך מחובר לרשת סלולרית.\"</string>
+    <string name="tc_sms_report_notify_correction_body">Go to the Data usage app in Security Center and try again manually.</string>
+    <string name="tc_sms_report_notify_get_failure_body">"Couldn't submit data usage report. Make sure that you're connected to a mobile network."</string>
     <string name="tc_sms_report_tips_dialog_title">מסרון שימוש בנתונים</string>
-    <string name="tc_sms_report_tips_dialog_message">"\"'שימוש בנתונים' עושה שימוש במסרון SMS בפורמט מיוחד על מנת לקבל את נתוני השימוש האחרונים שלך מספק הרשת שלך. במידה ותכונה זו אינה עובדת כראוי, נסה לעדכן את פורמט מסרון השימוש בנתונים. הפורמט המעודכן יועלה לשרתים שלנו.\""</string>
+    <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
     <string name="tc_sms_report_get_sms_failure">לא ניתן היה לקבל פורמט מסרון שימוש בנתונים</string>
     <string name="tc_sms_report_get_sms_timeout">פג תוקף הבקשה</string>
     <string name="tc_sms_report_get_sms_successs">פורמט מסרון השימוש בנתונים עודכן</string>
-    <string name="tc_sms_report_get_default">\"לא ייגבו ממך תשלומים נוספים עבור מסרונים שישמשו לקבלת יתרת השימוש בנתונים שלך מספק הרשת שלך.\"</string>
+    <string name="tc_sms_report_get_default">"You won't incur charges for SMS messages used to get your data usage balance from your carrier."</string>
     <string name="tc_sms_report_toast_text">מקבל מידע…</string>
-    <string name="tc_sms_report_type">Report type</string>
+    <string name="tc_sms_report_type">סוג הדיווח</string>
     <string name="privacy_declare_dialog_title">תנאי השירות</string>
-    <string name="privacy_declare_dialog_message">על ידי שימוש בשירות זה, הינך מסכים ל&lt;a href=%s>תנאי השירות&lt;/a> של Opera.</string>
     <string name="sc_allow_network_dialog_tiltle">לא ניתן להשתמש בתכונה זו</string>
-    <string name="sc_allow_network_dialog_message">\"יישום זה זקוק לחיבור לאינטרנט על מנת לפעול באופן תקין.\"</string>
+    <string name="sc_allow_network_dialog_message">יישום זה זקוק לחיבור לאינטרנט על מנת לפעול באופן תקין.</string>
     <string name="privacy_prompt_upload">העלה</string>
     <string name="privacy_prompt_traffic_adjust_message">"After you start the calibration, MIUI will connect to the network, encode your carrier's info, phone number, IMEI, and Mi Account, and upload these items to Mi servers. This is done in order to acquire the carrier's calibration template and learn if it's possible to purchase data in your location.
 
 While calibrating, MIUI will send a text message to your carrier to receive the calibration template."</string>
-    <string name="privacy_prompt_traffic_purchase_message">\"מספר הטלפון שלך ופרטי ספק הרשת יוצפנו ויועלו לשרתי Mi על מנת לקבל מידע נוסף אודות אפשרויות של רכישת נתונים.\"</string>
-    <string name="privacy_prompt_tc_sms_report_message">\"מספר הטלפון שלך ופרטי ספק הרשת יוצפנו ויועלו לשרתי Mi על מנת לעדכן את פרטי השימוש שלך בנתונים.\"</string>
+    <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers in order to update your data usage info."</string>
     <string name="international_roaming_setting">נדידת נתונים</string>
     <string name="domestic_roaming_setting">נדידה פנים ארצית</string>
     <string name="pref_roaming_setting_gategory">הגדרות</string>
@@ -372,7 +643,6 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
     <string name="pref_allow_connect_network_whitelist_title">אפשר שימוש בנתונים סלולריים בעת נדידה לחריגים</string>
     <string name="pref_whitelist_setting">חריגי נדידת נתונים</string>
     <string name="add_white_list">הוסף</string>
-    <string name="international_roaming_whitelist_count">%d יישומים יכולים לעשות שימוש בנתונים סלולריים בעת נדידה</string>
     <string name="firewall_rule_group_title_roaming">נדידת נתונים</string>
     <string name="dialog_roaming_title">לאפשר נדידת נתונים?</string>
     <string name="dialog_roaming_message">ספק הרשת שלך עשוי לגבות ממך חיובים נוספים בגין שימוש בנתונים בעת נדידה.</string>
@@ -382,14 +652,11 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
     <string name="roaming_start_title">נדידת נתונים</string>
     <string name="roaming_start_body">לחץ להצגת רשימת החריגים בנדידת נתונים.</string>
     <string name="dialog_app_roaming_title">%1$s אינו יכול להשתמש בנדידת נתונים</string>
-    <string name="dialog_app_roaming_message">\"%1$s אינו יכול להשתמש בנתונים סלולריים בעת נדידה. בעת נדידה, יישומים שהוספת לרשימת החריגים בלבד יכולים להשתמש בנתונים סלולריים.\"</string>
+    <string name="dialog_app_roaming_message">"%1$s can't use mobile data when roaming. When you're roaming, only apps you've added to exceptions can use mobile data."</string>
     <string name="add_miservice_dialog_title">מסגרת שירותי MIUI</string>
-    <string name="add_miservice_dialog_content">"\"%s דורש שתוסיף את 'מסגרת שירותי MIUI' לרשימת החריגים. אתה עשוי לקבל התראות מיישומים מובנים של MIUI ויישומי צד שלישי אחרים.\""</string>
+    <string name="add_miservice_dialog_content">"%s requires you to add MIUI service framework to exceptions. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">מגבלת נתונים יומית</string>
     <string name="pref_roaming_daily_limit_setting">הגדר מגבלת נתונים יומית בעת נדידה</string>
-    <string name="dialog_roaming_apps_sorted_title">מיין לפי</string>
-    <string name="hints_install_apps_new">מעולם לא היה בשימוש</string>
-    <string name="hints_install_apps_today">היה בשימוש היום</string>
     <string name="mian_page_primary_txt">נדידת נתונים</string>
     <string name="hints_input_roaming_daily_limit">הזן מגבלת שימוש בנתונים</string>
     <string name="roaming_limit_notification_title">הגעת לתקרת המגבלה היומית בנדידה</string>
@@ -412,17 +679,16 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
     <string name="customize_limit_pkg">%s (מותאם אישית)</string>
     <string name="lock_screen_warning_category">"התראות 'מסך הנעילה'"</string>
     <string name="lock_screen_warning_switch_title">הצג אזהרות במסך הנעילה</string>
-    <string name="lock_screen_warning_switch_summary">הצג אזהרה במסך הנעילה כאשר השימוש בנתונים חורג מכמות מסויימת</string>
+    <string name="lock_screen_warning_switch_summary">Show warning on lock screen when data usage exceeds a certain amount</string>
     <string name="lock_screen_warning_value">אזהרת שימוש בנתונים</string>
-    <string name="pref_month_traffic_limit">מגבלה חודשית לשימוש בנתונים</string>
-    <string name="pref_normal_traffic_limit">כאשר הינך חורג מתכנית הנתונים שלך</string>
-    <string name="pref_leisure_traffic_limit">כאשר הנתונים בשפל מוצו</string>
+    <string name="pref_normal_traffic_limit">כאשר תכנית הנתונים היומית מנוצלת עד לתומה</string>
+    <string name="pref_over_traffic_limit">כאשר הינך חורג מתכנית הנתונים שלך</string>
     <string name="traffic_warning_purchase_title">אזהרת שימוש בנתונים סלולריים</string>
     <string name="traffic_purchase_body">לחץ לטעינת יתרתך.</string>
     <string name="traffic_purchse_suggestion">טען נתונים סלולריים</string>
     <string name="traffic_over_purchase_title">אירעה חריגה מתקרת השימוש בנתונים</string>
     <string name="traffic_over_purchase_body">לחץ לצפיה בפרטים.</string>
-    <string name="traffic_over_purchase_link">"הגעת לתקרת השימוש בחבילת הגלישה שלך.&lt;br/>במידה ותחרוג ממגבלת השימוש בחבילת הגלישה שלך, ספק הרשת שלך עשוי לגבות חיובים נוספים.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>לחץ לטעינת יתרתך.&lt;/U>&lt;/font>"</string>
+    <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/>If you go over your plans data usage limit, your carrier may charge you additional fees.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Tap to top up your balance.&lt;/U>&lt;/font>"</string>
     <string name="repair_loading_text">רק רגע…</string>
     <string name="network_diagnostics">בדיקת רשת</string>
     <string name="btn_start_diagnostic">בדיקת רשת</string>
@@ -447,10 +713,10 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
     <string name="wifi_exception_title">בדיקת רשת אלחוטית</string>
     <string name="wifi_exception_summary">בדוק רשתות אלחוטיות זמינות</string>
     <string name="signal_exception_title">בדיקת עוצמת אות</string>
-    <string name="signal_exception_summary">לא ניתן להתחבר לרשת באזור זה.</string>
+    <string name="signal_exception_summary">"Can't connect to the network in this area."</string>
     <string name="usbsharenet_exception_title">בדיקת אינטרנט המשותף באמצעות USB</string>
-    <string name="usbsharenet_exception_summary">\"לא ניתן להתחבר לאינטרנט באמצעות חיבור USB משותף. בדוק את חיבור ה-USB של מכשירך והפעל מחדש את Mi PC Suite.\"</string>
-    <string name="usbsharenet_pc_exception_summary">\"לא ניתן להתחבר לאינטרנט באמצעות חיבור USB משותף. בדוק את החיבור לאינטרנט של המחשב שלך.\"</string>
+    <string name="usbsharenet_exception_summary">"Can't connect to the internet using shared USB connection. Check your device's USB connection and restart Mi PC Suite."</string>
+    <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
     <string name="gateway_exception_title">בדיקת נתב</string>
     <string name="gateway_exception_summary">בדוק את הנתב שלך ונסה שוב.</string>
     <string name="gateway_exception_summary2">לא ניתן להתחבר לשרת</string>
@@ -462,45 +728,45 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
     <string name="replace_dns">החלף DNS באופן אוטומטי</string>
     <string name="load_fail">לא ניתן היה לטעון</string>
     <string name="notify_weekly_traffic_title">%s נוצלו השבוע</string>
-    <string name="notify_weekly_traffic_title_for_slotnum">%1$s ניצל %2$s השבוע</string>
+    <string name="notify_weekly_traffic_title_for_slotnum">%1$s used %2$s this week</string>
     <string name="notify_weekly_traffic_body">על מנת להגביל את השימוש בנתונים באופן אוטומטי, הגדר את תכנית הנתונים החודשית שלך.</string>
-    <string name="notify_daily_data_usage_body">על מנת להגביל את השימוש בנתונים באופן אוטומטי, הגדר את תכנית הנתונים החודשית שלך.</string>
+    <string name="notify_daily_data_usage_body">To limit data usage automatically, set up your monthly data plan.</string>
     <string name="notify_month_traffic_title">%s נוצלו החודש</string>
-    <string name="notify_month_traffic_title_for_slotnum">%1$s ניצל %2$s החודש</string>
-    <string name="notify_month_traffic_body">הגדר מגבלת שימוש בנתונים על מנת למנוע חריגה מתכנית הנתונים החודשית שלך.</string>
+    <string name="notify_month_traffic_title_for_slotnum">%1$s used %2$s this month</string>
+    <string name="notify_month_traffic_body">Set a data usage limit to prevent going over your monthly data plan.</string>
     <string name="notify_daily_limit_title">%s נוצלו היום</string>
-    <string name="notify_daily_limit_title_for_slotnum">%1$s ניצל %2$s היום</string>
+    <string name="notify_daily_limit_title_for_slotnum">%1$s used %2$s today</string>
     <string name="notify_daily_limit_body">לחץ להגדרת מגבלת נתונים.</string>
     <string name="network_blocked_notification_summary">בדיקת רשת</string>
     <string name="network_blocked_switch_wifi">החלף רשת</string>
     <string name="wifi_network_blocked_notification_title">אין חיבור לאינטרנט</string>
     <string name="data_network_blocked_notification_title">אין חיבור לאינטרנט</string>
     <string name="sim_state_exception_summary">מצב ה-SIM מצביע על תקלה מסויימת בכרטיס ה-SIM שלך.</string>
-    <string name="network_operator_exception_summary">\"לא ניתן היה להפעיל את כרטיס ה-SIM. ודא כי כרטיס ה-SIM מוכנס כראוי וכי תכנית הנתונים שלך הופעלה על ידי ספק הרשת שלך.\"</string>
+    <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
     <string name="network_blocked_connected_open_wifi">מחובר לרשת ציבורית</string>
     <string name="network_connected_exception_title">בדיקת רשת</string>
     <string name="protocol_exception_title">אבחון פרוטוקול רשת</string>
-    <string name="protocol_loop_back_exception_summary">"בדיקת loopback מקומית נכשלה. על מנת לדווח על תקלה זו ל-MIUI, עבור אל יישום 'משוב' ושלח יומן שגיאות ממכשירך."</string>
-    <string name="ip_address_exception_summary">\"לא ניתן היה להשיג כתובת IP. במידה ותיתקל בבעיה זו שוב, נסה שימוש בכתובת IP סטטית.\"</string>
-    <string name="local_ip_exception_summary">"\"לא ניתן היה להשיג כתובת IP מקומית. על מנת לדווח על תקלה זו ל-MIUI, עבור אל יישום 'משוב' ושלח יומן שגיאות ממכשירך.\""</string>
+    <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Feedback app and send a log from your device.</string>
+    <string name="ip_address_exception_summary">"Couldn't get IP address. If you run into this issue again, try using a static IP address."</string>
+    <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the Feedback app and send a log from your device."</string>
     <string name="renew_ip">נסה שוב</string>
     <string name="network_permission_exception_tips">לא ניתן להשתמש בנתונים סלולריים על מנת להתחבר לרשת</string>
     <string name="open_now">אפשר ליישום להשתמש בנתונים סלולריים</string>
-    <string name="network_roaming_exception_tips">\"לא ניתן להשתמש בנתונים סלולריים בעת נדידה על מנת להתחבר לרשת.\"</string>
+    <string name="network_roaming_exception_tips">"Can't use mobile data while roaming to connect to the network."</string>
     <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
 
- 1. Make sure you haven't exceeded your mobile data plan's limit.
+1. Make sure you haven't exceeded your mobile data plan's limit.
 
- 2. If you just topped up your device's balance, reboot your device and try again.
+2. If you just topped up your device's balance, reboot your device and try again.
 
- 3. Your carrier's network signal may be weak in your current location."</string>
+3. Your carrier's network signal may be weak in your current location."</string>
     <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
 
- 1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
+1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
 
- 2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
+2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
 
- 3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
+3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
     <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
 
  "<b>1. Public Wi-Fi network issues</b>"
@@ -516,11 +782,11 @@ Try rebooting your router or checking the admin settings for your router.
 Read the instructions that came with your router and restore your router to its factory settings.
 
  "<b>5. Make sure your router is connected properly</b>"
-Try using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider. "</string>
+Try using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet service provider."</string>
     <string name="permission_exception_title">הצג הרשאות רשת</string>
     <string name="permission_exception_summary">ליישומים מסוימים אין הרשאת חיבור לאינטרנט</string>
     <string name="networkchanged_exception_title">החיבור השתנה</string>
-    <string name="networkchanged_exception_summary">החיבור לרשת השתנה. אנא בדוק שוב.</string>
+    <string name="networkchanged_exception_summary">Network connection has changed. Test again.</string>
     <string name="network_speed_for_apps_title">חיבור</string>
     <string name="network_speed_for_apps_total">מהירות חיבור</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">כפה עצירה על יישום זה?</string>
@@ -533,9 +799,9 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="tc_diagnostic_onekey_repair_botton">תקן</string>
     <string name="tc_diagnostic_repair_and_continue">תקן והמשך</string>
     <string name="tc_diagnostic_upload_button">דווח</string>
-    <string name="tc_diagnostic_fragment_default">"\"About diagnostics
+    <string name="tc_diagnostic_fragment_default">"About diagnostics
 1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
-2. You can leave this page during the diagnostics, it will be carried out in the background.\""</string>
+2. You can leave this page during the diagnostics, it will be carried out in the background."</string>
     <string name="sim_location_diagnostic">אבחון מיקום</string>
     <string name="operator_diagnostic">אבחון ספק הרשת</string>
     <string name="brand_diagnostic">אבחון מותג ספק הרשת</string>
@@ -543,19 +809,19 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>תקין&lt;/font>"</string>
     <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>שגיאה&lt;/font>"</string>
     <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>לא ניתן היה לקבל מידע&lt;/font>"</string>
-    <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>אין חיבור לרשת&lt;/font>"</string>
+    <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>No network connection&lt;/font>"</string>
     <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>עבר הזמן&lt;/font>"</string>
-    <string name="tc_diagnostic_status_error_brand">רשת הספק לא נמצאה</string>
-    <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>רשת הספק מגיבה&lt;/font>"</string>
-    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>תוצאה: מיקום שגוי&lt;br/>&lt;br/>הגדר מיקום: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>מיקום נוכחי: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>תוצאה: ספק רשת שגוי&lt;br/>&lt;br/>הגדר ספק רשת: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>ספק רשת נוכחי: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>תוצאה: מותג ספק רשת שגוי&lt;br/>&lt;br/>הגדר מותג: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>מותג נוכחי: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>תוצאה: לא ניתן היה להשלים את האבחון&lt;br/>&lt;br/>דווח על בעיה זו על מנת לעזור ל-MIUI לשפר את כלי האבחון&lt;/font>"</string>
-    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>תוצאה: רשת ומותג הספק מוגדרים כהלכה&lt;br/>&lt;br/>לא ניתן היה להשלים התאמה מלאה:&lt;br/>1. נתונים סטטיסטיים של ספק הרשת אודות תחילת או סוף החודש עשויים להיות לא מהימנים.&lt;br/>2. סייע הרשת לא עודכן.&lt;br/>&lt;br/>דווח על בעיה זו על מנת לעזור ל-MIUI לשפר את כלי האבחון&lt;/font>"</string>
+    <string name="tc_diagnostic_status_error_brand">"Couldn't find carrier network"</string>
+    <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Carrier network responds&lt;/font>"</string>
+    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Result: Wrong location&lt;br/>&lt;br/>Set location: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Actual location: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Result: Wrong carrier&lt;br/>&lt;br/>Set carrier: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Actual carrier: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Result: Wrong carrier brand&lt;br/>&lt;br/>Set brand: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Actual brand: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Result: Couldn't complete diagnostics&lt;br/>&lt;br/>Report this issue to help MIUI improve diagnostic tools&lt;/font>"</string>
+    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Result: Carrier network and brand set correctly&lt;br/>&lt;br/>Couldn't complete adjustment:&lt;br/>1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/>2. Security app features weren't updated.&lt;br/>&lt;br/>Report this issue to help MIUI improve diagnostic tools&lt;/font>"</string>
     <string name="tc_diagnostic_notification_title">אבחון ספק הרשת</string>
-    <string name="tc_diagnostic_notification_summary">לא ניתן היה להתאים 5 פעמים ברציפות. לחץ להתחלת אבחון.</string>
+    <string name="tc_diagnostic_notification_summary">"Couldn't adjust 5 times in a row. Tap to start diagnostics."</string>
     <string name="tc_diagnostic_upload_success">תודה לך על המשוב!</string>
-    <string name="tc_diagnostic_upload_no_network">תודה לך על המשוב! הדיווח שלך ישלח לאחר חיבור לרשת.</string>
+    <string name="tc_diagnostic_upload_no_network">Thank you for your feedback! Your report will be submitted when you connect to the network.</string>
     <string name="tc_diagnostic_location_error_notification_title">מיקום שגוי</string>
     <string name="tc_diagnostic_location_error_notification_summary">לחץ להתאמת המיקום</string>
     <string name="tc_diagnostic_operator_error_notification_title">ספק רשת שגוי</string>
@@ -565,14 +831,14 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="tc_diagnostic_all_error_notification_title">לא ניתן היה להשלים את האבחון</string>
     <string name="tc_diagnostic_all_error_notification_summary">לחץ על מנת לדווח על בעיה</string>
     <string name="tc_diagnostic_success_notification_title">רשת ומותג ספק הרשת תקינים</string>
-    <string name="tc_diagnostic_success_notification_summary">דווח על בעיה זו על מנת לעזור ל-MIUI לשפר את כלי האבחון</string>
+    <string name="tc_diagnostic_success_notification_summary">Report this issue to help MIUI improve diagnostic tools</string>
     <string name="tc_diagnostic_repair_success_toast">שונה בהצלחה</string>
     <string name="tc_diagnostic_complete">בוצע</string>
     <string name="tc_diagnostic_notification_sumarry">לחץ לצפיה בתוצאות</string>
-    <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>האבחון הושלם, בעיות מיקום תוקנו.&lt;/font>"</string>
-    <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>האבחון הושלם, בעיות מיקום וספק הרשת תוקנו.&lt;/font>"</string>
-    <string name="diagnostic_attention_dialog_message">אבחון %1$s נמצא בתהליך. המתן לסיומו ונסה שוב.</string>
-    <string name="correction_attention_dialog_message">מבצע התאמת הגדרות. המתן לסיום התהליך ונסה שוב.</string>
+    <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>Diagnostics complete, fixed location issues.&lt;/font>"</string>
+    <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>Diagnostics complete, fixed location and carrier issues.&lt;/font>"</string>
+    <string name="diagnostic_attention_dialog_message">"Diagnostics for %1$s is in progress. Wait until it's finished and try again."</string>
+    <string name="correction_attention_dialog_message">Adjusting settings now. Wait until the process is finished and try again.</string>
     <string name="text_button">הבנתי</string>
     <string name="power_center_title">אנרגיה</string>
     <string name="power_center_consume_rank">שימוש בסוללה</string>
@@ -639,7 +905,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="usage_type_audio">שמע</string>
     <string name="usage_type_video">וידאו</string>
     <string name="usage_type_on_time">משך ההפעלה</string>
-    <string name="battery_history_days">יום %1$d %2$d שעות %3$d דקות %4$d שניות</string>
+    <string name="battery_history_days">%1$d ימים %2$d שעות %3$d דקות %4$d שניות</string>
     <string name="battery_history_hours">%1$d שעות %2$d דקות %3$d שניות</string>
     <string name="battery_history_minutes">%1$d דקות %2$d שניות</string>
     <string name="battery_history_seconds">%1$d שניות</string>
@@ -649,7 +915,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="delete">מחק</string>
     <string name="brightness_auto_adjust_on">התאמת רמת הבהירות לתאורה הזמינה</string>
     <string name="brightness_auto_adjust_off">הבהירות תישאר קבועה בכל תנאי התאורה</string>
-    <string name="st_title_mode_choose_group">בחר פרופיל</string>
     <string name="power_mode_choose_summary_change">משהו השתנה בתצורה</string>
     <string name="every_day">כל יום</string>
     <string name="legal_workday">חג</string>
@@ -746,7 +1011,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="app_check_reason_wakeup_alarm">מסך הנעילה מוער בתדירות גבוהה</string>
     <string name="app_check_optimize_title">ייעול פעילויות רקע</string>
     <string name="power_save_mode_enable">חסכון בסוללה</string>
-    <string name="power_save_mode_summary" formatted="false">"נטר תהליכי רקע, וכבה את הסנכרון. 'חסכון בסוללה' יכבה אוטומטית כשהסוללה תהיה טעונה ב-60% או 100%."</string>
+    <string name="power_save_mode_summary" formatted="false">"נטר תהליכי רקע וכבה את הסנכרון. 'חסכון בסוללה' יכבה אוטומטית כשהסוללה תהיה טעונה ב-60% או 100%."</string>
     <string name="power_optimize_save_mode_not_opened">"'חסכון בסוללה' כבוי"</string>
     <string name="notification_exit_power_save_mode">"'חסכון בסוללה' כובה"</string>
     <string name="notification_exit_power_save_mode_subtitle">הסוללה טעונה ב- %s.</string>
@@ -864,7 +1129,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="path_powercenter">יישומי מערכת/אבטחה/שימוש בסוללה</string>
     <string name="resource_auto_restart">ניהול התחלות אוטומטיות</string>
     <string name="keywords_auto_restart">התחלה אוטומטית;הרשאות;התחלה אוטומטית;התחלה אוטמטית; ניהול התחלות אוטומטיות; התחלה אוטומטית של MIUI; התחלה אוטומטית של יישומים; יישומים התחלה אוטומטית;התחלת שרשרת;התחלה משורשרת; התחלת טריגר</string>
-    <string name="path_auto_restart">יישומי מערכת/אבטחה/הרשאות/ניהול התחלות אוטומטיות</string>
+    <string name="path_auto_restart">יישומי מערכת/אבטחה/הרשאות/הפעלה אוטומטית</string>
     <string name="resource_usb_install">התקן באמצעות USB</string>
     <string name="keywords_usb_install">התקנת USB;התקן מהמחשב;התקנת ADB</string>
     <string name="path_usb_install">יישומי מערכת/אבטחה/הרשאות/התקן באמצעות USB</string>
@@ -907,6 +1172,11 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="menu_text_networkassistants">שימוש בנתונים</string>
     <string name="menu_text_networkassistants_remain">%s נותרו</string>
     <string name="menu_text_networkassistants_danger">%s מעבר</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
+    <string name="menu_text_networkassistants_unit_gb">GB</string>
+    <string name="menu_text_networkassistants_unit_mb">MB</string>
+    <string name="menu_text_networkassistants_unit_kb">KB</string>
+    <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_antispam">רשימת החסומים</string>
     <string name="menu_text_license_manager">הרשאות</string>
     <string name="menu_text_garbage_cleanup">מנקה</string>
@@ -958,6 +1228,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="memory_check_content">%s התפנו</string>
     <string name="memory_check_content_none">ריק</string>
     <string name="system_check_content_none">בטוח</string>
+    <string name="cache_check_content_none">@string/memory_check_content_none</string>
     <string name="system_header_title">נקה %1$d תהליכים לשחרור %2$s מהזכרון</string>
     <string name="cache_header_title">נקה %1$d קבצים המאוחסנים במטמון על מנת לפנות %2$s שטח</string>
     <string name="activity_title_virus">וירוס</string>
@@ -1059,7 +1330,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="menu_item_virus_install_monitor_title">סרוק לפני ההתקנה</string>
     <string name="menu_item_virus_install_monitor_summary">סרוק אחר וירוסים ביישומים לפני ההתקנה</string>
     <string name="activity_title_virus_settings">הגדרות</string>
-    <string name="hints_virus_lib_update_default_summary">זמן עדכון אחרון בלתי ידוע</string>
+    <string name="hints_virus_lib_update_default_summary">מועד העדכון האחרון אינו ידוע</string>
     <string name="menu_item_virus_lib_auto_update_summary">עודכן ב- %s</string>
     <string name="hints_virus_app_list_item_summary">יישום</string>
     <string name="hints_virus_apk_list_item_summary">apk</string>
@@ -1070,8 +1341,8 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="hints_risk_name_title">סיכון:</string>
     <string name="hints_risk_descx_title">תאור:</string>
     <string name="button_text_clear">נקה</string>
-    <string name="activity_title_virus_detail">פרטי הוירוס</string>
-    <string name="activity_title_risk_detail">פרטי הסיכון</string>
+    <string name="activity_title_virus_detail">Virus details</string>
+    <string name="activity_title_risk_detail">Risk details</string>
     <string name="hints_virus_app_summary">%s (יישום)</string>
     <string name="hints_virus_apk_summary">%s (יישום)</string>
     <string name="hints_loading_text">טוען…</string>
@@ -1142,6 +1413,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="toast_virus_in_cloud_scanning">לא ניתן לעצור את סריקת הענן</string>
     <string name="menu_item_app_permissions_control">מנהל ההרשאות</string>
     <string name="menu_item_control_app_permissions">בקש רשות לפני מתן הרשאה ליישומים לקרוא את אנשי הקשר, להציג את יומן השיחות, לשנות את הגדרות המערכת, או לגשת למצלמה ולמשאבים אחרים של מכשירך</string>
+    <string name="menu_item_install_debug_package">התקנת חבילת ניפוי שגיאות</string>
     <string name="permission_close_permission_control_dialog_title">לכבות?</string>
     <string name="permission_close_permission_control_dialog_msg">כאשר מנהל ההרשאות כבוי, יישומים לא יבקשו הרשאות לפני קריאת אנשי הקשר, צפיה ביומן השיחות, שינוי הגדרות המערכת, או גישה למצלמה ומשאבים אחרים של מכשירך.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">מנהל ההרשאות</string>
@@ -1186,7 +1458,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="delete_from_manual_item_white_list">הסר מרשימת החריגים</string>
     <string name="manual_white_list_header">%d חריגים</string>
     <string name="button_text_ignore">התעלם</string>
-    <string name="button_text_ignore_alert_title">להתעלם מהתראה זו?</string>
+    <string name="button_text_ignore_alert_title">להתעלם מהתרעה זו?</string>
     <string name="back">חזור</string>
     <string name="empty_title_manual_item_white_list">אין חריגים.</string>
     <string name="title_cloud_account">חשבון Mi</string>
@@ -1278,7 +1550,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="cmcc_app_check_dialog_positive">אתחל כעת</string>
     <string name="cmcc_app_check_dialog_negative">מאוחר יותר</string>
     <string name="app_not_installed_toast">היישום אינו מותקן במכשירך.</string>
-    <string name="month_report_month_report_switch">הצג דוח חודשי</string>
+    <string name="month_report_month_report_switch">הצג דו\"ח חודשי</string>
     <string name="antivirus_choose_engine_settings">הגדרות זיהוי וירוסים</string>
     <string name="antivirus_choose_engine_title">הגדרות</string>
     <string name="antivirus_choose_engine_disable_toast">לא ניתן לשנות הגדרות במהלך סריקה</string>
@@ -1404,15 +1676,16 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="card_main_deepclean_title">ניקוי עמוק</string>
     <string name="card_main_deepclean_summary">מחק קבצים לא חיוניים</string>
     <string name="card_main_deepclean_action">נקה</string>
-    <string name="card_main_deepclean_wechat_title">WeChat cache</string>
-    <string name="card_main_deepclean_wechat_summary">Clear WeChat cache to free up storage space</string>
-    <string name="card_main_deepclean_wechat_action">Clear</string>
+    <string name="card_main_deepclean_wechat_title">מטמון WeChat</string>
+    <string name="card_main_deepclean_wechat_summary">נקה את מטמון WeChat על מנת לנקות שטח אחסון</string>
+    <string name="card_main_deepclean_wechat_action">ניקוי</string>
     <string name="card_main_sectool_title">כלים</string>
     <string name="card_main_monthreport_title">סטטיסטיקות אבטחה</string>
-    <string name="card_main_monthreport_summary">הצג דוחות חודשיים</string>
+    <string name="card_main_monthreport_summary">הצג דוח\"ות חודשיים</string>
     <string name="card_main_monthreport_action">הצג</string>
     <string name="card_main_speeddetail_title">מהירות החיבור</string>
     <string name="card_main_speeddetailt_summary">הצג את מהירות החיבור של יישומים אינדיבדואליים</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">בדיקת רשת</string>
     <string name="card_main_netcheck_summary">בדוק המצאות בעיות נטוורקינג בחיבור לרשת</string>
     <string name="card_main_netcheck_action">בדוק</string>
@@ -1466,7 +1739,6 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="forget_password_button_text"><u>שכחתי את הסיסמה</u></string>
     <string name="lockpattern_need_to_unlock">אשר את התבנית שנשמרה</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">יותר מדי ניסיונות לא מוצלחים!</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"המתן %d שניות ונסה שוב. "</string>
     <string name="lockpassword_confirm_your_pattern_header">אשר את התבנית</string>
     <string name="lockscreen_glogin_password_hint">סיסמה</string>
     <string name="lockscreen_glogin_submit_button">היכנס</string>
@@ -1515,6 +1787,16 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="lockscreen_access_pattern_cleared">התבנית הוסרה</string>
     <string name="lockscreen_access_pattern_cell_added">נוסף תא</string>
     <string name="lockscreen_access_pattern_detected">התבנית הושלמה</string>
+    <string name="applock_add_account_setting">חשבון ופרטיות</string>
+    <string name="applock_add_account_info">"הוסף חשבון Mi על מנת שתוכל לאפס את סיסמתך
+במקרה ותשכח אותה"</string>
+    <string name="applock_exit_account_info">החשבון יוסר באופן אוטומטי לאחר שתצא</string>
+    <string name="applock_login_and_add_account">כניסה והוספה</string>
+    <string name="applock_not_add_account">לא כעת</string>
+    <string name="applock_add_account">הוספה</string>
+    <string name="applock_not_login_account">אינך מחובר</string>
+    <string name="applock_close_dialog_title">"לכבות את 'נועל היישומים'?"</string>
+    <string name="applock_close_dialog_summary">"היישומים לא יהיו מוגנים יותר וסיסמתך תימחק לאחר שתכבה את 'נועל היישומים'."</string>
     <string name="activity_title_safepay">אבטחת תשלום</string>
     <string name="suffix_pay_risk_count_top">תשלום</string>
     <string name="suffix_pay_risk_count_bottom">סיכונים</string>
@@ -1683,7 +1965,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="bind_xiaomi_account_title">הוסף חשבון Mi</string>
     <string name="bind_xiaomi_account_summary">הוסף חשבון Mi על מנת לאפס את סיסמתך</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">מוסיף חשבון Mi</string>
-    <string name="bind_xiaomi_account_dialog_summery">הינך עומד להוסיף חשבון Mi %s במידה ותשכח את סיסמתך, תוכל להשתמש בחשבון זה על מנת לאפס אותה. החשבון יוסר באופן אוטומטי במידה ותתנתק.</string>
+    <string name="bind_xiaomi_account_dialog_summery">הינך עומד להוסיף חשבון Mi %s במידה ותשכח את סיסמתך, תוכל להשתמש בחשבון זה על מנת לאפס אותה. החשבון יוסר באופן אוטומטי במידה ותצא.</string>
     <string name="bind_xiaomi_account_cancel">ביטול</string>
     <string name="bind_xiaomi_account_confirm">הוסף</string>
     <string name="password_promotion_title">סיסמה להגנת הפרטיות</string>
@@ -1710,7 +1992,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="app_manager_my_app">היישומים שלי</string>
     <string name="app_manager_app_lock">נועל היישומים</string>
     <string name="app_manager_bipartition">יישומים משוכפלים</string>
-    <string name="app_manager_power">הרשאות</string>
+    <string name="app_manager_perm">הרשאות</string>
     <string name="app_manager_apps_generatioin">עדכונים</string>
     <string name="app_manager_apps_generation_summary">עדכן על מנת להשתמש בתכונות העדכניות ביותר</string>
     <string name="app_manager_permission">הרשאות פרטיות קשורות (7 ימים אחרונים)</string>
@@ -1751,7 +2033,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="app_manager_stop_wakepath_success">הוגבל בהצלחה</string>
     <string name="app_maanger_app_uninstalled_toast">יישום זה הוסר</string>
     <string name="app_manager_start_by">הופעל על ידי %s</string>
-    <string name="app_manager_not_record">אין פריטים להצגה</string>
+    <string name="app_manager_not_record">לא ניתן היה למצוא יישומים אשר דורשים הרשאות</string>
     <string name="app_manager_perm_monitor_read_contacts">קריאת אנשי הקשר שלך</string>
     <string name="app_manager_perm_monitor_read_call_history">קריאת יומן השיחות</string>
     <string name="app_manager_perm_monitor_read_sms">קריאה של מסרוני SMS</string>
@@ -1763,7 +2045,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="app_manager_uninstall_xspace_app_dlg_title">להסיר את התקנת היישום המשוכפל?</string>
     <string name="app_manager_permission_read_contact_over">ניגש לאנשי הקשר 100000+ פעמים</string>
     <string name="app_manager_permission_call_phone_over">ביצע שיחות 100000+ פעמים</string>
-    <string name="app_manager_permission_send_mms_over">Send SMS 100000+ times</string>
+    <string name="app_manager_permission_send_mms_over">שלח מסרונים 100000+ פעמים</string>
     <string name="app_manager_permission_read_mms_over">קרא מסרונים 100000+ פעמים</string>
     <string name="app_manager_permission_read_record_over">קרא את יומן השיחות 100000+ פעמים</string>
     <string name="app_manager_reject_count_over">נחסם 100000+ פעמים</string>
@@ -1771,7 +2053,31 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="app_manager_loading_data">טוען נתונים…</string>
     <string name="app_manager_appupdate_remind">התרע אודות עדכונים</string>
     <string name="app_manager_update_label_text">חדש</string>
+    <string name="app_manager_usage_record_title">שימוש ביישומים</string>
+    <string name="app_manager_go_to_manger_app">ניהול</string>
+    <string name="app_usage_never">לא היה בשימוש לאחרונה</string>
+    <string name="app_usage_recently">בשימוש לאחרונה</string>
+    <string name="app_manager_have_not_consume">None</string>
+    <string name="app_manager_menu_clear_data">Clear data</string>
+    <string name="app_manager_clear_data_dlg_title">Delete app data?</string>
+    <string name="app_manager_clear_data_dlg_message">All this app’s data will be deleted permanently. This includes all files, settings, accounts, databases, etc.</string>
+    <string name="app_manager_clear_failed_dlg_title">Clear data</string>
+    <string name="app_manager_clear_failed_dlg_message">Couldn’t clear data for app.</string>
+    <string name="app_manager_manage_space">Manage space</string>
+    <string name="app_manager_permission_summary_reject">Restrict all</string>
+    <string name="app_manager_powerkeeper_no_restrict">No restrictions</string>
+    <string name="app_manager_powerkeeper_miui_auto">MIUI Battery saver</string>
+    <string name="app_manager_powerkeeper_restrict_bg">Restrict background apps</string>
+    <string name="app_manager_powerkeeper_no_bg">Restrict background activity</string>
     <string name="ad_btn_default_text">מידע נוסף</string>
+    <string name="open_activity_err">היישום לא נמצא</string>
+    <string name="low_memory_clean_dialog_title">Not enough free space</string>
+    <string name="low_memory_clean_dialog_msg">Clear at least 100MB files first</string>
+    <string name="low_memory_clean_dialog_ok_button">OK</string>
+    <string name="low_memory_warning_dialog_title">Not enough free space</string>
+    <string name="low_memory_warning_dialog_msg">Free up space on your device to continue</string>
+    <string name="low_memory_warning_dialog_ok_button">Clear</string>
+    <string name="low_memory_warning_dialog_cancel_button">Cancel</string>
     <string name="power_center_auto_shutdown_summary_default">כיבוי והדלקה של המכשיר בשעה שנקבעה מראש</string>
     <string name="power_center_custom_summary_default">הגדרות חיסכון בסוללה</string>
     <string name="power_center_low_battery_title">חסכון בסוללה</string>
