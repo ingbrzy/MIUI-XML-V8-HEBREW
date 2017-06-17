@@ -3,7 +3,6 @@
   <string name="configure">הגדר</string>
   <string name="data_received">התקבלו:</string>
   <string name="data_transmitted">נשלחו:</string>
-  <string name="data_value_format">%1$s בתים / %2$s מנות</string>
   <string name="disconnect">נתק</string>
   <string name="duration">משך:</string>
   <string name="legacy_title">‏VPN מחובר</string>

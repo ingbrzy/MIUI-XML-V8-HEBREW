@@ -565,7 +565,6 @@
     <string name="browse_category_title">סייר</string>
     <string name="show_hidden_album_title">הצג אלבומים מוסתרים</string>
     <string name="slideshow_interval_title">הצג כל שקופית למשך</string>
-    <string name="slideshow_interval_value">%1$d שניות</string>
     <string name="slideshow_interval_dialog_title">הזן מרווח</string>
     <string name="slideshow_interval_invalid">על המרווח להיות בין 3 ל-3600 שניות</string>
     <string name="other_settings">הגדרות נוספות</string>
