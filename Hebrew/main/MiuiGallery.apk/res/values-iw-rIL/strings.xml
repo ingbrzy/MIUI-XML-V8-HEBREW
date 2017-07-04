@@ -653,7 +653,6 @@
     <string name="cloud_storage_ok_append_desc">זמין %s</string>
     <string name="cloud_storage_warn_title">אין מספיק שטח אחסון ב-Mi Cloud</string>
     <string name="cloud_storage_warn_desc">רכוש חבילת Cloud VIP לקבלת שטח אחסון נוסף</string>
-    <string name="percent_sign">%</string>
     <string name="user_agreement2">תנאי השירות</string>
     <string name="user_agreement4">מדיניות הפרטיות</string>
     <string name="user_agree">מסכים</string>
@@ -751,8 +750,6 @@
     <string name="search_title_others">כל התוצאות</string>
     <string name="search_people_jump_failed">המתן עד לאחר שתמונות עם אנשים יסונכרנו עם Mi Cloud ואז נסה שוב</string>
     <string name="search_album_jump_failed">המתן עד לאחר שאלבומים יסונכרנו עם Mi Cloud ואז נסה שוב</string>
-    <string name="search_transition_element_input">קלט_חיפוש</string>
-    <string name="search_transition_element_icon">search_icon</string>
     <string name="storage_no_space">אין מספיק מקום</string>
     <string name="share_album">שיתוף אלבום</string>
     <string name="all_video_album_display_name">כל הסרטונים</string>

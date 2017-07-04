@@ -334,7 +334,6 @@
     <string name="vcard_export_will_start_message">%s ייובא בקרוב.</string>
     <string name="vcard_export_request_rejected_message">בקשת ייצוא vCard נדחתה. נסה שוב מאוחר יותר.</string>
     <string name="vcard_unknown_filename">איש קשר</string>
-    <string name="percentage">%s%%</string>
     <string name="confirm_export_title">לייצא אנשי קשר?</string>
     <string name="confirm_export_message">רשימת אנשי הקשר שלך תיוצא לקובץ:%s.</string>
     <string name="exporting_contact_failed_title">לא ניתן היה לייצא</string>
@@ -1080,7 +1079,6 @@
     <string name="device_import_local_account">חשבון מקומי</string>
     <string name="import_name">שם</string>
     <string name="import_percent">0%</string>
-    <string name="percent_sign">%</string>
     <string name="ret_sign">"
 "</string>
     <string name="checkhint">בדוק את טלפון היעד</string>
