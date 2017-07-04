@@ -4,6 +4,17 @@
         <item>שקוף</item>
         <item>רקע לבן</item>
     </string-array>
+    <string-array name="default_reminder_labels">
+        <item>בשעת האירוע</item>
+        <item>5 דקות לפני</item>
+        <item>10 דקות לפני</item>
+        <item>15 דקות לפני</item>
+        <item>30 דקות לפני</item>
+        <item>שעה לפני</item>
+        <item>יום לפני</item>
+        <item>יומיים לפני</item>
+        <item>שבוע לפני</item>
+    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>ברירת מחדל על פי אזור</item>
         <item>שבת</item>

@@ -47,6 +47,8 @@
     <string name="setting_features_title">הגדרות תכונה</string>
     <string name="setting_title_holiday_display">הצג חגים</string>
     <string name="event_info_reminders_label_1">תזכורת</string>
+    <string name="edit_event_no_reminder_value">אל תזכיר לי</string>
+    <string name="event_reminder_value_zero">לפני האירוע</string>
     <string name="event_reminder_allday_day_zero">ביום האירוע ב- %2$s</string>
     <string name="event_reminders_to_max">ניתן להגדיר עד %d תזכורות</string>
     <string name="event_account">חשבון</string>

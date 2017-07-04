@@ -143,6 +143,25 @@
         <item>יומיים</item>
         <item>שבוע אחד</item>
     </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>ללא</item>
+        <item>0 דקות</item>
+        <item>דקה אחת</item>
+        <item>5 דקות</item>
+        <item>10 דקות</item>
+        <item>15 דקות</item>
+        <item>20 דקות</item>
+        <item>25 דקות</item>
+        <item>30 דקות</item>
+        <item>45 דקות</item>
+        <item>שעה אחת</item>
+        <item>שעתיים</item>
+        <item>3 שעות</item>
+        <item>12 שעות</item>
+        <item>24 שעות</item>
+        <item>יומיים</item>
+        <item>שבוע אחד</item>
+    </string-array>
     <string-array name="availability">
         <item>לא פנוי</item>
         <item>זמין</item>
@@ -162,5 +181,11 @@
         <item>שבוע</item>
         <item>חודש</item>
         <item>סדר יום</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>אאחר רק בכמה דקות.</item>
+        <item>אגיע בערך עוד 10 דקות.</item>
+        <item>תתחילו בלעדי.</item>
+        <item>סליחה, לא אצליח להגיע. נצטרך לקבוע מועד חדש.</item>
     </string-array>
 </resources>

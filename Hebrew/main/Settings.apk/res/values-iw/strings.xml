@@ -484,6 +484,8 @@
     <string name="bluetooth_pairing_key_msg">‏קוד התאמת Bluetooth</string>
     <string name="bluetooth_enter_passkey_msg">‏הקלד את קוד ההתאמה ולאחר מכן לחץ על Return או Enter</string>
     <string name="bluetooth_enable_alphanumeric_pin">‏PIN מכיל אותיות או סמלים</string>
+    <string name="bluetooth_pin_values_hint">בדרך כלל 0000 או 1234</string>
+    <string name="bluetooth_pin_values_hint_16_digits">חייב להיות בן 16 ספרות</string>
     <string name="bluetooth_enter_pin_other_device">‏ייתכן שתצטרך להקליד את קוד ה-PIN הזה גם במכשיר השני.</string>
     <string name="bluetooth_enter_passkey_other_device">ייתכן שתצטרך להקליד את המפתח הזה גם במכשיר השני.</string>
     <string name="bluetooth_confirm_passkey_msg">‏כדי להתאים עם:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>ודא שהמכשיר מציג סיסמה זו:&lt;br>&lt;b>%2$s&lt;/b></string>
@@ -1220,6 +1222,8 @@
     <string name="terms_title">תנאים והגבלות</string>
     <string name="webview_license_title">‏רישיון WebView במערכת</string>
     <string name="wallpaper_attributions">טפטים</string>
+    <string name="wallpaper_attributions_values">"‏ספקים של צילומי לוויין:
+‎©2014 CNES / Astrium‏, DigitalGlobe‏, Bluesky"</string>
     <string name="settings_license_activity_title">רשיונות קוד פתוח</string>
     <string name="settings_license_activity_unavailable">יש בעיה בטעינת הרישיון.</string>
     <string name="settings_license_activity_loading">טוען...</string>
@@ -1366,6 +1370,7 @@
     <string name="security_settings_billing_desc">אפליקציה זו עשויה לחייב אותך בכסף:</string>
     <string name="security_settings_premium_sms_desc">‏האם לשלוח SMS פרימיום?</string>
     <string name="computing_size">מחשב...</string>
+    <string name="invalid_size_value">לא ניתן לחשב את גודל החבילה.</string>
     <string name="empty_list_msg">לא מותקנים במכשיר שלך אפליקציות של צד שלישי.</string>
     <string name="version_text">גרסה %1$s</string>
     <string name="move_app">העבר</string>

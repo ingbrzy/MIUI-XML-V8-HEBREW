@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="clir_display_values">
+        <item>ברירת מחדל של הרשת</item>
+        <item>הסתר מספר</item>
+        <item>הצג מספר</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
         <item>TD-SCDMA, GSM/WCDMA, CDMA ו-EvDo</item>
@@ -24,6 +29,17 @@
         <item>WCDMA בלבד</item>
         <item>GSM בלבד</item>
         <item>WCDMA מתועדף</item>
+    </string-array>
+    <string-array name="call_barring_outgoing_display_values">
+        <item>כבוי</item>
+        <item>חסימת שיחות בנדידה</item>
+        <item>חסימת שיחות בינלאומיות</item>
+        <item>חסימת שיחות יוצאות</item>
+    </string-array>
+    <string-array name="call_barring_incoming_display_values">
+        <item>כבוי</item>
+        <item>נדידה</item>
+        <item>הכל</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>אנגלית</item>

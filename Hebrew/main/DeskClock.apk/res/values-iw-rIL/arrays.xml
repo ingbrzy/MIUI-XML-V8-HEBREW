@@ -29,6 +29,14 @@
         <item>שני עד שישי</item>
         <item>מותאם אישית</item>
     </string-array>
+    <string-array name="aqi_value">
+        <item>טוב</item>
+        <item>משביע רצון</item>
+        <item>מזוהם באופן בינוני</item>
+        <item>דל</item>
+        <item>דל מאוד</item>
+        <item>חמור</item>
+    </string-array>
     <string-array name="alarm_set">
         <item>ההתראה תופעל בעוד פחות מדקה 1.</item>
         <item>ההתראה תופעל בעוד %1$s.</item>

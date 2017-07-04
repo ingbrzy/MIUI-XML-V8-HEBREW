@@ -679,6 +679,7 @@
     <string name="available_size">%s זמין</string>
     <string name="total_size">%s סה\"כ</string>
     <string name="memory_title">זמין: %1$s\u0009\u0009סהכ: %2$s</string>
+    <string name="memory_rightvalue">זמין: %s</string>
     <string name="account_list">חשבונות אחרים</string>
     <string name="account_add">הוסף</string>
     <string name="xiaomi_account">חשבון Mi</string>

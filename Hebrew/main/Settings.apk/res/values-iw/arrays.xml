@@ -492,6 +492,11 @@
         <item>זמן קצוב לתפוגה</item>
         <item>נכשל</item>
     </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>שאל</item>
+        <item>לעולם אל תאפשר</item>
+        <item>אפשר תמיד</item>
+    </string-array>
     <string-array name="ram_states">
         <item>רגיל</item>
         <item>בינוני</item>

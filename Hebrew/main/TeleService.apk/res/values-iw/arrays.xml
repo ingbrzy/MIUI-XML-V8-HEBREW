@@ -5,6 +5,11 @@
         <item>LTE / CDMA</item>
         <item>LTE / GSM / UMTS</item>
     </string-array>
+    <string-array name="clir_display_values">
+        <item>רשת ברירת מחדל</item>
+        <item>הסתר מספר</item>
+        <item>הצג מספר</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE / WCDMA</item>
         <item>LTE</item>
