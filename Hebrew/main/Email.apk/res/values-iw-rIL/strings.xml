@@ -448,7 +448,6 @@
   <string name="gmail_web_login_go">אישור</string>
   <string name="gmail_web_login_required_message">היכנס ל-Gmail</string>
   <string name="header_category_account">חשבונות</string>
-  <string name="header_category_general">@string/header_label_general_preferences</string>
   <string name="header_category_other">משוב</string>
   <string name="header_label_general_preferences">כללי</string>
   <string name="help_and_info">עזרה</string>
@@ -789,10 +788,8 @@
   <string name="recognize_hotel_other_money">הוצאות אחרות %1$s</string>
   <string name="recognize_hotel_reverse_date">"צ'ק אין לפני %1$s:%2$s %3$s"</string>
   <string name="recognize_hotel_room_type">חדר</string>
-  <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
   <string name="recognize_hotel_title">הזמנת מלון</string>
   <string name="recognize_hotel_user_names">אורח</string>
-  <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
   <string name="recognize_setting_title">הגדרות נסיעה</string>
   <string name="recognize_ticket_air_notification_content">טיסה נעימה!</string>
   <string name="recognize_ticket_air_notification_title">טיסה %3$s (%1$s/%2$s) תמריא בקרוב. בדוק את פרטי הטיסה שלך.</string>

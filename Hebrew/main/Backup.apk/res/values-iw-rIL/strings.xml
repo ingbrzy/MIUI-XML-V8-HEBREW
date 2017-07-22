@@ -85,7 +85,6 @@
   <string name="delete_backup_title">מחק גיבוי</string>
   <string name="delete_failed_backup_confirm">גיבוי זה מכיל שגיאות.</string>
   <string name="deselect_all">הסר בחירה מהכל</string>
-  <string name="digit_percent">%</string>
   <string name="dir_date_format">ddMMyyyy_HHmmss</string>
   <string name="disable_encrypt_title">כבה הצפנה</string>
   <string name="enable_encrypt">הפעל הצפנה</string>

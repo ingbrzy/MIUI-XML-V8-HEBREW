@@ -551,7 +551,6 @@
   <string name="people_jump_failed">המתן עד לאחר שתמונות עם אנשים יסונכרנו עם Mi Cloud ואז נסה שוב</string>
   <string name="people_page_label">אנשים</string>
   <string name="people_page_unname">ללא שם</string>
-  <string name="percent_sign">%</string>
   <string name="pet_album_display_name">תמונות חיות מחמד</string>
   <string name="petabyteShort">PB</string>
   <string name="photo">תמונות</string>
@@ -662,8 +661,6 @@
   <string name="search_title_people">אנשים</string>
   <string name="search_title_recommend">מומלץ</string>
   <string name="search_title_tag">אובייקטים</string>
-  <string name="search_transition_element_icon">search_icon</string>
-  <string name="search_transition_element_input">search_input</string>
   <string name="secret_album_card_description">המקום הבטוח ביותר עבור כל הסודות הקטנים שלך</string>
   <string name="secret_album_card_title">נסה אלבום מוסתר</string>
   <string name="secret_album_display_name">אלבום מוסתר</string>
@@ -848,7 +845,6 @@
   <string name="view_by_gallery_tip">גלרית MIUI</string>
   <string name="view_face_album">צפה באלבום</string>
   <string name="view_queuing_status">בדוק סטטוס</string>
-  <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
   <string name="welcome_to_micloud">ברוכים הבאים ל-MiCloud</string>
   <string name="welcome_to_slim">יעל את האחסון המקומי</string>
   <string name="where_is_barcode">איפה קוד ה-QR?</string>

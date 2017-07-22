@@ -367,7 +367,6 @@
   <string name="quick_yellow_page_tab_phones">טלפון</string>
   <string name="recharge_actual_price">מחיר:</string>
   <string name="recharge_charge_range">מחיר: RMB %1$s-%2$s</string>
-  <string name="recharge_charge_value">מחיר: RMB %s</string>
   <string name="recharge_follow_name">Top up</string>
   <string name="recharge_history">היסטורית Top-up</string>
   <string name="recharge_history_empty">ריק</string>

@@ -439,7 +439,6 @@
   <string name="card_main_private_space_summary">"השימוש ב'שטח שני' דומה לשימוש בשני מכשירים"</string>
   <string name="card_main_private_space_title">שטח שני</string>
   <string name="card_main_sectool_title">כלים</string>
-  <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
   <string name="card_main_speeddetail_title">מהירות החיבור</string>
   <string name="card_main_speeddetailt_summary">הצג את מהירות החיבור של יישומים אינדיבדואליים</string>
   <string name="card_main_xspace_action">צור</string>

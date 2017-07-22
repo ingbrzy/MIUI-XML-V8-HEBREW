@@ -668,7 +668,6 @@
   <string name="miprofile_contact_header">אנשי קשר עם כרטיסי איש קשר</string>
   <string name="miprofile_contact_meaasge">אנשי קשר מקומיים</string>
   <string name="miprofile_contact_verifying">מאמת</string>
-  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">ערוך פרופיל</string>
   <string name="miprofile_error_accept_self">לא ניתן להחליף את כרטיס איש הקשר האישי שלך</string>
   <string name="miprofile_error_no_miaccount">היכנס לחשבון Mi שלך</string>
@@ -867,8 +866,6 @@
   <string name="path_wipe_data">יישומי מערכתנשי קשררגן אנשי קשרקה נתונים</string>
   <string name="payphone">טלפון ציבורי</string>
   <string name="people">אנשי קשר</string>
-  <string name="percent_sign">%</string>
-  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">טלפון</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">מספר ארוך מידי</string>
