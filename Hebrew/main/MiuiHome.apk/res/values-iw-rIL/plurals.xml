@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="editing_mode_title">
+        <item quantity="other">%1$d נבחרו</item>
+        <item quantity="one">%1$d נבחר</item>
+        <item quantity="two">%1$d נבחרו</item>
+        <item quantity="many">%1$d נבחרו</item>
+    </plurals>
+    <plurals name="uninstall_dialog_title_multi_format">
+        <item quantity="other">להסיר התקנת %1$d יישומים?</item>
+        <item quantity="one">להסיר התקנת יישום %1$d?</item>
+        <item quantity="two">להסיר התקנת %1$d יישומים?</item>
+        <item quantity="many">להסיר התקנת %1$d יישומים?</item>
+    </plurals>
+    <plurals name="uninstall_result_multi_succeeded">
+        <item quantity="other">%1$d יישומים הוסרו</item>
+        <item quantity="one">יישום %1$d הוסר</item>
+        <item quantity="two">%1$d יישומים הוסרו</item>
+        <item quantity="many">%1$d יישומים הוסרו</item>
+    </plurals>
+    <plurals name="uninstall_result_multi_failed">
+        <item quantity="other">לא ניתן להסיר %1$d יישומים</item>
+        <item quantity="one">לא ניתן להסיר יישום %1$d</item>
+        <item quantity="two">לא ניתן להסיר %1$d יישומים</item>
+        <item quantity="many">לא ניתן להסיר %1$d יישומים</item>
+    </plurals>
+    <plurals name="scroll_tip_format_when_announce_accessibility">
+        <item quantity="other">עמוד %1$d, %2$d יישומים</item>
+        <item quantity="one">עמוד %1$d, יישום %2$d</item>
+        <item quantity="two">עמוד %1$d, %2$d יישומים</item>
+        <item quantity="many">עמוד %1$d, %2$d יישומים</item>
+    </plurals>
+    <plurals name="delete_wallpapers_message">
+        <item quantity="other">למחוק %1$d טפטים?</item>
+        <item quantity="one">למחוק טפט %1$d?</item>
+        <item quantity="two">למחוק %1$d טפטים?</item>
+        <item quantity="many">למחוק %1$d טפטים?</item>
+    </plurals>
+</resources>

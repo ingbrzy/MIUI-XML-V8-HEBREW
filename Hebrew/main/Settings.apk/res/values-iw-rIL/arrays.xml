@@ -1,36 +1,183 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="status_bar_style_entries">
-        <item>משולב</item>
-        <item>הפרד</item>
-    </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>סורק…</item>
+        <item>מתחבר…</item>
+        <item>מאמת…</item>
+        <item>מקבל כתובת …IP</item>
+        <item>מחובר</item>
+        <item>מושעה</item>
+        <item>מתנתק…</item>
+        <item>מנותק</item>
+        <item>נכשל</item>
+        <item>נחסם</item>
+        <item>זמנית נמנע חיבור באיכות ירודה</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>סורק…</item>
+        <item>מתחבר אל %1$s…</item>
+        <item>מבצע אימות עם %1$s…</item>
+        <item>מקבל כתובת IP מ-%1$s…</item>
+        <item>מחובר אל %1$s</item>
+        <item>מושעה</item>
+        <item>מתנתק מ-%1$s…</item>
+        <item>מנותק</item>
+        <item>נכשל</item>
+        <item>נחסם</item>
+        <item>זמנית נמנע חיבור באיכות ירודה</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>לעולם אל תבדוק</item>
+        <item>בדוק עבור תוכן DRM בלבד</item>
+        <item>בדוק תמיד</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>לעולם אל תעשה שימוש בבדיקת HDCP</item>
+        <item>השתמש בבדיקת HDCP עבור תוכן DRM בלבד</item>
+        <item>השתמש תמיד בבדיקת HDCP</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>כבוי</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>כבוי</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>כבוי</item>
+        <item>64K לכל לוג בפר</item>
+        <item>256K לכל לוג בפר</item>
+        <item>1M לכל לוג בפר</item>
+        <item>4M לכל לוג בפר</item>
+        <item>16M לכל לוג בפר</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>כיבוי הנפשה</item>
+        <item>קנה מידה להנפשה 0.5x</item>
+        <item>קנה מידה להנפשה 1x</item>
+        <item>קנה מידה להנפשה 1.5x</item>
+        <item>קנה מידה להנפשה 2x</item>
+        <item>קנה מידה להנפשה 5x</item>
+        <item>קנה מידה להנפשה 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>כיבוי הנפשה</item>
+        <item>קנה מידה להנפשה 0.5x</item>
+        <item>קנה מידה להנפשה 1x</item>
+        <item>קנה מידה להנפשה 1.5x</item>
+        <item>קנה מידה להנפשה 2x</item>
+        <item>קנה מידה להנפשה 5x</item>
+        <item>קנה מידה להנפשה 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>כיבוי הנפשה</item>
+        <item>קנה מידה להנפשה 0.5x</item>
+        <item>קנה מידה להנפשה 1x</item>
+        <item>קנה מידה להנפשה 1.5x</item>
+        <item>קנה מידה להנפשה 2x</item>
+        <item>קנה מידה להנפשה 5x</item>
+        <item>קנה מידה להנפשה 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>ללא</item>
+        <item>480p</item>
+        <item>480p (מאובטח)</item>
+        <item>720p</item>
+        <item>720p (מאובטח)</item>
+        <item>1080p</item>
+        <item>1080p (מאובטח)</item>
+        <item>4K</item>
+        <item>4K (מאובטח)</item>
+        <item>4K (משודרג)</item>
+        <item>4K (משודרג, מאובטח)</item>
+        <item>720p, 1080p (מסך כפול)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>ללא</item>
+        <item>Logcat</item>
+        <item>Systrace (גרפיקה)</item>
+        <item>מחסנית קריאות ב-glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>כבוי</item>
+        <item>צייר גזיר אזור שאינו מלבני בכחול</item>
+        <item>הדגש פקודות ציור שנבדקו בירוק</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>כבוי</item>
+        <item>על המסך כשורות</item>
+        <item>ב- adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>כבוי</item>
+        <item>הצג אזורי משיכת יתר</item>
+        <item>Show areas for Deuteranomaly</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>מגבלה רגילה</item>
+        <item>אין תהליכי רקע</item>
+        <item>תהליך 1 לכל היותר</item>
+        <item>2 תהליכים לכל היותר</item>
+        <item>3 תהליכים לכל היותר</item>
+        <item>4 תהליכים לכל היותר</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>טוען</item>
+        <item>MTP (פרוטוקול העברת מדיה)</item>
+        <item>PTP (פרוטוקול העברת תמונות)</item>
+        <item>RNDIS (אתרנט USB)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>לאט מאוד</item>
+        <item>לאט</item>
+        <item>רגיל</item>
+        <item>מהר</item>
+        <item>מהר יותר</item>
+        <item>מהר מאוד</item>
+        <item>מהיר</item>
+        <item>מהיר מאוד</item>
+        <item>המהיר ביותר</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>ויברנט (ברירת מחדל)</item>
+        <item>טבעי</item>
+        <item>רגיל</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>צבעים מחוזקים</item>
+        <item>צבעים טבעיים כפי שנראים בעין</item>
+        <item>צבעים מיועלים עבור תוכן דיגיטלי</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="status_bar_style_entries">
+        <item>משולב</item>
+        <item>הפרד</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 שניות</item>
@@ -51,10 +198,6 @@
         <item>חזק</item>
         <item>בינוני</item>
         <item>חלש</item>
-    </string-array>
-    <string-array name="ap_identify">
-        <item>ברירת מחדל</item>
-        <item>iPhone</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>גרפי</item>
@@ -164,6 +307,14 @@
         <item>@string/msd_install_retry_connect</item>
         <item>התקן מחדש את MiPhoneManager.</item>
     </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>צור תיקיה: mkdir /media/mtp</item>
@@ -220,6 +371,24 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>חיבור אוטומטי</item>
         <item>חיבור באופן ידני</item>
     </string-array>
+    <string-array name="connect_mode_entries">
+        <item>comtible mode</item>
+        <item>high mode</item>
+    </string-array>
+    <string-array name="connect_mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="traffic_balance_entries">
+        <item>סגירה</item>
+        <item>מצב רגיל</item>
+        <item>מצב קיצוני</item>
+    </string-array>
+    <string-array name="traffic_balance_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="preferred_app_entries">
         <item>משגר היישומים</item>
         <item>חיוג</item>
@@ -253,6 +422,16 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>בינוני</item>
         <item>גבוה</item>
     </string-array>
+    <string-array name="whetstone_level_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="agps_network_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="agps_network_entries">
         <item>רשת ביתית</item>
         <item>כל הרשתות</item>
@@ -261,9 +440,18 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>MSB</item>
         <item>MSA</item>
     </string-array>
+    <string-array name="agps_apn_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>
+    </string-array>
+    <string-array name="agps_reset_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>חם</item>
@@ -274,6 +462,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>"4.5 אינץ'"</item>
         <item>"4.0 אינץ'"</item>
         <item>"3.5 אינץ'"</item>
+    </string-array>
+    <string-array name="handy_mode_size_value_entries">
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>3.5</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>מידית</item>
@@ -294,10 +487,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="fluency_mode_confirms">
         <item>לאתחל את המכשיר על מנת להחיל הגדרה זו?</item>
         <item>לאתחל את המכשיר על מנת להחיל הגדרה זו?</item>
-    </string-array>
-    <string-array name="screen_resolution_entries">
-        <item>גבוהה במיוחד (2K)</item>
-        <item>רגילה (720p)</item>
     </string-array>
     <string-array name="miui_entries_font_size">
         <item>S</item>
@@ -375,6 +564,17 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="screen_button_style">
         <item>סגנון יד שמאל</item>
         <item>סגנון יד ימין</item>
+    </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
+    </string-array>
+    <string-array name="edge_touch_volume_action">
+        <item>Click adjust - Double click trigger</item>
+        <item>Slip adjust - Slip trigger</item>
+        <item>Click adjust - Click trigger</item>
+        <item>Click adjust - Long Click trigger</item>
     </string-array>
     <string-array name="city_name">
         <item>"אביג'אן"</item>
@@ -502,7 +702,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>פנום פן</item>
         <item>פיונגיאנג</item>
         <item>קטאר</item>
-        <item>יאנגון</item>
+        <item>Rangoon</item>
         <item>ריאד</item>
         <item>סאול</item>
         <item>שנגחאי</item>
@@ -682,5 +882,26 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>תמונות</item>
         <item>קבצים</item>
         <item>פתקים</item>
+    </string-array>
+    <string-array name="standard_configuration_version">
+        <item>3.00GB</item>
+        <item>32GB</item>
+        <item>ארבע ליבות מקס 2.15GHz</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>קיבולת הסוללה</item>
+        <item>מצלמה אחורית</item>
+        <item>גודל המסך</item>
+        <item>רזולוציה</item>
+        <item>גירסת אנדרואיד</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>Snapdragon 820</item>
+        <item>(3000mAh(typ</item>
+        <item>16MP</item>
+        <item>"5.15 אינץ'"</item>
+        <item>1920 × 1080</item>
+        <item>6.0.1</item>
     </string-array>
 </resources>

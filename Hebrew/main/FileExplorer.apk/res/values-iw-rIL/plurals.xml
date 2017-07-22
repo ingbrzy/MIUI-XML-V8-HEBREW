@@ -72,71 +72,17 @@
         <item quantity="two">לפני %1$d ימים</item>
         <item quantity="many">לפני %1$d ימים</item>
     </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%1$d שניות</item>
-        <item quantity="one">שניה %1$d</item>
-        <item quantity="two">%1$d שניות</item>
-        <item quantity="many">%1$d שניות</item>
-    </plurals>
-    <plurals name="mins">
-        <item quantity="other">%1$d דקות</item>
-        <item quantity="one">דקה %1$d</item>
-        <item quantity="two">%1$d דקות</item>
-        <item quantity="many">%1$d דקות</item>
-    </plurals>
-    <plurals name="hours">
-        <item quantity="other">%1$d שעות</item>
-        <item quantity="one">שעה %1$d</item>
-        <item quantity="two">שעתיים</item>
-        <item quantity="many">%1$d שעות</item>
-    </plurals>
-    <plurals name="days">
-        <item quantity="other">%1$d ימים</item>
-        <item quantity="one">יום d%1$d</item>
-        <item quantity="two">%1$d ימים</item>
-        <item quantity="many">%1$d ימים</item>
-    </plurals>
     <plurals name="found_new_files">
         <item quantity="other">נמצאו %1$d קבצים חדשים</item>
         <item quantity="one">נמצא קובץ חדש %1$d</item>
         <item quantity="two">נמצאו %1$d קבצים חדשים</item>
         <item quantity="many">נמצאו %1$d קבצים חדשים</item>
     </plurals>
-    <plurals name="file_notify_title">
-        <item quantity="other">%1$d קבצים התקבלו מ- %2$s</item>
-        <item quantity="one">קובץ %1$d התקבל מ- %2$s</item>
-        <item quantity="two">%1$d קבצים התקבלו מ- %2$s</item>
-        <item quantity="many">%1$d קבצים התקבלו מ- %2$s</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">%1$d קבצים התקבלו מ-WeChat</item>
-        <item quantity="one">קובץ %1$d התקבל מ-WeChat</item>
-        <item quantity="two">%1$d קבצים התקבלו מ-WeChat</item>
-        <item quantity="many">%1$d קבצים התקבלו מ-WeChat</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">תוקפם של %1$d סירטוני WeChat עומד לפוג</item>
-        <item quantity="one">תוקף וידאו %1$d של WeChat עומד לפוג</item>
-        <item quantity="two">תוקפם של %1$d סירטוני WeChat עומד לפוג</item>
-        <item quantity="many">תוקפם של %1$d סירטוני WeChat עומד לפוג</item>
-    </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">תוקפם של %1$d סירטונים בשיחות WeChat עומד לפוג. לגבות בזכרון הפנימי של מכשירך?</item>
         <item quantity="one">תוקף וידאו %1$d בשיחות WeChat עומד לפוג. לגבות בזכרון הפנימי של מכשירך?</item>
         <item quantity="two">תוקפם של %1$d סירטונים בשיחות WeChat עומד לפוג. לגבות בזכרון הפנימי של מכשירך?</item>
         <item quantity="many">תוקפם של %1$d סירטונים בשיחות WeChat עומד לפוג. לגבות בזכרון הפנימי של מכשירך?</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_sticker">
-        <item quantity="other">%1$d מדבקות WeChat חדשות היום</item>
-        <item quantity="one">מדבקת WeChat חדשה %1$d היום</item>
-        <item quantity="two">%1$d מדבקות WeChat חדשות היום</item>
-        <item quantity="many">%1$d מדבקות WeChat חדשות היום</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_auto_backup">
-        <item quantity="other">%1$d סירטווני WeChat גובו.</item>
-        <item quantity="one">וידאו WeChat 1 גובה.</item>
-        <item quantity="two">%1$d סירטווני WeChat גובו.</item>
-        <item quantity="many">%1$d סירטווני WeChat גובו.</item>
     </plurals>
     <plurals name="remote_video_update">
         <item quantity="other">נמצאו %1$s סירטונים חדשים</item>
@@ -157,10 +103,10 @@
         <item quantity="many">%1$s צפיות</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> סרטונים</item>
-        <item quantity="one">וידאו &amp;lt;font color=#fc7050>%d&amp;lt;/font></item>
-        <item quantity="two">&amp;lt;font color=#fc7050>%d&amp;lt;/font> סרטונים</item>
-        <item quantity="many">&amp;lt;font color=#fc7050>%d&amp;lt;/font> סרטונים</item>
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> סרטונים</item>
+        <item quantity="one">וידאו &lt;font color=#fc7050>%d&lt;/font></item>
+        <item quantity="two">&lt;font color=#fc7050>%d&lt;/font> סרטונים</item>
+        <item quantity="many">&lt;font color=#fc7050>%d&lt;/font> סרטונים</item>
     </plurals>
     <plurals name="number_of_comment_flow">
         <item quantity="other">%1$s הערות</item>
@@ -181,28 +127,28 @@
         <item quantity="many">%1$d פריטים</item>
     </plurals>
     <plurals name="original_user_days">
-        <item quantity="other">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font> ימים</item>
-        <item quantity="one">• יום &amp;lt;font color=#fc7050>%1$d&amp;lt;/font></item>
-        <item quantity="two">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font> ימים</item>
-        <item quantity="many">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font> ימים</item>
+        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> ימים</item>
+        <item quantity="one">• יום &lt;font color=#fc7050>%1$d&lt;/font></item>
+        <item quantity="two">• &lt;font color=#fc7050>%1$d&lt;/font> ימים</item>
+        <item quantity="many">• &lt;font color=#fc7050>%1$d&lt;/font> ימים</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">• העלת &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> סרטונים.</item>
-        <item quantity="one">• העלת וידאו &amp;lt;font color=#fc7050>%1$s&amp;lt;/font>.</item>
-        <item quantity="two">• העלת &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> סרטונים.</item>
-        <item quantity="many">• העלת &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> סרטונים.</item>
+        <item quantity="other">• העלת &lt;font color=#fc7050>%1$s&lt;/font> סרטונים.</item>
+        <item quantity="one">• העלת וידאו &lt;font color=#fc7050>%1$s&lt;/font>.</item>
+        <item quantity="two">• העלת &lt;font color=#fc7050>%1$s&lt;/font> סרטונים.</item>
+        <item quantity="many">• העלת &lt;font color=#fc7050>%1$s&lt;/font> סרטונים.</item>
     </plurals>
     <plurals name="original_user_play_2">
-        <item quantity="other">הפכת &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> אנשים למאושרים!</item>
-        <item quantity="one">הפכת אדם &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> למאושר!</item>
-        <item quantity="two">הפכת &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> אנשים למאושרים!</item>
-        <item quantity="many">הפכת &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> אנשים למאושרים!</item>
+        <item quantity="other">הפכת &lt;font color=#fc7050>%1$s&lt;/font> אנשים למאושרים!</item>
+        <item quantity="one">הפכת אדם &lt;font color=#fc7050>%1$s&lt;/font> למאושר!</item>
+        <item quantity="two">הפכת &lt;font color=#fc7050>%1$s&lt;/font> אנשים למאושרים!</item>
+        <item quantity="many">הפכת &lt;font color=#fc7050>%1$s&lt;/font> אנשים למאושרים!</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">• יש לך &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> עוקבים!</item>
-        <item quantity="one">• יש לך עוקב &amp;lt;font color=#fc7050>%1$s&amp;lt;/font>!</item>
-        <item quantity="two">• יש לך &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> עוקבים!</item>
-        <item quantity="many">• יש לך &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> עוקבים!</item>
+        <item quantity="other">• יש לך &lt;font color=#fc7050>%1$s&lt;/font> עוקבים!</item>
+        <item quantity="one">• יש לך עוקב &lt;font color=#fc7050>%1$s&lt;/font>!</item>
+        <item quantity="two">• יש לך &lt;font color=#fc7050>%1$s&lt;/font> עוקבים!</item>
+        <item quantity="many">• יש לך &lt;font color=#fc7050>%1$s&lt;/font> עוקבים!</item>
     </plurals>
     <plurals name="video_publish_watchable_hint">
         <item quantity="other">השג עוד %1$d עוקבים לשדרוג הסטטוס שלך</item>
@@ -211,16 +157,10 @@
         <item quantity="many">השג עוד %1$d עוקבים לשדרוג הסטטוס שלך</item>
     </plurals>
     <plurals name="follow_count">
-        <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> עוקבים</item>
-        <item quantity="one">עוקב &amp;lt;font color=#fc7050>%d&amp;lt;/font></item>
-        <item quantity="two">&amp;lt;font color=#fc7050>%d&amp;lt;/font> עוקבים</item>
-        <item quantity="many">&amp;lt;font color=#fc7050>%d&amp;lt;/font> עוקבים</item>
-    </plurals>
-    <plurals name="video_like_num">
-        <item quantity="other">"%1$s סימוני 'אהבתי'"</item>
-        <item quantity="one">"סימון 'אהבתי' %1$s"</item>
-        <item quantity="two">"%1$s סימוני 'אהבתי'"</item>
-        <item quantity="many">"%1$s סימוני 'אהבתי'"</item>
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> עוקבים</item>
+        <item quantity="one">עוקב &lt;font color=#fc7050>%d&lt;/font></item>
+        <item quantity="two">&lt;font color=#fc7050>%d&lt;/font> עוקבים</item>
+        <item quantity="many">&lt;font color=#fc7050>%d&lt;/font> עוקבים</item>
     </plurals>
     <plurals name="gems">
         <item quantity="other">%1$s אבני חן</item>
@@ -229,10 +169,10 @@
         <item quantity="many">%1$s אבני חן</item>
     </plurals>
     <plurals name="more_gems">
-        <item quantity="other">לקט &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> אבני חן נוספות על מנת להשתתף בציור המזל</item>
-        <item quantity="one">לקט אבן חן &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> נוספת על מנת להשתתף בציור המזל</item>
-        <item quantity="two">לקט &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> אבני חן נוספות על מנת להשתתף בציור המזל</item>
-        <item quantity="many">לקט &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> אבני חן נוספות על מנת להשתתף בציור המזל</item>
+        <item quantity="other">אסוף עוד &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> אבני חן על מנת להשתתף בהגרלה.;</item>
+        <item quantity="one">אסוף עוד אבן חן &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> על מנת להשתתף בהגרלה.;</item>
+        <item quantity="two">אסוף עוד &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> אבני חן על מנת להשתתף בהגרלה.;</item>
+        <item quantity="many">אסוף עוד &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> אבני חן על מנת להשתתף בהגרלה.;</item>
     </plurals>
     <plurals name="clockin_days">
         <item quantity="other">"בוצע צ'ק אין %1$s ימים ברצף"</item>
@@ -241,10 +181,10 @@
         <item quantity="many">"בוצע צ'ק אין %1$s ימים ברצף"</item>
     </plurals>
     <plurals name="clockin_new_chip">
-        <item quantity="other">You got &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> points</item>
-        <item quantity="one">You got &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> point</item>
-        <item quantity="two">You got &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> points</item>
-        <item quantity="many">You got &amp;lt;font color=#faea47>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> points</item>
+        <item quantity="other">קיבלת &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> נקודות</item>
+        <item quantity="one">קיבלת נקודה &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font></item>
+        <item quantity="two">קיבלת &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> נקודות</item>
+        <item quantity="many">קיבלת &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> נקודות</item>
     </plurals>
     <plurals name="clockin_day_count">
         <item quantity="other">"בוצע צ'ק אין %1$s ימים ברצף. המשך כך!"</item>

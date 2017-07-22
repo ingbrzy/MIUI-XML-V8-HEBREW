@@ -12,6 +12,14 @@
         <item>סבא מצד האמא</item>
         <item>סבתא מצד האמא</item>
     </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>אבא</item>
+        <item>אמא</item>
+        <item>סבא מצד האבא</item>
+        <item>סבתא מצד האבא</item>
+        <item>סבא מצד האמא</item>
+        <item>סבתא מצד האמא</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>אני</item>
         <item>ילד</item>

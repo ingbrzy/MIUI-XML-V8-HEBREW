@@ -19,16 +19,16 @@
         <item quantity="many">%d משתמשים נוספים סימנו זאת כ-</item>
     </plurals>
     <plurals name="st_show_num_keyword">
-        <item quantity="other">%d keywords</item>
-        <item quantity="one">%d keyword</item>
-        <item quantity="two">%d keywords</item>
-        <item quantity="many">%d keywords</item>
+        <item quantity="other">%d מילות מפתח</item>
+        <item quantity="one">מילת מפתח %d</item>
+        <item quantity="two">%d מילות מפתח</item>
+        <item quantity="many">%d מילות מפתח</item>
     </plurals>
     <plurals name="st_show_num_number">
-        <item quantity="other">%d numbers</item>
-        <item quantity="one">%d number</item>
-        <item quantity="two">%d numbers</item>
-        <item quantity="many">%d numbers</item>
+        <item quantity="other">%d מספרים</item>
+        <item quantity="one">מספר %d</item>
+        <item quantity="two">%d מספרים</item>
+        <item quantity="many">%d מספרים</item>
     </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">לא קיים מעקב אחר צריכת הנתונים של %d יישומים</item>
@@ -55,18 +55,18 @@
         <item quantity="many">השתמשת כבר ב-%s מגבלות נתונים יומיות.</item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
-        <item quantity="other">"You've already used %s daily data limits.
+        <item quantity="other">"השתמשת כבר ב-%s מגבלות נתונים יומיות.
 
-If you turn on mobile data again, your carrier may charge you for additional data."</item>
-        <item quantity="one">"You've already used %s daily data limit.
+במידה ותפעיל שוב את חיבור הנתונים הסלולרי, ספק הרשת שלך עשוי לחייב אותך בגין שימוש בנתונים נוספים."</item>
+        <item quantity="one">"השתמשת כבר במגבלת נתונים יומית %s.
 
-If you turn on mobile data again, your carrier may charge you for additional data."</item>
-        <item quantity="two">"You've already used %s daily data limits.
+במידה ותפעיל שוב את חיבור הנתונים הסלולרי, ספק הרשת שלך עשוי לחייב אותך בגין שימוש בנתונים נוספים."</item>
+        <item quantity="two">"השתמשת כבר ב-%s מגבלות נתונים יומיות.
 
-If you turn on mobile data again, your carrier may charge you for additional data."</item>
-        <item quantity="many">"You've already used %s daily data limits.
+במידה ותפעיל שוב את חיבור הנתונים הסלולרי, ספק הרשת שלך עשוי לחייב אותך בגין שימוש בנתונים נוספים."</item>
+        <item quantity="many">"השתמשת כבר ב-%s מגבלות נתונים יומיות.
 
-If you turn on mobile data again, your carrier may charge you for additional data."</item>
+במידה ותפעיל שוב את חיבור הנתונים הסלולרי, ספק הרשת שלך עשוי לחייב אותך בגין שימוש בנתונים נוספים."</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">חפש %d יישומים</item>
@@ -140,12 +140,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="two">%d בעיות סוללה התגלו, תקן אותן</item>
         <item quantity="many">%d בעיות סוללה התגלו, תקן אותן</item>
     </plurals>
-    <plurals name="app_check_title_text">
-        <item quantity="other">%d פריטים יכולים להתייעל</item>
-        <item quantity="one">פריט %d יכול להתייעל</item>
-        <item quantity="two">%d פריטים יכולים להתייעל</item>
-        <item quantity="many">%d פריטים יכולים להתייעל</item>
-    </plurals>
     <plurals name="people">
         <item quantity="other">הורד על ידי %1$d אנשים</item>
         <item quantity="one">הורד על ידי אדם %1$d</item>
@@ -158,17 +152,47 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="two">הורד על ידי %1$d אנשים</item>
         <item quantity="many">הורד על ידי %1$d אנשים</item>
     </plurals>
-    <plurals name="million">
-        <item quantity="other">הורד על ידי %1$d אנשים</item>
-        <item quantity="one">הורד על ידי אדם %1$d</item>
-        <item quantity="two">הורד על ידי %1$d אנשים</item>
-        <item quantity="many">הורד על ידי %1$d אנשים</item>
-    </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d views</item>
-        <item quantity="one">%1$d view</item>
-        <item quantity="two">%1$d views</item>
-        <item quantity="many">%1$d views</item>
+        <item quantity="other">%1$d צפיות</item>
+        <item quantity="one">צפיה %1$d</item>
+        <item quantity="two">%1$d צפיות</item>
+        <item quantity="many">%1$d צפיות</item>
+    </plurals>
+    <plurals name="result_virus_header">
+        <item quantity="other">Found %d viruses and insecure apps</item>
+        <item quantity="one">Found %d virus app</item>
+        <item quantity="two">Found %d viruses and insecure apps</item>
+        <item quantity="many">Found %d viruses and insecure apps</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">Found %d unofficial apps</item>
+        <item quantity="one">Found %d unofficial app</item>
+        <item quantity="two">Found %d unofficial apps</item>
+        <item quantity="many">Found %d unofficial apps</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+        <item quantity="two">%d items</item>
+        <item quantity="many">%d items</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s יישומי תשלומים מוגנים</item>
+        <item quantity="one">יישום תשלומים %s מוגן</item>
+        <item quantity="two">%s יישומי תשלומים מוגנים</item>
+        <item quantity="many">%s יישומי תשלומים מוגנים</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s יישומים מוגנים</item>
+        <item quantity="one">יישום %s מוגן</item>
+        <item quantity="two">%s יישומים מוגנים</item>
+        <item quantity="many">%s יישומים מוגנים</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s יישומים אינם מוגנים</item>
+        <item quantity="one">יישום %s אינו מוגן</item>
+        <item quantity="two">%s יישומים אינם מוגנים</item>
+        <item quantity="many">%s יישומים אינם מוגנים</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d פריטים מאובטחים</item>
@@ -218,11 +242,29 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="two">ל-%d יישומים אין הרשאות Root</item>
         <item quantity="many">ל-%d יישומים אין הרשאות Root</item>
     </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">%d חריגים</item>
+        <item quantity="one">חריג %d</item>
+        <item quantity="two">%d חריגים</item>
+        <item quantity="many">%d חריגים</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">סטטיסטיקות שימוש בנתונים מספק הרשת לא סונכרנו במשך %d ימים</item>
+        <item quantity="one">סטטיסטיקות שימוש בנתונים מספק הרשת לא סונכרנו במשך יום %d</item>
+        <item quantity="two">סטטיסטיקות שימוש בנתונים מספק הרשת לא סונכרנו במשך %d ימים</item>
+        <item quantity="many">סטטיסטיקות שימוש בנתונים מספק הרשת לא סונכרנו במשך %d ימים</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">קיימים עדכונים זמינים עבור %d יישומים.</item>
         <item quantity="one">קיים עדכון זמין עבור יישום %d.</item>
         <item quantity="two">קיימים עדכונים זמינים עבור %d יישומים.</item>
         <item quantity="many">קיימים עדכונים זמינים עבור %d יישומים.</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d ימים מאז הבדיקה האחרונה</item>
+        <item quantity="one">יום %d מאז הבדיקה האחרונה</item>
+        <item quantity="two">%d ימים מאז הבדיקה האחרונה</item>
+        <item quantity="many">%d ימים מאז הבדיקה האחרונה</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d סיכונים,</item>
@@ -236,29 +278,17 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="two">%d סוסים טרויאנים,</item>
         <item quantity="many">%d סוסים טרויאנים,</item>
     </plurals>
-    <plurals name="hints_scan_result_virus_number">
-        <item quantity="other">%d סיכונים</item>
-        <item quantity="one">סיכון %d</item>
-        <item quantity="two">%d סיכונים</item>
-        <item quantity="many">%d סיכונים</item>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">יישומים מסוכנים: %d</item>
+        <item quantity="one">יישום מסוכן: %d</item>
+        <item quantity="two">יישומים מסוכנים: %d</item>
+        <item quantity="many">יישומים מסוכנים: %d</item>
     </plurals>
-    <plurals name="hints_scan_result_danger">
-        <item quantity="other">התגלו %d סיכונים, תקן כעת</item>
-        <item quantity="one">התגלה סיכון %d, תקן כעת</item>
-        <item quantity="two">התגלו %d סיכונים, תקן כעת</item>
-        <item quantity="many">התגלו %d סיכונים, תקן כעת</item>
-    </plurals>
-    <plurals name="virus_clean_num">
-        <item quantity="other">%1$d בעיות תוקנו. נראה שהכל תקין כעת.</item>
-        <item quantity="one">בעיה %1$d תוקנה. נראה שהכל תקין כעת.</item>
-        <item quantity="two">%1$d בעיות תוקנו. נראה שהכל תקין כעת.</item>
-        <item quantity="many">%1$d בעיות תוקנו. נראה שהכל תקין כעת.</item>
-    </plurals>
-    <plurals name="notification_apps">
-        <item quantity="other">%d יישומים מכילים סיכוני פרטיות</item>
-        <item quantity="one">יישום %d מכיל סיכוני פרטיות</item>
-        <item quantity="two">%d יישומים מכילים סיכוני פרטיות</item>
-        <item quantity="many">%d יישומים מכילים סיכוני פרטיות</item>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">סוסים טרויאנים: %d</item>
+        <item quantity="one">סוס טרויאני: %d</item>
+        <item quantity="two">סוסים טרויאנים: %d</item>
+        <item quantity="many">סוסים טרויאנים: %d</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"המתן למשך %d שניות ונסה שוב. "</item>
@@ -290,36 +320,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="two">נמצאו %d יישומים</item>
         <item quantity="many">נמצאו %d יישומים</item>
     </plurals>
-    <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d פריטים</item>
-        <item quantity="one">פריט 1</item>
-        <item quantity="two">%d פריטים</item>
-        <item quantity="many">%d פריטים</item>
-    </plurals>
-    <plurals name="sp_back_title_text">
-        <item quantity="other">%s סיכוני תשלומים</item>
-        <item quantity="one">סיכון תשלומים %s</item>
-        <item quantity="two">%s סיכוני תשלומים</item>
-        <item quantity="many">%s סיכוני תשלומים</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_count">
-        <item quantity="other">%s יישומי תשלומים מוגנים</item>
-        <item quantity="one">יישום תשלומים %s מוגן</item>
-        <item quantity="two">%s יישומי תשלומים מוגנים</item>
-        <item quantity="many">%s יישומי תשלומים מוגנים</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_enable">
-        <item quantity="other">%s יישומים מוגנים</item>
-        <item quantity="one">יישום %s מוגן</item>
-        <item quantity="two">%s יישומים מוגנים</item>
-        <item quantity="many">%s יישומים מוגנים</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">%s יישומים אינם מוגנים</item>
-        <item quantity="one">יישום %s אינו מוגן</item>
-        <item quantity="two">%s יישומים אינם מוגנים</item>
-        <item quantity="many">%s יישומים אינם מוגנים</item>
-    </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d יישומים נעולים ממתינים להסרה</item>
         <item quantity="one">יישום נעול %d ממתין להסרה</item>
@@ -344,59 +344,17 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="two">%d משחקים נוספו</item>
         <item quantity="many">%d משחקים נוספו</item>
     </plurals>
-    <plurals name="app_manager_apps_generation_title">
-        <item quantity="other">קיימים עדכונים זמינים עבור %d יישומים</item>
-        <item quantity="one">קיימים עדכונים זמינים עבור יישום %d</item>
-        <item quantity="two">קיימים עדכונים זמינים עבור %d יישומים</item>
-        <item quantity="many">קיימים עדכונים זמינים עבור %d יישומים</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_contact">
-        <item quantity="other">ניגש לאנשי הקשר %d פעמים</item>
-        <item quantity="one">ניגש לאנשי הקשר פעם %d</item>
-        <item quantity="two">ניגש לאנשי הקשר %d פעמים</item>
-        <item quantity="many">ניגש לאנשי הקשר %d פעמים</item>
-    </plurals>
-    <plurals name="app_manager_permission_call_phone">
-        <item quantity="other">ביצע %d שיחות</item>
-        <item quantity="one">ביצע שיחה %d</item>
-        <item quantity="two">ביצע %d שיחות</item>
-        <item quantity="many">ביצע %d שיחות</item>
-    </plurals>
-    <plurals name="app_manager_permission_send_mms">
-        <item quantity="other">שלח %d מסרונים</item>
-        <item quantity="one">שלח מסרון %d</item>
-        <item quantity="two">שלח %d מסרונים</item>
-        <item quantity="many">שלח %d מסרונים</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_mms">
-        <item quantity="other">קרא מסרונים %d פעמים</item>
-        <item quantity="one">קרא מסרונים פעם %d</item>
-        <item quantity="two">קרא מסרונים %d פעמים</item>
-        <item quantity="many">קרא מסרונים %d פעמים</item>
-    </plurals>
-    <plurals name="app_manager_permission_read_record">
-        <item quantity="other">קרא את יומן השיחות %d פעמים</item>
-        <item quantity="one">קרא את יומן השיחות פעם %d</item>
-        <item quantity="two">קרא את יומן השיחות %d פעמים</item>
-        <item quantity="many">קרא את יומן השיחות %d פעמים</item>
-    </plurals>
-    <plurals name="app_manager_permission_read">
-        <item quantity="other">נפתח %d פעמים</item>
-        <item quantity="one">נפתח פעם %d</item>
-        <item quantity="two">נפתח %d פעמים</item>
-        <item quantity="many">נפתח %d פעמים</item>
-    </plurals>
     <plurals name="app_manager_permission_summary_accept">
-        <item quantity="other">Allowed %d permissions</item>
-        <item quantity="one">Allowed %d permission</item>
-        <item quantity="two">Allowed %d permissions</item>
-        <item quantity="many">Allowed %d permissions</item>
+        <item quantity="other">ניתנו %d הרשאות</item>
+        <item quantity="one">ניתנה הרשאה %d</item>
+        <item quantity="two">ניתנו %d הרשאות</item>
+        <item quantity="many">ניתנו %d הרשאות</item>
     </plurals>
     <plurals name="app_manager_permission_summary_ask">
-        <item quantity="other">Ask for %d permissions</item>
-        <item quantity="one">Ask for %d permission</item>
-        <item quantity="two">Ask for %d permissions</item>
-        <item quantity="many">Ask for %d permissions</item>
+        <item quantity="other">בקשת %d הרשאות</item>
+        <item quantity="one">בקשת הרשאה %d</item>
+        <item quantity="two">בקשת %d הרשאות</item>
+        <item quantity="many">בקשת %d הרשאות</item>
     </plurals>
     <plurals name="app_manager_start_count">
         <item quantity="other">%d פעמים</item>
@@ -411,21 +369,33 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="many">נחסם %d פעמים</item>
     </plurals>
     <plurals name="app_usage_day">
-        <item quantity="other">לא היה בשימוש במשך %d ימים</item>
-        <item quantity="one">לא היה בשימוש במשך יום %d</item>
-        <item quantity="two">לא היה בשימוש במשך %d ימים</item>
-        <item quantity="many">לא היה בשימוש במשך %d ימים</item>
+        <item quantity="other">היה בשימוש לפני %d ימים</item>
+        <item quantity="one">היה בשימוש לפני יום %d</item>
+        <item quantity="two">היה בשימוש לפני %d ימים</item>
+        <item quantity="many">היה בשימוש לפני %d ימים</item>
     </plurals>
     <plurals name="app_usage_month">
-        <item quantity="other">לא היה בשימוש במשך %d חודשים</item>
-        <item quantity="one">לא היה בשימוש במשך חודש %d</item>
-        <item quantity="two">לא היה בשימוש במשך %d חודשים</item>
-        <item quantity="many">לא היה בשימוש במשך %d חודשים</item>
+        <item quantity="other">היה בשימוש לפני %d חדשים</item>
+        <item quantity="one">היה בשימוש לפני חודש %d</item>
+        <item quantity="two">היה בשימוש לפני %d חדשים</item>
+        <item quantity="many">היה בשימוש לפני %d חדשים</item>
     </plurals>
     <plurals name="app_usage_year">
-        <item quantity="other">לא היה בשימוש במשך %d שנים</item>
-        <item quantity="one">לא היה בשימוש במשך שנה %d</item>
-        <item quantity="two">לא היה בשימוש במשך %d שנים</item>
-        <item quantity="many">לא היה בשימוש במשך %d שנים</item>
+        <item quantity="other">היה בשימוש לפני %d שנים</item>
+        <item quantity="one">היה בשימוש לפני שנה %d</item>
+        <item quantity="two">היה בשימוש לפני %d שנים</item>
+        <item quantity="many">היה בשימוש לפני %d שנים</item>
+    </plurals>
+    <plurals name="install_game_count_title">
+        <item quantity="other">Added %d games</item>
+        <item quantity="one">Added %d game</item>
+        <item quantity="two">Added %d games</item>
+        <item quantity="many">Added %d games</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">"Haven't added %d games"</item>
+        <item quantity="one">"Haven't added %d game"</item>
+        <item quantity="two">"Haven't added %d games"</item>
+        <item quantity="many">"Haven't added %d games"</item>
     </plurals>
 </resources>

@@ -1,8 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="widget_style_list">
-        <item>שקוף</item>
-        <item>רקע לבן</item>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>תמיד</item>
+        <item>רק כאשר הצלצול מושתק</item>
+        <item>לעולם לא</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>ברירת מחדל על פי אזור</item>
+        <item>שבת</item>
+        <item>ראשון</item>
+        <item>שני</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>איי מרשל</item>
+        <item>האי מידווי</item>
+        <item>הוואי</item>
+        <item>אלסקה</item>
+        <item>שעון החוף המערבי (PT)</item>
+        <item>טיחואנה</item>
+        <item>אריזונה</item>
+        <item>"צ'יוואווה"</item>
+        <item>שעון ההר (MT)</item>
+        <item>מרכז אמריקה</item>
+        <item>שעון מרכזי (CT)</item>
+        <item>מקסיקו סיטי</item>
+        <item>"ססקצ'ואן"</item>
+        <item>Bogota</item>
+        <item>שעון מזרחי (ET)</item>
+        <item>ונצואלה</item>
+        <item>שעון אטלנטי (ברבדוס)</item>
+        <item>שעון אטלנטי (קנדה)</item>
+        <item>מנאוס</item>
+        <item>סנטיאגו</item>
+        <item>ניו פאונדלנד</item>
+        <item>ברזיליה</item>
+        <item>בואנוס איירס</item>
+        <item>גרינלנד</item>
+        <item>מונטבידאו</item>
+        <item>אזור המיד-אטלנטיק</item>
+        <item>האיים האזוריים</item>
+        <item>איי כף ורדה</item>
+        <item>קזבלנקה</item>
+        <item>לונדון, דבלין</item>
+        <item>אמסטרדם, ברלין</item>
+        <item>בלגרד</item>
+        <item>בריסל</item>
+        <item>סרייבו</item>
+        <item>וינדהוק</item>
+        <item>"שעון מע' אפריקה"</item>
+        <item>עמאן, ירדן</item>
+        <item>אתונה, איסטנבול</item>
+        <item>ביירות, לבנון</item>
+        <item>קהיר</item>
+        <item>הלסינקי</item>
+        <item>ירושלים</item>
+        <item>מינסק</item>
+        <item>הארארה</item>
+        <item>בגדד</item>
+        <item>מוסקבה</item>
+        <item>כווית</item>
+        <item>נירובי</item>
+        <item>טהראן</item>
+        <item>באקו</item>
+        <item>טביליסי</item>
+        <item>ירוואן</item>
+        <item>דובאי</item>
+        <item>קבול</item>
+        <item>"איסלאמבד, קראצ'י"</item>
+        <item>אורל (קזחסטן)</item>
+        <item>יקטרינבורג</item>
+        <item>כלכותה</item>
+        <item>סרי לנקה</item>
+        <item>קטמנדו</item>
+        <item>אסטנה</item>
+        <item>יאנגון</item>
+        <item>קרסנויארסק</item>
+        <item>בנגקוק</item>
+        <item>"בייג'ינג"</item>
+        <item>הונג קונג</item>
+        <item>אירקוטסק</item>
+        <item>קואלה למפור</item>
+        <item>"פרת'"</item>
+        <item>טאיפיי</item>
+        <item>סאול</item>
+        <item>טוקיו, אוסאקה</item>
+        <item>יקוטסק</item>
+        <item>אדלייד</item>
+        <item>דרווין</item>
+        <item>בריסביין</item>
+        <item>הובארט</item>
+        <item>סידני, קנברה</item>
+        <item>ולדיווסטוק</item>
+        <item>גואם</item>
+        <item>מגדן</item>
+        <item>אוקלנד</item>
+        <item>"פיג'י"</item>
+        <item>טונגה</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>דלי</item>
+        <item>20/1-18/2</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>טלה</item>
+        <item>21/3-19/4</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>סרטן</item>
+        <item>22/6-22/7</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>גדי</item>
+        <item>22/12-19/1</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>קדימה</item>
+        <item>אחורה</item>
     </string-array>
     <string-array name="default_reminder_labels">
         <item>בשעת האירוע</item>
@@ -15,29 +132,25 @@
         <item>יומיים לפני</item>
         <item>שבוע לפני</item>
     </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>ברירת מחדל על פי אזור</item>
-        <item>שבת</item>
-        <item>ראשון</item>
-        <item>שני</item>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>תאומים</item>
+        <item>21/5-21/6</item>
     </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>תמיד</item>
-        <item>רק כאשר הצלצול מושתק</item>
-        <item>לעולם לא</item>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>אריה</item>
+        <item>23/7-22/8</item>
     </string-array>
-    <string-array name="travel_reminder_minutes_labels">
-        <item>3 שעות לפני</item>
-        <item>4 שעות לפני</item>
-        <item>5 שעות לפני</item>
-        <item>6 שעות לפני</item>
-        <item>יום לפני</item>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>מאזניים</item>
+        <item>23/9-23/10</item>
     </string-array>
-    <string-array name="repeat_frequency_spinner">
-        <item>יום</item>
-        <item>שבוע</item>
-        <item>חודש</item>
-        <item>שנה</item>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>דגים</item>
+        <item>19/2-20/3</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1</item>
@@ -72,14 +185,10 @@
         <item>30</item>
         <item>31</item>
     </string-array>
-    <string-array name="repeat_choose_weekday">
-        <item>ב</item>
-        <item>ג</item>
-        <item>ד</item>
-        <item>ה</item>
-        <item>ו</item>
-        <item>ש</item>
-        <item>א</item>
+    <string-array name="repeat_choose_end">
+        <item>לעולם לא</item>
+        <item>שעה</item>
+        <item>בכל</item>
     </string-array>
     <string-array name="repeat_choose_month">
         <item>ינו</item>
@@ -107,78 +216,64 @@
         <item>סוף שבוע</item>
         <item>כל השבוע</item>
     </string-array>
-    <string-array name="repeat_choose_end">
-        <item>לעולם לא</item>
-        <item>שעה</item>
-        <item>בכל</item>
+    <string-array name="repeat_choose_weekday">
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ש</item>
+        <item>א</item>
     </string-array>
     <string-array name="repeat_countdown">
         <item>לעולם לא</item>
         <item>חודשית</item>
         <item>שנתית</item>
     </string-array>
-    <string-array name="aries_info">
-        <item>aries</item>
-        <item>טלה</item>
-        <item>21/3-19/4</item>
-    </string-array>
-    <string-array name="taurus_info">
-        <item>taurus</item>
-        <item>שור</item>
-        <item>20/4-20/5</item>
-    </string-array>
-    <string-array name="gemini_info">
-        <item>gemini</item>
-        <item>תאומים</item>
-        <item>21/5-21/6</item>
-    </string-array>
-    <string-array name="cancer_info">
-        <item>cancer</item>
-        <item>סרטן</item>
-        <item>22/6-22/7</item>
-    </string-array>
-    <string-array name="leo_info">
-        <item>leo</item>
-        <item>אריה</item>
-        <item>23/7-22/8</item>
-    </string-array>
-    <string-array name="virgo_info">
-        <item>virgo</item>
-        <item>בתולה</item>
-        <item>23/8-22/9</item>
-    </string-array>
-    <string-array name="libra_info">
-        <item>libra</item>
-        <item>מאזניים</item>
-        <item>23/9-23/10</item>
-    </string-array>
-    <string-array name="scorpio_info">
-        <item>scorpio</item>
-        <item>עקרב</item>
-        <item>24/10-22/11</item>
+    <string-array name="repeat_frequency_spinner">
+        <item>יום</item>
+        <item>שבוע</item>
+        <item>חודש</item>
+        <item>שנה</item>
     </string-array>
     <string-array name="sagittarius_info">
         <item>sagittarius</item>
         <item>קשת</item>
         <item>23/11-21/12</item>
     </string-array>
-    <string-array name="capricorn_info">
-        <item>capricorn</item>
-        <item>גדי</item>
-        <item>22/12-19/1</item>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>עקרב</item>
+        <item>24/10-22/11</item>
     </string-array>
-    <string-array name="aquarius_info">
-        <item>aquarius</item>
-        <item>דלי</item>
-        <item>20/1-18/2</item>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>שור</item>
+        <item>20/4-20/5</item>
     </string-array>
-    <string-array name="pisces_info">
-        <item>pisces</item>
-        <item>דגים</item>
-        <item>19/2-20/3</item>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 שעות לפני</item>
+        <item>4 שעות לפני</item>
+        <item>5 שעות לפני</item>
+        <item>6 שעות לפני</item>
+        <item>יום לפני</item>
     </string-array>
-    <string-array name="date_calculate_spinner">
-        <item>קדימה</item>
-        <item>אחורה</item>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>בתולה</item>
+        <item>23/8-22/9</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>א</item>
+        <item>ב</item>
+        <item>ג</item>
+        <item>ד</item>
+        <item>ה</item>
+        <item>ו</item>
+        <item>ש</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>שקוף</item>
+        <item>רקע לבן</item>
     </string-array>
 </resources>

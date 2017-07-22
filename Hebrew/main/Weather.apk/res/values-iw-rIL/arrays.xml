@@ -52,9 +52,9 @@
     <string-array name="aqi_detail_title">
         <item>טוב</item>
         <item>מתון</item>
-        <item>Unhealthy for sensitive groups</item>
+        <item>לא בריא עבור קבוצות רגישות</item>
         <item>לא בריא</item>
-        <item>Very unhealthy</item>
+        <item>מאוד לא בריא</item>
         <item>מסוכן מאוד</item>
     </string-array>
     <string-array name="weather_type">
@@ -87,9 +87,9 @@
         <item></item>
     </string-array>
     <string-array name="indices_uv_level">
-        <item>Low</item>
-        <item>Moderate</item>
-        <item>High</item>
+        <item>נמוכה</item>
+        <item>מתונה</item>
+        <item>גבוהה</item>
     </string-array>
     <string-array name="indices_sport">
         <item>מתאים</item>
@@ -141,6 +141,7 @@
         <item>דל</item>
         <item>דל מאוד</item>
         <item>חמור</item>
+        <item>מעבר למדד</item>
     </string-array>
     <string-array name="wind_unit_simple">
         <item>סולם בופורט</item>
@@ -158,8 +159,8 @@
     </string-array>
     <string-array name="wind_unit_detail">
         <item>סולם בופורט</item>
-        <item>Kilometers per hour (km/h)</item>
-        <item>Meters per second (m/s)</item>
+        <item>קילומטר לשעה (קמ\"ש)</item>
+        <item>מטר לשניה</item>
         <item>מיל לשעה</item>
         <item>קשר</item>
     </string-array>
@@ -169,5 +170,19 @@
         <item>%1$s מטר לשניה</item>
         <item>%1$s מיל לשעה</item>
         <item>%1$s קשר</item>
+    </string-array>
+    <string-array name="minute_rain_array">
+        <item>כבד</item>
+        <item>מתון</item>
+        <item>חלש</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>מצוינת</item>
+        <item>טובה</item>
+        <item>זיהום קל</item>
+        <item>זיהום בינוני</item>
+        <item>זיהום כבד</item>
+        <item>זיהום כבד מאוד</item>
+        <item>מעבר למדד</item>
     </string-array>
 </resources>

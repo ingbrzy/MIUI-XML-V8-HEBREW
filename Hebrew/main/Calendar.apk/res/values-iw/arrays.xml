@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="change_response_labels">
+        <item>אירוע זה בלבד</item>
+        <item>כל האירועים בסדרה</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>רק אירוע זה</item>
+        <item>אירוע זה ואירועים עתידיים</item>
+        <item>כל האירועים</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>ראשון</item>
+        <item>שני</item>
+        <item>שלישי</item>
+        <item>רביעי</item>
+        <item>אחרון</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>תמיד</item>
+        <item>במצב שקט בלבד</item>
+        <item>אף פעם</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>ברירת מחדל של מיקום</item>
+        <item>יום שבת</item>
+        <item>יום ראשון</item>
+        <item>יום שני</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>אין תגובה</item>
+        <item>כן</item>
+        <item>אולי</item>
+        <item>לא</item>
+    </string-array>
     <string-array name="timezone_labels">
         <item>איי מרשל</item>
         <item>האי מידוויי</item>
@@ -86,38 +119,45 @@
         <item>"פיג'י"</item>
         <item>טונגה</item>
     </string-array>
-    <string-array name="ordinal_labels">
-        <item>ראשון</item>
-        <item>שני</item>
-        <item>שלישי</item>
-        <item>רביעי</item>
-        <item>אחרון</item>
+    <string-array name="availability">
+        <item>לא פנוי</item>
+        <item>זמין</item>
+        <item>לא סופי</item>
     </string-array>
-    <string-array name="response_labels1">
-        <item>אין תגובה</item>
-        <item>כן</item>
-        <item>אולי</item>
-        <item>לא</item>
+    <string-array name="buttons_list">
+        <item>יום</item>
+        <item>שבוע</item>
+        <item>חודש</item>
+        <item>סדר יום</item>
     </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>רק אירוע זה</item>
+    <string-array name="delete_repeating_labels_no_selected">
         <item>אירוע זה ואירועים עתידיים</item>
         <item>כל האירועים</item>
     </string-array>
-    <string-array name="change_response_labels">
-        <item>אירוע זה בלבד</item>
-        <item>כל האירועים בסדרה</item>
+    <string-array name="preferences_default_reminder_labels">
+        <item>ללא</item>
+        <item>0 דקות</item>
+        <item>דקה אחת</item>
+        <item>5 דקות</item>
+        <item>10 דקות</item>
+        <item>15 דקות</item>
+        <item>20 דקות</item>
+        <item>25 דקות</item>
+        <item>30 דקות</item>
+        <item>45 דקות</item>
+        <item>שעה אחת</item>
+        <item>שעתיים</item>
+        <item>3 שעות</item>
+        <item>12 שעות</item>
+        <item>24 שעות</item>
+        <item>יומיים</item>
+        <item>שבוע אחד</item>
     </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>ברירת מחדל של מיקום</item>
-        <item>יום שבת</item>
-        <item>יום ראשון</item>
-        <item>יום שני</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>תמיד</item>
-        <item>במצב שקט בלבד</item>
-        <item>אף פעם</item>
+    <string-array name="quick_response_defaults">
+        <item>אאחר רק בכמה דקות.</item>
+        <item>אגיע בערך עוד 10 דקות.</item>
+        <item>תתחילו בלעדי.</item>
+        <item>סליחה, לא אצליח להגיע. נצטרך לקבוע מועד חדש.</item>
     </string-array>
     <string-array name="reminder_methods_labels">
         <item>התראה</item>
@@ -143,49 +183,9 @@
         <item>יומיים</item>
         <item>שבוע אחד</item>
     </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>ללא</item>
-        <item>0 דקות</item>
-        <item>דקה אחת</item>
-        <item>5 דקות</item>
-        <item>10 דקות</item>
-        <item>15 דקות</item>
-        <item>20 דקות</item>
-        <item>25 דקות</item>
-        <item>30 דקות</item>
-        <item>45 דקות</item>
-        <item>שעה אחת</item>
-        <item>שעתיים</item>
-        <item>3 שעות</item>
-        <item>12 שעות</item>
-        <item>24 שעות</item>
-        <item>יומיים</item>
-        <item>שבוע אחד</item>
-    </string-array>
-    <string-array name="availability">
-        <item>לא פנוי</item>
-        <item>זמין</item>
-        <item>לא סופי</item>
-    </string-array>
     <string-array name="visibility">
         <item>ברירת מחדל</item>
         <item>פרטי</item>
         <item>ציבורי</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>אירוע זה ואירועים עתידיים</item>
-        <item>כל האירועים</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>יום</item>
-        <item>שבוע</item>
-        <item>חודש</item>
-        <item>סדר יום</item>
-    </string-array>
-    <string-array name="quick_response_defaults">
-        <item>אאחר רק בכמה דקות.</item>
-        <item>אגיע בערך עוד 10 דקות.</item>
-        <item>תתחילו בלעדי.</item>
-        <item>סליחה, לא אצליח להגיע. נצטרך לקבוע מועד חדש.</item>
     </string-array>
 </resources>

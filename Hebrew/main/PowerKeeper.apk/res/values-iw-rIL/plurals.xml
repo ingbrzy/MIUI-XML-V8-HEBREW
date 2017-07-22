@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="select_items">
+        <item quantity="other">%1$d נבחרו</item>
+        <item quantity="one">%1$d נבחר</item>
+        <item quantity="two">%1$d נבחרו</item>
+        <item quantity="many">%1$d נבחרו</item>
+    </plurals>
+    <plurals name="app_list_total">
+        <item quantity="other">%d יישומים</item>
+        <item quantity="one">יישום %d</item>
+        <item quantity="two">%d יישומים</item>
+        <item quantity="many">%d יישומים</item>
+    </plurals>
     <plurals name="power_config_ultimate_on_count">
         <item quantity="other">"%1$d שלבים ממעבר ל'מצב אולטימטיבי'"</item>
         <item quantity="one">"שלב %1$d ממעבר ל'מצב אולטימטיבי'"</item>

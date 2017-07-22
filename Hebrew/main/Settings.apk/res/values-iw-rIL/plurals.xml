@@ -12,11 +12,47 @@
         <item quantity="two">%s יישומים יכולים להציג התראות</item>
         <item quantity="many">%s יישומים יכולים להציג התראות</item>
     </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d מהמתגים הממוקמים מעל השורה הם מתגים פעילים</item>
+        <item quantity="one">מתג 1 הממוקם מעל השורה הינו מתג פעיל</item>
+        <item quantity="two">%1$d מהמתגים הממוקמים מעל השורה הם מתגים פעילים</item>
+        <item quantity="many">%1$d מהמתגים הממוקמים מעל השורה הם מתגים פעילים</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d סיכונים נמצאו</item>
+        <item quantity="one">סיכון %d נמצא</item>
+        <item quantity="two">%d סיכונים נמצאו</item>
+        <item quantity="many">%d סיכונים נמצאו</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">הרשאת הפעלה אוטומטית ניתנה ל- %d יישומים</item>
+        <item quantity="one">הרשאת הפעלה אוטומטית ניתנה ליישום %d</item>
+        <item quantity="two">הרשאת הפעלה אוטומטית ניתנה ל- %d יישומים</item>
+        <item quantity="many">הרשאת הפעלה אוטומטית ניתנה ל- %d יישומים</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">על קוד ה-PIN להיות באורך %d ספרות</item>
+        <item quantity="one">על קוד ה-PIN להיות באורך ספרה %d</item>
+        <item quantity="two">על קוד ה-PIN להיות באורך %d ספרות</item>
+        <item quantity="many">על קוד ה-PIN להיות באורך %d ספרות</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">%d רשתות שותפו</item>
+        <item quantity="one">רשת %d שותפה</item>
+        <item quantity="two">%d רשתות שותפו</item>
+        <item quantity="many">%d רשתות שותפו</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d התקנים</item>
         <item quantity="one">התקן %d</item>
         <item quantity="two">%d התקנים</item>
         <item quantity="many">%d התקנים</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d people connected</item>
+        <item quantity="one">%1$d people connected</item>
+        <item quantity="two">%1$d people connected</item>
+        <item quantity="many">%1$d people connected</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">הינך נמצא %1$d צעדים לפני כניסה לפרטי הטלפון.</item>

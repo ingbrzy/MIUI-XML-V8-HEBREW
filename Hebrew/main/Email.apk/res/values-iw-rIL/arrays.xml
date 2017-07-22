@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="all_month_str">
-        <item>1月</item>
-        <item>2月</item>
-        <item>3月</item>
-        <item>4月</item>
-        <item>5月</item>
-        <item>6月</item>
-        <item>7月</item>
-        <item>8月</item>
-        <item>9月</item>
-        <item>10月</item>
-        <item>11月</item>
-        <item>12月</item>
+        <item>ינו</item>
+        <item>פבר</item>
+        <item>מרץ</item>
+        <item>אפר</item>
+        <item>מאי</item>
+        <item>יונ</item>
+        <item>יול</item>
+        <item>אוג</item>
+        <item>ספט</item>
+        <item>אוק</item>
+        <item>נוב</item>
+        <item>דצמ</item>
     </string-array>
     <string-array name="calendar_remind_string_array">
         <item>הלילה</item>

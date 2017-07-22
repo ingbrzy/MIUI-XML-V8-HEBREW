@@ -1,5 +1,180 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>סורק…</item>
+        <item>מתחבר…</item>
+        <item>מאמת…</item>
+        <item>מקבל כתובת …IP</item>
+        <item>מחובר</item>
+        <item>מושעה</item>
+        <item>מתנתק…</item>
+        <item>מנותק</item>
+        <item>נכשל</item>
+        <item>נחסם</item>
+        <item>זמנית נמנע חיבור באיכות ירודה</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>סורק…</item>
+        <item>מתחבר אל %1$s…</item>
+        <item>מבצע אימות עם %1$s…</item>
+        <item>מקבל כתובת IP מ-%1$s…</item>
+        <item>מחובר אל %1$s</item>
+        <item>מושעה</item>
+        <item>מתנתק מ-%1$s…</item>
+        <item>מנותק</item>
+        <item>נכשל</item>
+        <item>נחסם</item>
+        <item>זמנית נמנע חיבור באיכות ירודה</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>לעולם אל תבדוק</item>
+        <item>בדוק עבור תוכן DRM בלבד</item>
+        <item>בדוק תמיד</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>לעולם אל תעשה שימוש בבדיקת HDCP</item>
+        <item>השתמש בבדיקת HDCP עבור תוכן DRM בלבד</item>
+        <item>השתמש תמיד בבדיקת HDCP</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>כבוי</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>כבוי</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>כבוי</item>
+        <item>64K לכל לוג בפר</item>
+        <item>256K לכל לוג בפר</item>
+        <item>1M לכל לוג בפר</item>
+        <item>4M לכל לוג בפר</item>
+        <item>16M לכל לוג בפר</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>כיבוי הנפשה</item>
+        <item>קנה מידה להנפשה 0.5x</item>
+        <item>קנה מידה להנפשה 1x</item>
+        <item>קנה מידה להנפשה 1.5x</item>
+        <item>קנה מידה להנפשה 2x</item>
+        <item>קנה מידה להנפשה 5x</item>
+        <item>קנה מידה להנפשה 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>כיבוי הנפשה</item>
+        <item>קנה מידה להנפשה 0.5x</item>
+        <item>קנה מידה להנפשה 1x</item>
+        <item>קנה מידה להנפשה 1.5x</item>
+        <item>קנה מידה להנפשה 2x</item>
+        <item>קנה מידה להנפשה 5x</item>
+        <item>קנה מידה להנפשה 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>כיבוי הנפשה</item>
+        <item>קנה מידה להנפשה 0.5x</item>
+        <item>קנה מידה להנפשה 1x</item>
+        <item>קנה מידה להנפשה 1.5x</item>
+        <item>קנה מידה להנפשה 2x</item>
+        <item>קנה מידה להנפשה 5x</item>
+        <item>קנה מידה להנפשה 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>ללא</item>
+        <item>480p</item>
+        <item>480p (מאובטח)</item>
+        <item>720p</item>
+        <item>720p (מאובטח)</item>
+        <item>1080p</item>
+        <item>1080p (מאובטח)</item>
+        <item>4K</item>
+        <item>4K (מאובטח)</item>
+        <item>4K (משודרג)</item>
+        <item>4K (משודרג, מאובטח)</item>
+        <item>720p, 1080p (מסך כפול)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>ללא</item>
+        <item>Logcat</item>
+        <item>Systrace (גרפיקה)</item>
+        <item>מחסנית קריאות ב-glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>כבוי</item>
+        <item>צייר גזיר אזור שאינו מלבני בכחול</item>
+        <item>הדגש פקודות ציור שנבדקו בירוק</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>כבוי</item>
+        <item>על המסך כשורות</item>
+        <item>ב- adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>כבוי</item>
+        <item>הצג אזורי משיכת יתר</item>
+        <item>Show areas for Deuteranomaly</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>מגבלה רגילה</item>
+        <item>אין תהליכי רקע</item>
+        <item>תהליך 1 לכל היותר</item>
+        <item>2 תהליכים לכל היותר</item>
+        <item>3 תהליכים לכל היותר</item>
+        <item>4 תהליכים לכל היותר</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>טוען</item>
+        <item>MTP (פרוטוקול העברת מדיה)</item>
+        <item>PTP (פרוטוקול העברת תמונות)</item>
+        <item>RNDIS (אתרנט USB)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>לאט מאוד</item>
+        <item>לאט</item>
+        <item>רגיל</item>
+        <item>מהר</item>
+        <item>מהר יותר</item>
+        <item>מהר מאוד</item>
+        <item>מהיר</item>
+        <item>מהיר מאוד</item>
+        <item>המהיר ביותר</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>ויברנט (ברירת מחדל)</item>
+        <item>טבעי</item>
+        <item>רגיל</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>צבעים מחוזקים</item>
+        <item>צבעים טבעיים כפי שנראים בעין</item>
+        <item>צבעים מיועלים עבור תוכן דיגיטלי</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
     <string-array name="aqi_title_prefix">
         <item>מדד איכות האויר %1$s</item>
         <item>מדד איכות האויר %1$s</item>

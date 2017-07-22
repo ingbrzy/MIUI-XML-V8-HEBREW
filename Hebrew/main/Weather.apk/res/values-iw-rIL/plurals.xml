@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">תחזית עבור %1$s ימים</item>
+        <item quantity="one">תחזית עבור יום %1$s</item>
+        <item quantity="two">תחזית עבור %1$s ימים</item>
+        <item quantity="many">תחזית עבור %1$s ימים</item>
+    </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">לפני %d דקות</item>
         <item quantity="one">לפני דקה %d</item>
@@ -23,5 +29,29 @@
         <item quantity="one">בהיר</item>
         <item quantity="two">בהיר</item>
         <item quantity="many">בהיר</item>
+    </plurals>
+    <plurals name="total_voted_num_text">
+        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> אנשים הצביעו"</item>
+        <item quantity="one">"אדם &lt;font color='#20a7ff'>%1$s&lt;/font> הצביע"</item>
+        <item quantity="two">"&lt;font color='#20a7ff'>%1$s&lt;/font> אנשים הצביעו"</item>
+        <item quantity="many">"&lt;font color='#20a7ff'>%1$s&lt;/font> אנשים הצביעו"</item>
+    </plurals>
+    <plurals name="yes_vote_num">
+        <item quantity="other">| %1$s אנשים</item>
+        <item quantity="one">| אדם %1$s</item>
+        <item quantity="two">| %1$s אנשים</item>
+        <item quantity="many">| %1$s אנשים</item>
+    </plurals>
+    <plurals name="no_vote_num">
+        <item quantity="other">%1$s אנשים |</item>
+        <item quantity="one">אדם %1$s |</item>
+        <item quantity="two">%1$s אנשים |</item>
+        <item quantity="many">%1$s אנשים |</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">שניה %1$s לאחר המשוב</item>
+        <item quantity="one">שניה %1$s לאחר המשוב</item>
+        <item quantity="two">שניה %1$s לאחר המשוב</item>
+        <item quantity="many">שניה %1$s לאחר המשוב</item>
     </plurals>
 </resources>

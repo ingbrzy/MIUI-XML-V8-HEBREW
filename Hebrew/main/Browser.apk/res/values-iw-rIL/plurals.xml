@@ -13,10 +13,10 @@
         <item quantity="many">%d התאמות</item>
     </plurals>
     <plurals name="last_num_days">
-        <item quantity="other">ב- %d ימים האחרונים</item>
-        <item quantity="one">ביום האחרון</item>
-        <item quantity="two">ב- %d ימים האחרונים</item>
-        <item quantity="many">ב- %d ימים האחרונים</item>
+        <item quantity="other">ב-%d הימים האחרונים</item>
+        <item quantity="one">Last %d day</item>
+        <item quantity="two">ב-%d הימים האחרונים</item>
+        <item quantity="many">ב-%d הימים האחרונים</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d מתוך %2$d</item>
@@ -55,9 +55,9 @@
         <item quantity="many">למחוק %1$d פריטים מההיסטוריה?</item>
     </plurals>
     <plurals name="video_subtitle_last_message">
-        <item quantity="other">נותרו %d דקות</item>
-        <item quantity="one">נותרה דקה</item>
-        <item quantity="two">נותרו %d דקות</item>
-        <item quantity="many">נותרו %d דקות</item>
+        <item quantity="other">%d דקות נותרו</item>
+        <item quantity="one">דקה %d נותרה</item>
+        <item quantity="two">%d דקות נותרו</item>
+        <item quantity="many">%d דקות נותרו</item>
     </plurals>
 </resources>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="setting_title">‏הגדרות קלט Pinyin של Google</string>
-    <string name="setting_input_summary">"‏מסורתית/פשוטה, חיזוי, תיקון אוטומטי, הקלדת החלקה, התאמת Pinyin חלקית וכו'"</string>
-    <string name="tutorial_activation_title">‏הגדר קלט Pinyin של Google</string>
-    <string name="tutorial_enable_hint">‏1 הפעל קלט Pinyin של Google</string>
-    <string name="tutorial_select_hint">‏2 בחר בקלט Pinyin של Google</string>
-</resources>

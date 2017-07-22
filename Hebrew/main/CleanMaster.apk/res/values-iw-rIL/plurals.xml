@@ -37,10 +37,10 @@
         <item quantity="many">הורד על ידי %1$d אנשים</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d צפיות</item>
-        <item quantity="one">צפיה %1$d</item>
-        <item quantity="two">%1$d צפיות</item>
-        <item quantity="many">%1$d צפיות</item>
+        <item quantity="other">%1$s צפיות</item>
+        <item quantity="one">צפיה %1$s</item>
+        <item quantity="two">%1$s צפיות</item>
+        <item quantity="many">%1$s צפיות</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d קבוצות</item>
@@ -113,5 +113,29 @@
         <item quantity="one">(קובץ ריק %1$d) %2$s</item>
         <item quantity="two">(%1$d קבצים ריקים) %2$s</item>
         <item quantity="many">(%1$d קבצים ריקים) %2$s</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">לא היה בשימוש במשך %d ימים</item>
+        <item quantity="one">לא היה בשימוש במשך יום %d</item>
+        <item quantity="two">לא היה בשימוש במשך %d ימים</item>
+        <item quantity="many">לא היה בשימוש במשך %d ימים</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">לא היה בשימוש במשך %d חודשים</item>
+        <item quantity="one">לא היה בשימוש במשך חודש %d</item>
+        <item quantity="two">לא היה בשימוש במשך %d חודשים</item>
+        <item quantity="many">לא היה בשימוש במשך %d חודשים</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">לא היה בשימוש במשך %d שנים</item>
+        <item quantity="one">לא היה בשימוש במשך שנה %d</item>
+        <item quantity="two">לא היה בשימוש במשך %d שנים</item>
+        <item quantity="many">לא היה בשימוש במשך %d שנים</item>
+    </plurals>
+    <plurals name="resutl_function_install_app_summary">
+        <item quantity="other">קיימים &lt;Data>&lt;font color=#ff0000 >%d&lt;/font> יישומים אשר לא נעשה בהם שימוש למשך זמן רב, צפה.;&lt;/Data></item>
+        <item quantity="one">קיים יישום &lt;Data>&lt;font color=#ff0000 >%d&lt;/font> אשר לא נעשה בו שימוש למשך זמן רב, צפה.;&lt;/Data></item>
+        <item quantity="two">קיימים &lt;Data>&lt;font color=#ff0000 >%d&lt;/font> יישומים אשר לא נעשה בהם שימוש למשך זמן רב, צפה.;&lt;/Data></item>
+        <item quantity="many">קיימים &lt;Data>&lt;font color=#ff0000 >%d&lt;/font> יישומים אשר לא נעשה בהם שימוש למשך זמן רב, צפה.;&lt;/Data></item>
     </plurals>
 </resources>

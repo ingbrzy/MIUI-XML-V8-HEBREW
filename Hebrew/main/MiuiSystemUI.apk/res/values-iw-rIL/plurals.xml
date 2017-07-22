@@ -6,11 +6,35 @@
         <item quantity="two">%d יישומים אחרונים</item>
         <item quantity="many">%d יישומים אחרונים</item>
     </plurals>
+    <plurals name="accessibility_recent_task_enter">
+        <item quantity="other">"'לאחרונה' נפתח, יישומים זמינים: %d."</item>
+        <item quantity="one">"'לאחרונה' נפתח, יישומים זמינים: 1."</item>
+        <item quantity="two">"'לאחרונה' נפתח, יישומים זמינים: %d."</item>
+        <item quantity="many">"'לאחרונה' נפתח, יישומים זמינים: %d."</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">"'לאחרונה' נפתח, יישומים זמינים: %d. החלק מעלה להסרה, החלק מטה לנעילה."</item>
+        <item quantity="one">"'לאחרונה' נפתח, יישומים זמינים: 1. החלק מעלה להסרה, החלק מטה לנעילה."</item>
+        <item quantity="two">"'לאחרונה' נפתח, יישומים זמינים: %d. החלק מעלה להסרה, החלק מטה לנעילה."</item>
+        <item quantity="many">"'לאחרונה' נפתח, יישומים זמינים: %d. החלק מעלה להסרה, החלק מטה לנעילה."</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d מתגים מעל שורה זו הם מתגים פעילים</item>
+        <item quantity="one">מתג 1 מעל שורה זו הינו מתג פעיל</item>
+        <item quantity="two">%1$d מתגים מעל שורה זו הם מתגים פעילים</item>
+        <item quantity="many">%1$d מתגים מעל שורה זו הם מתגים פעילים</item>
+    </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">להסתיר התראות של %d יישומים?</item>
         <item quantity="one">להסתיר התראות של יישום זה?</item>
         <item quantity="two">להסתיר התראות של %d יישומים?</item>
         <item quantity="many">להסתיר התראות של %d יישומים?</item>
+    </plurals>
+    <plurals name="block_record_notification_more_text">
+        <item quantity="other">מסתיר התראות מ- %1$s &amp; %2$d יישומים.</item>
+        <item quantity="one">מסתיר התראות מ- %1$s &amp; יישום 1.</item>
+        <item quantity="two">מסתיר התראות מ- %1$s &amp; %2$d יישומים.</item>
+        <item quantity="many">מסתיר התראות מ- %1$s &amp; %2$d יישומים.</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">בהיר</item>

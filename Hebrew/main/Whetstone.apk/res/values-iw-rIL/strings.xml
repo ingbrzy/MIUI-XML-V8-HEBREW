@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="permstep_description">מאשרת ליישום לקרוא את נתוני מד הצעדים של הטלפון.</string>
-  <string name="permstep_label">קריאת נתוני מד הצעדים</string>
-</resources>
